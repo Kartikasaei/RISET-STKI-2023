@@ -6,7 +6,7 @@ def getDriver():
   option = webdriver.ChromeOptions()
   option.add_argument('--headless')
 
-  return webdriver.Chrome(service=Service('D:\KULIAH\RISET STKI 2023\Web Scrapping\Scraping by Subjects\driver\chromedriver.exe'), options=option)
+  return webdriver.Chrome(service=Service('D:\KULIAH\RISET STKI 2023\Scrapping by Subjects\driver\chromedriver.exe'), options=option)
 
 def parsePage(driver, page_link):
   driver.get(page_link)
