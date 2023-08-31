@@ -1,0 +1,98 @@
+[
+    {
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Rulia",
+            "lineage": null,
+            "family": "Rulia, Masturi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Edi",
+            "lineage": null,
+            "family": "Suyanto, Edi",
+            "honourific": null
+          },
+          "id": "doktor_edy@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Hilal, Iqbal",
+            "given": "Iqbal",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 1,
+      "date_type": "published",
+      "publisher": "Universitas Lampung",
+      "eprint_status": "archive",
+      "lastmod": "2018-04-26 02:03:18",
+      "title": "PEMANFAATAN MEDIA AUDIO VISUAL UNTUK MENINGKATKAN AKTIVITAS SISWA DAN KETERAMPILAN BERBICARA (BEBALAH)",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JTL\/article\/view\/12517"
+        }
+      ],
+      "datestamp": "2018-04-26 02:03:18",
+      "abstract": "This research was a classroom action research conducted in class VII Junior High School Islamiyah Bandar Lampung in academic year 2015-2016 which aimed to improve learning outcomes and speaking skills (bebalah). The results showed an increase in activity and skill (bebalah) students in class VII Junior High School Islamiyah Bandar Lampung in each cycle. The first cycle of student activity in the category of less then into the category of good in the second cycle. Bebalahan ability levels of students in the first cycle the average value of the acquisition of 53.3% in the category of less and skill levels of students increased to well with a mean value of 83.3% in the second cycle to be better. This proves that the used of audio-visual media such as video can increase the activity and speaking skills (bebalah) on a class VII Junior High School Islamiyah Bandar Lampung in lessons year 2015-2016.Kata kunci: media audiovisual, aktivitas hasil  belajar, keterampilan berbicara",
+      "volume": 1,
+      "divisions": [
+        "FKIP8"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6055",
+      "subjects": [
+        "F001"
+      ],
+      "eprintid": 6055,
+      "type": "article",
+      "date": 2017,
+      "full_text_status": "restricted",
+      "publication": "PEMANFAATAN MEDIA AUDIO VISUAL UNTUK MENINGKATKAN AKTIVITAS SISWA DAN KETERAMPILAN BERBICARA (BEBALAH)",
+      "userid": 849,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/60\/55",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JTL\/article\/view\/12517",
+      "rev_number": 8,
+      "status_changed": "2018-04-26 02:03:18",
+      "documents": [
+          {
+            "rev_number": 3,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18970",
+            "language": "id",
+            "eprintid": 6055,
+            "docid": 18970,
+            "security": "staffonly",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "objectid": 18970,
+                  "datasetid": "document",
+                  "filename": 12517,
+                  "mime_type": "application\/xml",
+                  "hash": "455a44c69668c87855c99a45bb9928eb",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-20 09:09:36",
+                  "filesize": 19165,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/55881",
+                  "fileid": 55881
+                }
+            ],
+            "placement": 1,
+            "main": 12517
+          }
+      ]
+    }
+]
+

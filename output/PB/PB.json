@@ -1,0 +1,331 @@
+[
+    {
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Bahasa Prancis UNILA",
+      "title": "Pengembangan Bahan Ajar Bahasa Perancis untuk Kemampuan Menyimak dengan Media Audio dalam Bidang Pariwisata",
+      "lastmod": "2022-01-25 09:57:52",
+      "date_type": "published",
+      "issn": "2721-7817",
+      "number": 2,
+      "creators": [
+        {
+          "id": "indah.nevira@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "INT",
+            "lineage": null,
+            "family": "Indah Nevira"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "L1",
+        "PB"
+      ],
+      "succeeds": 37720,
+      "eprintid": 38295,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38295",
+      "abstract": "Penelitian ini dilatarbelakangi oleh ketidaktersediaanya bahan ajar untuk menyimak yang dilengkapi oleh media audio dalam bidang pariwisata yang sesuai dengan kebutuhan peserta didik. Metode Research and Development (R&D) yang digunakan dalam penelitian ini bertujuan untuk mengembangkan bahan ajar, menguji kelayakannya, dan mendeskripsikan opini pengguna bahan ajar. Bahan ajar dengan media audio ini diujikan kepada maharesponden semester 7 yang mengikuti mata kuliah français du tourisme di STBA YAPARI-ABA Bandung. Dari hasil uji coba bahan ajar melalui tes dan angket, kami memperoleh kesimpulan : 1) skor rata-rata untuk hasil test adalah (8,33), (10,83), dan (11,83), terdapat peningkatan pada setiap test, hal ini dapat disimpulkan bahwa maharesponden mampu memahami materi dengan baik, 2) maharesponden memberikan komentar positif terhadap bahan ajar  dengan media audio, 3) kelebihan bahan ajar tersebut adalah mudah dipelajari sedangkan kekurangan terdapat pada media audio yang terkadang kurang jelas.  \r\n \r\nKata kunci : bahan ajar, media audio, FOS (bahasa Prancis Pariwisata)",
+      "datestamp": "2022-01-25 09:57:52",
+      "volume": 4,
+      "full_text_status": "public",
+      "publication": "PRANALA",
+      "userid": 3303,
+      "date": "2021-12-31",
+      "type": "article",
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159356",
+            "language": "en",
+            "eprintid": 38295,
+            "docid": 159356,
+            "pos": 1,
+            "rev_number": 3,
+            "main": "Indah Nevira Trisna, M.Pd..pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "formatdesc": "Artikel",
+            "files": [
+                {
+                  "hash": "e46ef173b95dcc071e6e74966b9f3ef8",
+                  "filename": "Indah Nevira Trisna, M.Pd..pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 159356,
+                  "fileid": 434415,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434415",
+                  "filesize": 500737,
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-06 12:47:14"
+                }
+            ],
+            "placement": 1
+          },
+          {
+            "main": "indah_Reviewer.pdf",
+            "placement": 2,
+            "files": [
+                {
+                  "hash": "3dcd2a43d41db8bd2de5e14e66dd9762",
+                  "objectid": 159357,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "indah_Reviewer.pdf",
+                  "filesize": 1515769,
+                  "fileid": 434417,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/434417",
+                  "mtime": "2022-01-25 03:30:51",
+                  "hash_type": "MD5"
+                }
+            ],
+            "formatdesc": "Reviewer",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 159357,
+            "eprintid": 38295,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159357",
+            "rev_number": 2,
+            "pos": 2
+          }
+      ],
+      "pagerange": "69-77",
+      "status_changed": "2022-01-25 09:57:52",
+      "dir": "disk0\/00\/03\/82\/95",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/PRANALA"
+    },
+    {
+      "userid": 2813,
+      "publication": "Prosiding Seminar Nasional Bahasa dan Sastra ke-4 Pembelajaran Bahasa Asing di Era Digital",
+      "full_text_status": "public",
+      "type": "article",
+      "date": 2019,
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 35323,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "ARTIKEL SETIA RINI-SEMNAS UNES.docx",
+                  "hash": "77825e1c01b7e05835b96b9a97d6408b",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-04 18:58:44",
+                  "filesize": 373160,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/202370",
+                  "fileid": 202370
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "main": "ARTIKEL SETIA RINI-SEMNAS UNES.docx",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 21905,
+            "language": "en",
+            "docid": 35323,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35323",
+            "format": "text"
+          }
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/19\/05",
+      "status_changed": "2020-06-04 20:57:19",
+      "issn": 9786026087751,
+      "date_type": "published",
+      "title": "BAHASA PRANCIS YANG MENYENANGKAN DENGAN APLIKASI KAHOOT",
+      "lastmod": "2020-06-04 20:57:19",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Bahasa dan Sastra Asing FBS UNNES",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "Rini",
+            "lineage": null,
+            "given": "Setia",
+            "honourific": null
+          },
+          "id": "setiarini99@yahoo.fr"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21905",
+      "eprintid": 21905,
+      "subjects": [
+        "L1",
+        "PB"
+      ],
+      "datestamp": "2020-06-04 20:57:19",
+      "abstract": "Education today is very significant, even in the era of Industrial Revolution 4.0. All learning activities are integrated with the internet. The process of the learning, the task even the evaluation is the exercises or the examination of the course is used the Internet. In addition, there was a lot of course online, teachers and students are not in the same place, but it is possible to do a course, it is thanks to the internet. In addition, to evaluate the students' understanding of the subject given by the teacher, we now use the Kahoot application. It is an online application for quizzes or exercises. This aplication is very effective to use in the class, especially for the complicated and boring course like grammar. We are therefore researching the use of the Kahoot application to evaluate the subject of French grammar for students. A good way to invite students to learn and understand grammar easily and fun."
+    },
+    {
+      "creators": [
+        {
+          "id": "setiarini99@yahoo.fr",
+          "name": {
+            "honourific": null,
+            "family": "Rini",
+            "lineage": null,
+            "given": "Setia"
+          }
+        },
+        {
+          "name": {
+            "given": "Nani",
+            "family": "Kusrini",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nani.kusrini7@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Pendidikan Bahasa dan Seni FKIP Universitas Lampung",
+      "lastmod": "2020-06-04 20:57:15",
+      "title": "Pengembangan Kamus Daring Bahasa Prancis-Indonesia Bidang Pariwisata Berbasis Blog Interaktif",
+      "date_type": "submitted",
+      "issn": "1411-20151",
+      "datestamp": "2020-06-04 20:57:15",
+      "abstract": "Revolusi Industri 4.0 telah memberikan dampak yang luar biasa di segala bidang baik dampak positif maupun negatif. Dunia pendidikan pun semakin bertransformasi ke arah yang lebih modern dan efektif, tidak terbatas oleh ruang dan waktu. Proses pembelajaran di semua jenjang didukung dengan berbagai macam media pembelajaran yang inovatif dan berbasis TIK. Pemanfaatan internet untuk segala keperluan pendidikan dan pengajaran semakin gencar digunakan. Era mileneal yang mana segala sesuatu terintegrasi oleh internet (internet of things) telah memaksa dan menstimulasi orang-orang untuk kreatif memanfaatkan internet dengan menghasilkan sebuah karya yang dapat digunakan dan diakses oleh banyak orang, seperti aplikasi, situs, web, dan lain-lain. Dengan demikian, berdasarkan hasil penelitian sebelumnya yang telah dilakukan oleh peneliti, maka peneliti mengembangkan kembali hasil penelitian tersebut menjadi lebih efektif, lebih modern dan tentu saja sesuai dengan eranya. Kamus daring bahasa Prancis-Indonesia bidang pariwisata yang telah dibuat pada tahun 2018, dikembangkan menjadi kamus daring bahasa Prancis-Indonesia bidang pariwisata berbasis blog interaktif. Pengembangan kamus ini diharapkan dapat lebih komunikatif untuk digunakan dengan konten yang lebih banyak dan variatif. Oleh karena itu, para pembelajar bahasa Prancis khususnya bidang pariwisata akan semakin terbantu dan terfasilitasi dengan adanya kamus digital tersebut.\r\nKata kunci : kamus daring, bahasa Prancis-Indonesia, bidang pariwisata",
+      "subjects": [
+        "L1",
+        "PB"
+      ],
+      "eprintid": 21904,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21904",
+      "type": "article",
+      "publication": "AKSARA",
+      "userid": 2813,
+      "full_text_status": "public",
+      "status_changed": "2020-06-04 20:57:15",
+      "dir": "disk0\/00\/02\/19\/04",
+      "ispublished": "inpress",
+      "rev_number": 7,
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35322",
+            "language": "en",
+            "eprintid": 21904,
+            "docid": 35322,
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "files": [
+                {
+                  "mtime": "2020-06-04 18:33:57",
+                  "hash_type": "MD5",
+                  "filesize": 449434,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/202363",
+                  "fileid": 202363,
+                  "datasetid": "document",
+                  "objectid": 35322,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "ARTIKEL SETIA RINI SEMNAS FKIP 2020.docx",
+                  "hash": "70a5df4dabf01eb7fa0e787e540d0677"
+                }
+            ],
+            "placement": 1,
+            "main": "ARTIKEL SETIA RINI SEMNAS FKIP 2020.docx"
+          }
+      ]
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30800",
+      "divisions": [
+        "FKIP1"
+      ],
+      "eprintid": 30800,
+      "subjects": [
+        "L1",
+        "LB",
+        "LC",
+        "PB"
+      ],
+      "volume": 21,
+      "datestamp": "2021-05-27 02:34:17",
+      "abstract": "The industrial revolution 4.0 has given many great impacts in all aspects, \r\neither positive or negative. In areas of education, there are many things \r\nthat have changed, it is more modern and efficient thanks to technology, \r\nthere is no limitation of time and place. The learning process at all levels \r\nhas already used various innovative learning media and digital media. In \r\naddition, the use of the Internet for learning and teaching purposes is \r\nused more from time to time. In this era, all things integrate with the \r\ninternet (internet of things), this condition then stimulates all people to \r\nbe more creative to take advantage of the internet in the way of producing \r\nor creating a creation. This can be used by many people like the \r\napplication, the site, the web, etc. Consequently, based on the previous \r\nresearch, we therefore make a development of our research result to be \r\nmore efficient, more modern and which is suitable with the condition of \r\nthe era. The French-Indonesian digital dictionary on tourism in 2018, we \r\nare developing it by adding more data and also applications for all users. \r\nWe therefore hope that this digital dictionary can help and be used by \r\nmany people who learn French, especially in the field of tourism.\r\nKeywords: online dictionary, French-Indonesian, tourism",
+      "issn": "P-ISSN: 1411-2051 \/ E-ISSN: 2620-3928",
+      "date_type": "published",
+      "lastmod": "2021-05-27 02:34:17",
+      "title": "Pengembangan kamus daring bahasa Prancis-Indonesia \r\nbidang pariwisata berbasis blog interaktif",
+      "publisher": "AKSARA: Jurnal Bahasa dan Sastra",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "number": 2,
+      "creators": [
+        {
+          "name": {
+            "given": "Rini",
+            "lineage": null,
+            "family": "Setia",
+            "honourific": null
+          },
+          "id": "setiarini99@yahoo.fr"
+        },
+        {
+          "id": "nani.kusrini7@gmail.com",
+          "name": {
+            "given": "Kusrini",
+            "family": "Nani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "id_number": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/aksara\/issue\/view\/1097",
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139005",
+            "docid": 139005,
+            "language": "en",
+            "eprintid": 30800,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "PUBLIKASI ARTIKEL AKSARA 2020.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "c69d1b960960deef79df573855469b65",
+                  "mime_type": "application\/pdf",
+                  "filename": "PUBLIKASI ARTIKEL AKSARA 2020.pdf",
+                  "datasetid": "document",
+                  "objectid": 139005,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/365334",
+                  "fileid": 365334,
+                  "filesize": 719683,
+                  "mtime": "2021-05-25 22:37:39",
+                  "hash_type": "MD5"
+                }
+            ]
+          }
+      ],
+      "rev_number": 9,
+      "dir": "disk0\/00\/03\/08\/00",
+      "ispublished": "pub",
+      "status_changed": "2021-05-27 02:34:17",
+      "pagerange": "115-132",
+      "userid": 2813,
+      "publication": "AKSARA: Jurnal Bahasa dan Sastra",
+      "full_text_status": "public",
+      "date": 2020,
+      "type": "article"
+    }
+]
+

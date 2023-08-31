@@ -1,0 +1,2165 @@
+[
+    {
+      "eprintid": 18288,
+      "subjects": [
+        "J1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18288",
+      "divisions": [
+        "FISIP4"
+      ],
+      "datestamp": "2020-02-28 05:11:21",
+      "abstract": "Hasil Penilaian Sejawat Sebidang Peer Review Karya Ilmiah: Jurnal Ilmiah Nasional",
+      "lastmod": "2020-02-28 05:11:21",
+      "title": "Javanese Cultural Socialization in Family and Ethnic Formation of JAvanese Adolescent Migran at Lampung Province",
+      "publisher": "Komunitas International Journal of Indonesia Society and Culture",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "nina.yudha@fisip.unila.ac.id",
+          "name": {
+            "given": "Nina Yudha",
+            "lineage": null,
+            "family": "Aryanti",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "main": "javanese.pdf",
+            "files": [
+                {
+                  "filesize": 504970,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153957",
+                  "fileid": 153957,
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-28 04:06:34",
+                  "hash": "e1daa638838cffab7fb3014049704c78",
+                  "objectid": 31442,
+                  "datasetid": "document",
+                  "filename": "javanese.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "eprintid": 18288,
+            "language": "en",
+            "docid": 31442,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31442",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "status_changed": "2020-02-28 05:11:21",
+      "rev_number": 7,
+      "dir": "disk0\/00\/01\/82\/88",
+      "ispublished": "pub",
+      "userid": 595,
+      "full_text_status": "public",
+      "type": "other",
+      "date": 2015
+    },
+    {
+      "creators": [
+        {
+          "id": "nina.yudha@fisip.unila.ac.id",
+          "name": {
+            "given": "Nina Yudha",
+            "family": "Aryanti",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "lastmod": "2020-07-09 05:43:49",
+      "title": "Javanese Cultural Socialization in Family and Ethnic Formation of JAvanese Adolescent Migran at Lampung Province",
+      "issn": "2460-7320",
+      "date_type": "published",
+      "abstract": "Javanese adolescent migrants interactions in family across generations at multicultural society in Lampung stimulates a\r\ndynamic atmosphere for adolescent ethnic identity formation. Through socialization, the adolescent acquires Javanese cultural\r\ninformation as a foundation to develop their ethnic identity. This research aims are to know, find and analyze the cultural\r\nsocialization aspects in family that support ethnic identity formation of Javanese adolescent migrants in Lampung. Throughout\r\nqualitative research, this research showed that socialization and ethnic identity formation in family is based on six themes: (1)\r\nfamily migration history; (2) adopted and referred family culture; (3) family identity development; (4) parenting style and\r\namount of time spend for interaction in family and parent’s type of job ; (5) language used within the family; and (6) situations\r\nthat support and obstruct of expression of ethnic identity",
+      "datestamp": "2020-07-09 05:43:49",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 23066,
+      "divisions": [
+        "FISIP4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23066",
+      "date": 2015,
+      "type": "article",
+      "contact_email": "nina.yudha@fisip.unila.ac.id",
+      "full_text_status": "public",
+      "publication": "Komunitas International Journal of Indonesia Society and Culture.",
+      "userid": 595,
+      "pagerange": "251-258",
+      "status_changed": "2020-07-09 05:43:49",
+      "dir": "disk0\/00\/02\/30\/66",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "documents": [
+          {
+            "main": "2015-artikel komunitas.pdf",
+            "files": [
+                {
+                  "objectid": 36620,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "2015-artikel komunitas.pdf",
+                  "hash": "2e322d9d13446a1474783a1e032e11dc",
+                  "hash_type": "MD5",
+                  "mtime": "2020-07-09 04:20:33",
+                  "filesize": 408186,
+                  "fileid": 211522,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/211522"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 23066,
+            "docid": 36620,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36620",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "nina.yudha@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Nina Yudha",
+            "family": "Aryanti",
+            "lineage": null
+          }
+        }
+      ],
+      "number": 1,
+      "date_type": "published",
+      "issn": "2303-2006",
+      "eprint_status": "archive",
+      "lastmod": "2020-07-08 03:56:19",
+      "title": "PENGEMBANGAN IDENTITAS\r\nREMAJA TRANSMIGRAN JAWA DI LAMPUNG\r\nMELALUI PERTEMANAN ANTAR BUDAYA DI SEKOLAH",
+      "abstract": "Pertemanan antarbudaya remaja di sekolah secara umum beperan untuk mendukung pengembangan identitas\r\ndiri, tetapi belum maksimal untuk mendukung pengembangan identitas etnik remaja. Penelitian ini dilakukan\r\nuntuk mengetahui dan menganalisa peranan pertemanan antarbudaya remaja dalam pengembangan identitas\r\ndiri dan identitas etnik. Melalui penelitian kualitatif diperoleh hasil bahwa (1) remaja memiliki dua konteks\r\nrelasi pertemanan antarbudaya dengan sepuluh tema interaksi yang berperan dalam pengembangan identitas\r\ndiri; (2) terkait pengembangan identitas etnik, remaja berada dalam tahapan unexamined identity, yang menempatkan identitas etnik bukan sebagi prioritas dalam pertemanan antarbudaya di sekolah.",
+      "datestamp": "2020-07-08 03:56:19",
+      "volume": 1,
+      "divisions": [
+        "FISIP4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23037",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 23037,
+      "type": "article",
+      "date": "2014-06",
+      "publication": "jurnal Kajian Komunikasi",
+      "userid": 595,
+      "full_text_status": "public",
+      "contact_email": "nina.yudha@fisip.unila.ac.id",
+      "dir": "disk0\/00\/02\/30\/37",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "pagerange": "1-104",
+      "status_changed": "2020-07-08 03:56:19",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 36596,
+            "eprintid": 23037,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36596",
+            "format": "text",
+            "placement": 1,
+            "files": [
+                {
+                  "filename": "2014-artikel JKK.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 36596,
+                  "datasetid": "document",
+                  "hash": "483d1bc4cbd2442b8d3e0ca10c615a1d",
+                  "mtime": "2020-07-08 02:55:29",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/211312",
+                  "fileid": 211312,
+                  "filesize": 4291735
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "2014-artikel JKK.pdf"
+          }
+      ]
+    },
+    {
+      "dir": "disk0\/00\/01\/82\/90",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2020-02-28 05:11:43",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 18290,
+            "docid": 31444,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31444",
+            "format": "text",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Pengembangan Identitas Remaja.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Pengembangan Identitas Remaja.pdf",
+                  "objectid": 31444,
+                  "datasetid": "document",
+                  "hash": "51ed459f3f7aaf02c432f9c7532c9451",
+                  "mtime": "2020-02-28 04:31:28",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153971",
+                  "fileid": 153971,
+                  "filesize": 487119
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "type": "other",
+      "date": 2014,
+      "full_text_status": "public",
+      "userid": 595,
+      "datestamp": "2020-02-28 05:11:43",
+      "abstract": "Hasil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah: Jurnal Ilmiah Nasional",
+      "divisions": [
+        "FISIP4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18290",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 18290,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "nina.yudha@fisip.unila.ac.id",
+          "name": {
+            "family": "Aryanti",
+            "lineage": null,
+            "given": "Nina Yudha",
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "publisher": "Jurnal Kajian Komunikasi",
+      "eprint_status": "archive",
+      "title": "Pengembangan Identitas Remaja Transmigran Jawa di Lampung Melalui Pertemanan Antar Budaya di Sekolah",
+      "lastmod": "2020-02-28 05:11:43"
+    },
+    {
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/82\/89",
+      "status_changed": "2020-02-28 05:11:36",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 565776,
+                  "fileid": 153964,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/153964",
+                  "mtime": "2020-02-28 04:24:11",
+                  "hash_type": "MD5",
+                  "hash": "cc98bcaae944e0dd8b5b20a599fafc23",
+                  "objectid": 31443,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Strategy of Ethnic.pdf"
+                }
+            ],
+            "main": "Strategy of Ethnic.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31443",
+            "format": "text",
+            "docid": 31443,
+            "eprintid": 18289,
+            "language": "en"
+          }
+      ],
+      "type": "other",
+      "date": 2017,
+      "userid": 595,
+      "full_text_status": "public",
+      "datestamp": "2020-02-28 05:11:36",
+      "abstract": "HAsil Penilaian Sejawat Sebidang atau Peer Review Karya Ilmiah: Jurnal Ilmiah Nasional",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18289",
+      "divisions": [
+        "FISIP4"
+      ],
+      "eprintid": 18289,
+      "subjects": [
+        "J1"
+      ],
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Aryanti",
+            "given": "Nina Yudha"
+          },
+          "id": "nina.yudha@fisip.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "title": "Strategy of Ethnic Identity Negotition of Javanese Migrants Adolescenet in Family Interaction",
+      "lastmod": "2020-02-28 05:11:36",
+      "publisher": "Komunitas International Journal of Indonesia Society and Culture",
+      "eprint_status": "archive"
+    },
+    {
+      "date_type": "published",
+      "publisher": "Lampung Post",
+      "eprint_status": "archive",
+      "title": "Caleg Mantan Terpidana diberi Tanda Khusus di Surat Suara (Lampung Post, 19 Sept 2018)",
+      "lastmod": "2018-10-26 10:10:25",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "given": "Robi",
+            "lineage": null,
+            "family": "Cahyadi",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/8823",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 8823,
+      "abstract": "Komisi Pemilihan Umum (KPU) diminta untuk memberikan tanda khusus di kertas suara kepada calon anggota legislatif (caleg) mantan terpidana dalam pemilihan umum (pemilu) 19 April 2019 mendatang.",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.lampost.co\/berita-pengamat-caleg-mantan-terpidana-harus-diberi-tanda-khusus-di-surat-suara.html"
+        }
+      ],
+      "datestamp": "2018-10-26 10:10:25",
+      "full_text_status": "public",
+      "publication": "Lampung Post",
+      "userid": 680,
+      "date": "2018-09-19",
+      "type": "article",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/85748",
+                  "fileid": 85748,
+                  "filesize": 467084,
+                  "mtime": "2018-09-22 14:30:07",
+                  "hash_type": "MD5",
+                  "hash": "91ce7678ceb5f986f702e40df29bdbac",
+                  "mime_type": "application\/pdf",
+                  "filename": "Pengamat_ Caleg Mantan Terpidana Harus Diberi Tanda Khusus di Surat Suara - Lampost.co.pdf",
+                  "objectid": 21901,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "main": "Pengamat_ Caleg Mantan Terpidana Harus Diberi Tanda Khusus di Surat Suara - Lampost.co.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/21901",
+            "language": "en",
+            "eprintid": 8823,
+            "docid": 21901
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/88\/23",
+      "rev_number": 6,
+      "official_url": "http:\/\/www.lampost.co\/berita-pengamat-caleg-mantan-terpidana-harus-diberi-tanda-khusus-di-surat-suara.html",
+      "status_changed": "2018-10-26 10:10:25",
+      "pagerange": "1-2"
+    },
+    {
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/regional.kompas.com\/read\/2017\/01\/18\/15274221\/menangkan.kotak.kosong?page=2"
+        }
+      ],
+      "datestamp": "2018-02-15 05:07:22",
+      "abstract": "Kehendak masyarakat\r\n\r\nKabupaten Tulang Bawang Barat, Lampung, pun hanya punya calon tunggal, Umar Ahmad-Fauzi Hasan. Parpol yang mengusung pasangan petahana itu mengklaim dukungan itu sesuai kehendak masyarakat. Tak hanya maju tanpa lawan, 10 parpol pemilik kursi di DPRD juga kompak mengusung pasangan tersebut.\r\n\r\nMenurut dosen Fakultas Ilmu Sosial dan Ilmu Politik Universitas Lampung, Robi Cahyadi, pilkada dengan calon tunggal muncul karena parpol tak memiliki kader potensial yang siap dan layak.",
+      "divisions": [
+        "FISIP6"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6392",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 6392,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Robi",
+            "family": "Cahyadi",
+            "lineage": null
+          },
+          "id": "robi_ck@yahoo.com"
+        }
+      ],
+      "date_type": "published",
+      "publisher": "Kompas",
+      "eprint_status": "archive",
+      "title": "Menangkan Kotak Kosong",
+      "lastmod": "2018-02-15 05:07:22",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/63\/92",
+      "official_url": "http:\/\/regional.kompas.com\/read\/2017\/01\/18\/15274221\/menangkan.kotak.kosong?page=2",
+      "rev_number": 7,
+      "status_changed": "2018-02-15 05:07:22",
+      "pagerange": "1-2",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19318",
+            "format": "image",
+            "docid": 19318,
+            "language": "en",
+            "eprintid": 6392,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Kotak kosong.png",
+            "mime_type": "image\/png",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-27 07:36:10",
+                  "filesize": 448669,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59318",
+                  "fileid": 59318,
+                  "objectid": 19318,
+                  "datasetid": "document",
+                  "mime_type": "image\/png",
+                  "filename": "Kotak kosong.png",
+                  "hash": "7aadd5883fc456aff962a82035f692ac"
+                }
+            ]
+          },
+          {
+            "pos": 2,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19319",
+            "format": "image",
+            "docid": 19319,
+            "language": "en",
+            "eprintid": 6392,
+            "mime_type": "image\/png",
+            "security": "public",
+            "placement": 2,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 19319,
+                  "mime_type": "image\/png",
+                  "filename": "Kotak kosong 2.png",
+                  "hash": "72f94b5b0776560b1aae24bbc279706e",
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-27 07:36:17",
+                  "filesize": 143125,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59320",
+                  "fileid": 59320
+                }
+            ],
+            "main": "Kotak kosong 2.png"
+          }
+      ],
+      "type": "article",
+      "date": "2017-01-18",
+      "full_text_status": "public",
+      "publication": "Kompas.com",
+      "userid": 680
+    },
+    {
+      "date": "2013-12",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "Reformasi Pelayanan Birokrasi",
+      "userid": 680,
+      "dir": "disk0\/00\/01\/58\/26",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2019-11-07 04:37:33",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 135849,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/135849",
+                  "filesize": 1371235,
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-06 15:56:06",
+                  "hash": "abf876a7a4c930dfb464a063eec1310a",
+                  "mime_type": "application\/pdf",
+                  "filename": "8. Peer Review JurNas Tidak Terakreditasi; Administratio.pdf",
+                  "objectid": 28926,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "main": "8. Peer Review JurNas Tidak Terakreditasi; Administratio.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28926",
+            "format": "text",
+            "eprintid": 15826,
+            "language": "en",
+            "docid": 28926
+          }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Cahyadi",
+            "lineage": null,
+            "given": "Robi",
+            "honourific": null
+          },
+          "id": "robi_ck@yahoo.com"
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "lastmod": "2019-11-07 04:37:33",
+      "title": "Peer Review Jurnal Administratio",
+      "abstract": "Penilaian rekan sejawat",
+      "datestamp": "2019-11-07 04:37:33",
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15826",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 15826
+    },
+    {
+      "status_changed": "2019-11-07 04:37:35",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/58\/27",
+      "official_url": "http:\/\/jurnal.unpad.ac.id\/wacanapolitik\/article\/view\/10545",
+      "rev_number": 7,
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28927",
+            "eprintid": 15827,
+            "language": "en",
+            "docid": 28927,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "9. Peer Review JurNas Tidak Terakreditasi, JWP.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2019-11-06 16:00:39",
+                  "hash_type": "MD5",
+                  "fileid": 135855,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/135855",
+                  "filesize": 1359163,
+                  "filename": "9. Peer Review JurNas Tidak Terakreditasi, JWP.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 28927,
+                  "datasetid": "document",
+                  "hash": "313b926e4634b435ed47a1733f333a7f"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "type": "article",
+      "date": 2016,
+      "userid": 680,
+      "publication": "KONFLIK INTERNAL PARTAI NASDEM DAN PEMILIHAN LEGISLATIF 2014",
+      "full_text_status": "public",
+      "datestamp": "2019-11-07 04:37:35",
+      "abstract": "Penilaian Rekan Sejawat",
+      "volume": 1,
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 15827,
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15827",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "family": "Cahyadi",
+            "lineage": null,
+            "given": "Robi",
+            "honourific": null
+          },
+          "id": "robi_ck@yahoo.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "publisher": "FISIP Padjadjaran University",
+      "eprint_status": "archive",
+      "lastmod": "2019-11-07 04:37:35",
+      "title": "Peer Review Jurnal Wacana Politik (JWP) Fisip Unpad",
+      "issn": "2502-9185",
+      "date_type": "published"
+    },
+    {
+      "documents": [
+          {
+            "docid": 19299,
+            "eprintid": 6375,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19299",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "Perempuan di Pilpres 2014.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Perempuan di Pilpres 2014.pdf",
+                  "datasetid": "document",
+                  "objectid": 19299,
+                  "hash": "b63357a0e2ae13050d3561c32359ede6",
+                  "mtime": "2018-01-26 14:23:13",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/59205",
+                  "fileid": 59205,
+                  "filesize": 134158
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/63\/75",
+      "official_url": "https:\/\/gagasanhukum.wordpress.com\/2012\/05\/31\/karikatur-perempuan-di-pilpres-2014\/",
+      "rev_number": 6,
+      "pagerange": "1-4",
+      "status_changed": "2018-01-29 04:11:34",
+      "userid": 680,
+      "publication": "Media Online Gagasan Hukum",
+      "full_text_status": "public",
+      "date": "2012-05-31",
+      "type": "article",
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6375",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 6375,
+      "abstract": "Pilkada di daerah-daerah dengan ciri khas masing-masing telah melahirkan pemimpin perempuan. Untuk level provinsi diwakili Ratu Atut Chosiyah yang menjabat gubernur Banten (2007—2012 dan 2012—2017). Untuk wali kota diwakili Suryatati A. Manan yang menjabat bupati Tanjungpinang (2008—2013).\r\n\r\nSelain itu, ada sejumlah perempuan yang sedang dan pernah menjabat kepala daerah, di antaranya Bupati Karanganyar Rina Iriani, Bupati Banyuwangi Ratna Ani, Bupati Bolaang Mongondow Marlina Moha, Bupati Tuban Heni Relawaty, Bupati Nganjuk Siti Nurhayati, Bupati Majalengka Tuty Hayatip, Bupati Kebumen yang kini menjabat wakil gubernur Jawa Tengah Rustriningsih, dan Bupati Minahasa Tenggara Telly Tjanggulung.",
+      "datestamp": "2018-01-29 04:11:34",
+      "date_type": "published",
+      "issn": "1979-9373",
+      "eprint_status": "archive",
+      "lastmod": "2018-01-29 04:11:34",
+      "title": "Perempuan di Pilpres 2014",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Cahyadi",
+            "given": "Robi",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "date": 2017,
+      "type": "other",
+      "userid": 813,
+      "full_text_status": "public",
+      "status_changed": "2022-09-05 10:00:24",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/47\/76",
+      "rev_number": 7,
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filename": "TATAKELOLA PEMERINTAHAN_JGCS_UMT_2017.pdf.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 166663,
+                  "datasetid": "document",
+                  "hash": "957dff0c0191d5bb07e055ea4124b362",
+                  "hash_type": "MD5",
+                  "mtime": "2022-09-05 07:24:28",
+                  "fileid": 483420,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/483420",
+                  "filesize": 202117
+                }
+            ],
+            "placement": 1,
+            "main": "TATAKELOLA PEMERINTAHAN_JGCS_UMT_2017.pdf.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166663",
+            "format": "text",
+            "language": "en",
+            "eprintid": 44776,
+            "docid": 166663
+          }
+      ],
+      "creators": [
+        {
+          "id": "hertanto.1960@fisip.unila.ac.id",
+          "name": {
+            "given": "Hertanto",
+            "family": "Hertanto",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "publisher": "Universitas Muhammadiyah Tangerang",
+      "eprint_status": "archive",
+      "lastmod": "2022-09-05 10:00:24",
+      "title": "Similirity : Tata Kelola Pemerintahan Daerah Otonom Baru pada Kabupaten Pesisir Barat, Provinsi Lampung",
+      "datestamp": "2022-09-05 10:00:24",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 44776,
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44776"
+    },
+    {
+      "datestamp": "2019-11-15 02:37:51",
+      "abstract": "Abstrak\r\nArtikel ini berupaya menganalisis proyeksi reformasi birokrasi di periode kedua kepemimpinan Jokowi, yang bertepatan dengan tahap terakhir grand design reformasi birokrasi untuk tahun 2020-2025. Momen ini merupakan kesempatan terakhir bagi Jokowi untuk menunjukan komitmennya atas tata kelola pemerintahan yang baik. Namun, ada hal yang tidak bisa dinafikan, pengalaman lima tahun terakhir kepemimpinan Jokowi masih meninggalkan banyak pekerjaan rumah yang perlu dibenahi. Kinerja birokrasi Indonesia masih sangat rendah. Desain penelitian dalam artikel ini menggunakan metode penelitian deskriptif dengan didukung pendekatan studi pustaka yang menelusuri data-data sekunder yang aktual sebagai bahan kajian. Hasil studi ini mengkaji dua aspek yang disinggung oleh Jokowi dalam pidato “Visi Indonesia”, yakni reformasi struktural dan reformasi pola pikir. Pembenahan struktural digunakan untuk menciptakan birokrasi yang cepat dan gesit dalam memberikan pelayanan publik. Serta reformasi pola pikir bisa dilakukan dengan mengadaptasi kapasitas pola pikir dalam dynamic governnace, yakni mendorong birokrat agar berpikir visioner (thinking ahead), thinking again, dan thinking across untuk membuka peluang melahirkan birokrasi yang produktif, inovatif dan juga kompetitif.\r\n\r\nKata Kunci: Birokrasi, Dynamic Governance, Reformasi Struktural, Pola Pikir",
+      "divisions": [
+        "FISIP2"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16502",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 16502,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Vina",
+            "lineage": null,
+            "family": "Karmilasari"
+          },
+          "id": "vina.karmilasari@fisip.unila.ac.id"
+        }
+      ],
+      "eprint_status": "archive",
+      "title": "Reformasi Birokrasi di Periode Kedua:\r\nMendorong Agenda Reformasi Struktural dan Pola Pikir\r\n\r\nBureaucratic Reform in the Second Period:\r\nPromoting Agenda for Structural Reform and Mindset",
+      "lastmod": "2019-11-15 02:37:51",
+      "dir": "disk0\/00\/01\/65\/02",
+      "ispublished": "inpress",
+      "rev_number": 9,
+      "status_changed": "2019-11-15 02:37:51",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 29585,
+                  "datasetid": "document",
+                  "filename": "SEFILA III.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "90bc1f12a8b6117b37464aed538a7b25",
+                  "mtime": "2019-11-15 01:09:28",
+                  "hash_type": "MD5",
+                  "filesize": 621395,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/140889",
+                  "fileid": 140889
+                }
+            ],
+            "placement": 1,
+            "main": "SEFILA III.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29585",
+            "format": "text",
+            "language": "en",
+            "eprintid": 16502,
+            "docid": 29585
+          }
+      ],
+      "type": "article",
+      "userid": 2756,
+      "publication": "Seminar Nasional Sefila III (Prosiding)",
+      "full_text_status": "public",
+      "contact_email": "vina.karmilasari@fisip.unila.ac.id"
+    },
+    {
+      "date": 2005,
+      "type": "book",
+      "userid": 357,
+      "full_text_status": "public",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/05\/01",
+      "status_changed": "2022-03-24 07:07:55",
+      "documents": [
+          {
+            "main": "AGAR DPRD TIDAK ANARKI.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/451454",
+                  "fileid": 451454,
+                  "filesize": 8453843,
+                  "mtime": "2022-03-24 04:39:01",
+                  "hash_type": "MD5",
+                  "hash": "595ea5bb13afdf9df28a4a93c3660283",
+                  "filename": "AGAR DPRD TIDAK ANARKI.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 161828,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 161828,
+            "language": "en",
+            "eprintid": 40501,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161828",
+            "format": "text",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "given": "Nanang Trenggono",
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2022-03-24 07:07:55",
+      "title": "Agar DPRD Tidak Anarki? Gunakan Kecerdasan! Analisis Kritis terhadap Keputusan DPRD Lampung No. 15 Tahun 2005",
+      "eprint_status": "archive",
+      "publisher": "Pusat Studi Informasi dan Stategi Pembangunan",
+      "datestamp": "2022-03-24 07:07:55",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40501",
+      "divisions": [
+        "FISIP4"
+      ],
+      "eprintid": 40501,
+      "subjects": [
+        "J1"
+      ]
+    },
+    {
+      "publisher": "Ganesja Baru",
+      "eprint_status": "archive",
+      "lastmod": "2022-03-08 07:21:36",
+      "title": "Penilain Rekan Sejawat :Disfungsi Lembaga Politik dan Lemahnya Kapasitas Partai Politik",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "given": "Nanang Trenggono",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39941",
+      "subjects": [
+        "H1",
+        "J1"
+      ],
+      "eprintid": 39941,
+      "datestamp": "2022-03-08 07:21:36",
+      "full_text_status": "public",
+      "userid": 357,
+      "type": "other",
+      "documents": [
+          {
+            "main": "Lampung 2001.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 161230,
+                  "mime_type": "application\/pdf",
+                  "filename": "Lampung 2001.pdf",
+                  "hash": "a2e30a2df4bf927f6159b455fa3c5661",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-08 04:59:55",
+                  "filesize": 602156,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447113",
+                  "fileid": 447113
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 161230,
+            "eprintid": 39941,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161230",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "dir": "disk0\/00\/03\/99\/41",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2022-03-08 07:21:36"
+    },
+    {
+      "date": 2018,
+      "type": "other",
+      "userid": 357,
+      "full_text_status": "public",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/99\/32",
+      "status_changed": "2022-03-08 07:21:22",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "language": "en",
+            "eprintid": 39932,
+            "docid": 161222,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161222",
+            "files": [
+                {
+                  "mtime": "2022-03-08 04:38:26",
+                  "hash_type": "MD5",
+                  "filesize": 685607,
+                  "fileid": 447061,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447061",
+                  "datasetid": "document",
+                  "objectid": 161222,
+                  "filename": "Budaya Organisasi.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "76189cc138de5b1cce1aba67cf758c8b"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Budaya Organisasi.pdf"
+          },
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2022-03-08 04:38:44",
+                  "hash_type": "MD5",
+                  "fileid": 447063,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447063",
+                  "filesize": 573934,
+                  "mime_type": "application\/pdf",
+                  "filename": "Dinamika Penyelenggara.pdf",
+                  "datasetid": "document",
+                  "objectid": 161223,
+                  "hash": "42901f608f6e7dbebc0d816014dbe714"
+                }
+            ],
+            "placement": 2,
+            "main": "Dinamika Penyelenggara.pdf",
+            "rev_number": 1,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161223",
+            "format": "text",
+            "eprintid": 39932,
+            "language": "en",
+            "docid": 161223
+          }
+      ],
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "nanang.trenggono@fisip.unila.ac.id",
+          "name": {
+            "given": "Nanang Trenggono",
+            "family": "Nanang Trenggono",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "title": "Penilairan Rekan Sejawat : Membangun Kampanye Yang Setara",
+      "lastmod": "2022-03-08 07:21:22",
+      "eprint_status": "archive",
+      "publisher": "Asnalitera Yogyakarta",
+      "datestamp": "2022-03-08 07:21:22",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39932",
+      "divisions": [
+        "FISIP4"
+      ],
+      "eprintid": 39932,
+      "subjects": [
+        "J1",
+        "JC"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "main": "Agar DPRD Tidak Anarki.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "5d1f14970c121dadfd408a9f8b7e702a",
+                  "datasetid": "document",
+                  "objectid": 161219,
+                  "filename": "Agar DPRD Tidak Anarki.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 591888,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447043",
+                  "fileid": 447043,
+                  "mtime": "2022-03-08 04:29:31",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 161219,
+            "language": "en",
+            "eprintid": 39929,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161219",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/99\/29",
+      "rev_number": 7,
+      "status_changed": "2022-03-08 07:21:15",
+      "full_text_status": "public",
+      "userid": 357,
+      "type": "other",
+      "date": 2005,
+      "divisions": [
+        "FISIP4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39929",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 39929,
+      "datestamp": "2022-03-08 07:21:15",
+      "publisher": "Pusat Studi Informasi dan Stategi Pembangunan",
+      "eprint_status": "archive",
+      "title": "Pinilaian Rekan Sejawat : Anarki dalam Gedung Dewan",
+      "lastmod": "2022-03-08 07:21:15",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Nanang Trenggono",
+            "lineage": null,
+            "family": "Nanang Trenggono",
+            "honourific": null
+          },
+          "id": "nanang.trenggono@fisip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "publication": "Jurnal Konstitusi",
+      "official_url": "http:\/\/ejournal.mahkamahkonstitusi.go.id\/index.php\/jk\/issue\/viewIssue\/8\/12",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/09\/74",
+      "status_changed": "2016-10-28 07:00:58",
+      "pagerange": "196-421",
+      "documents": [
+          {
+            "main": 12,
+            "files": [
+                {
+                  "hash": "a50c26858784fc1e43963ef08533b494",
+                  "objectid": 866,
+                  "datasetid": "document",
+                  "filename": 12,
+                  "mime_type": "text\/html",
+                  "filesize": 18862,
+                  "fileid": 6225,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/6225",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-28 01:44:54"
+                }
+            ],
+            "formatdesc": "Indonesian Democratic Ideals in the Legal Politics Supervision of the House of Representatives of the Government",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "text\/html",
+            "language": "en",
+            "eprintid": 974,
+            "docid": 866,
+            "content": "published",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/866",
+            "format": "text",
+            "rev_number": 3,
+            "pos": 1
+          }
+      ],
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "zulkarnainridlwan@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Ridlwan",
+            "lineage": null,
+            "given": "Zulkarnain"
+          }
+        }
+      ],
+      "referencetext": "http:\/\/ejournal.mahkamahkonstitusi.go.id\/index.php\/jk\/issue\/viewIssue\/8\/12",
+      "issn": "1829-7706",
+      "lastmod": "2016-10-28 07:00:58",
+      "volume": 12,
+      "datestamp": "2016-10-28 07:00:58",
+      "abstract": "Constitutional discourse can not be separated from the discussion on democracy building. The existence of the House of Representatives in Indonesia with its oversight function of government is one manifestation of democracy. With a historical approach juridical writings results of this study concluded that the statute law of political representative institutions is likely to continue to strengthen parliamentary oversight of government functions by providing additional instruments that can be used by the legislature as an institution and the individual members of the House to conduct oversight. The legal political tendencies are in accordance with the ideals of democracy in Indonesia who wanted representation of the people in the context of the embodiment of the people’s sovereignty in a representative body, but does not eliminate the critical power of the people to the ruler.\r\nKeywords: Oversight Function, Board of Representative, Indonesia’s Democracy.",
+      "divisions": [
+        "FH3"
+      ],
+      "eprintid": 974,
+      "type": "article",
+      "date": 2015,
+      "userid": 235,
+      "full_text_status": "public",
+      "contact_email": "jurnal@mahkamahkonstitusi.go.id",
+      "rev_number": 8,
+      "refereed": "TRUE",
+      "note": "http:\/\/ejournal.mahkamahkonstitusi.go.id\/index.php\/jk\/issue\/viewIssue\/8\/12",
+      "number": 2,
+      "date_type": "published",
+      "title": "Cita Demokrasi Indonesia dalam Politik Hukum Pengawasan Dewan Perwakilan Rakyat terhadap Pemerintah (Indonesian Democratic Ideals in the Legal Politics Supervision of the House of Representatives of the Government)",
+      "publisher": "Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi Republik Indonesia",
+      "eprint_status": "archive",
+      "keywords": "Fungsi Pengawasan, Dewan Perwakilan, Demokrasi Indonesia",
+      "related_url": [
+        {
+          "url": "http:\/\/ejournal.mahkamahkonstitusi.go.id\/index.php\/jk\/index",
+          "type": "pub"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/974",
+      "subjects": [
+        "J1",
+        "K1"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "lastmod": "2019-11-14 09:51:34",
+      "title": "Penegakan Hukum dan Keadilan: Perspektif Wewenang dan Tanggung Jawab Presiden terhadap Sistem Peradilan",
+      "creators": [
+        {
+          "id": "zulkarnain.ridlwan@fh.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ridlwan",
+            "given": "Zulkarnain"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "subjects": [
+        "J1",
+        "K1"
+      ],
+      "eprintid": 15942,
+      "divisions": [
+        "FH3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15942",
+      "datestamp": "2019-11-14 09:51:34",
+      "abstract": "Wewenang dan Tanggung Jawab Presiden tidak berada dalam sistem peradilan melainkan di luarnya. Hal ini untuk menjamin kemerdekaan kekuasaan kehakiman dari pengaruh cabang kekuasaan lain. Diantara rekomendasi yang perlu ditindaklanjuti adalah pentingnya menegaskan kedudukan kejaksaan sebagai cabang kekuasaan negara yang melaksanakan kedaulatan penuntutan terbebas dari pengaruh Presiden sebagai pemegang kekuasaan eksekutif. Selain itu perlu ada koreksi atas mekanisme seleksi hakim Mahkamah Konstitusi dalam panitia seleksi yang dibentuk bersama oleh Mahkamah Agung, Presiden, dan DPR untuk lebih mendukung terpilihnya hakim yang independen.",
+      "full_text_status": "public",
+      "publication": "Makalah FGD dengan Lembaga Pengkajian MPR RI",
+      "userid": 235,
+      "date": "2019-08-26",
+      "type": "article",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29032",
+            "format": "text",
+            "docid": 29032,
+            "eprintid": 15942,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Penegakan Hukum dan Keadilan Perspektif Wewenang dan Tanggung Jawab Presiden terhadap Sistem Peradilan.pdf",
+                  "objectid": 29032,
+                  "datasetid": "document",
+                  "hash": "fb9e377ace78755e0f6ab2c15a729556",
+                  "mtime": "2019-11-08 00:17:44",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/136668",
+                  "fileid": 136668,
+                  "filesize": 243277
+                }
+            ],
+            "main": "Penegakan Hukum dan Keadilan Perspektif Wewenang dan Tanggung Jawab Presiden terhadap Sistem Peradilan.pdf"
+          }
+      ],
+      "status_changed": "2019-11-14 09:51:34",
+      "dir": "disk0\/00\/01\/59\/42",
+      "ispublished": "unpub",
+      "rev_number": 8
+    },
+    {
+      "abstract": "In Indonesia, the most common forms of domestic violence experienced are physical, sexual, psychological and economic neglect. As a result, it can cause physical and psychological injuries. Therefore, it is important to pay attention to the victim's recovery in order to strengthen the victim to be more empowered, both physically and psychologically. This article aims to describe and analyze the recovery implementation for domestic violence victims in Indonesia using the literature review method. The recovery implementation of domestic violence victims is carried out by building communication between relevant stakeholders so that cooperation is established in providing services to victims of domestic violence in accordance with their respective duties and responsibilities. The participation of external parties such as NGOs or women's organizations can assist in providing protection and assistance so that victims can still benefit from the policy even though there are still limitations from the government. The benefits of counseling services can help victims to grow confidence in living life. Empowerment through training can provide provisions for a more independent life. Obstacles faced by the government include: limited budget for handling cases of violence, especially violence against women; the number of assistants and counselors in some areas is still lacking; many room of special service facilities are inadequate and the distribution of safe houses is not evenly distributed in each area.",
+      "datestamp": "2022-01-13 06:21:24",
+      "divisions": [
+        "FISIP2"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37847",
+      "subjects": [
+        "H1",
+        "J1"
+      ],
+      "eprintid": 37847,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suchmasasi",
+            "given": "Yudha",
+            "honourific": null
+          },
+          "id": "suchmasasi@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Bambang",
+            "family": "Utoyo",
+            "lineage": null
+          },
+          "id": "bambang6263@gmail.com"
+        },
+        {
+          "id": "ani_wardianto@yahoo.co.id",
+          "name": {
+            "family": "Puspawati",
+            "lineage": null,
+            "given": "Ani Agus",
+            "honourific": null
+          }
+        }
+      ],
+      "publisher": "Utan Kayu Publishing",
+      "eprint_status": "archive",
+      "title": "The Analysis of Recovery Implementation for Domestic Violence Victims",
+      "lastmod": "2022-01-13 06:21:24",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/78\/47",
+      "rev_number": 8,
+      "status_changed": "2022-01-13 06:21:24",
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 158783,
+                  "datasetid": "document",
+                  "filename": "IMG_20220113_0001 (2 files merged).pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "da0cbd01c983a1a88b4dc77f512abeb4",
+                  "mtime": "2022-01-13 03:32:57",
+                  "hash_type": "MD5",
+                  "filesize": 1419856,
+                  "fileid": 431001,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/431001"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "IMG_20220113_0001 (2 files merged).pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "language": "en",
+            "eprintid": 37847,
+            "docid": 158783,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158783"
+          }
+      ],
+      "type": "other",
+      "userid": 1147,
+      "full_text_status": "public"
+    },
+    {
+      "rev_number": 6,
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/05\/87",
+      "status_changed": "2023-04-17 00:46:37",
+      "documents": [
+          {
+            "main": "Menjaga Kedaulatan NKRI.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 190290,
+                  "datasetid": "document",
+                  "filename": "Menjaga Kedaulatan NKRI.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "0964637025c48e80b58fd8a18464c422",
+                  "mtime": "2023-04-16 11:22:11",
+                  "hash_type": "MD5",
+                  "filesize": 274465,
+                  "fileid": 545446,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545446"
+                }
+            ],
+            "placement": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190290",
+            "language": "en",
+            "eprintid": 50587,
+            "docid": 190290,
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "date": "2008-09-01",
+      "type": "article",
+      "publication": "Media Indonesia",
+      "full_text_status": "public",
+      "userid": 1187,
+      "datestamp": "2023-04-17 00:46:37",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50587",
+      "divisions": [
+        "FISIP8"
+      ],
+      "eprintid": 50587,
+      "subjects": [
+        "J1"
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Sulistyo",
+            "lineage": null,
+            "given": "Iwan",
+            "honourific": null
+          },
+          "id": "iwsulistyo@gmail.com"
+        }
+      ],
+      "date_type": "published",
+      "title": "Menjaga Kedaulatan NKRI",
+      "lastmod": "2023-04-17 00:46:37",
+      "eprint_status": "archive",
+      "publisher": "Media Indonesia"
+    },
+    {
+      "official_url": "https:\/\/talenta.usu.ac.id\/politeia\/article\/view\/8883",
+      "dir": "disk0_bak\/00\/04\/80\/23",
+      "ispublished": "pub",
+      "status_changed": "2023-01-26 01:38:31",
+      "pagerange": "27-47",
+      "id_number": "https:\/\/doi.org\/10.32734\/politeia.v15i1.8883",
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187188",
+            "docid": 187188,
+            "eprintid": 48023,
+            "language": "en",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "8883-Article Text-38931-3-10-20230124.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "objectid": 187188,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "8883-Article Text-38931-3-10-20230124.pdf",
+                  "hash": "cb86c391983883a5cd215819e198df0e",
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-25 12:19:29",
+                  "filesize": 320706,
+                  "fileid": 525170,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/525170"
+                }
+            ]
+          }
+      ],
+      "publication": "New Media, Incumbency and Malaysian Politics: The Defeat of the Barisan Nasional (BN) in GE14 (2018)",
+      "volume": 15,
+      "datestamp": "2023-01-26 01:38:31",
+      "abstract": "The Malaysian 14th General Election (GE14) has ended the political domination of Barisan Nasional (BN) of the last 61 years and resulted in a new discussion in Malaysian politics. The main purpose of this study is to explore the factors that caused BN to fail in the last election and to refine the incumbency theory posited by Hirano and Snyder Jr (2012) and Torcal (2014). We argue that various factors have contributed to the defeat of the BN government in the 14th GE, namely the 1MDB corruption scandal, the implementation of the progressive Good and Service Tax (GST), the rise of living costs, and the China-oriented foreign and economic policies, as well as the Mahathir factor. Our results also contribute to further developing incumbency theory. Instead of relying on traditional factor of incumbent defeat in election such as scandal and economic factors, the role of new media in spreading the news about the corruption scandal and the government’s economic underperformance have also contributed to a political shift in Malaysia.",
+      "divisions": [
+        "FISIP6"
+      ],
+      "eprintid": 48023,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Warganegara",
+            "given": "Arizka"
+          }
+        },
+        {
+          "id": "febrian@usm.my",
+          "name": {
+            "honourific": null,
+            "given": "Muhammad",
+            "family": "Febriansyah",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Lee",
+            "family": "Kuok Tiung",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "lee@ums.edu.my"
+        }
+      ],
+      "referencetext": "ANSOLABEHERE, S., HANSEN, J. M., HIRANO, S. & SNYDER JR, J. M. 2007. The incumbency advantage in US primary elections. Electoral Studies, 26, 660-668.\r\nASHWORTH, S. & BUENO DE MESQUITA, E. 2008. Electoral selection, strategic challenger entry, and the incumbency advantage. The Journal of Politics, 70, 1006-1025.\r\nAVIS, E., FERRAZ, C., FINAN, F. & VARJÃO, C. 2017. Money and politics: The effects of campaign spending limits on political competition and incumbency advantage. National Bureau of Economic Research.\r\nBRAMBOR, T. & CENEVIVA, R. Incumbency advantage in Brazilian mayoral elections.  APSA 2011 Annual Meeting Paper, 2011.\r\nCHANDRA, K. 2007. Why ethnic parties succeed: Patronage and ethnic head counts in India, Cambridge University Press.\r\nCHAPPELL JR, H. W. 1990. Economic performance, voting, and political support: A unified approach. The Review of Economics and Statistics, 313-320.\r\nDASSONNEVILLE, R. & HOOGHE, M. 2017. Economic indicators and electoral volatility: economic effects on electoral volatility in Western Europe, 1950–2013. Comparative European Politics, 15, 919-943.\r\nEGGERS, A. C. & FISHER, A. C. 2011. Electoral accountability and the UK parliamentary expenses scandal: Did voters punish corrupt MPs? Available at SSRN 1931868.\r\nFERNÁNDEZ-VÁZQUEZ, P., BARBERÁ, P. & RIVERO, G. 2016. Rooting out corruption or rooting for corruption? The heterogeneous electoral consequences of scandals. Political Science Research and Methods, 4, 379-397.\r\nHIRANO, S. & SNYDER JR, J. M. 2012. Primary elections and political accountability: What happens to incumbents in scandals? Quarterly Journal of Political Science forthcoming.\r\nKHENG, C. B. 2005. Ethnicity in the Making of Malaysia. In: GUNGGU, W. (ed.) Nation-Building: Five Southeast Asian Histories. Singapore: ISEAS. Singapore: Institute of Southeast Asian Studies.\r\nLEE, C. 2019. Economic Voting and the End of Dominant Party Rule in Malaysia.\r\nLIJPHART, A. 1969. Consociational Democracy. World Politics, 21, 207-225.\r\nLONG, N. C. The impact of incumbent scandals on senate elections, 1974-2008.  Western Political Science Association 2011 Annual Meeting Paper, 2011.\r\nLONG, N. C. 2019. The Impact of Incumbent Scandals on Senate Elections, 1972–2016. Social Sciences, 8, 114.\r\nMOHAMAD, M. 2008. Malaysia—democracy and the end of ethnic politics? Australian Journal of International Affairs, 62, 441-459.\r\nMONIRUZZAMAN, M. 2013. The 13th Malaysian general election: Uncertainties and expectations. Intellectual Discourse, 21, 55.\r\nNADZRI, M. M. 2019. The 14th General Election, the Fall of Barisan Nasional, and Political Development in Malaysia, 1957–2018. Journal of Current Southeast Asian Affairs, 37, 139-171.\r\nNOOR, M. N. M. 2020. Pilihan Raya dan Politik Malaysia Pasca PRU 2018: Persaingan, Dinamik dan Implikasi (Elections and Politics In Malaysia Post GE 2018: Contestations, Dynamics and Implications). Jebat: Malaysian Journal of History, Politics & Strategic Studies, 47.\r\nO'SHANNASSY, M. 2009. Beyond the Barisan Nasional?: a Gramscian perspective of the 2008 Malaysian general election. Contemporary Southeast Asia: A Journal of International and Strategic Affairs, 31, 88-109.\r\nOSTWALD, K., SCHULER, P. & CHONG, J. M. 2019. Triple Duel: The Impact of Coalition Fragmentation and Three-Corner Fights on the 2018 Malaysian Election. Journal of Current Southeast Asian Affairs, 37, 31-55.\r\nPRAINO, R., STOCKEMER, D. & MOSCARDELLI, V. G. 2013. The lingering effect of scandals in congressional elections: Incumbents, challengers, and voters. Social Science Quarterly, 94, 1045-1061.\r\nRAVISHANKAR, N. 2009. The cost of ruling: anti-incumbency in elections. Economic and Political Weekly, 92-98.\r\nRICO, G. 2012. The 2010 regional election in Catalonia: a multilevel account in an age of economic crisis. South European Society and Politics, 17, 217-238.\r\nSCHWINDT-BAYER, L. A. 2005. The incumbency disadvantage and women's election to legislative office. Electoral Studies, 24, 227-244.\r\nSULISTIYANTO, P. 2009. Incumbent, Populism and the Decline of Royal Power1. Deepening Democracy in Indonesia?: Direct Elections for Local Leaders (Pilkada), 190.\r\nTHE WORLD BANK. 2018. Country Profile: Malaysia [Online]. Available: https:\/\/data.worldbank.org\/country\/malaysia [Accessed 13th of June 2018].\r\nTORCAL, M. 2014. The incumbent electoral defeat in the 2011 Spanish national elections: The effect of the economic crisis in an ideological polarized party system. Journal of Elections, Public Opinion & Parties, 24, 203-221.\r\nTROUNSTINE, J. 2011. Evidence of a local incumbency advantage. Legislative Studies Quarterly, 36, 255-280.\r\nTROUNSTINE, J. 2013. Turnout and incumbency in local elections. Urban Affairs Review, 49, 167-189.\r\nWARGANEGARA, A., MAKHYA, S. & DRAJAT, D. K. 2019. Globalization, Democratization and Political Change in Malaysia (New Media And 2018 Elections). Journal of Governance, 4, 187-204.\r\nWEISS, M. L. 2013a. Malaysia’s 13th general elections: Same result, different outcome. Asian survey, 53, 1135-1158.\r\nWEISS, M. L. 2013b. Parsing the power of “New Media” in Malaysia. Journal of Contemporary Asia, 43, 591-612.\r\nWELSH, B. 2019. “Saviour” Politics and Malaysia’s 2018 Electoral Democratic Breakthrough: Rethinking Explanatory Narratives and Implications. Journal of Current Southeast Asian Affairs, 37, 85-108.\r\nYAAKOP, M. R. M. 2010. The British legacy on the development of politics in Malaya. International Journal for Historical Studies, 2, 41-60.",
+      "issn": "0216-9290",
+      "lastmod": "2023-01-26 01:38:31",
+      "rev_number": 9,
+      "type": "article",
+      "date": "2023-01-22",
+      "userid": 570,
+      "full_text_status": "public",
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "keywords": "New Media, Malaysian politics, GE14, Democracy, Government, Incumbency and Election",
+      "related_url": [
+        {
+          "url": "https:\/\/talenta.usu.ac.id\/politeia\/article\/view\/8883"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48023",
+      "subjects": [
+        "J1",
+        "JA",
+        "JC",
+        "JQ"
+      ],
+      "refereed": "TRUE",
+      "note": "xxxx",
+      "number": 1,
+      "date_type": "published",
+      "title": "New Media, Incumbency and Malaysian Politics: The Defeat of the Barisan Nasional (BN) in GE14 (2018)",
+      "publisher": "Department of Political Science, USU",
+      "eprint_status": "archive"
+    },
+    {
+      "note": "x",
+      "refereed": "TRUE",
+      "title": "Penilaian Rekan Sejawat Penyuluhan Meningkatkan Pengetahuan Kepala Desa dan BPD Tentang Manajemen Pengelolaan dan Pengawasan Keuangan Desa di Kecamatan Natar Kabupaten Lampung Selatan.",
+      "eprint_status": "archive",
+      "keywords": "x",
+      "subjects": [
+        "H1",
+        "J1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17828",
+      "date": 2013,
+      "type": "conference_item",
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "userid": 570,
+      "full_text_status": "public",
+      "rev_number": 9,
+      "pres_type": "paper",
+      "creators": [
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "given": "Arizka",
+            "family": "Warganegara",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hadiawan",
+            "given": "Agus"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dwijono",
+            "given": "amantoto"
+          }
+        },
+        {
+          "name": {
+            "family": "Purba",
+            "lineage": null,
+            "given": "Darmawan",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "referencetext": "x",
+      "metadata_visibility": "show",
+      "lastmod": "2020-02-07 01:33:19",
+      "event_dates": "10 Juli 2012",
+      "abstract": "The training took place in July 10, 2012 at district hall Natar, South Lampung regency. Participant came from 22 villages in the district of Natar. Village heads were 18 people in total, with deputy 4 people in total (sekdes or staff). While BPD was attended by the chairman or member of the BPD. The result and conclusions of this training activities are: (a). counseling given was to increase the knowledge and attitude of the head of village head and member of BPD on financial management, this training is given to resolve the conflict management and financial control of the head of village by using a dialogue of deliberation mechanism; (b). the level of knowledge achieved of the head of village and BPD financial management were provided and revealed in Permendagri 31\/2007; (c). the attitude of the village head and BPD to prioritize dialogue and deliberation in order to resolve the conflict management and financial control of the village approval rather than before the process of counseling.",
+      "datestamp": "2020-02-07 01:33:19",
+      "eprintid": 17828,
+      "event_title": "Penyuluhan Meningkatkan Pengetahuan Kepala Desa dan BPD Tentang Manajemen Pengelolaan dan Pengawasan Keuangan Desa di Kecamatan Natar Kabupaten Lampung Selatan.",
+      "divisions": [
+        "FISIP3"
+      ],
+      "corp_creators": [
+        "Jurusan Ilmu Pemerintahan"
+      ],
+      "contributors": [
+        {
+          "name": {
+            "family": "warganegara",
+            "lineage": null,
+            "given": "arizka",
+            "honourific": null
+          },
+          "id": "arizka.warganegara@fisip.unila.ac.id"
+        }
+      ],
+      "status_changed": "2020-02-07 01:33:19",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/78\/28",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 2,
+            "language": "en",
+            "eprintid": 17828,
+            "docid": 30949,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30949",
+            "files": [
+                {
+                  "mtime": "2020-01-31 01:53:55",
+                  "hash_type": "MD5",
+                  "filesize": 164440,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/150219",
+                  "fileid": 150219,
+                  "objectid": 30949,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Penyuluhan.pdf",
+                  "hash": "44ab0218f1b0e8b27aa60821fbd0d8ad"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Penyuluhan.pdf"
+          }
+      ],
+      "event_type": "conference",
+      "event_location": "lampung"
+    },
+    {
+      "event_dates": "Deseember 2012",
+      "lastmod": "2020-01-27 02:48:57",
+      "metadata_visibility": "show",
+      "referencetext": "Dwipayana, AAGN dan Sutoro (ed). 2003. Membangun Good Governance di Desa. IRE, Yogyakarta\r\n\r\nDrajat, Denden K dkk. 2006. Peran Pemerintah dan Masyarakat Desa dalam mengelola HKM (Studi di Pekon Tri Budi Syukur dan GUnung Terang Kabupaten Lampung Barat). Hasil Penelitian FISIP Unila\r\n\r\nPurwanto, Bambang. 2007. Ekonomi dan Demokrasi Desa dalam Perspektif Sejarah. PLOD UGM. Yogyakarta\r\n\r\nRahadrjo, Dawam. 2007. Ekonomi Desa dan Manajemen Pemerintahan Desa. Paska Sarjana PLOD UGM. Yogyakarta. Makalah. Workhshop \"Desentralisasi dan Good Governanve di Tingkat Desa\"\r\n\r\nSyafarudin. Memberdayakan Pemerintahan Desa. Lampung. 25 September 2010\r\n\r\nWasistiono, Sadu dan Tahir, Irwan. 2006. Prospek Pengembangan Desa. Penerbit Fokus Media. Jakarta\r\n\r\nYudhistira, Iqbal. 2011. Koordinasi Kepala Desa dan BPD dalam Penetapan APBDes (Studi di Desa Marga Kaya Kabupaten Pesawaran). JIP FISIP Unila",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Arizka",
+            "family": "Warganegara",
+            "lineage": null
+          },
+          "id": "arizka.warganegara@fisip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Agus",
+            "family": "Hadiawan",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Dwijono",
+            "lineage": null,
+            "given": "amantoto"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Purba",
+            "lineage": null,
+            "given": "Darmawan",
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP3"
+      ],
+      "event_title": "Prosiding Seminar Hasil Pengabdian Kepada Masyarakat Unila",
+      "eprintid": 17674,
+      "abstract": "The training took place in July 10, 2012 at district hall Natar, South Lampung regency. Participant came from 22 villages in the district of Natar. Village heads were 18 people in total, with deputy 4 people in total (sekdes or staff). While BPD was attended by the chairman or member of the BPD.\r\n\r\nThe result and conclusions of this training activities are: (a). counseling given was to increase the knowledge and attitude of the head of village head and member of BPD on financial management, this training is given to resolve the conflict management and financial control of the head of village by using a dialogue of deliberation mechanism; (b). the level of knowledge achieved of the head of village and BPD financial management were provided and revealed in Permendagri 31\/2007; (c). the attitude of the village head and BPD to prioritize dialogue and deliberation in order to resolve the conflict management and financial control of the village approval rather than before the process of counseling",
+      "datestamp": "2020-01-27 02:48:57",
+      "contributors": [
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "given": "Arizka",
+            "family": "Warganegara",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "corp_creators": [
+        "Jurusan Ilmu Pemerintahan FISIP UNILA",
+        "Jurusan Ilmu Pemerintahan FISIP UNILA",
+        "Jurusan Ilmu Pemerintahan FISIP UNILA"
+      ],
+      "event_location": "Universitas Lampung",
+      "event_type": "other",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "eprintid": 17674,
+            "language": "en",
+            "docid": 30795,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30795",
+            "files": [
+                {
+                  "mtime": "2020-01-22 07:49:41",
+                  "hash_type": "MD5",
+                  "filesize": 3815220,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/149171",
+                  "fileid": 149171,
+                  "objectid": 30795,
+                  "datasetid": "document",
+                  "filename": "Prosiding.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "944f1c288d224c304ebcb0501f9ac32d"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Prosiding.pdf"
+          }
+      ],
+      "dir": "disk0\/00\/01\/76\/74",
+      "ispublished": "pub",
+      "status_changed": "2020-01-27 02:48:57",
+      "pagerange": "17-29",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "title": "Penyuluhan Meningkatkan Pengetahuan Kepala Desa dan BPD Tentang Manajemen Pengelolaan dan Pengawasan Keuangan Desa di Kecamatan Natar Kabupaten Lampung Selatan",
+      "refereed": "TRUE",
+      "funders": [
+        "FISIP Unila"
+      ],
+      "note": "X",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17674",
+      "subjects": [
+        "H1",
+        "J1"
+      ],
+      "keywords": "X",
+      "full_text_status": "public",
+      "userid": 570,
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "type": "conference_item",
+      "date": "2013-12",
+      "pres_type": "paper",
+      "rev_number": 8
+    },
+    {
+      "publisher": "Taylor and Francis",
+      "eprint_status": "archive",
+      "title": "Similarity Environmental Hazards- Collaboration and disaster: critical responses after tsunami events in Indonesia",
+      "lastmod": "2023-04-04 00:56:07",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "family": "Warganegara",
+            "lineage": null,
+            "given": "Arizka",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Maxim G.M",
+            "lineage": null,
+            "family": "Samson",
+            "honourific": null
+          },
+          "id": "msamson6@depaul.edu"
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "G1",
+        "J1",
+        "JA"
+      ],
+      "eprintid": 49593,
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49593",
+      "datestamp": "2023-04-04 00:56:07",
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "userid": 570,
+      "full_text_status": "public",
+      "type": "other",
+      "documents": [
+          {
+            "main": "Similarity_Collaboration and disaster critical responses after tsunami events in Indonesia.pdf.pdf",
+            "files": [
+                {
+                  "objectid": 189226,
+                  "datasetid": "document",
+                  "filename": "Similarity_Collaboration and disaster critical responses after tsunami events in Indonesia.pdf.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "8a36bcd0fe2c35eae208613d55592e1a",
+                  "mtime": "2023-04-03 14:41:30",
+                  "hash_type": "MD5",
+                  "filesize": 2243242,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/537773",
+                  "fileid": 537773
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 49593,
+            "docid": 189226,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189226",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "status_changed": "2023-04-04 00:56:07",
+      "dir": "disk0_bak\/00\/04\/95\/93",
+      "ispublished": "pub",
+      "rev_number": 9
+    },
+    {
+      "documents": [
+          {
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34498",
+            "content": "submitted",
+            "docid": 34498,
+            "language": "en",
+            "eprintid": 21112,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "34-94-1-PB.pdf",
+                  "objectid": 34498,
+                  "datasetid": "document",
+                  "hash": "4a0120e5fbbe4d55a676dcc23894dac0",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-29 14:39:15",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/196831",
+                  "fileid": 196831,
+                  "filesize": 543505
+                }
+            ],
+            "main": "34-94-1-PB.pdf"
+          },
+          {
+            "docid": 34500,
+            "content": "published",
+            "eprintid": 21112,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34500",
+            "rev_number": 3,
+            "pos": 2,
+            "main": 31,
+            "placement": 2,
+            "files": [
+                {
+                  "filesize": 24395,
+                  "fileid": 196836,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/196836",
+                  "mtime": "2020-05-29 14:40:16",
+                  "hash_type": "MD5",
+                  "hash": "406be9d7ebe018029c0aea631f063322",
+                  "datasetid": "document",
+                  "objectid": 34500,
+                  "mime_type": "application\/xml",
+                  "filename": 31
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "public"
+          }
+      ],
+      "pagerange": "67-77",
+      "status_changed": "2020-05-29 19:11:11",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/11\/12",
+      "rev_number": 11,
+      "official_url": "http:\/\/wacanapublik.stisipoldharmawacana.ac.id\/index.php\/wacanapublik\/index",
+      "full_text_status": "public",
+      "publication": "Jurnal Wacana Publik",
+      "userid": 266,
+      "type": "article",
+      "date": "2019-12",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 21112,
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21112",
+      "datestamp": "2020-05-29 19:11:11",
+      "abstract": "Abstract\r\nDPRD has a monitoring function in the course of a program or regulation that have been set so that there\r\nis no irrelevence. The monitoring function is carried out on the regulations and implementing activities.\r\nDPRD as an external institution from the BPPRD has a monitoring function on the performance of the\r\nBPPRD, especially in the sector of land and building tax revenues. This study aims to determine the\r\nmonitoring function of the DPRD in BPPRD in Bandar Lampung City. This study uses a qualitative\r\nmethod with a descriptive approach. The informant determination technique in this study used purposive\r\nsampling as many as seven people, namely three members of the Bandar Lampung City DPRD, two\r\nBPPRD employees and two tax experts. The results of this study are: (1) The monitoring function of the\r\nDPRD in the BPPRD using the type of input, output and behavior supervision (2) The DPRD\r\nmonitoring of the BPPRD is carried out indirectly (3) The DPRD monitoring function on BPPRD on\r\nland and building tax through three processes namely set standard, evaluate and corrective actions. Based\r\non these results the DPRD has a weak monitoring function to the BPPRD because the monitoring carried\r\nout both input, output and behavior was not fully implemented, the form of monitoring carried out by the\r\nDPRD was indirect, in the DPRD monitoring process did not set the time for monitoring and corrective\r\nactions were not on target.\r\nKeywords: monitoring function, Regional People's Representative Assembly, lokal tax",
+      "volume": "VOL 13",
+      "publisher": "Stisipol Dharma Wacana Metro",
+      "eprint_status": "archive",
+      "lastmod": "2020-05-29 19:11:11",
+      "title": "PENGAWASAN DPRD PADA BADAN PENGELOLAAN PAJAK\r\nDAN DISTRIBUSI DAERAH KOTA BANDAR LAMPUNG",
+      "issn": "ISSN 1858-2400",
+      "date_type": "published",
+      "number": 2,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Irda",
+            "family": "Yustina",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Cahyadi",
+            "lineage": null,
+            "given": "Robi"
+          },
+          "id": "robi_ck@yahoo.com, robi.cahyadi@fisip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Indrajat",
+            "lineage": null,
+            "given": "Himawan",
+            "honourific": null
+          },
+          "id": "himawan.indrajat@fisip.unila.ac,id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE"
+    },
+    {
+      "publisher": "Padjadjaran University",
+      "eprint_status": "archive",
+      "lastmod": "2019-11-14 07:44:26",
+      "title": "Similarity Check Result Jurnal \" KONFLIK INTERNAL PARTAI NASDEM DAN PEMILIHAN LEGISLATIF 2014\"",
+      "date_type": "published",
+      "issn": "2502-9185",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "yunicha",
+            "lineage": null,
+            "family": "diana"
+          },
+          "id": null
+        },
+        {
+          "id": "robi_ck@yahoo.com",
+          "name": {
+            "family": "Cahyadi",
+            "lineage": null,
+            "given": "Robi",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "J1"
+      ],
+      "eprintid": 15871,
+      "divisions": [
+        "FISIP3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15871",
+      "abstract": "Similarity Check",
+      "datestamp": "2019-11-14 07:44:26",
+      "volume": 1,
+      "userid": 680,
+      "publication": "Jurnal Wacana Politik Universitas Padjadjaran",
+      "full_text_status": "public",
+      "type": "article",
+      "date": 2016,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 136187,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/136187",
+                  "filesize": 4218865,
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-07 05:37:27",
+                  "hash": "4cf271b6b790b00c7c692f04b317c05b",
+                  "mime_type": "application\/pdf",
+                  "filename": "9. JurNas Tidak Terakrditasi, JWP_2016, Cek Similarity 27.pdf",
+                  "objectid": 28962,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "9. JurNas Tidak Terakrditasi, JWP_2016, Cek Similarity 27.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28962",
+            "format": "text",
+            "docid": 28962,
+            "language": "en",
+            "eprintid": 15871
+          }
+      ],
+      "status_changed": "2019-11-14 07:44:26",
+      "dir": "disk0\/00\/01\/58\/71",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "official_url": "http:\/\/jurnal.unpad.ac.id\/wacanapolitik\/article\/view\/10545"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/18915",
+      "divisions": [
+        "FISIP4"
+      ],
+      "eprintid": 18915,
+      "subjects": [
+        "J1",
+        "L1",
+        "SD"
+      ],
+      "abstract": "Booklet ini ini disusun atas dasar hasil riset yang dibiayai oleh Direktorat Jenderal Penguatan Riset dan Pengembangan, Kemenristekdikti Tahun 2004 sampai 2006 serta dilandasai oleh hasil-hasil riset para tahun pertama dan tahun ke dua.  Booklet ini terbukti handal untuk digunakan sebagai Media Komunikasi Penyuluhan di wilayah resapan pada masyarakat yang sangat rendah kemampuan literasinya  yaitu sekitar 88 kata per menit: bandingkang unbtuk mahasiswa paling rensh sekitar 300-400 kata per menit(Nurhaida dkk, 2007).  Dapat diperbanyak untuk mengakomodasi keterbatasan tenga penyuluh diperdesaan.",
+      "datestamp": "2020-03-30 02:07:32",
+      "lastmod": "2020-03-30 02:07:32",
+      "title": "Melestarikam Wilayah Resapan dengan Menerapkan Wanatni Kopi",
+      "publisher": "LPM Unila",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "ida.nurhaida@fisip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Ida",
+            "lineage": null,
+            "family": "nurhaida"
+          }
+        },
+        {
+          "name": {
+            "given": "Sugeng Prayitno",
+            "lineage": null,
+            "family": "Harianto",
+            "honourific": null
+          },
+          "id": "sugeng.prayitno@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Junaidi",
+            "given": "Akmal",
+            "honourific": null
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "given": "Samsul",
+            "family": "Bakri",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "main": "WANATANI KOPI 2005 FIX.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2020-03-30 01:28:25",
+                  "hash_type": "MD5",
+                  "filesize": 3408382,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/158720",
+                  "fileid": 158720,
+                  "datasetid": "document",
+                  "objectid": 32152,
+                  "filename": "WANATANI KOPI 2005 FIX.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "96bcdcabd22e130ef7c07e2c674b148c"
+                }
+            ],
+            "placement": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32152",
+            "eprintid": 18915,
+            "language": "en",
+            "docid": 32152,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "rev_number": 10,
+      "official_url": "http:\/\/repository.unila.ac.id",
+      "place_of_pub": "Bandar Lampung",
+      "ispublished": "unpub",
+      "dir": "disk0\/00\/01\/89\/15",
+      "status_changed": "2020-03-30 02:07:32",
+      "userid": 774,
+      "full_text_status": "public",
+      "type": "other",
+      "date": 2005
+    }
+]
+

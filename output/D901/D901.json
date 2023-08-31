@@ -1,0 +1,71 @@
+[
+    {
+      "eprintid": 30123,
+      "subjects": [
+        "D1",
+        "D901"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30123",
+      "divisions": [
+        "FKIP24"
+      ],
+      "abstract": "Buku ajar ini merupakan sebuah tambahan bagi pemenuhan ilmu pengetahuan para mahasiswa universitas lampung fakultas keguruan dan ilmu pendidikan, jurusan IPS Khususnya Program Studi Pendidikan Sejarah tentunya. Dengan adanya buku ini diharapakan dapat menunjang aktifitas kuliah para mahasiswa calon guru sejarah",
+      "datestamp": "2021-05-10 06:25:30",
+      "title": "Buku Sejarah Eropa",
+      "lastmod": "2021-05-10 06:25:30",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "muhammad.basri@fkip.unila.ac.id",
+          "name": {
+            "given": "Muhammad Basri",
+            "lineage": null,
+            "family": "Muhammad Basri",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135268",
+            "eprintid": 30123,
+            "language": "en",
+            "docid": 135268,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "sertifikat_EC00201973797.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "96fcae93cc05f902240688e8ba43893a",
+                  "objectid": 135268,
+                  "datasetid": "document",
+                  "filename": "sertifikat_EC00201973797.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 768383,
+                  "fileid": 357066,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/357066",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-10 05:53:41"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "id_number": "EC00201973797",
+      "patent_applicant": "Menteri Hukum dan Hak Asasi Manusia Direktur Jendral Kekayaan Intelektual",
+      "status_changed": "2021-05-10 06:25:30",
+      "rev_number": 8,
+      "dir": "disk0\/00\/03\/01\/23",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "userid": 573,
+      "date": "2019-10-02",
+      "type": "patent"
+    }
+]
+

@@ -1,0 +1,2747 @@
+[
+    {
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Amirullah",
+            "lineage": null,
+            "given": "Affandi"
+          },
+          "id": null
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Eko",
+            "lineage": null,
+            "family": "Efendi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Mahrus",
+            "lineage": null,
+            "family": "Ali"
+          },
+          "id": null
+        }
+      ],
+      "number": 1,
+      "issn": "2301-816X",
+      "date_type": "published",
+      "title": "KONSENTRASI EFEKTIF (EC50-1JAM) EKSTRAK AKAR TUBA (DERRIS ELLIPTICA) SEBAGAI BAHAN ANESTESI BENIH IKAN MAS (CYPRINUS CARPIO)",
+      "lastmod": "2017-05-29 08:10:58",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "eprint_status": "archive",
+      "volume": 3,
+      "abstract": "Tuba (Derris elliptica) root was used traditionally as a poison to fish catching. This research looks for beneficial of tuba root extract as an anesthetic for the transport of fish seed. This research aims was to explore the value of effective concentration (EC50 - 1 hr) of tuba root extracts by ethanol and hexane, as well as determine the effect of the effective concentration value and the period of transportation time on the survival and growth of common carp seed. Probit analysis used to determine the effective concentration , whereas to determine the effect of differences of periods of transportation (2 , 4 and 6 hours) and the value of the effective concentration of each solvent on the survival and growth of the research design uses factorial analisis. The results of probit analysis for ethanol and hexane solvent are 6.166 and 3.72 ppm. Transportation showed the highest survival rate at treatment of transportation period 2 hour with values ​​reaching an average of 100%, while the highest growth occurres in hexane treatment on the period of transportation of 6 hours. This results also found that the period of transportation differences significantly affect the survival of common carp seeds but has no significant effect on the growth of common carp other results showed that the difference in the solvent not significantly affect the survival and growth of common carp seed.",
+      "datestamp": "2017-05-29 08:10:58",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1852",
+      "divisions": [
+        "FP21"
+      ],
+      "eprintid": 1852,
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "Jurnal ilmu perikanan dan sumberdaya budidaya perairan",
+      "userid": 274,
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/index",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/18\/52",
+      "status_changed": "2017-05-29 08:10:58",
+      "pagerange": "227-232",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "05fc919c082ec25e9fe68b9136cfee70",
+                  "objectid": 1703,
+                  "datasetid": "document",
+                  "filename": 458,
+                  "mime_type": "application\/xml",
+                  "filesize": 19517,
+                  "fileid": 12928,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12928",
+                  "mtime": "2017-05-29 07:06:54",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "public",
+            "main": 458,
+            "pos": 1,
+            "rev_number": 3,
+            "docid": 1703,
+            "eprintid": 1852,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1703",
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "rev_number": 10,
+      "dir": "disk0_bak\/00\/05\/20\/45",
+      "ispublished": "pub",
+      "status_changed": "2023-05-29 01:33:15",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/616667",
+                  "fileid": 616667,
+                  "filesize": 165407,
+                  "mtime": "2023-05-28 14:40:53",
+                  "hash_type": "MD5",
+                  "hash": "a16508fe9c14ecc5f92f9f3773d481d3",
+                  "mime_type": "application\/pdf",
+                  "filename": "7% Similarity_Mesaruring the Sustainability.pdf",
+                  "objectid": 251826,
+                  "datasetid": "document"
+                }
+            ],
+            "main": "7% Similarity_Mesaruring the Sustainability.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/251826",
+            "docid": 251826,
+            "eprintid": 52045,
+            "language": "en"
+          }
+      ],
+      "date": "2023-05",
+      "type": "other",
+      "userid": 753,
+      "full_text_status": "public",
+      "datestamp": "2023-05-29 01:33:15",
+      "abstract": "Paper entitel \"Measuring the Sustainability of Ecotourism...\"",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52045",
+      "divisions": [
+        "FP5"
+      ],
+      "eprintid": 52045,
+      "subjects": [
+        "G1",
+        "GC",
+        "SD"
+      ],
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Bakri",
+            "given": "Samsul",
+            "honourific": null
+          },
+          "id": "samsul.bakri@fp.unila.ac.id"
+        },
+        {
+          "id": "henrie.buchari@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Henrie",
+            "lineage": null,
+            "family": "Buchari"
+          }
+        },
+        {
+          "id": "endang.linirin@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Widiastuti",
+            "given": "Endang Linirin"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Parjito",
+            "lineage": null,
+            "given": "parjito",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sitorus",
+            "given": "Siti Herwati"
+          }
+        }
+      ],
+      "lastmod": "2023-05-29 01:33:15",
+      "title": "7% Similarity",
+      "eprint_status": "archive",
+      "publisher": "Horizon Research Publishing Company"
+    },
+    {
+      "publication": "Jurnal Rekayasa Teknologi dan Budidaya Perairan",
+      "userid": 274,
+      "full_text_status": "public",
+      "date": 2014,
+      "type": "article",
+      "documents": [
+          {
+            "main": 439,
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 19236,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12294",
+                  "fileid": 12294,
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 01:55:28",
+                  "hash": "87e77f2f7294a9581e17f1e37d710907",
+                  "datasetid": "document",
+                  "objectid": 1641,
+                  "mime_type": "application\/xml",
+                  "filename": 439
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "public",
+            "docid": 1641,
+            "content": "published",
+            "language": "en",
+            "eprintid": 1777,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1641",
+            "format": "text",
+            "rev_number": 3,
+            "pos": 1
+          }
+      ],
+      "dir": "disk0\/00\/00\/17\/77",
+      "ispublished": "pub",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/index",
+      "rev_number": 9,
+      "status_changed": "2017-05-29 05:41:31",
+      "pagerange": "297-302",
+      "date_type": "published",
+      "issn": "2302-3600",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "title": "EFEKTIFITAS SISTEM AKUAPONIK DALAM MEREDUKSI KONSENTRASI AMONIA PADA SISTEM BUDIDAYA IKAN",
+      "lastmod": "2017-05-29 05:41:31",
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Dauhan",
+            "given": "Riska Emilia Sartika",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Eko",
+            "family": "Efendi",
+            "lineage": null
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Suparmono",
+            "lineage": null,
+            "family": "Suparmono",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "number": 1,
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1777",
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "eprintid": 1777,
+      "related_url": [
+        {
+          "url": "https:\/\/scholar.google.co.id\/citations?user=HdDh-RQAAAAJ&hl=en",
+          "type": "author"
+        }
+      ],
+      "abstract": "Kualitas air memegang peranan penting dalam bidang perikanan terutama untuk kegiatan budidaya serta produktifitas hewan akuatik. Limbah yang dihasilkan dari proses budidaya memiliki dampak negatif bagi hewan akuatik. Amonia merupakan salah satu limbah yang berasal dari sisa metabolisme ikan yang terlarut dalam air berupa feses dan sisa makanan ikan yang tidak termakan dan mengendap di dasar kolam budidaya. Penelitian ini bertujuan untuk mengetahui efektifitas sistem akuaponik dalam mereduksi kadar amonia serta mengetahui jumlah kepadatan optimal tanaman pada sistem akuaponik dalam menyerap kadar amonia. Penelitian dilaksanakan selama 60 hari pada Juli-September 2013 bertempat di Laboratorium Budidaya Perikanan Universitas Lampung. Perlakuan penelitian menggunakan kangkung (Ipomoea aquatica) 10 batang, 20 batang, 30 batang per rumpun dan tidak menggunakan tanaman. Pengurangan amonia oleh tanaman air digunakan untuk pertumbuhan yang diserap melalui jaringan akar. Semakin banyak tanaman air makin efektif dalam mereduksi amonia. Penggunaan 30 batang per rumpun kangkung dapat mengurangi amonia hingga 58,57mg\/l",
+      "datestamp": "2017-05-29 05:41:31",
+      "volume": 3
+    },
+    {
+      "contact_email": "citradewirohana@yahoo.com",
+      "userid": 102,
+      "full_text_status": "public",
+      "type": "other",
+      "date": "2014-11-17",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32790",
+            "format": "text",
+            "language": "id",
+            "eprintid": 19548,
+            "docid": 32790,
+            "pos": 1,
+            "rev_number": 3,
+            "main": "2014 Laporan Penelitian DIPA FT Pemetaan Zona Tsunami Di BDL.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "formatdesc": "Analisis Pembuatan Peta Zona Rawan Bencana Tsunami Pada Daerah Pesisir (studi kasus pesisir kota Bandar Lampung)",
+            "files": [
+                {
+                  "mtime": "2020-05-09 14:06:56",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163313",
+                  "fileid": 163313,
+                  "filesize": 2375881,
+                  "mime_type": "application\/pdf",
+                  "filename": "2014 Laporan Penelitian DIPA FT Pemetaan Zona Tsunami Di BDL.pdf",
+                  "datasetid": "document",
+                  "objectid": 32790,
+                  "hash": "93590e72ba8f03c4635bfd8c940052e9"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "status_changed": "2020-05-11 03:01:02",
+      "dir": "disk0\/00\/01\/95\/48",
+      "ispublished": "unpub",
+      "rev_number": 13,
+      "eprint_status": "archive",
+      "publisher": "LPPM Universitas Lampung",
+      "lastmod": "2020-05-11 03:01:02",
+      "title": "Analisis Pembuatan Peta Zona Rawan Bencana Tsunami Pada Daerah Pesisir (studi kasus pesisir kota Bandar Lampung)",
+      "date_type": "completed",
+      "funders": [
+        "Hibah Berbasis DIPA Fakultas Teknik Universitas Lampung 2014"
+      ],
+      "referencetext": "Adityawan,  Bagus,  M.  2007.  Pomodelan  Pemodelan Aliran Permukaan 2D Pada Satu Lahan Akibat Rambatan Tsunami.  lnstitut  Teknologi Bandung, Bandung.\r\n\r\nAronoff, S., 1989, Geographic Information System: A Management Perspective, WDL Publication, Ottawa, Canada.\r\n  \r\nDiposapto, S, dan Budiman. 2006. Tsunami. Buku Ilmiah Populer, Jakarta.\r\n\r\nLillesand.M.T  dan  R.W.  Kieffer,  (1990),  Pengindraan  Jauh  dan Interpretasi Citra, Gadjah Mada University Press, Yogyakarta.\r\n\r\nMardiyanto,  B.,  Rochaddi,  B.,  dan  Helmi,  M.  2013.  Kajian  Kerentanan Tsunami  Menggunakan  Metode  Sistem  Informasi  Geografi  di Kabupaten  Bantul, Daerah  lstimewa  Yogyakarta. Journl Of Marine Research.  Volume 2,  Nomor 1, Halaman 103-111.\r\n\r\nSengaji, Ernawnti  2009  Pemetaan Tingkat Resiko Tsunami di Kabupaten Sikka. Nusa  Tenggara Timur. lnstitut Pertanian  Bogor, Bogor.\r\n\r\nUndang-Undang Republik Indonesia Nomor 24 Tahun 2007 Tentang Penanggulangan Bencana.\r\n\r\nYudichara  dan  Budiono,  K.  2008.Tsunamigenik  di  Selat  Sunda:  Kajian terhadap  katalog  Tsunami . Jurnal Geologi Indonesia. Volume 3,  Nomor 4, Halaman 241-251.\r\n\r\nZakaria  ,  Ahmad  dan  Susllowati,  Kartini.  2012. Simulasi  Waktu Perambatan  Dan  Tinggi  Gelombang Tsunami  Akibal  Meletusnya Gunung  Anak  Krakatau.  Seminar Nasional Peranan Infrastruktur Dalam Pengembangan Wilayah. Magister  Teknik  Sipil  UNILA, Bandar Lampung.\r\n\r\nhttp:\/\/www.iniGIS.com\/ (akses 16 September 2013}",
+      "creators": [
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "given": "Citra",
+            "family": "Dewi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Armijon",
+            "given": "Armijon",
+            "honourific": null
+          },
+          "id": "armijon@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yohannes",
+            "lineage": null,
+            "family": "Yohannes",
+            "honourific": null
+          },
+          "id": "yohannessp@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "GA",
+        "GC",
+        "T1"
+      ],
+      "eprintid": 19548,
+      "divisions": [
+        "FT13"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19548",
+      "abstract": "Berdasarkan  Undang-undang  No.  24  tahun  2007  tentang  penanggulangan  bencana dikatakan  bahwa  Bencana  alam  adalah  bencana  yang  diakibatkan  oleh  peristiwa  atau serangkaian  peristiwa  yang  disebabkan  oleh  alam  antara  lain  berupa  gempa  bumi, tsunami,  gunung  meletus,  banjir,  kekeringan,  angin  topan,  dan  tanah  longsor.  Pada penelitian ini akan dilakukan analisis pembuatan peta zona rawan tsunami pada daerah pesisir  yang  bertujuan  untuk  memberikan  arahan  penanggulangan  terjadinya  bencan tsunami. Penelitian ini menggunakan data dasar peta citra yang kemudian menghasilkan lokasi mana saja yang termasuk dalam zona rawan tsunami serta jalur evakuasi sehingga dapat  digunakan  sebagai  bentuk  peringatan  dini  untuk  menghindari  besarnya  korban jiwa. Dari peta zonasi rawan bencana tsunami di pesisir kota Bandar Lampung terlihat pada  tinggi  gelombang  tsunami  mencapai  5m  daerah  yang  terkena  dampaknya  adalah daerah yang terletak sekitaran  154m  dari garis  pantai,  pada  tinggi  gelombang  tsunami mencapai  15m  daerah  yang  terkena  dampaknya  adalah  daerah  yang  terletak  sekitaran 488m  dari  garis  pantai,  pada  tinggi  gelombang  tsunami  mencapai  25m  daerah  yang terkena dampaknya adalah daerah yang terletak sekitaran 843m dari garis pantai, pada tinggi gelombang tsunami mencapai 40m daerah yang terkena dampaknya adalah daerah yang terletak sekitaran 955m dari garis pantai.",
+      "datestamp": "2020-05-11 03:01:02",
+      "keywords": "Gunung Anak Krakatau, Pesisir Lampung, Tinggi Gelombang Tsunami, Peta Rendaman Tsunami"
+    },
+    {
+      "status_changed": "2023-05-11 10:30:47",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/14\/42",
+      "documents": [
+          {
+            "main": "Geografi Pesisir dan Kelautan .pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mtime": "2023-05-11 10:06:50",
+                  "hash_type": "MD5",
+                  "fileid": 609468,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/609468",
+                  "filesize": 2393465,
+                  "filename": "Geografi Pesisir dan Kelautan .pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 248625,
+                  "hash": "2bd4410f5bb85d36d0195e2fad37e585"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248625",
+            "format": "text",
+            "docid": 248625,
+            "language": "en",
+            "eprintid": 51442,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "type": "book",
+      "userid": 264,
+      "full_text_status": "public",
+      "abstract": "Buku ini Membahas tentang pengantar geografi pesisir dan kelautan, batasan dan pengelolaan wilayah pesisir dan kelautan, kebijakan pengelolaan wilayah pesisir dan keluatan, kekayaan sumber daya pesisir dan keluatan, serta membahas tentang isu dan masalah pengelolaan wilayah pesisir dan keluatan",
+      "datestamp": "2023-05-11 10:30:47",
+      "eprintid": 51442,
+      "subjects": [
+        "GC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51442",
+      "divisions": [
+        "FKIP18"
+      ],
+      "creators": [
+        {
+          "id": "edy.haryono@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "EH",
+            "lineage": null,
+            "family": "Edy Haryono"
+          }
+        },
+        {
+          "name": {
+            "family": "Irma Lusi",
+            "lineage": null,
+            "given": "Nugraheni",
+            "honourific": null
+          },
+          "id": "irmalusi.nugraheni@fkip.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2023-05-11 10:30:47",
+      "title": "Geografi Pesisir dan Kelautan",
+      "eprint_status": "archive",
+      "publisher": "Graha Ilmu"
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1772",
+      "divisions": [
+        "FP21"
+      ],
+      "eprintid": 1772,
+      "subjects": [
+        "GC"
+      ],
+      "volume": 9,
+      "abstract": "Hydrodynamic model is very important for simulate global oceanic circulation. Hydrodynamic model can be used to predict the distribution pattern of waste, sedimentation, etc. The aim of this research is to study the pattern circulation of current in the Lampung Bay, using a numerical model. A hydrodynamic model (Estuarine Lake Coastal Model (ELCOM) is applied to simulate the pattern of circulation. The results show that the pattern of currents in the bay head area tend swirling around the head of the bay, while for the area at the mouth of the bay flow patterns are influenced by tides.",
+      "datestamp": "2017-05-29 05:39:48",
+      "issn": "1829-8133",
+      "date_type": "published",
+      "title": "2_Simulasi numerik model hidrodinamika 3 dimensi di perairan teluk lampung",
+      "lastmod": "2017-05-29 05:40:11",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Matematika FMIPA Universitas Tadulako",
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "number": 2,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Eko"
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 1491593,
+                  "fileid": 12257,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12257",
+                  "mtime": "2017-05-29 01:21:28",
+                  "hash_type": "MD5",
+                  "hash": "5c776a666da1abd1d6a24064e00b214c",
+                  "datasetid": "document",
+                  "objectid": 1636,
+                  "filename": "2_Simulasi numerik model hidrodinamika 3 dimensi di perairan teluk lampung.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "2_Simulasi numerik model hidrodinamika 3 dimensi di perairan teluk lampung.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 1636,
+            "language": "en",
+            "eprintid": 1772,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1636",
+            "format": "text"
+          }
+      ],
+      "rev_number": 8,
+      "dir": "disk0\/00\/00\/17\/72",
+      "ispublished": "pub",
+      "pagerange": "9-17",
+      "status_changed": "2017-05-29 05:40:11",
+      "publication": "Jurnal Ilmiah Matematika dan Terapan",
+      "full_text_status": "public",
+      "userid": 274,
+      "type": "article",
+      "date": "2011-11"
+    },
+    {
+      "issn": "2301-816X",
+      "date_type": "published",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "eprint_status": "archive",
+      "title": "AKUMULASI LOGAM CU, CD DAN PB PADA MEIOFAUNA INTERTITIAL DAN EPIFIT DI EKOSISTEM LAMUN MONOTIPIC (ENHALUS ACOROIDES)",
+      "lastmod": "2017-05-29 08:14:34",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Eko",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 2,
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1856",
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "eprintid": 1856,
+      "datestamp": "2017-05-29 08:14:34",
+      "abstract": "Enhalus acoroides is water plant intertidal that might be interaction between ecosystem eachother so it have ability to adsorb heavy metal that came from sea water and sediment that can accumulated in roots, leaf and bar ponder. Variation methods used to know distribution of meiofauna as intertitial fauna or epiphytic fauna on seagrass. The concentration of heavy metal of water, sediment and meiofana will be analyzed. The purpose of this research to determined correlation between concentration in seagrass, sediment, water and organism which associated whitin. The result of this research shown that  concentration of heavy metal Cu, Cd and Pb have a significant correlation between water, sediment, part of seagrass and meiofauna. The value of R2 shown that correlation between water and sediment have bigest value, otherwise the  R2 value of heavy metal shown that Pb is the biggest than Cd and Cu. Concentration heavy metal in seagrass shown that Cu>Cd>Pb and the same condition is also due in meiofauna. Its mean that the heavy metal is bioavailble for accumulation by meiofauna. Meifauna and segrass can be a good bioindicator for environmenta change especially heavy metal.",
+      "volume": 3,
+      "publication": "Jurnal ilmu perikanan dan sumberdaya budidaya perairan",
+      "userid": 274,
+      "full_text_status": "public",
+      "date": "2015-02",
+      "type": "article",
+      "documents": [
+          {
+            "main": 724,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "mtime": "2017-05-29 07:12:59",
+                  "hash_type": "MD5",
+                  "filesize": 18774,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12950",
+                  "fileid": 12950,
+                  "objectid": 1707,
+                  "datasetid": "document",
+                  "mime_type": "application\/xml",
+                  "filename": 724,
+                  "hash": "8cb2d4b8a4367ad0306b4c4d0e7042d8"
+                }
+            ],
+            "placement": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1707",
+            "eprintid": 1856,
+            "language": "en",
+            "docid": 1707,
+            "rev_number": 3,
+            "pos": 1
+          }
+      ],
+      "dir": "disk0\/00\/00\/18\/56",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "pagerange": "279-288",
+      "status_changed": "2017-05-29 08:14:34"
+    },
+    {
+      "date_type": "published",
+      "event_dates": "29-30 November 2011",
+      "eprint_status": "archive",
+      "lastmod": "2017-05-29 05:40:31",
+      "title": "PEMODELAN PERAN ZOOPLANKTON DALAM SIKLUS NITROGEN \r\nDI TELUK LAMPUNG",
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Eko",
+            "lineage": null,
+            "family": "Efendi",
+            "honourific": null
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1773",
+      "event_title": "Seminar Nasional Sains & Teknologi – IV",
+      "subjects": [
+        "GC"
+      ],
+      "eprintid": 1773,
+      "datestamp": "2017-05-29 05:40:31",
+      "abstract": "The aim of this research is to quantify the role of zooplankton in nitrogen cycle in the Lampung Bay, using field data and a numerical model.A coupled hydrodynamic and ecological model (Estuarine Lake Coastal Model (ELCOM)– Computational Aquatic Ecosystem Dynamics Model (CAEDYM)) is applied to simulate the seasonal nutrient dynamic using an extensive field data set as initial \r\ncondition. Two phytoplankton groups consist of dinoflagellate group and diatome  group, and one zooplankton group (copepode group) is used to representative collectivelly another group of plankton. Parameterization of the model was conducted based onliterature studies. The results predict that excretion of dissolved organic nutrients by zooplankton that assumed as regenerate nutrient accounts for 7.1 - 30.53% of phytoplankton uptake of nitrogen.",
+      "userid": 274,
+      "full_text_status": "public",
+      "date": "2011-11",
+      "type": "conference_item",
+      "event_location": "Bandar Lampung",
+      "pres_type": "paper",
+      "event_type": "conference",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1637",
+            "format": "text",
+            "docid": 1637,
+            "eprintid": 1773,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mtime": "2017-05-29 01:28:35",
+                  "hash_type": "MD5",
+                  "filesize": 3342887,
+                  "fileid": 12264,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12264",
+                  "datasetid": "document",
+                  "objectid": 1637,
+                  "mime_type": "application\/pdf",
+                  "filename": "3_Pemodelan peran zooplankton dalam siklus nitrogen di teluk lampung.pdf",
+                  "hash": "81591defbb0ec8f7976736b9540578aa"
+                }
+            ],
+            "main": "3_Pemodelan peran zooplankton dalam siklus nitrogen di teluk lampung.pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/17\/73",
+      "rev_number": 7,
+      "status_changed": "2017-05-29 05:40:31",
+      "pagerange": "397-410"
+    },
+    {
+      "documents": [
+          {
+            "main": 213,
+            "files": [
+                {
+                  "filename": 213,
+                  "mime_type": "application\/xml",
+                  "datasetid": "document",
+                  "objectid": 1701,
+                  "hash": "1209aee9b897cbc213f68d30740933e3",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 06:59:23",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12914",
+                  "fileid": 12914,
+                  "filesize": 20115
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "eprintid": 1848,
+            "language": "en",
+            "docid": 1701,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1701",
+            "format": "text",
+            "rev_number": 3,
+            "pos": 1
+          }
+      ],
+      "pagerange": "107-112",
+      "status_changed": "2017-05-29 08:07:49",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/18\/48",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/index",
+      "rev_number": 8,
+      "full_text_status": "public",
+      "publication": "Jurnal ilmu perikanan dan sumberdaya budidaya perairan",
+      "userid": 274,
+      "type": "article",
+      "date": "2013-02",
+      "subjects": [
+        "GC"
+      ],
+      "eprintid": 1848,
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1848",
+      "datestamp": "2017-05-29 08:07:49",
+      "abstract": "Perairan Asia Tenggara dan sekitarnya memiliki variabilitas laut-atmosfer yang besar akibat dari fluktuasi parameter oseanografi yang berasal dari perairan Samudera Pasifik dan Samudera Hindia pada arah zonal dan pada arah meridional berasal dari Laut Cina Selatan, perairan utara dan selatan Jawa dan perairan barat Australia. Fenomena yang dominan mempengaruhi variabilitas laut-atmosfer di wilayah Asia Tenggara dan sekitarnya adalah Muson, Dipole Mode (DM) dan El Nino Southern Oscillation (ENSO) dengan siklus waktu dari musiman sampai antar tahunan. Penelitian sebelumnya yang dilakukan lebih banyak mengkaji Muson, DM dan ENSO secara individu dari fenomenanya itu sendiri, tidak secara komprehensif mengarah kepada kemungkinan adanya interaksi satu sama lain. Tujuan dari penelitian ini adalah mengkaji variabilitas lautatmosfer dan proses dinamika interaksi antara Muson, DM dan ENSO secara simultan terhadap curah hujan di Propinsi Lampung. Analisis data yang digunakan pada penelitian ini dengan pendekatan metode yang dapat mendekomposisi sinyal tersebut baik pada skala ruang maupun waktu dari hasil interaksi antara Muson, DM dan ENSO. Analisis yang digunakan meliputi transformasi wavelet kontinyu dan korelasi silang transformasi wavelet. Dari analisis transformasi wavelet kontinu, koherensi maupun transformasi silang diperoleh kesimpulan bahwa pola curah hujan di wilayah lampung sangat dipengaruhi oleh pengaruh musiman atau adanya pengaruh WNPMI dibandingkan dengan pengaruh DMI dan SOI, akan tetapi arah fase yang berlawanan menunjukkan adanya pola pergantian pengaruh yang terjadi. DMI berpengaruh pada periode 6 bulanan, sedangakan SOI berpengaruh pada fase 12 bulanan",
+      "volume": 2,
+      "eprint_status": "archive",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "lastmod": "2017-05-29 08:07:49",
+      "title": "KORELASI ASIAN MONSOON, EL NINO SOUTH OSCILATION DAN INDIAN OCEAN DIPOLE TERHADAP VARIABILITAS CURAH HUJAN DI PROPINSI LAMPUNG",
+      "date_type": "published",
+      "issn": "2301-816X",
+      "creators": [
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "family": "Efendi",
+            "lineage": null,
+            "given": "Eko",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Andri",
+            "family": "Purwandani",
+            "lineage": null
+          }
+        }
+      ],
+      "number": 1,
+      "refereed": "FALSE",
+      "metadata_visibility": "show"
+    },
+    {
+      "eprint_status": "archive",
+      "publisher": "University of Lampung",
+      "title": "Kajian Daerah Rendaman Tsunami di Pesisir Teluk Lampung Akibat Perubahan Topografi Gunung Anak Krakatau di Tahun 2018",
+      "date_type": "published",
+      "number": 1,
+      "refereed": "TRUE",
+      "subjects": [
+        "GC",
+        "GE",
+        "T1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19566",
+      "keywords": "Gunung Anak Krakatau, Ketinggian Gelombang Tsunami, Daerah Genangan Tsunami, Tsunami Teluk Lampung",
+      "contact_email": "restielidans@gmail.com",
+      "full_text_status": "public",
+      "userid": 102,
+      "type": "article",
+      "date": "2020-03-20",
+      "rev_number": 12,
+      "lastmod": "2020-05-12 02:42:51",
+      "issn": "2685-6182",
+      "referencetext": "Ahmad,  Zaenudin,  dkk,  2018,  Land Subsidence  Analysis  in  Bandar Lampung City based on InSAR IOP, Journal  of  Physics:  Conf.  Series 1080  (2018)  012043  (1080).  pp  1-7. ISSN  doi:  10.1088\/1742- 6596\/1080\/1\/012043.\r\n\r\nArmijon,  2019,  Modeling  of  Cold  Lava Flow Spatial Analysis for Mitigation of  Volcano  Disaster  Merapi, Simposium  Nasional  Ilmu  Teknik 2019,  Bandar  Lampung,  12 November 2019.\r\n\r\nArmijon,  dkk,  2019, Kajian Pembaharuan  Model  Rendaman Tsunami  Pesisir  Teluk  Lampung Akibat  Pengaruh  Perubahan Morfologi  Gunung  Anak  Krakatau. Lampung : Universitas Lampung.\r\n\r\nDewi,  Citra,  dkk,  2014,  Analysis  of Making Tsunami  disaster Zone Map in  Coastal  Area  (Location  Study: Bandar  Lampung  City  Coastal). Proseding  Seminar  Bisnis  & Teknologi. ISSN 2407-6171.\r\n\r\nFajriyanto,  Ahmad,  dkk,  2012,  Potensi Bahaya  Gempa  dan  Analisis Regangan  di  Selat  Sunda  Berbasis GPS  (Global  Positioning  System). Rekayasa,  Jurnal  Teknik  Sipil  dan Perencanaan,  16  (3).  pp.  141-150. ISSN 0852-7733.\r\n\r\nIslam, Faiz, 2014, Penentuan Resiko dan Kerentanan  Tsunami  di  Kebumen Dengan  Citra  Alos, Jurnal  Geodesi Undip Januari 2014.\r\n\r\nLatief,  H,  2013, Pedoman  Teknik Pembuatan  Peta  Bahaya  Rendaman Tsunami.  Bandung:  Pusat  Penelitian Mitigasi  Bencana  Institut  Teknologi Bandung.\r\n\r\nPersada  Tarigan,  Togi,  2015,  Analisa Spasial  Kerawanan  Bencana Tsunami  di  Wilayah  Pesisir Kabupaten  Kulon  Progo  Daerah Istimewa  Yogyakarta, Jurnal Oseanografi  Undip,  Volume  4, Nomor 4, Tahun 2015.\r\n\r\nPrahasta,  E,  2001, Sistem  Informasi Geografis:  Tutorial  Arc  View. Bandung: CV. Informatika.\r\n\r\nSusanti  S,  Ida  dan  Armijon,  2013, Pengaruh  Perkembangan Infrastruktur  Jalan  Terhadap Pertumbuhan  Pemanfaatan  Lahan Kota. Jurnal  Rekayasa  Sipil  dan Desain (JRSDD), 17 (1). ISSN 2303- 0011.\r\n\r\nSutrisno. 2006. Penentuan Waktu Datang Gelombang  Tsunami  Di  beberapa Kota  Pantai  Selatan  Jawa  Barat Sebagai  Informasi  Penting  Dalam Usaha  Penyelamatan  Secara Preventif  Menghadapi  Bencana Tsunami. Jakarta : Universitas Islam Negeri Syarif Hidayatullah.\r\n\r\nWiryawan,  B.,  dkk.  2000. Atlas  Sumber Daya  Wilayah  Pesisir  Teluk Lampung.  Bandar  Lampung.  Pemda Tk 1 Lampung-CRMP Lampung.\r\n\r\nZakaria,  A.,  2003,  Numerical  modelling of  wave  propagation  using  higher order  finite  difference  formulas, Thesis  (Ph.D.),  Curtin  University  of Technology,  Perth,  Western Ausstralia",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Elida N S",
+            "given": "Resti",
+            "honourific": null
+          },
+          "id": "restielidans@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Ahmad",
+            "family": "Zakaria",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ahmad.zakaria@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Armijon",
+            "lineage": null,
+            "family": "Armijon",
+            "honourific": null
+          },
+          "id": "armijon@eng.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 19566,
+      "divisions": [
+        "FT11"
+      ],
+      "datestamp": "2020-05-12 02:42:51",
+      "abstract": "Akibat erupsi Gunung Anak Krakatau (GAK) pada bulan Desember 2018 menyebabkan sebagian tubuh GAK longsor ke dalam laut dan mengakibatkan tsunami. Longsoran ini juga menyebabkan perubahan topografi  GAK.  Jika  terjadi  pengulangan  bencana  dengan  kondisi  topografi  GAK  saat  ini,  tentunya  akan menyebabkan  perubahan  tinggi  gelombang  tsunami  di  bibir  pantai  yang  akan  mempengaruhi  perubahan daerah  rendaman  tsunami.  Karena  letak  wilayah  pesisir  Teluk  Lampung  yang  cukup  dekat  dengan  GAK menyebabkan wilayah pesisir Teluk Lampung rentan terkena bencana tsunami. Sehingga perlu dikaji daerah rendaman tsunami akibat perubahan topografi GAK saat ini di wilayah pesisir Teluk Lampung. Kajian ini dilakukan dengan menggunakan metode non numerik untuk mendapatkan tinggi gelombang di bibir pantai dan  metode  Berryman  untuk  mendapatkan  daerah  rendaman  tsunami  di  wilayah  pesisir  Teluk  Lampung dengan membuat tiga skenario. Berdasarkan hasil kajian, diketahui tinggi gelombang tsunami, yaitu 13 meter, 26 meter, dan 39 meter dengan rata-rata waktu tiba gelombang tsunami di bibir pantai mencapai 57 menit. Di mana  terdapat  tujuh  kecamatan  yang  terendam  tsunami  dengan  jarak  rendaman  berkisar  160  meter-1,6 kilometer",
+      "volume": 6,
+      "publication": "Jurnal Geofisika Eksplorasi",
+      "documents": [
+          {
+            "main": "2020 Jurnal JGE Rendaman Tsunami Akibat Aktifitas GAK - Resti Elida.pdf",
+            "placement": 1,
+            "formatdesc": "Kajian Daerah Rendaman Tsunami di Pesisir Teluk Lampung Akibat Perubahan Topografi Gunung Anak Krakatau di Tahun 2018",
+            "files": [
+                {
+                  "filename": "2020 Jurnal JGE Rendaman Tsunami Akibat Aktifitas GAK - Resti Elida.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 32805,
+                  "hash": "d84f4d3056bcfe063a1e0268eb1c7c66",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-11 04:53:25",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163448",
+                  "fileid": 163448,
+                  "filesize": 696208
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 32805,
+            "eprintid": 19566,
+            "language": "id",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32805",
+            "pos": 1,
+            "rev_number": 2
+          }
+      ],
+      "pagerange": "31-41",
+      "status_changed": "2020-05-12 02:42:51",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/95\/66",
+      "official_url": "http:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/"
+    },
+    {
+      "datestamp": "2023-04-08 13:24:43",
+      "abstract": "Kerusakan terumbu karang di Pulau Tegal berdampak terhadap berkurangnya habitat terumbu karang, sehingga perlu dilakukan monitoring. Monitoring dilakukan dengan analisis luasan dan perubahannya dengan memanfaatkan teknologi penginderaan jauh untuk pemetaan kondisi eksistingnya. Data yang digunakan yaitu citra landsat pada tahun 1998, 2008, 2015 dan 2018. Pengolahan citra digital dilakukan mulai dari koreksi citra, perhitungan algoritma lyzenga, interpretasi citra dan validasi lapangan, serta dilakukan uji akurasi habitat terumbu karang menggunakan matriks konfusi. Hasil penelitian menunjukan bahwa terjadi perubahan luasan terumbu karang dari tahun 1998 – 2018. Kelas terumbu karang mengalami pengurangan seluas 11,22 ha. Kelas terumbu karang yang berubah menjadi kelas pasir seluas 9,13 ha (29,49%) dan lamun seluas 4,38 ha (14,15%). Kelas pasir yang berubah menjadi terumbu karang seluas 2,08 ha (13,52%) dan kelas lamun yang berubah menjadi terumbu karang seluas 0,21ha (0,25%). Perubahan yang paling besar yaitu perubahan terumbu karang menjadi pasir seluas 9,13 ha (29,49%), sedangkan perubahan paling kecil yaitu perubahan lamun menjadi terumbu karang seluas 0,21 ha (0,25%). Pada kelas lainnya perubahan luasan paling besar yaitu perubahan lamun menjadi pasir seluas 5,76 ha (6,96%), sedangkan perubahan paling kecil yaitu perubahan pasir menjadi lamun seluas 2,67 ha (17,35%).",
+      "volume": 5,
+      "divisions": [
+        "FT11"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49825",
+      "subjects": [
+        "GC",
+        "T1",
+        "TC"
+      ],
+      "succeeds": 49824,
+      "eprintid": 49825,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "number": 2,
+      "date_type": "published",
+      "issn": "2685-6182",
+      "eprint_status": "archive",
+      "publisher": "University of Lampung",
+      "title": "Analisa Luasan Terumbu Karang Di Perairan Pulau Tegal Lampung Dengan Teknologi Penginderaan Jauh",
+      "lastmod": "2023-04-08 13:24:43",
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/04\/98\/25",
+      "official_url": "http:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/article\/view\/29",
+      "rev_number": 5,
+      "pagerange": "141-153",
+      "status_changed": "2023-04-08 13:24:43",
+      "id_number": "https:\/\/doi.org\/10.23960\/jge.v5i2.29",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 573204,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539609",
+                  "fileid": 539609,
+                  "mtime": "2023-04-06 21:48:52",
+                  "hash_type": "MD5",
+                  "hash": "2d3aa4f58423fd1364977cb6cd5d5b47",
+                  "datasetid": "document",
+                  "objectid": 189464,
+                  "mime_type": "application\/pdf",
+                  "filename": "29-287-3-PB.pdf"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "29-287-3-PB.pdf",
+            "pos": 1,
+            "rev_number": 2,
+            "eprintid": 49825,
+            "language": "en",
+            "docid": 189464,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189464",
+            "format": "text"
+          }
+      ],
+      "type": "article",
+      "date": "2019-07-02",
+      "full_text_status": "public",
+      "publication": "Jurnal Geofisika Eksplorasi",
+      "userid": 240
+    },
+    {
+      "abstract": "Kerusakan terumbu karang di Pulau Tegal berdampak terhadap berkurangnya habitat terumbu karang, sehingga perlu dilakukan monitoring. Monitoring dilakukan dengan analisis luasan dan perubahannya dengan memanfaatkan teknologi penginderaan jauh untuk pemetaan kondisi eksistingnya. Data yang digunakan yaitu citra landsat pada tahun 1998, 2008, 2015 dan 2018. Pengolahan citra digital dilakukan mulai dari koreksi citra, perhitungan algoritma lyzenga, interpretasi citra dan validasi lapangan, serta dilakukan uji akurasi habitat terumbu karang menggunakan matriks konfusi. Hasil penelitian menunjukan bahwa terjadi perubahan luasan terumbu karang dari tahun 1998 – 2018. Kelas terumbu karang mengalami pengurangan seluas 11,22 ha. Kelas terumbu karang yang berubah menjadi kelas pasir seluas 9,13 ha (29,49%) dan lamun seluas 4,38 ha (14,15%). Kelas pasir yang berubah menjadi terumbu karang seluas 2,08 ha (13,52%) dan kelas lamun yang berubah menjadi terumbu karang seluas 0,21ha (0,25%). Perubahan yang paling besar yaitu perubahan terumbu karang menjadi pasir seluas 9,13 ha (29,49%), sedangkan perubahan paling kecil yaitu perubahan lamun menjadi terumbu karang seluas 0,21 ha (0,25%). Pada kelas lainnya perubahan luasan paling besar yaitu perubahan lamun menjadi pasir seluas 5,76 ha (6,96%), sedangkan perubahan paling kecil yaitu perubahan pasir menjadi lamun seluas 2,67 ha (17,35%).",
+      "datestamp": "2023-04-08 13:24:33",
+      "subjects": [
+        "GC",
+        "T1",
+        "TC"
+      ],
+      "eprintid": 49822,
+      "divisions": [
+        "FT11"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49822",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "given": "Romi",
+            "lineage": null,
+            "family": "Fadly",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "publisher": "Geophysical Engineering Department, Engineering Faculty, Universitas Lampung",
+      "eprint_status": "archive",
+      "lastmod": "2023-04-08 13:24:33",
+      "title": "Review Jurnal:  Analisa Luasan Terumbu Karang Di Perairan Pulau Tegal Lampung Dengan Teknologi Penginderaan Jauh",
+      "date_type": "published",
+      "status_changed": "2023-04-08 13:24:33",
+      "place_of_pub": "http:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/article\/view\/29",
+      "dir": "disk0_bak\/00\/04\/98\/22",
+      "ispublished": "pub",
+      "official_url": "http:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/article\/view\/29",
+      "rev_number": 9,
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189461",
+            "format": "text",
+            "language": "en",
+            "eprintid": 49822,
+            "docid": 189461,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "7c77752fb7995c191f9b04d3f72fde7b",
+                  "datasetid": "document",
+                  "objectid": 189461,
+                  "filename": "SEJAWAT SEBIDANG atau PEER REVIEW (1).pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 1011886,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539590",
+                  "fileid": 539590,
+                  "mtime": "2023-04-06 21:28:51",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 1,
+            "main": "SEJAWAT SEBIDANG atau PEER REVIEW (1).pdf"
+          }
+      ],
+      "date": "2019-07-02",
+      "type": "other",
+      "userid": 240,
+      "full_text_status": "public"
+    },
+    {
+      "abstract": "Berdasarkan Undang-undang No. 24 tahun 2007 tentang penanggulangan bencana dikatakan bahwa Bencana alam adalah bencana yang diakibatkan oleh peristiwa atau serangkaian peristiwa yang disebabkan oleh alam antara lain berupa gempa bumi, tsunami, gunung meletus, banjir, kekeringan, angin topan, dan tanah longsor. Pada penelitian ini akan dilakukan analisis pembuatan peta zona rawan tsunami pada daerah pesisir yang bertujuan untuk memberikan arahan penanggulangan terjadinya bencan tsunami. Penelitian ini menggunakan data dasar peta citra yang kemudian menghasilkan lokasi mana saja yang termasuk dalam zona rawan tsunami serta jalur evakuasi sehingga dapat digunakan sebagai bentuk peringatan dini untuk menghindari besarnya korban jiwa. Dari peta zonasi rawan bencana tsunami di pesisir kota Bandar Lampung terlihat pada tinggi gelombang tsunami mencapai 5m daerah yang terkena dampaknya adalah daerah yang terletak sekitaran 154m dari garis pantai, pada tinggi gelombang tsunami mencapai 15m daerah yang terkena dampaknya adalah daerah yang terletak sekitaran 488m dari garis pantai, pada tinggi gelombang tsunami mencapai 25m daerah yang terkena dampaknya adalah daerah yang terletak sekitaran 843m dari garis pantai, pada tinggi gelombang tsunami mencapai 40m daerah yang terkena dampaknya adalah daerah yang terletak sekitaran 955m dari garis pantai. Kata kunci: tsunami, pesisir, peta",
+      "datestamp": "2023-04-06 08:44:35",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49775",
+      "divisions": [
+        "FT11"
+      ],
+      "eprintid": 49775,
+      "subjects": [
+        "GC",
+        "Q1",
+        "T1",
+        "TC"
+      ],
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Fadly",
+            "given": "Romi",
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "title": "Review Jurnal: ANALISIS PEMBUATAN PETA ZONA RAWAN BENCANA TSUNAMI PADA DAERAH PESISIR (Studi lokasi : Pesisir Kota Bandar Lampung)",
+      "lastmod": "2023-04-06 08:44:35",
+      "publisher": "LPPM-IBI DARMAJAYA",
+      "eprint_status": "archive",
+      "official_url": "https:\/\/jurnal.darmajaya.ac.id\/index.php\/sembistek\/article\/view\/254",
+      "rev_number": 10,
+      "dir": "disk0_bak\/00\/04\/97\/75",
+      "ispublished": "pub",
+      "status_changed": "2023-04-06 08:44:35",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189412",
+            "format": "text",
+            "eprintid": 49775,
+            "language": "en",
+            "docid": 189412,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "LEMBAR HASIL PENILAIAN (1).pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/539209",
+                  "fileid": 539209,
+                  "filesize": 931515,
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-06 07:47:42",
+                  "hash": "893fb81cb7ec7b654ccc5c97ad27a17e",
+                  "filename": "LEMBAR HASIL PENILAIAN (1).pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 189412,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "type": "other",
+      "date": "2015-04-21",
+      "userid": 240,
+      "full_text_status": "public"
+    },
+    {
+      "status_changed": "2023-05-05 00:57:10",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/10\/77",
+      "documents": [
+          {
+            "main": "Korespondensi Makalah JRSD.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-04 19:44:35",
+                  "fileid": 549212,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/549212",
+                  "filesize": 680573,
+                  "filename": "Korespondensi Makalah JRSD.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 190794,
+                  "hash": "facf29c540660bddca981e97e701453c"
+                }
+            ],
+            "placement": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190794",
+            "language": "en",
+            "eprintid": 51077,
+            "docid": 190794,
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "date": "2019-04",
+      "type": "other",
+      "full_text_status": "public",
+      "userid": 240,
+      "datestamp": "2023-05-05 00:57:10",
+      "abstract": "Kegiatan pemetaan batimetri dilaut memerlukan data pasang surut air laut guna keperluan koreksi kedalaman hasil pengukuran. Pengamatan pasang surut secara manual ini dilakukan siang dan malam tanpa henti selama kurun waktu tertentu, sehingga diperlukan minimal 4 orang personil un- tuk pengamatan satu stasiun pengamatan. Pengamatan secara manual ini rentan terjadi kesalahan pembacaan terutama dimalam hari. Pada dasarnya saat ini sudah ada alat ukur pasang surut semi otomatis dan otomatis yang dijual, akan tetapi harganya cukup mahal. Pada penelitian ini telah dikembangkan alat ukur pasang surut air laut secara otomatis dan realtime baik pengamatannya maupun pengiriman datanya dengan memanfaatkan teknologi sensor ultrasonik dan mikro kon - troller. Metode yang digunakan adalah rancang bangun dengan cara memanfaatkan sensor ultra sonik dan mikro kontroller arduino uno, serta modul GSM (Global System for Mobile Communica- tions). Setiap perangkat dihubungkan ke mikro kontroler kemudian dilakukan pemrograman untuk proses pengambilan data, perhitungan level air, dan mengirim data ke handphone melalui fasilitas SMS (Short Message Service). Pengujian hasil pengukuran pasang surut dari alat yang dibuat di- lakukan di laboratorium hidrografi dan selanjutnya diuji langsung ke lapangan sekitar pesisir teluk Lampung. Penelitian ini menghasilkan peralatan untuk pengukuran pasang surut air laut secara otomatis dan realtime dengan sensor ultrasonik. Hasil dari pengukuran pasang surut akan disimpan dalam micro SD dan ditampilkan pada layar LCD, serta dikirim ke nomor yang dituju melalui SMS dengan modul SIM 800L v.2. Besar eror yang dihasilkan dari uji lapangan yaitu 1.833% < 10 %, dapat disimpulkan alat ini memiliki tingkat akurasi yang tinggi yaitu sebesar 98.167 %. Kata kunci: Pasang surut, Mikro kontroller, Sensor ultrasonik, GSM, SMS",
+      "eprintid": 51077,
+      "subjects": [
+        "GC",
+        "T1",
+        "TC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51077",
+      "divisions": [
+        "FT11"
+      ],
+      "creators": [
+        {
+          "id": "romi.fadly@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fadly",
+            "given": "Romi"
+          }
+        },
+        {
+          "id": "citradewirohana@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Dewi",
+            "given": "Citra",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "lastmod": "2023-05-05 00:57:10",
+      "title": "Pengembangan Sensor Ultrasoic Guna Pengukuran Pasang Surut Laut Secara Otomatis dan Real Time (Korespondensi)",
+      "publisher": "Rekayaya Jurnal Sipil dan Perencanaan",
+      "eprint_status": "archive",
+      "date_type": "published"
+    },
+    {
+      "publication": "Jurnal Rekayasa Teknologi dan Budidaya Perairan",
+      "full_text_status": "public",
+      "userid": 274,
+      "date": "2014-02",
+      "type": "article",
+      "documents": [
+          {
+            "main": 378,
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "89407afddb8c13cca4b2bc5cfa7b3b05",
+                  "objectid": 1640,
+                  "datasetid": "document",
+                  "filename": 378,
+                  "mime_type": "application\/xml",
+                  "filesize": 18721,
+                  "fileid": 12283,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12283",
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 01:46:52"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "public",
+            "docid": 1640,
+            "content": "published",
+            "eprintid": 1776,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1640",
+            "pos": 1,
+            "rev_number": 3
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/17\/76",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/index",
+      "rev_number": 9,
+      "pagerange": "259-266",
+      "status_changed": "2017-05-29 05:41:17",
+      "date_type": "published",
+      "issn": "2302-3600",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "lastmod": "2017-05-29 05:41:17",
+      "title": "EFEK PELARUT YANG BERBEDA TERHADAP TOKSISITAS EKSTRAK AKAR TUBA (DERRIS ELLIPTICA)",
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Irawan",
+            "given": "Oktarinaldi"
+          }
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Eko"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ali",
+            "given": "Mahrus"
+          }
+        }
+      ],
+      "number": 2,
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1776",
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "eprintid": 1776,
+      "datestamp": "2017-05-29 05:41:17",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/scholar.google.co.id\/citations?user=HdDh-RQAAAAJ&hl=en"
+        }
+      ],
+      "abstract": "Akar tuba (Derris elliptica) digunakan sebagai racun pada penangkapan ikan air tawar. Rotenon sebagai bahan aktif dari akar tuba sangat efektif untuk membunuh ikan tetapi penelitian tentang toksisitasnya masih sangat terbatas. Tujuan penelitian ini untuk mengetahui tingkat toksisitas ekstrak akar tuba menggunakan pelarut etanol, heksan dan akuades dengan menggunakan dua hewan uji yaitu artemia (Artemia sp.) dan ikan mas (Cyprinus carpio). Penelitian ini menggunakan rancangan acak lengkap (RAL) dengan 5 tingkat konsentrasi yang berbeda. Jumlah rendemen hasil ekstraksi pada pelarut etanol, heksan dan akuades berturut-turut 5; 3,6; 2,5%. Hasil penelitian pada artemia menunjukkan bahwa tingkat mortalitas 100% pelarut heksan terjadi pada konsentrasi 63 dan 100 mg\/l; etanol 100 mg\/l dan akuades 1000 mg\/l.  Hasil analisis probit pada artemia menunjukkan nilai LC50(Lethal Concentration) 24 jam pada heksan, etanol dan akuades berturut-turut 37,03; 46,77; 307,47 mg\/l. Hasil penelitian pada ikan mas menunjukkan bahwa tingkat mortalitas 100% pelarut heksan terjadi pada konsentrasi 3,979; 6,30 dan 9,96 mg\/l dan pelarut etanol 9,96 mg\/l. Hasil analisis probit pada hewan uji ikan mas menunjukkan nilai LC50-96 jam heksan dan etanol berturut-turut 3,83 dan 6,85 mg\/l. Penelitian ini diharapkan mampu menjadi data awal untuk penggunaan akar tuba baik untuk meracuni ikan maupun untuk membius ikan.",
+      "volume": 2
+    },
+    {
+      "userid": 274,
+      "publication": "Jurnal Rekayasa Teknologi dan Budidaya Perairan",
+      "full_text_status": "public",
+      "date": "2017-02",
+      "type": "article",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/18758",
+                  "fileid": 18758,
+                  "filesize": 16956,
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-01 05:23:40",
+                  "hash": "5e6b414e57408c8fb64323ee0b16c078",
+                  "mime_type": "application\/xml",
+                  "filename": 1489,
+                  "objectid": 2598,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "public",
+            "main": 1489,
+            "pos": 1,
+            "rev_number": 3,
+            "docid": 2598,
+            "language": "en",
+            "eprintid": 2735,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2598",
+            "format": "text"
+          }
+      ],
+      "pagerange": "587-596",
+      "status_changed": "2017-06-02 06:40:07",
+      "rev_number": 9,
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/article\/view\/1489",
+      "dir": "disk0\/00\/00\/27\/35",
+      "ispublished": "pub",
+      "lastmod": "2017-06-02 06:40:07",
+      "title": "PENGARUH DEBIT AIR TERHADAP PERBAIKAN KUALITAS AIR \r\nPADA SISTEM RESIRKULASI DAN HUBUNGANNYA DENGAN\r\nSINTASAN DAN PERTUMBUHAN BENIH IKAN GURAME \r\n(Oshpronemus gouramy)",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "issn": "2302-3600",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Jumaidi",
+            "given": "Ahmad",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Yulianto",
+            "lineage": null,
+            "given": "Herman"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Efendi",
+            "lineage": null,
+            "given": "Eko",
+            "honourific": null
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        }
+      ],
+      "number": 2,
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "eprintid": 2735,
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2735",
+      "divisions": [
+        "FP21"
+      ],
+      "volume": 5,
+      "datestamp": "2017-06-02 06:40:07",
+      "abstract": "Kendala dalam kegiatan budidaya ikan gurame adalah ketersediaan benih yang kurang. Tingkat Kematian yang tinggi pada tahap pembenihan ikan gurame\r\nmenjadi kendala yang sering dihadapi dalam industrialisasi komoditi ini. Sistem\r\nresirkulasi dengan perlakuan debit air dapat menjadi salah satu pemecahan masalah. Tujuan penelitian ini untuk mengetahui debit yang paling optimal dalam\r\nmemperbaiki kualitas air dan hubungannya dengan pertumbuhan dan sintasan benih ikan gurame pada sistem resirkulasi. Penelitian ini menggunakan Rancangan Acak\r\nLengkap dengan 3 perlakuan yaitu debit 0,03 L\/detik, debit 0,025 L\/detik dan 0,02 L\/detik dengan 3 kali ulangan. Hasil penelitian menunjukkan bahwa debit air yang berbeda memberikan pengaruh yang signifikan terhadap peningkatan tingkat kualitas air, pertumbuhan dan kelangsungan hidup. Perlakuan terbaik ditunjukkan\r\noleh perlakuan ketiga (debit 0,03 L\/detik), yaitu nilai pertumbuhan panjang 1,28±0,15 cm, nilai pertumbuhan berat 0,58±0,07 dan nilai kelangsungan hidup mencapai 85%."
+    },
+    {
+      "number": 4,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kusuma",
+            "given": "Anma Hari"
+          },
+          "id": "anmakelautan@gmail.com"
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Eko",
+            "lineage": null,
+            "family": "Efendi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayatullah",
+            "given": "Maulana Syarif"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Susanti",
+            "given": "Oktora",
+            "honourific": null
+          },
+          "id": "oktora.susanti@fp.unila.ac.id, oktorasusanti@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "publisher": "Department Marine Science, Faculty of Fisheries and Marine Science, Universitas Diponegoro",
+      "title": "Estimasi Serapan Karbon Pada Vegetasi Mangrove Register 15, Kecamatan Pasir Sakti, Kabupaten Lampung Timur, Provinsi Lampung",
+      "lastmod": "2023-01-03 10:35:57",
+      "issn": "2407-7690",
+      "abstract": "Perubahan iklim di sebabkan oleh kenaikan gas karbon dioksida (CO2) semenjak era revolusi industri dimana hal ini dicirikan dengan adanya peningkatan suhu, paras muka laut, perubahan pola curah hujan serta meningkatnya kejadian ekstrim seperti banjir, kekeringan, gelombang panas dan badai. Fenomena ini akan berdampak serius apabila berlangsung secara terus-menerus. Blue carbon (karbon biru) merupakan karbon yang diperangkap dan disimpan melalui proses fotosintesis oleh organisme autotrof dalam bentuk biomassa dan sedimen oleh ekosistem pesisir dan laut. Mangrove merupakan salah satu dari eksosistem sebagai blue carbon tersebut. Mangrove Register 15 merupakan suatu kawasan mangrove yang berada Kecamatan Pasir Sakti, Kabupaten Lampung Timur, Provinsi Lampung. Penelitian ini bertujuan menganalisis karbon tersimpan pada tegakan, nek romassa, serasah, dan substrat mangrove. Penelitian dilakukan dari bulan Maret–Mei 2021. Hasil penelitian menunjukkan karbon tersimpan pada sedimen lebih besar dibandingkan dengan karbon tersimpan pada tegakan, nekromassa, dan serasah. Karbon tersimpan pada sedimen yang tertinggi berada pada sedimen yang memili ki ukuran liat kasar karena liat kasar dapat menyimpan unsur hara yang tinggi.",
+      "datestamp": "2023-01-03 10:35:57",
+      "volume": 11,
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "eprintid": 47581,
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47581",
+      "type": "article",
+      "publication": "Journal of Marine Reserach",
+      "full_text_status": "public",
+      "userid": 274,
+      "status_changed": "2023-01-03 10:35:57",
+      "pagerange": "768-778",
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/04\/75\/81",
+      "rev_number": 9,
+      "official_url": "https:\/\/ejournal3.undip.ac.id\/index.php\/jmr\/index",
+      "documents": [
+          {
+            "main": 35605,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-03 03:57:23",
+                  "filesize": 51298,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521510",
+                  "fileid": 521510,
+                  "objectid": 186651,
+                  "datasetid": "document",
+                  "filename": 35605,
+                  "mime_type": "text\/html",
+                  "hash": "7800b7f504bafed70c3010976e2b96ba"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "text\/html",
+            "language": "en",
+            "eprintid": 47581,
+            "docid": 186651,
+            "content": "published",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186651",
+            "pos": 1,
+            "rev_number": 3
+          }
+      ]
+    },
+    {
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47582",
+      "subjects": [
+        "GC"
+      ],
+      "eprintid": 47582,
+      "datestamp": "2023-01-03 10:35:59",
+      "volume": 12,
+      "issn": "2657-0629",
+      "eprint_status": "archive",
+      "publisher": "Program Studi Budidaya Perairan UNRAM",
+      "lastmod": "2023-01-03 10:35:59",
+      "title": "IDENTIFIKASI SAMPAH ANORGANIK DI DESA GEBANG, KECAMATAN TELUK PANDAN, KABUPATEN PESAWARAN, PROVINSI LAMPUNG",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "number": 4,
+      "creators": [
+        {
+          "id": "anmakelautan@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Anma Hari",
+            "lineage": null,
+            "family": "Kusuma"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Eko"
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        },
+        {
+          "id": "henky.mayaguezz@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Henky",
+            "family": "Mayaguezz",
+            "lineage": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "main": "document.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filename": "document.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 186653,
+                  "hash": "3982cb6fc6b6a27e55f1ad64b40ad2c4",
+                  "mtime": "2023-01-03 04:12:25",
+                  "hash_type": "MD5",
+                  "fileid": 521520,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/521520",
+                  "filesize": 1238370
+                }
+            ],
+            "placement": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186653",
+            "format": "text",
+            "language": "en",
+            "eprintid": 47582,
+            "docid": 186653,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "dir": "disk0_bak\/00\/04\/75\/82",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "official_url": "https:\/\/jperairan.unram.ac.id\/index.php\/JP\/index",
+      "status_changed": "2023-01-03 10:35:59",
+      "pagerange": "575-586",
+      "userid": 274,
+      "publication": "Jurnal Perikanan UNRAM",
+      "full_text_status": "public",
+      "date": "2022-12",
+      "type": "article"
+    },
+    {
+      "issn": "2302-3600",
+      "date_type": "published",
+      "lastmod": "2017-05-29 05:42:05",
+      "title": "PENURUNAN FOSFAT PADA SISTEM RESIRKULASI DENGAN PENAMBAHAN FILTER YANG BERBEDA",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Lestari",
+            "given": "Naina Anjanni Ade",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Diantari",
+            "given": "Rara"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Eko",
+            "family": "Efendi",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        }
+      ],
+      "number": 2,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1779",
+      "divisions": [
+        "FP21"
+      ],
+      "eprintid": 1779,
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "volume": 3,
+      "abstract": "Peningkatan sisa pakan dan buangan metabolit yang terakumulasi dapat menyebabkan peningkatan fosfat sehingga kualitas air menjadi rendah yaitu menurunnya kadar oksigen terlarut pada perairan. Salah satu cara untuk mengatasi masalah tersebut yaitu mengaplikasikan sistem resirkulasi dengan penambahan filter. Penelitian ini bertujuan untuk mengetahui penurunan fosfat pada sistem resirkulasi dengan penambahan filter yang berbeda. Penelitian ini dilaksanakan pada bulan Juli sampai dengan bulan September 2013 di Jurusan Budidaya Perairan Fakultas Pertanian Universitas Lampung. Hewan uji yang digunakan sebagai penghasil fosfat yaitu lele sangkuriang (Clarias gariepnus) berukuran 3-5 cm\/ekor dengan padat tebar 200 ekor\/m2 dan dipelihara selama 60 hari. Desain penelitian menggunakan rancangan acak lengkap dengan empat perlakuan yaitu kolam tanpa filter (kontrol), kolam dengan filter zeolit, kolam dengan filter arang dan kolam dengan filter pecahan karang dimana setiap perlakuan diberikan tiga kali ulangan. Hasil penelitian menunjukkan bahwa penggunaan filter yang berbeda menyebabkan terjadinya penurunan fosfat yang berbeda nyata (P>0,05). Penurunan fosfat tertinggi terjadi pada jenis media filter arang yaitu sebanyak 0,02675 mg\/l, sedangkan penurunan fosfat terendah terjadi pada jenis media filter zeolit yaitu sebanyak 0,021 mg\/l",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/scholar.google.co.id\/citations?user=HdDh-RQAAAAJ&hl=en"
+        }
+      ],
+      "datestamp": "2017-05-29 05:41:45",
+      "userid": 274,
+      "publication": "Jurnal Rekayasa Teknologi dan Budidaya Perairan",
+      "full_text_status": "public",
+      "date": "2015-02",
+      "type": "article",
+      "documents": [
+          {
+            "main": 648,
+            "mime_type": "application\/xml",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "9df63b03c1fbf040b45ecc3710109c09",
+                  "filename": 648,
+                  "mime_type": "application\/xml",
+                  "objectid": 1643,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12314",
+                  "fileid": 12314,
+                  "filesize": 17175,
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 02:02:15"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1643",
+            "docid": 1643,
+            "content": "published",
+            "eprintid": 1779,
+            "language": "en",
+            "pos": 1,
+            "rev_number": 3
+          }
+      ],
+      "rev_number": 11,
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/index",
+      "dir": "disk0\/00\/00\/17\/79",
+      "ispublished": "pub",
+      "status_changed": "2017-05-29 05:42:05",
+      "pagerange": "367-374"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Maryunis",
+            "family": "Maryunis",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Eko"
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Diantari",
+            "given": "Rara",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "title": "RATE OF PHOSPHATE ABSORPTION IN AQUAPONIC SYSTEM",
+      "lastmod": "2017-05-29 05:40:43",
+      "date_type": "published",
+      "event_dates": "19--20 November 2013",
+      "datestamp": "2017-05-29 05:40:43",
+      "abstract": "The waste resulted by fish farming in form of feed waste and feces will accumulate and increase the phosphorus content in a pond. Excessive amount of phosphorus content\r\nwill cause nutrient enrichment and decrease oxygen. As the result, it may impact the farmed fish. Aquaponic system can be a solution to the problem, because the plants in the aquaponic system can absorb and utilize the phosphate for the plant growth. This study aims to determine the rate of phosphate absorption through aquaponic system and determine the maximum number of kale plants that works best in absorbing phosphate.\r\nThis study was conducted from July to September, 2013. It was held at the laboratory in Aquaculture Department of Agriculture Faculty, University of Lampung. This study\r\nused Complete Randomized Design with four treatments (control, 10 stems\/clump, 20 stems\/clump, and 30 stems\/clump) and three repetitions. The result showed significant effect on the level of α = 0.05. This means that the treatment has an effect on the absorption of orthophosphate. Rate of highest phospate absorption is 0,000387 mg\/L on in 24 hour. The treatment that shows the most significant influence in decreasing the concentration of orthophosphate is the one with 30 stems\/clump. \r\nKey words : Aquaponic, phosphate, fish, kale",
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "eprintid": 1774,
+      "divisions": [
+        "FP21"
+      ],
+      "event_title": "Seminar Nasional Sains & Teknologi V",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1774",
+      "type": "conference_item",
+      "date": "2013-11",
+      "userid": 274,
+      "full_text_status": "public",
+      "pagerange": "1393-1402",
+      "status_changed": "2017-05-29 05:40:43",
+      "dir": "disk0\/00\/00\/17\/74",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "documents": [
+          {
+            "main": "4-285-P-maryunis.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 1638,
+                  "mime_type": "application\/pdf",
+                  "filename": "4-285-P-maryunis.pdf",
+                  "hash": "b8b0d6523a3ae599b27a44c23f717869",
+                  "mtime": "2017-05-29 01:33:57",
+                  "hash_type": "MD5",
+                  "filesize": 517643,
+                  "fileid": 12271,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12271"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "eprintid": 1774,
+            "language": "en",
+            "docid": 1638,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1638",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "event_location": "Bandar Lampung",
+      "pres_type": "poster",
+      "event_type": "conference"
+    },
+    {
+      "funders": [
+        "LPPM UNILA"
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "henky",
+            "family": "Mayaguezz",
+            "lineage": null
+          },
+          "id": "henky.mayaguezz@fp.unila.ac.id"
+        },
+        {
+          "id": "munti.sarida@fp.unila.ac.id",
+          "name": {
+            "family": "Sarida",
+            "lineage": null,
+            "given": "Munti",
+            "honourific": null
+          }
+        },
+        {
+          "id": "listumbinang.halengkara@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Halengkara",
+            "given": "Listumbinang",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "publisher": "UPT Perpustakaan Universitas Lampung",
+      "eprint_status": "archive",
+      "title": "PEMETAAN ESTIMASI DAERAH RAWAN TSUNAMI DAN WILAYAH LAYANAN EVAKUASI BERDASARKAN SKENARIO WAKTU KEPUTUSAN EVAKUASI DI WILAYAH PESISIR KOTA BANDAR LAMPUNG",
+      "lastmod": "2020-06-04 07:36:32",
+      "date_type": "published",
+      "datestamp": "2020-06-04 07:36:32",
+      "abstract": "Geological activity in the Sunda Strait shows us again its existence through the tsunami that occurred at the end of 2018 and the tectonic earthquake in the Sunda Strait subduction zone with Magnitude 6.9 on August 2, 2019. This activity raises concerns in the surrounding area. Bandar Lampung City which is located in a radius that is quite close to the Sunda Strait has a tsunami-prone lowland which is quite extensive with a high population density. Considering this risk threat, this study aims to map areas estimated to be affected by tsunami inundation and evacuation service areas during a tsunami emergency for 3 evacuation time scenarios namely 10 minutes, 20 minutes and 30 minutes from the Temporary Evacuation Site (TES). This challenge requires spatial analysis of tsunami inundation areas which is processed from SRTM topographic data of 15m altitude. Evacuation services area is obtained through evacuation network analysis according to the Bandar City road network. Both of these steps are simulated using spatial analysis and network analysis tools in the Geographic Information System (GIS). The results show the tsunami submerged estimation area in the coastal area of the city that forms a half circle from the west, north to east. Generally the community can evacuate within 20 minutes on foot. But in some areas, TES can only be reached in more than 20 minutes. Even the people on the island of Pasaran have to spend more than 30 minutes to reach TES",
+      "volume": 1,
+      "book_title": "Ilmu-ilmu Teknik : Kebencanaan 2019",
+      "subjects": [
+        "GB",
+        "GC",
+        "HD61",
+        "QE"
+      ],
+      "eprintid": 21795,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21795",
+      "type": "book_section",
+      "isbn": "978-602-73260-3-3",
+      "date": 2020,
+      "contact_email": "henky.mayaguezz@fp.unila.ac.id",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "full_text_status": "public",
+      "userid": 2269,
+      "pages": 328,
+      "status_changed": "2020-06-04 07:36:32",
+      "place_of_pub": "Bandar Lampung",
+      "dir": "disk0\/00\/02\/17\/95",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2020-06-04 06:24:48",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/201547",
+                  "fileid": 201547,
+                  "filesize": 4152441,
+                  "filename": "Book-Chapter-IIT-Kebencanaan-2019.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 35186,
+                  "hash": "fc9fbb5d8be50991bb14ab375301d517"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Book-Chapter-IIT-Kebencanaan-2019.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 21795,
+            "language": "en",
+            "docid": 35186,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35186",
+            "format": "text"
+          }
+      ],
+      "editors": [
+        {
+          "name": {
+            "family": "Savetlana",
+            "lineage": null,
+            "given": "Shirley",
+            "honourific": null
+          },
+          "id": "shirley.savetlana@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Irza",
+            "family": "Sukmana",
+            "lineage": null
+          },
+          "id": "irza.sukmana@gmail.com"
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "name": {
+            "family": "Yudamson",
+            "lineage": null,
+            "given": "Afri",
+            "honourific": null
+          },
+          "id": "afri.yudamson@eng.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "referencetext": "Hartoni, 2011, Kondisi Terumbu Karang di Perairan Pulau Tegal dan Sidodadi Kecamatan Padang Cermin Kabupaten Pesawaran Provinsi Lampung, Maspari  Journal, vol 4, hal 46-57. \r\n\r\nJaelani, L. M., Limehuwey, R., Kurniadin, N., Pamungkas, A., Koenhardono, E. S., & Sulisetyono, A, 2016, Estimation of Total Suspended Sediment and Chlorophyll-A oncentration from Landsat 8-Oli: The Effect of Atmospher and Retrieval Algorithm, IPTEK The Journal for Technology and Science, vol 5, hal 56-64. \r\n\r\nLillesand and Kiefer, 1979, Remote Sensing and Image Interpretation, Jurnal Kelautan, vol 3, hal 18-28. Lyzenga, D. R., 1978, Passive Remote Sensing Techniques for Mapping Water Depth and Bottom Features, International journal of remote sensing, vol.10, no.2, hal 71-82. \r\n\r\nLyzenga, D. R., 1981, Remote Sensing of Bottom Reflectance and Water Attenuation Parameters in Shallow Water Using Aircraft and Landsat Data, International Journal Remote Sensing, vol 10, no.2, hal 72-82. \r\n\r\nPurwadhi, F. S. H., 2001, Interpretasi Citra Digital, Jurnal Ilmu dan Teknologi Kelautan Tropis, vol 10, hal 99-109. \r\n\r\nSusilo, S. B., 1997, Penginderaan Jauh untuk Mangrove, Zaenudin, A.N., Pemetaan Terumbu Karang, Ghalia Indonesia, Bogor. \r\n \r\nSiregar, V.P., 2010, Pemetaan Substrat Dasar Perairan Dangkal Karang Congkak dan Lebar Kepulauan Seribu Menggunakan Citra Satelit Quickbird, EJurnal Ilmu dan Teknologi Kelautan Tropis, vol 2, hal 19-30. \r\n\r\nSuharsono, 1998, Conditions of Coral Reef Resources in Indonesia, Paper dalam Jurnal Pesisir dan Lautan, vol 10, no.2, hal 71-82. \r\n\r\nYusuf, M., 2013, Kondisi Terumbu Karang dan Potensi Ikan di Perairan Taman Nasional Karimunjawa, Kabupaten Jepara, Buletin Oseanografi Marina, vol 2, hal 54-60.",
+      "creators": [
+        {
+          "id": "farismhtar@yahoo.com",
+          "name": {
+            "honourific": null,
+            "given": "Faris",
+            "family": "Muhtar",
+            "lineage": null
+          }
+        },
+        {
+          "id": "armijon@eng.unila.ac.id",
+          "name": {
+            "given": "Armijon",
+            "family": "Armijon",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Fauzan",
+            "lineage": null,
+            "family": "Murdapa"
+          },
+          "id": "fauzan.murdapa@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fadly",
+            "given": "Romi",
+            "honourific": null
+          },
+          "id": "romi.fadly@eng.unila.ac.id"
+        }
+      ],
+      "issn": "2685-6182",
+      "lastmod": "2020-05-13 01:49:26",
+      "datestamp": "2020-05-13 01:49:26",
+      "abstract": "Kerusakan terumbu karang di Pulau Tegal berdampak terhadap berkurangnya habitat terumbu karang, sehingga perlu dilakukan monitoring. Monitoring dilakukan dengan analisis luasan dan perubahannya dengan memanfaatkan teknologi penginderaan jauh untuk pemetaan kondisi eksistingnya. Data yang digunakan yaitu citra landsat pada tahun 1998, 2008, 2015 dan 2018. Pengolahan citra digital dilakukan mulai dari koreksi citra, perhitungan algoritma lyzenga, interpretasi citra dan validasi lapangan, serta dilakukan uji akurasi habitat terumbu karang menggunakan matriks konfusi. Hasil penelitian menunjukan bahwa terjadi perubahan luasan terumbu karang dari tahun 1998 – 2018. Kelas terumbu karang mengalami pengurangan seluas 11,22 ha. Kelas terumbu karang yang berubah menjadi kelas pasir seluas 9,13 ha (29,49%) dan lamun seluas 4,38 ha (14,15%). Kelas pasir yang berubah menjadi terumbu karang seluas 2,08 ha (13,52%) dan kelas lamun yang berubah menjadi terumbu karang seluas 0,21ha (0,25%). Perubahan yang paling besar yaitu perubahan terumbu karang menjadi pasir seluas 9,13 ha (29,49%), sedangkan perubahan paling kecil yaitu perubahan lamun menjadi terumbu karang seluas 0,21 ha (0,25%). Pada kelas lainnya perubahan luasan paling besar yaitu perubahan lamun menjadi pasir seluas 5,76 ha (6,96%), sedangkan perubahan paling kecil yaitu perubahan pasir menjadi lamun seluas 2,67 ha (17,35%).",
+      "volume": 5,
+      "divisions": [
+        "FT11"
+      ],
+      "succeeds": 13840,
+      "eprintid": 19589,
+      "publication": "Jurnal Geofisika Eksplorasi",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/95\/89",
+      "official_url": "http:\/\/journal.eng.unila.ac.id\/index.php\/geo\/article\/view\/1181",
+      "status_changed": "2020-05-13 01:49:26",
+      "pagerange": "141-153",
+      "id_number": "10.23960\/jge.v5i2.29",
+      "documents": [
+          {
+            "pos": 2,
+            "rev_number": 2,
+            "docid": 32830,
+            "language": "id",
+            "eprintid": 19589,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32830",
+            "format": "text",
+            "placement": 2,
+            "formatdesc": "Analisa Luasan Terumbu Karang Di Perairan Pulau Tegal Lampung",
+            "files": [
+                {
+                  "filesize": 988140,
+                  "fileid": 163638,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/163638",
+                  "mtime": "2020-05-12 05:35:51",
+                  "hash_type": "MD5",
+                  "hash": "de6cc096cd0f74f2dfe7a0a25ce4b514",
+                  "objectid": 32830,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "2019 Jurnal Faris Muktar Analisis Luas Terumbu Karang.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "2019 Jurnal Faris Muktar Analisis Luas Terumbu Karang.pdf"
+          }
+      ],
+      "refereed": "TRUE",
+      "number": 2,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "University of Lampung",
+      "title": "Analisa Luasan Terumbu Karang Di Perairan Pulau Tegal Lampung Dengan Teknologi Penginderaan Jauh",
+      "related_url": [
+        {
+          "url": "http:\/\/jge.eng.unila.ac.id\/index.php\/geoph\/article\/view\/29"
+        }
+      ],
+      "keywords": "Terumbu Karang, Algoritma Lyzenga, Citra Landsat",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19589",
+      "subjects": [
+        "GC",
+        "T1",
+        "TR"
+      ],
+      "date": "2019-07-15",
+      "type": "article",
+      "userid": 102,
+      "full_text_status": "public",
+      "contact_email": "farismhtar@yahoo.com",
+      "rev_number": 9
+    },
+    {
+      "number": 2,
+      "creators": [
+        {
+          "id": "ikarahayu990@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Ningsih",
+            "lineage": null,
+            "given": "Ika Rahayu"
+          }
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Efendi",
+            "lineage": null,
+            "given": "Eko"
+          }
+        },
+        {
+          "id": "darma.yuliana@fp.unila.ac.id",
+          "name": {
+            "given": "Darma",
+            "family": "Yuliana",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "lastmod": "2022-09-01 07:16:59",
+      "title": "LAJU FILTRASI KERANG HIJAU (Perna viridisLinn. 1758) YANG BERBEDA UKURAN PADA BERBAGAI TINGKAT SALINITAS TERHADAP MIKROALGA Chaetoceros calcitrans (Paulsen. 1968)",
+      "publisher": "Biology Education Studies Program Faculty of Teacher Training and Education Jambi University",
+      "eprint_status": "archive",
+      "issn": "1979-0902",
+      "date_type": "published",
+      "volume": 14,
+      "datestamp": "2022-09-01 07:16:59",
+      "abstract": "Green shells is a nonselective filter feeder organism that is a consumer of microalgae in the water. Microalgae can be duplicated uncontoallably due to the large number of nutriensts in the water, this can lead to blooming of microalgae. This research aims to assess the rate of green\r\nshell filtration of different sizes at different levels of salinity against Caetoceros calcitrasns (Paulsen. 1968). This research used experimental method with completely randomized factorial design with nine treatments and three levels of repetition. Each treatment has a combination of\r\nsalinity at 25‰, 30‰, 35‰ and size at 3, 6 and 8 cm. The density of microalgae given at each treatment was 5 x 106 sel\/l. The result showed that is no effect of green shell size and levels of salinity on rate of green shell filtration against Chaetoceros calcitrans.",
+      "eprintid": 44597,
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/44597",
+      "divisions": [
+        "FP21"
+      ],
+      "date": "2021-07-29",
+      "type": "article",
+      "userid": 274,
+      "publication": "Biospecies",
+      "full_text_status": "public",
+      "status_changed": "2022-09-01 07:16:59",
+      "pagerange": "37-43",
+      "official_url": "https:\/\/online-journal.unja.ac.id\/biospecies\/index",
+      "rev_number": 10,
+      "dir": "disk0\/00\/04\/45\/97",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 166478,
+                  "mime_type": "application\/pdf",
+                  "filename": "4194-Article Text-45969-2-10-20220103.pdf",
+                  "hash": "597925280c71f309d735c01bfe652935",
+                  "mtime": "2022-09-01 04:59:29",
+                  "hash_type": "MD5",
+                  "filesize": 330102,
+                  "fileid": 482080,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/482080"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "4194-Article Text-45969-2-10-20220103.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "language": "en",
+            "eprintid": 44597,
+            "docid": 166478,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/166478"
+          }
+      ],
+      "id_number": "https:\/\/doi.org\/10.22437\/biospecies.v14i2.4194"
+    },
+    {
+      "rev_number": 9,
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/JPBP\/index",
+      "dir": "disk0\/00\/00\/18\/58",
+      "ispublished": "pub",
+      "status_changed": "2017-05-29 08:15:59",
+      "pagerange": "389-398",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 07:18:25",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12971",
+                  "fileid": 12971,
+                  "filesize": 20979,
+                  "mime_type": "application\/xml",
+                  "filename": 1065,
+                  "datasetid": "document",
+                  "objectid": 1709,
+                  "hash": "73dd8a9e70854427fc71c60e7897ac4c"
+                }
+            ],
+            "placement": 1,
+            "main": 1065,
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1709",
+            "format": "text",
+            "eprintid": 1858,
+            "language": "en",
+            "docid": 1709
+          }
+      ],
+      "date": "2016-03",
+      "type": "article",
+      "userid": 274,
+      "publication": "Jurnal ilmu perikanan dan sumberdaya budidaya perairan",
+      "full_text_status": "public",
+      "volume": 4,
+      "datestamp": "2017-05-29 08:15:59",
+      "abstract": "Green mussel (Perna viridis) is oyster has high potential to be developed. A huge market demand is an important factor to optimized green mussel cultivation, there are to system that could be applied for cultivation green mussel is polyculture and monoculture. The purposed of this study is to determined growth performance of green mussel which culture in monoculture and polyculture system. Green mussel is culture in floating cage bath of monoculture and polyculture system. In polyculture system green mussel placed within seabass (Lates calcarifer). Growth performance of green mussel determined by comparizing growth in wide and body lenght using T-test to analyzed factor that assigned to growth performance used principle component analysis (PCA) to environment factor such as Total Amonia Nitrogen (TAN), Total Organic Matters (TOM), Total Suspended Solid (TSS) and phytoplankton both in polycultured and monocultured system. The result of this research was shown that growth in this significant shown from third place where sample collected at 0-100 in depth The results showed that this significant growth was shown from the third place where the samples were collected at 0-100 in depth and the second place where the samples were collected at 100-150 in depth. This is caused by availability of feed source such as TOM and phytoplankton thy driven by sea current. The significant value shown by growth in wide of mussel shell at 100-150 cm in depth.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1858",
+      "divisions": [
+        "FP21"
+      ],
+      "eprintid": 1858,
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "number": 2,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Noor",
+            "lineage": null,
+            "given": "Nuning Mahmudah"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Astuti",
+            "given": "Arum Dwi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Eko"
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        }
+      ],
+      "issn": "2301-816X",
+      "date_type": "published",
+      "lastmod": "2017-05-29 08:15:59",
+      "title": "PERFORMANCE OF GREEN MUSSEL (PERNA VIRIDIS) IN MONOCULTURE AND POLYCULTURE SYSTEM WITHIN SEA BASS (LATES CALCARIFER )",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Perikanan dan Kelautan"
+    },
+    {
+      "date": "2015-10",
+      "type": "article",
+      "publication": "Jurnal Rekayasa Teknologi dan Budidaya Perairan",
+      "userid": 274,
+      "full_text_status": "public",
+      "status_changed": "2017-05-29 08:07:18",
+      "pagerange": "427-432",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/index",
+      "rev_number": 9,
+      "dir": "disk0\/00\/00\/18\/45",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 3,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1698",
+            "content": "published",
+            "docid": 1698,
+            "language": "en",
+            "eprintid": 1845,
+            "mime_type": "application\/xml",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 16827,
+                  "fileid": 12880,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12880",
+                  "mtime": "2017-05-29 06:47:06",
+                  "hash_type": "MD5",
+                  "hash": "d390c5b714df26d52b3297f3f0cc35e5",
+                  "datasetid": "document",
+                  "objectid": 1698,
+                  "mime_type": "application\/xml",
+                  "filename": 1347
+                }
+            ],
+            "main": 1347
+          }
+      ],
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Fitri",
+            "lineage": null,
+            "family": "Norjanna"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Eko",
+            "honourific": null
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Hasani",
+            "given": "Qadar",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "title": "REDUKSI AMONIA PADA SISTEM RESIRKULASI DENGAN PENGUNAAN FILTER YANG BERBEDA",
+      "lastmod": "2017-05-29 08:07:18",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "issn": "2302-3600",
+      "volume": 4,
+      "abstract": "Amonia merupakan parameter kualitas air yang berperan penting pada budidaya ikan. Ikan mengeluarkan limbah dari sisa pakan dan metabolisme yang banyak mengandung amonia. Permasalahan yang biasa dihadapi adalah cepatnya akumulasi limbah dari residu pakan dan hasil metabolisme ikan. Amonia akan terakumulasi dalam sistem resirkulasi dan dapat mencapai konsentrasi yang merugikan ikan jika terlalu berlebihan. Untuk mengurangi amonia pada sistem resirkulasi dapat di lakukan dengan penambahan filter. Penelitian ini bertujuan untuk mengetahui laju pengurangan amonia dan menguji jenis filter yang efektif dalam penurunan amonia pada sistem resirkulasi. Penelitian ini menggunakan rancangan acak lengkap dengan empat perlakuan dan tiga ulangan (kontrol, zeolit, arang, dan pecahan karang). Penelitian dilakukan menggunakan benih lele (Clarias sp.) 4-5 cm dalam kolam terpal berukuran 1 x 1 x 2 mdengan kepadatan 200 ekor\/m2. Parameter utama dalam penelitian ini adalah amonia, dengan parameter pendukung yakni suhu, pH, dan oksigen terlarut. Hasil penelitian ini menunjukan bahwa penambahan filter berupa pecahan karang  memberikan pengaruh nyata terhadap penurunan amonia pada sistem resirkulasi.",
+      "datestamp": "2017-05-29 08:07:18",
+      "eprintid": 1845,
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1845",
+      "divisions": [
+        "FP21"
+      ]
+    },
+    {
+      "subjects": [
+        "GC",
+        "NA"
+      ],
+      "eprintid": 15494,
+      "divisions": [
+        "FT9"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15494",
+      "abstract": "The coastal zone of Bandarlampung which grew as one of the economic development area in southern, is currently experiencing environmental degradation caused by trading activities, warehousing on a large scale. The natural resources in coastal area is holds high economic activity to create the tourism development based on local community in the future. The concept of Integrated Coastal Zone Management (ICZM) can ensure the sustainable use of natural resources, the environment and landscapes into account in harmony with economic, social and cultural development. This paper aims to identify the urban fabric as physical form of coastal land resources for the data based information, then provides the potential analysis for tourism development strategies with understanding to the built environment especially the urban fabric. A qualitative research method is used to observing the solid-void forms and linkage elements on the coastal area landscape. Based on this study, the character of solid-voids and linkage element is also influenced by the cultural, political, social and economic of the community. The characteristic of urban fabric can be the basic concept to develop the thematic tourism zones of the coastal area. There are three thematic tourism concept: Negeri Mina Teluk Betung Selatan Zone, Negeri Mina Kangkung Zone and Negeri Mina Kunyit Zone. The result of this study can be the reference for local goverment and stakeholders to increase community empowerment, environmental conservation and community resillience. Furthermore, the characteristic of urban fabric in the coastal area can be considered to create the sustainable tourism development planning based on ICZM concept.",
+      "datestamp": "2019-11-05 10:55:52",
+      "eprint_status": "archive",
+      "publisher": "ICMACES",
+      "title": "Analysis of Urban Fabric: An Integrated Coastal Zone Management (ICZM) Approach for Sustainable Tourism Development in The Coastal Area of Bandarlampung",
+      "lastmod": "2019-11-05 10:55:52",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Citra",
+            "family": "Persada",
+            "lineage": null
+          },
+          "id": "citra.persada@eng.unila.ac.id"
+        },
+        {
+          "id": "yunitakesuma@eng.unila.ac.id",
+          "name": {
+            "given": "Yunita",
+            "lineage": null,
+            "family": "Kesuma",
+            "honourific": null
+          }
+        },
+        {
+          "id": "fadhilah_rusmiati@yahoo.com",
+          "name": {
+            "honourific": null,
+            "given": "Fadhilah",
+            "lineage": null,
+            "family": "Rusmiati"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "objectid": 28615,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "JPCS C.Persada, et al_Analysis of Urban Fabric (ICZM) Sustainable Tourism Development in Bandarlampung.pdf",
+                  "hash": "3eea83e6cf5f184a490fa7e9df1629e4",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-04 15:40:36",
+                  "filesize": 533902,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/133427",
+                  "fileid": 133427
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "JPCS C.Persada, et al_Analysis of Urban Fabric (ICZM) Sustainable Tourism Development in Bandarlampung.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 28615,
+            "language": "en",
+            "eprintid": 15494,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28615"
+          }
+      ],
+      "status_changed": "2019-11-05 10:55:52",
+      "ispublished": "submitted",
+      "dir": "disk0\/00\/01\/54\/94",
+      "rev_number": 7,
+      "official_url": "http:\/\/icmaces.unila.ac.id\/",
+      "full_text_status": "public",
+      "publication": "International Conference on Marine and Coastal Engineering and Sciences 2019",
+      "userid": 1175,
+      "type": "article",
+      "date": "2019-08-23"
+    },
+    {
+      "title": "EFEKTIFITAS KIJING AIR TAWAR ( PILSBRYOCONCHA EXILIS ) SEBAGAI BIOFILTER DALAM SISTEM RESIRKULASI TERHADAP LAJU PENYERAPAN AMONIAK DAN PERTUMBUHAN IKAN LELE SANGKURIANG (CLARIAS GARIEPINUS)",
+      "lastmod": "2017-05-29 08:07:35",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "issn": "2302-3600",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Sandy",
+            "lineage": null,
+            "family": "Putra"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Arianto",
+            "given": "Agus",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Eko",
+            "lineage": null,
+            "family": "Efendi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Hasani",
+            "lineage": null,
+            "given": "Qadar"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Herman",
+            "family": "Yulianto",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "number": 2,
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "eprintid": 1847,
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1847",
+      "divisions": [
+        "FP21"
+      ],
+      "volume": 4,
+      "abstract": "Tujuan dari penelitian ini adalah untuk mempelajari pengaruh penggunaan kijing air tawar (Pilsbryoconcha exilis) terhadap perbaikan kualitas air dan laju pertumbuhan lele sangkuriang. Penelitian ini menggunakan Rancangan Acak Lengkap dengan empat perlakuan dan tiga ulangan. Penelitian menggunakan perbedaan jumlah hewan kijing air tawar yaitu 100, 150,  200 ekor\/ keranjang berukuran 0,6 m3 dan perlakuan kontrol yaitu tanpa menggunakan perlakuan sistem resirkulasi dan tanpa penambahan kijing air tawar. Parameter utama dalam penelitian ini adalah pertumbuhan ikan dan konsentrasi amoniak, dengan parameter pendukung antara lain yakni suhu, pH, dan oksigen terlarut. Hasil penelitian menunjukkan bahwa penambahan kijing air tawar berpengaruh terhadap pertumbuhan dan kelangsungan hidup ikan lele sangkuriang. Pertumbuhan mutlak tertinggi terdapat pada perlakuan 200 individu dengan berat 19.71 gr dan tingkat kelangsung hidup tertinggi terdapat perlakuan 200 individu (80.14 %). Hasil penelitian juga menunjukan bahwa penambahan kijing air tawar dengan jumlah yang berbeda memberikan pengaruh nyata terhadap penurunan amoniak. Berdasarkan hasil uji Beda Nyata Terkecil (BNT) perlakuan dengan penambahan kijing air tawar sebanyak 200 ekor\/ keranjang berukuran 0,6 m3merupakan perlakuan terbaik dalam penurunan amoniak pada sistem resirkulasi.",
+      "datestamp": "2017-05-29 08:07:35",
+      "full_text_status": "public",
+      "publication": "Jurnal Rekayasa Teknologi dan Budidaya Perairan",
+      "userid": 274,
+      "type": "article",
+      "date": "2016-02",
+      "documents": [
+          {
+            "main": 1253,
+            "mime_type": "application\/xml",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 12897,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12897",
+                  "filesize": 19356,
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-29 06:53:27",
+                  "hash": "4e3de8a98077d0256a03994129c7242a",
+                  "filename": 1253,
+                  "mime_type": "application\/xml",
+                  "objectid": 1699,
+                  "datasetid": "document"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1699",
+            "format": "text",
+            "docid": 1699,
+            "eprintid": 1847,
+            "language": "en",
+            "pos": 1,
+            "rev_number": 3
+          }
+      ],
+      "status_changed": "2017-05-29 08:07:35",
+      "pagerange": "497-506",
+      "rev_number": 10,
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/index",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/18\/47"
+    },
+    {
+      "issn": "0853-7291",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Ilmu Kelautan Universitas Diponegoro",
+      "lastmod": "2017-05-29 05:38:39",
+      "title": "pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok",
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Sabhan",
+            "lineage": null,
+            "family": "Sabhan"
+          },
+          "id": null
+        },
+        {
+          "id": "eko.efendi@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Eko",
+            "lineage": null,
+            "family": "Efendi"
+          }
+        },
+        {
+          "name": {
+            "given": "M Tri",
+            "lineage": null,
+            "family": "Hartanto",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Purwandani",
+            "given": "Andri"
+          }
+        }
+      ],
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1770",
+      "subjects": [
+        "GC"
+      ],
+      "eprintid": 1770,
+      "datestamp": "2017-05-29 05:35:02",
+      "volume": 1,
+      "full_text_status": "public",
+      "publication": "Indonesian Journal of Marine Science",
+      "userid": 274,
+      "type": "article",
+      "date": "2010-02",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2017-05-29 01:00:28",
+                  "hash_type": "MD5",
+                  "fileid": 12237,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12237",
+                  "filesize": 2871008,
+                  "filename": "1_pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 1633,
+                  "hash": "c84087f1f5e27256cee8e4db285b68ca"
+                }
+            ],
+            "placement": 1,
+            "main": "1_pemodelan pola sebaran tumpahan minyak yang berbeda di pelabuhan tanjung priok.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1633",
+            "eprintid": 1770,
+            "language": "en",
+            "docid": 1633
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/17\/70",
+      "rev_number": 14,
+      "official_url": "http:\/\/www.ik-ijms.com",
+      "pagerange": "77-86",
+      "status_changed": "2017-05-29 05:38:39"
+    },
+    {
+      "date": "2015-02",
+      "type": "article",
+      "userid": 274,
+      "publication": "Jurnal Rekayasa Teknologi dan Budidaya Perairan",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/00\/17\/80",
+      "ispublished": "pub",
+      "official_url": "http:\/\/jurnal.fp.unila.ac.id\/index.php\/bdpi\/index",
+      "rev_number": 9,
+      "pagerange": "417-422",
+      "status_changed": "2017-05-29 05:42:17",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 1780,
+            "content": "published",
+            "docid": 1644,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1644",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3,
+            "main": 655,
+            "files": [
+                {
+                  "fileid": 12340,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/12340",
+                  "filesize": 16354,
+                  "mtime": "2017-05-29 02:09:33",
+                  "hash_type": "MD5",
+                  "hash": "ec175193fe878e39ab136d64177a9646",
+                  "filename": 655,
+                  "mime_type": "application\/xml",
+                  "objectid": 1644,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/xml"
+          }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "number": 2,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Johanes",
+            "lineage": null,
+            "family": "Tarigan"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Rara",
+            "lineage": null,
+            "family": "Diantari",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Efendi",
+            "given": "Eko",
+            "honourific": null
+          },
+          "id": "eko.efendi@fp.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "issn": "2302-3600",
+      "publisher": "Jurusan Perikanan dan Kelautan",
+      "eprint_status": "archive",
+      "lastmod": "2017-05-29 05:42:17",
+      "title": "KAJIAN BIOLOGI IKAN TEMBAKANG (HELOSTOMA TEMMINCKII) DI RAWA BAWANG JUYEUW KABUPATEN TULANG BAWANG BARAT",
+      "related_url": [
+        {
+          "url": "https:\/\/scholar.google.co.id\/citations?user=HdDh-RQAAAAJ&hl=en",
+          "type": "author"
+        }
+      ],
+      "abstract": "Kajian perikanan pada tembakang (Helostoma temminckii) di Rawa Bawang Juyeuw Kabupaten Tulang Bawang Barat dilakukan untuk mempelajari potensi biologinya. Kajian ini diperlukan sebagai data dasar domestikasi tembakang sebagai ikan budidaya dan konservasi. Hasil penelitian menunjukkan bahwa waktu terbaik untuk penangkapan tembakang ukuran benih sampai dewasa adalah pada Maret sampai April dengan menggunakan jaring tancap yang tidak mematikan tembakang. Morfologi tembakang pada ukuran yang berbeda menunjukkan stok yang belum tereksploitasi dan layak dijadikan plasma nutfah perikanan tangkap dan budidaya yang berkelanjutan. Pada ukuran benih sampai dewasa isi pencernaan tembakang didominasi oleh plankton sebagai makanan utamanya. Masyarakat lokal disarankan untuk menjadikan tembakang sebagai alternatif sumber protein hewani selain ikan eksotis yang mulai banyak berkembang di Rawa Juyeuw.",
+      "datestamp": "2017-05-29 05:42:17",
+      "volume": 3,
+      "divisions": [
+        "FP21"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1780",
+      "subjects": [
+        "GC",
+        "SH"
+      ],
+      "eprintid": 1780
+    },
+    {
+      "dir": "disk0\/00\/03\/03\/90",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "pagerange": "40-48",
+      "status_changed": "2021-05-21 07:05:57",
+      "documents": [
+          {
+            "main": "2078-Article Text-6590-1-10-20210505.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "mtime": "2021-05-21 06:18:44",
+                  "hash_type": "MD5",
+                  "fileid": 360210,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/360210",
+                  "filesize": 341868,
+                  "mime_type": "application\/pdf",
+                  "filename": "2078-Article Text-6590-1-10-20210505.pdf",
+                  "objectid": 136661,
+                  "datasetid": "document",
+                  "hash": "05bd12599b760fbf79586af1b5dc23c6"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 136661,
+            "eprintid": 30390,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/136661",
+            "format": "text",
+            "rev_number": 2,
+            "pos": 1
+          }
+      ],
+      "date": "2021-04",
+      "type": "article",
+      "userid": 623,
+      "publication": "Journal of Tropical Marine Science",
+      "full_text_status": "public",
+      "datestamp": "2021-05-21 07:05:57",
+      "abstract": "Persepsi masyarakat di wilayah pesisir perkotaan terhadap ekosistem mangrove menjadi faktor penting dalam perencanaan strategi keberlanjutannya. Penelitian ini bertujuan untuk menjelaskan persepsi masyarakat terhadap hutan mangrove di Kelurahan Kota Karang, Kota Bandar Lampung. Pengumpulan data dilakukan dengan wawancara menggunakan kuisioner dan observasi. Data yang terkumpul dianalisis menggunakan Skala Likert dan selanjutnya dideskripsikan secara kuantitatif. Hasil penelitian menunjukkan bahwa 50 % persepsi masyarakat terhadap mangrove masuk ke dalam kategori sedang (netral). Kondisi ini terjadi akibat masyarakat cenderung ragu dalam menentukan sikap terhadap hutan mangrove. Faktor yang mempengaruhi persepsi masyarakat tersebut yaitu rendahnya pengetahuan, jenjang pendidikan, kesadaran dan ketersediaan waktu masyarakat, serta minimnya informasi mengenai hutan mangrove akibat belum optimalnya peran pemerintah dalam memberikan edukasi (penyuluhan). Pemerintah diharapkan dapat memberikan edukasi dan membuat kebijakan untuk meningkatkan kesadaran masyarakat akan pentingnya kelestarian hutan mangrove.",
+      "volume": 4,
+      "divisions": [
+        "FP5"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30390",
+      "subjects": [
+        "GC",
+        "GE",
+        "GF",
+        "GN",
+        "SD"
+      ],
+      "succeeds": 30385,
+      "eprintid": 30390,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "number": 1,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "chantika osfindra",
+            "family": "permata",
+            "lineage": null
+          }
+        },
+        {
+          "id": "ndaruforest57@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Iswandaru",
+            "given": "Dian",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Febryano",
+            "lineage": null,
+            "given": "Indra Gumay",
+            "honourific": null
+          },
+          "id": "indragumay@yahoo.com"
+        },
+        {
+          "id": "rudi.hilmanto@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hilmanto",
+            "lineage": null,
+            "given": "Rudi"
+          }
+        }
+      ],
+      "date_type": "published",
+      "issn": "2623-2235",
+      "publisher": "Fakultas Pertanian Perikanan dan Biologi, Universitas Bangka Belitung",
+      "eprint_status": "archive",
+      "lastmod": "2021-05-21 07:05:57",
+      "title": "PERSEPSI MASYARAKAT PESISIR KOTA BANDAR LAMPUNG TERHADAP HUTAN MANGROVE"
+    }
+]
+

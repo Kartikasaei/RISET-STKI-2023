@@ -1,0 +1,2067 @@
+[
+    {
+      "event_type": "conference",
+      "pres_type": "paper",
+      "event_location": "Yogyakarta",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 1685678,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248752",
+                  "fileid": 248752,
+                  "hash_type": "MD5",
+                  "mtime": "2021-02-17 02:05:06",
+                  "hash": "f998d6524e5bf2c2a099b725a29dce4f",
+                  "datasetid": "document",
+                  "objectid": 41900,
+                  "filename": "cover prosiding seminar akademik - barcode.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "cover prosiding seminar akademik - barcode.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "eprintid": 27915,
+            "language": "en",
+            "docid": 41900,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41900",
+            "format": "text"
+          },
+          {
+            "main": "isiProsiding.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "fff1df978965f77faa5b349efa2468cc",
+                  "mime_type": "application\/pdf",
+                  "filename": "isiProsiding.pdf",
+                  "datasetid": "document",
+                  "objectid": 41901,
+                  "fileid": 248754,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/248754",
+                  "filesize": 6824594,
+                  "mtime": "2021-02-17 02:06:17",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41901",
+            "language": "en",
+            "eprintid": 27915,
+            "docid": 41901,
+            "rev_number": 1,
+            "pos": 2
+          }
+      ],
+      "rev_number": 10,
+      "dir": "disk0\/00\/02\/79\/15",
+      "ispublished": "pub",
+      "status_changed": "2021-02-17 03:09:59",
+      "pagerange": "159-168",
+      "userid": 531,
+      "full_text_status": "public",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "contact_email": "mohammad.monaadha@fkip.unila.ac.id",
+      "type": "conference_item",
+      "date": "2021-02",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27915",
+      "event_title": "Seminar Virtual “Seni dan Media di Masa Pandemi Covid-19, ISI Yogyakarta",
+      "divisions": [
+        "FKIP12"
+      ],
+      "eprintid": 27915,
+      "subjects": [
+        "NX"
+      ],
+      "datestamp": "2021-02-17 03:09:59",
+      "abstract": "Pandemi Covid-19 membawa sejumlah dampak yang begitu signifikan dalam semua\r\nsektor, termasuk sektor industri seni dan musik. Baik berupa seni musik, seni tari, ataupun\r\nseni drama atau para pekerja seni sangat terdampak akan kondisi ini. Banyak agendaagenda karya seni yang sudah dijadwalkan oleh pihak terkait tetapi harus dibatalkan karena\r\nkondisi yang tidak memungkinkan untuk diadaknya sebuah panggung atau senin\r\npertunjukan. Artikel ini bertujuan untuk melihat bagaimana peran dari media sosial dalam\r\nmengeksistensikan karya seni musik dan seberapa efektifkah media sosial\r\nmengeksistensikan karya seni musik dimasa Pandemi Covid-19 sekarang ini. Metode yang\r\ndigunakan oleh penulis dalam hal ini adalah pengamatan. Pengamatan yaitu peninjauan\r\nsecara cermat atas apa yang akan diamati oleh penulis.. Hasil dalam artikel ini akan\r\nmembahas mengenai peran, media sosial, eksistensi, dan seni musik dimasa Pandemi\r\nCovid-19. Sementara rekomendasi dalam artikel ini berupa para seniman musik untuk\r\nselalu berkarya dan memanfaatkan media sosial sebagai sarana selalu menghibur\r\nmasyarakat dan tetap berkarya melalui halangan dan rintangan yang ada, serta komunitas\r\nmusik dan pemerintah daerah setempat harus mendukung dengan adanya upaya dari pelaku\r\nseniman musik.",
+      "date_type": "published",
+      "title": "PERAN MEDIA SOSIAL DALAM MENGEKSISTENSIKAN KARYA\r\nSENI MUSIK DI MASA PANDEMI COVID-19",
+      "lastmod": "2021-02-17 03:10:00",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Adha",
+            "lineage": null,
+            "given": "Muhammad Mona"
+          },
+          "id": "mohammad.monaadha@fkip.unila.ac.id"
+        },
+        {
+          "id": "ahmantosyhartino22@gmail.com",
+          "name": {
+            "given": "Ahman Tosy",
+            "lineage": null,
+            "family": "Hartino",
+            "honourific": null
+          }
+        }
+      ],
+      "referencetext": "Adha, M. M. (2015).\r\nMemformulasikan Dan\r\nMengimplementasikan 'Civic\r\nEngagement' Pada Perguruan\r\nTinggi Untuk Mengembangkan\r\nKehidupan Masyarakat\r\nIndonesia. Prosiding Seminar\r\nNasional 2015: 343-353.\r\nMalang: Fakultas Ilmu Sosial\r\nUniversitas Negeri Malang\r\nAdha, M. M., Hidayat, O. T., Susanto.\r\nE., Saylendra. N. P. ( 2018 )\r\nEsensi Jiwa Volunteerism\r\nWarga Negara Muda\r\nDieksplorasi Dari Perspektif\r\nKeterlibatan Volunteer Di\r\nDalam Festival. Prosiding\r\nSeminar Nasional Ppkn 2018\r\n“Seminar Nasional Penguatan\r\nNilai-Nilai Kebangsaan\r\nMelalui Pendidikan\r\nKewarganegaraan\r\nPersekolahan Dan\r\nKemasyarakatan”.\r\nAdha, M. M., & Susanto, E. ( 2020 )\r\nKekuatan Nilai-Nilai Pancasila\r\nDalam Membangun\r\nKepribadian Masyarakat\r\nIndonesia. Al-Adabiya: Jurnal\r\nKebudayaan Dan Keagamaan.\r\nVol. 15 No. 1\r\nAdha, M. M., Budimansyah, D.,\r\nKartadinata, S., & Sundawa, D.\r\n(2019a). Emerging\r\nVolunteerism For Indonesian\r\nMillennial Generation:\r\nVolunteer Participation And\r\nResponsibility. Journal Of\r\nHuman Behavior In The Social\r\nEnvironment, 1–17.\r\nAdha, M. M., Ulpa, E. P., Johnstone,\r\nJ. M., Cook, B. L. ( 2019 )\r\nPendidikan Moral Pada\r\nAktivitas Kesukarelaan\r\nWarga Negara Muda\r\n(Koherensi Sikap Kepedulian\r\nDan Kerjasama Individu). Journal Of Moral And Civic\r\nEducation, 3 (1)\r\nApjii. 2017. Infografis Penetrasi\r\nPengguna Internet Indonesia 2016\r\nAnisa Sulistiani. ( 2020 ). Media\r\nSosial Sebagai Ruang\r\nDemokrasi Bagi Generasi\r\nMilenial. E Prosiding Seminar\r\nNasional Pendidikan\r\nKewarganegaraan.\r\nHoroepoetri. Arimbi, Achmad. S.\r\n(2003) Peran Serta Masyarakat\r\nDalam Mengelola Lingkungan.\r\nJakarta :Walhi\r\nJuwana, H. ( 2002). Hukum Ekonomi\r\nDan Hukum Internasional.\r\nJakarta : Lentera Hati.\r\nLorens Bagus. (2005). Kamus\r\nFilsafat. Jakarta: Gramedia\r\nPustaka Utama\r\nNasrullah, R. (2016). Media Sosial:\r\nPerspektif Komunikasi,\r\nBudaya, Dan\r\nSosioteknologi.Bandung:\r\nSimbiosa Rekatama Media\r\nSoejono Soekanto. (2001) Sosiologi\r\nSebagai Pengantar. Jakarta: Pt\r\nRaja Grafindo Persada\r\nSoerjono Soekanto. ( 2002) Sosiologi\r\nSuatu Pengantar, Jakarta :\r\nRajawali Press\r\nSarwono. (2002) Psikologi Sosial\r\nIndividu Dan Teori-Teori\r\nPsikologi Sosial. Jakarta : Balai\r\nPustaka\r\nWidhyatama. (2012). Pola Imbal\r\nGamelan Bali Dalam\r\nKelompok Musik Perkusi\r\nCooperland Di Kota Semarang.\r\nJurnal Seni Musik. Vol.1. No.1"
+    },
+    {
+      "volume": 6,
+      "datestamp": "2022-01-07 01:10:28",
+      "abstract": "Penelitian ini bertujuan untuk mengetahui dan mendeskripsikan persepsi siswa SMA di Bandar Lampung terhadap pemanfaatan media sosial sebagai platform seni pertunjukan virtual. Metode penelitian yang digunakan adalah metode penelitian kuantitatif. Teknik pengumpulan data menggunakan teknik one shoot\/pengukuran yang dilakukan satu kali. Instrumen pengumpulan data menggunakan angket\/kuisioner dengan skala likert 1-5. Data dianalisis menggunakan statistik deskriptif. Hasil penelitian menunjukkan bahwa sebagian besar siswa SMA di Bandar Lampung memiliki persepsi yang cukup baik terhadap pemanfaatan media sosial sebagai platform seni pertunjukan virtual. Dari 372 responden, sebanyak 154 atau 41,40% responden memiliki persepsi yang baik, 192 atau 51,61% responden memiliki persepsi cukup baik, 19 atau 5,11% responden memiliki persepsi kurang baik, dan 7 atau 1,88% responden memiliki persepsi tidak baik. Persepsi siswa dalam penelitian ini dipengaruhi oleh beberapa faktor diantaranya adalah faktor minat, sikap, motivasi, apresiasi, dan harapan. Faktor minat, sikap, dan motivasi berada pada kategori “Cukup Baik”, dengan persentase 58,87%; 59,41%; dan 49,46%; sedangkan faktor apresiasi dan harapan berada pada kategori “Baik” dengan persentase 61,83%; dan 81,99%.\r\n\r\nKata Kunci: persepsi siswa, seni pertunjukan virtual, media sosial.",
+      "eprintid": 37724,
+      "subjects": [
+        "L1",
+        "NX"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37724",
+      "divisions": [
+        "FKIP25"
+      ],
+      "creators": [
+        {
+          "id": "afrizal.yudha@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Yudha",
+            "family": "Afrizal Yudha Setiawan",
+            "lineage": null
+          }
+        },
+        {
+          "id": "nabilla.kurnia@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Nabilla",
+            "family": "Nabilla Kurnia Adzan",
+            "lineage": null
+          }
+        },
+        {
+          "id": "ricky.warman@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ricky Warman Putra",
+            "given": "Ricky Warman Putra"
+          }
+        }
+      ],
+      "number": 2,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "title": "PERSEPSI SISWA SMA DI BANDAR LAMPUNG TERHADAP PEMANFAATAN MEDIA SOSIAL SEBAGAI PLATFORM SENI PERTUNJUKAN VIRTUAL",
+      "lastmod": "2022-01-07 01:10:28",
+      "eprint_status": "archive",
+      "publisher": "Fakultas Keguruan dan Ilmu Pendidikan Universitas Sultan Ageng Tirtayasa",
+      "issn": "2503-4626",
+      "status_changed": "2022-01-07 01:10:28",
+      "pagerange": "177-190",
+      "official_url": "https:\/\/jurnal.untirta.ac.id\/index.php\/JPKS\/article\/view\/12902",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/77\/24",
+      "documents": [
+          {
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/430013",
+                  "fileid": 430013,
+                  "filesize": 580095,
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-06 14:14:08",
+                  "hash": "c4fd0f5f52d778d0cdab88c2b080c9f4",
+                  "filename": "Persepsi Siswa SMA di Bandar Lampung terhadap Pemanfaatan Media Sosial.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 158652
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Persepsi Siswa SMA di Bandar Lampung terhadap Pemanfaatan Media Sosial.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "language": "en",
+            "eprintid": 37724,
+            "docid": 158652,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158652",
+            "format": "text"
+          }
+      ],
+      "type": "article",
+      "date": "2021-10",
+      "full_text_status": "public",
+      "publication": "Jurnal Pendidikan dan Kajian Seni",
+      "userid": 2826
+    },
+    {
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/07\/70",
+      "rev_number": 8,
+      "status_changed": "2022-03-30 09:35:26",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162145",
+            "format": "text",
+            "docid": 162145,
+            "language": "en",
+            "eprintid": 40770,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-30 04:30:47",
+                  "filesize": 4594706,
+                  "fileid": 453528,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/453528",
+                  "objectid": 162145,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Buku Graha Ilmu Fitri-compressed (1).pdf",
+                  "hash": "f75d42fdd931ee7e10d053145d95d6d8"
+                }
+            ],
+            "main": "Buku Graha Ilmu Fitri-compressed (1).pdf"
+          }
+      ],
+      "type": "book",
+      "full_text_status": "public",
+      "userid": 804,
+      "contact_email": "fitri.daryanti@fkip.unila.ac.id",
+      "datestamp": "2022-03-30 09:35:26",
+      "divisions": [
+        "FKIP25"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40770",
+      "subjects": [
+        "L1",
+        "NX"
+      ],
+      "eprintid": 40770,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "Daryanti",
+            "lineage": null,
+            "given": "Fitri",
+            "honourific": null
+          },
+          "id": "fitri.daryanti@fkip.unila.ac.id"
+        }
+      ],
+      "publisher": "graha ilmu",
+      "eprint_status": "archive",
+      "title": "Nyambai Sebuah Bentuk Seni Pertunjukan Masyarakat Adat Saibatin di Pesisir Lampung",
+      "lastmod": "2022-03-30 09:35:26"
+    },
+    {
+      "lastmod": "2020-08-19 08:04:43",
+      "title": "Education Dance Between Hope and Reality",
+      "eprint_status": "archive",
+      "event_dates": "27 April 2013",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "Dwiyana.Habsary@fkip.unila.ac,id",
+          "name": {
+            "given": "Dwiyana",
+            "family": "Dwiyana Habsary",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprintid": 23675,
+      "subjects": [
+        "NX"
+      ],
+      "event_title": "ASEAN Fine Arts Symposium",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23675",
+      "divisions": [
+        "FKIP25"
+      ],
+      "datestamp": "2020-08-19 08:04:43",
+      "abstract": "Interaction is key element in the formation of identity. Through the process of interaction, a person will be able to knows his character. Individuals in the gorup knowing the process will be easier than removing members from the group. In line with this arguments, the paper describes how it is applied to the process of learning, espeacially dance. Learning through dance is expected to bring together with integrated cognitive, motor, and afective. Efforts to integrate the three domains should be assisted with a concept, while the concept is ever emerging education dance. During this dance leasons emphasize on dance form that are sometime incompatible with the childs age. This can lead to selfisness and selfconfidance in children. Unlike the education dance that gives student to opportunity to be creative and get to know the environment. Through edocation dance, teachers and student are requared to be active and creative.",
+      "full_text_status": "public",
+      "userid": 225,
+      "date": "2013-04-27",
+      "type": "conference_item",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37306",
+            "docid": 37306,
+            "language": "en",
+            "eprintid": 23675,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "prosiding. AFAS.pdf",
+                  "datasetid": "document",
+                  "objectid": 37306,
+                  "hash": "6337cd8122c531e5364d5d5de5a96d8e",
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-19 07:34:46",
+                  "fileid": 216168,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/216168",
+                  "filesize": 6444264
+                }
+            ],
+            "main": "prosiding. AFAS.pdf"
+          }
+      ],
+      "pres_type": "paper",
+      "event_type": "conference",
+      "event_location": "Bangkok, Thailand",
+      "status_changed": "2020-08-19 08:04:43",
+      "pagerange": "92-99",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/36\/75"
+    },
+    {
+      "date_type": "published",
+      "issn": "2797-2151",
+      "lastmod": "2022-10-29 11:25:16",
+      "title": "Capturing Resonance: Mapping Regional Music Research of Lampung for Culture-Based Educational Policy",
+      "eprint_status": "archive",
+      "publisher": "LPPM University of Lampung",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Hidayatullah",
+            "lineage": null,
+            "given": "Riyan",
+            "honourific": null
+          },
+          "id": "riyanhidayat28@gmail.com"
+        }
+      ],
+      "number": 2,
+      "referencetext": "Barnawi, E. (2013). Talo balak Lampung [Webpage]. Retrieved 9 July 2020, from https:\/\/www.youtube.com\/watch?v=ZDgm8BEaLv0\r\nBarnawi, E. (2017). Eksistensi gitar klasik Lampung tulang bawang dan pengembangannya. In N. Y. Ariyanti, E. S. Agustina, S. R. Sulistyanti, Hartoyo, E. Suroso, & Sumaryo (Eds.), Prosiding kegiatan ilmiah tingkat nasional kearifan lokal dalam dinamika masyarakat multikultural (pp. 267–279). Bandar Lampung: LPPM Universitas Lampung.\r\nBarnawi, E., & Hasyimkan. (2019). Alat musik perunggu Lampung. Yogyakarta, Indonesia: Graha Ilmu.\r\nBarnawi, E., Hasyimkan, H., & Hernanda, A. H. (2020). Sistem pelarasan gitar klasik Lampung Pepadun. Jurnal Warna, 4(1), 78–92.\r\nBarnawi, E., Pamungkas, B., Prayoga, M. R. D., & Yoga, M. (2021). Gitar klasik Lampung Pesisir: Pola permainan dan sistem penalaannya. Journal of Music Science, Technology, and Industry, 4(2), 233–249.\r\nBatin, M., Hidayatullah, R., Barnawi, E., A, I. G. N., Nugroho, W., Saputra Nugraha, R. aditya, … Zopi, M. (2018). Notasi pembelajaran musik tradisional gamolan pekhing Sekala Brak Lampung. Bandar Lampung: Aura: CV. Anugrah Utama Raharja.\r\nBlacking, J. (2000). How musical is man? (6th ed.). Seattle: University of Washington Press.\r\nBooth, A., Sutton, A., & Papaioannou, D. (2016). Systematic approaches to a successful literature review (Second edition). Los Angeles: Sage.\r\nDewey, J. (1902). The school as social centre. He Elementary School Teacher, 3(2), 73–86.\r\nDiana, N. (2012). Manajemen Pendidikan berbasis budaya lokal Lampung (Analisis eksploratif mencari basis filosofis). Analisis: Jurnal Studi Keislaman, 12(1), 183–208. Retrieved from https:\/\/doi.org\/10.24042\/ajsk.v12i1.636\r\nDisdikbud Provinsi Lampung. (2021). Dinas Pendidikan dan Kebudayaan Provinsi Lampung membutuhkan 38 (tiga puluh delapan) orang sarjana untuk Lampung mengajar tahun 2021 | Disdikbud Provinsi Lampung [Webpage]. Retrieved 18 January 2022, from https:\/\/disdikbud.lampungprov.go.id\/perencanaan\/berita-2270-Dinas-Pendidikan-Dan-Kebudayaan-Provinsi-Lampung-Membutuhkan-38--Tiga-Puluh-Delapan--Orang-Sarjana-Untuk-Lampung-Mengajar-Tahun-2021-.html\r\nFeld, S. (1984). Sound structure as social structure. Ethnomusicology, 28(3), 383. Retrieved from https:\/\/doi.org\/10.2307\/851232\r\nHadikusuma, H. (1990). Masyarakat dan adat budaya Lampung. Bandung: Mandar Maju.\r\nHadikusuma, H., Barusman, & Arifin, R. (1977). Adat istiadat daerah Lampung. Jakarta: Departemen Pendidikan dan Kebudayaan Pusat Penelitian Sejarah dan Budaya Proyek Penelitian dan Pencatatan Kebudayaan Daerah. Retrieved from http:\/\/repositori.kemdikbud.go.id\/12108\/\r\nHallam, S., Cross, I., & Thaut, M. (Eds.). (2015). The Oxford handbook of music psychology (Second edition). New York, NY: Oxford University Press.\r\nHalloway, M. S. (2004). The Use of Cooperative Action Learning to Increase Music Appreciation Students’ Listening Skills. College Music Symposium, 44, 83–93.\r\nHasyimkan. (2011). Gamolan: Instrumen musik tradisional lampung bentuk, fungsi, dan perkembangannya (Master Thesis). Universitas Gadjah Mada, Yogyakarta. Retrieved 16 April 2020 from http:\/\/opac.lib.ugm.ac.id\/index.php?mod=penelitian_detail&sub=PenelitianDetail&act=view&typ=html&buku_id=1021030&obyek_id=4\r\nHasyimkan. (2017). Gamolan: Instrumen musik tradisional Lampung warisan budaya dunia. In N. Y. Ariyanti, E. S. Agustina, S. R. Sulistyanti, Hartoyo, E. Suroso, & Sumaryo (Eds.), Prosiding kegiatan ilmiah tingkat nasional kearifan lokal dalam dinamika masyarakat multikultural (pp. 252–259). Bandar Lampung: LPPM Universitas Lampung.\r\nHasyimkan, & Hidayatullah, R. (2020). Gamolan dan hadrah. Yogyakarta, Indonesia: Graha Ilmu.\r\nHidayatullah, R. (2019a). Bahasa dalam pembelajaran musik: Metode kodály sebagai alat untuk berkomunikasi dalam ansambel. AKSARA: Jurnal Bahasa Dan Sastra, 20(1), 25–34. Retrieved from https:\/\/doi.org\/DOI: http:\/\/dx.doi.org\/10.23960\/aksara\/v20i1.pp25-34\r\nHidayatullah, R. (2019b). Kelas daring: Metode pembelajaran gitar tunggal Lampung. In Viyanti, I. Rakhmawati, R. Anggreini, & A. H. Saputri (Eds.), Prosiding Seminar Nasional Pendidikan Fakultas Keguruan dan Ilmu Pendidikan “Transformasi Pendidikan Abad 21 Menuju Society 5.0” (pp. 606–613). Bandar Lampung: FKIP Unila. Retrieved from http:\/\/semnaspend.fkip.unila.ac.id\/2019\/08\/14\/prosid\/\r\nHidayatullah, R. (2021a). Gamolan pekhing musical notation: Denoting musical sound in local style. In M. U. Wafa (Ed.), Proceeding Book of International Conference On Music And Culture (ICOMAC) (pp. 62–76). Semarang: Jurusan Sendratasik Fakultas Bahasa dan Seni UNNES. Retrieved from sendratasik.unnes.ac.id\r\nHidayatullah, R. (2021b). Komunikasi musikal dalam konser “musik untuk republik”. Tonika: Jurnal Penelitian Dan Pengkajian Seni, 4(2), 145–160. Retrieved from https:\/\/doi.org\/10.37368\/tonika.v4i2.254\r\nHidayatullah, R., Jazuli, M., & Syarif, M. I. (2021). The identity construction through music notation of the indigenous style of gitar tunggal Lampung Pesisir. Harmonia: Journal of Arts Research and Education, 21(2), 303–317. Retrieved from https:\/\/doi.org\/10.15294\/harmonia.v21i2.30253\r\nHidayatullah, R., & Putrawan, G. E. (2016). Integrated Learning of Lampungnese Tradition Music. Presentation on 1st International Conference SHIELD November 2-3, 2016, Lampung.\r\nHidayatullah, R., & Tejapermana, P. (2020). Kelas gitar akustik berbasis pembelajaran kooperatif. Gondang: Jurnal Seni dan Budaya, 4(2), 137–143. Retrieved from https:\/\/doi.org\/10.24114\/gondang.v4i2.18676\r\nHornbostel, E. V., & Kjeld, P. V. (2011). Ethnomusicology, Hornbostel-Sachs, musical Instrument classification, Curt Sachsm. United States of America: Chrono Press.\r\nIrawan, R. (2008). Gambus Lampung Pesisir dan sistem musiknya: Kajian musikologis fenomena maqam dalam musik gambus masyarakat Lampung Pesisir (Thesis). Institut Seni Indonesia Yogyakarta, Yogyakarta.\r\nIrawan, R. (2013). Deep structure pada peting gambus dan gitar Lampung Pesisir (Master Thesis). Pasca Sarjana Kajian Musik Nusantara, Institut Seni Indonesia Surakarta, Surakarta, Jawa Tengah.\r\nIrawan, R. (2020). Terminologi gambus dalam spektrum musik di Indonesia. Journal of Music Science, Technology, and Industry, 3(1), 25–41. Retrieved from https:\/\/doi.org\/10.31091\/jomsti.v3i1\r\nIrawan, R. (2021, December). Aktor lokal, industri rekaman musik, dan musik popular daerah Lampung: Peran dan kontribusi Hila Hambala pada lanskap musik popular daerah Lampung. Presentation, Monash University. Retrieved from https:\/\/www.youtube.com\/watch?v=425zxAJWCmk\r\nIrawan R, R. (2016). Ritme inti pada gambus dan gitar Lampung Pesisir: Sebuah kajian transformasi musikal. In M. Widodo, U. Suparman, Sumarti, & E. S. Agustina (Eds.), Prodising Konferensi Internasional VI, Bahasa, Sastra, dan Budaya Daerah Indonesia (pp. 461–472). Bandar Lampung: Program Studi Magister Pendidikan Bahasa, Sastra, dan Daerah (MPBSD) Fakultas Keguruan dan Ilmu PendidikanUniversitas Lampung.\r\nKayam, U. (1981). Seni, tradisi, masyarakat. Jakarta: Sinar Harapan.\r\nKunst, J. (1960). Supplement to the third edition of Ethnomusicology. Dordrecht: Springer Netherlands. Retrieved 27 October 2019 from http:\/\/public.ebookcentral.proquest.com\/choice\/publicfullrecord.aspx?p=3105348\r\nKunst, J. (1974). Ethnomusicology: A study of its nature, its problems, methods and representative personalities to which is added a bibliography (3rd ed.). Dordrecht: Springer Netherlands. Retrieved 27 October 2019 from http:\/\/public.ebookcentral.proquest.com\/choice\/publicfullrecord.aspx?p=3103785\r\nKurniawan, A., & Djohan, D. (2017). Musik gamolan, latihan untuk menumbuhkan relasi sosial. Resital: Jurnal Seni Pertunjukan (Journal of Performing Arts), 18(3), 159–167. Retrieved from https:\/\/doi.org\/10.24821\/resital.v18i3.2045\r\nMells, R. L. (1994). The identification of underlying cultural assumptions in an effective school. In Document Resume (pp. 1–19). NewOrleans, LA. Retrieved 18 January 2022 from https:\/\/eric.ed.gov\/?id=ED374522\r\nMerriam, A. P. (1964). The anthropology of music. United States of America: Northwestern University Press.\r\nMisthohizzaman. (2006). Gitar klasik Lampung: Musik dan identitas masyarakat Tulang Bawang (Tesis). Universitas Gadjah Mada, Yogyakarta.\r\nNettl, B. (1964). Theory and method ethnomusicology. New York: Free Press of Glencoe.\r\nNettl, B. (1983). The Study of Ethnomusicology (New, Vol. 7). Urbana and Chicago: University of Illinois Press. Retrieved 27 October 2019 from https:\/\/www.jstor.org\/stable\/780225?origin=crossref\r\nPamungkas, B., Prasetyo, H., & Kartika, A. (2021). Analisis hermeneutik lirik lagu gitar tunggal pada masyarakat Lampung Pesisir. Journal of Music Education And Performing Arts, 1(2), 32–40.\r\nPost, J. C. (Ed.). (2018). Ethnomusicology: A contemporary reader. Volume II. New York: Routledge, Taylor & Francis Group.\r\nRice, T. (2014). Ethnomusicology: A very short introduction. New York: Oxford University Press.\r\nRoveneldo, & Barnawi, E. (2021). Kesenian gitar klasik Lampung Tulang Bawang dalam kajian semantik dan musikologi. (J.H. Matanggui & As.R. Idris,Eds.), LIPI PRESS (Cetakan Pertama). Jakarta: LIPI Press. Retrieved 4 October 2021 from https:\/\/doi.org\/10.14203\/press.260\r\nSetiawan, A. Y., Habsary, D., & Bulan, I. (2021). The impact of social media in piano practice online learning in the Covid-19 pandemic period. Jurnal Seni Musik, 10(2), 109–116. Retrieved from https:\/\/doi.org\/10.15294\/jsm.v10i2.47465\r\nSingh, N. K., & Espinoza-Herold, M. (2014). Culture-based education: lessons from indigenous education in the U.S. and Southeast Asia. NABE Journal of Research and Practice, 5(1), 7–39. Retrieved from https:\/\/doi.org\/10.1080\/26390043.2014.12067773\r\nTejapermana, P., & Hernanda, A. H. (2021). Eksistensi pertunjukkan orkes gambus di Kenali Lampung Barat. Journal of Music Education And Performing Arts, 1(2), 1–13.\r\nTejapermana, P., & Hidayatullah, R. (2020). Critical view on the existence of gambus tunggal Lampung: Promoting collaborative working between artists and stakeholders. Harmonia: Journal of Arts Research and Education, 20(2), 176–182. Retrieved from https:\/\/doi.org\/10.15294\/harmonia.v20i2.25144\r\nTejapermana, P., & Runasari, R. (2019). Pengembangan model pembelajaran musik melalui pemanfaatan gamolan Lampung untuk siswa SD di Bandar Lampung. Terampil: Jurnal Pendidikan dan Pembelajaran Dasar, 5(2), 223–238. Retrieved from https:\/\/doi.org\/10.24042\/terampil.v5i2.3185\r\nTrihasnanto, A. (2016). Eksistensi gamolan di masyarakat Kota Bandar Lampung melalui internalisasi dan sosialisasi. Terampil: Jurnal Pendidikan dan Pembelajaran Dasar, 3(2), 1–20.\r\nTriyanto. (2014). Pendidikan seni berbasis budaya. Jurnal Imajinasi, 7(1), 33–42.\r\nTriyanto. (2017). Art education based on local wisdom. In E. T. Sulityo, D. A. Nugraha, & S. Ali (Eds.), Proceeding of 2nd International Conference of Arts Language And Culture (pp. 33–39). Surakarta: Program Studi S2 Pendidikan Seni Pascasarjana Universitas Sebelas Maret Surakarta. Retrieved from https:\/\/doi.org\/10.20961\/proceedingicalc.v2i1.16050\r\nWadiyo. (2003). Teori dan masalah penjelman seni dalam perspektf sosio-kultural. Harmonia: Journal of Arts Research and Education, 4(3). Retrieved 13 November 2021 from https:\/\/doi.org\/10.15294\/harmonia.v4i3.727",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46037",
+      "eprintid": 46037,
+      "subjects": [
+        "JA",
+        "L1",
+        "M1",
+        "ML",
+        "MT",
+        "NX",
+        "Z665"
+      ],
+      "volume": 2,
+      "abstract": "Music research in Lampung is expanding in a variety of ways. The abundance of local music data promotes basic notions regarding music research to be developed further. This page looks into research literature sources focusing on Lampung music and cultural research. Journal library sources and conference presentations are employed to develop research proposals carried out. The goal is to map out music research concerning cultural promotion and education strategies based on Lampung culture. Mapping regional music is a preliminary study used to select the next level of research. The literature study revealed several opportunities for regional music research, both within the frameworks of music education, musicology and ethnomusicology. Music research is a broad area that can be tackled from various perspectives. The more significant the impact on music literacy in Lampung, the broader academics' perspective identifies potential music study themes. Lampung is home to many social and musical phenomena that have yet to be thoroughly investigated.",
+      "datestamp": "2022-10-29 11:25:16",
+      "userid": 1136,
+      "publication": "Journal of Advance in Social Sciences and Policy",
+      "full_text_status": "public",
+      "contact_email": "riyan.1002@fkip.unila.ac.id",
+      "type": "article",
+      "date": "2022-10-28",
+      "id_number": "https:\/\/doi.org\/10.23960\/jassp.v2i2.64",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 509445,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/509445",
+                  "filesize": 244707,
+                  "hash_type": "MD5",
+                  "mtime": "2022-10-28 06:42:42",
+                  "hash": "6e8a2d15236b65ecb5f366f92b82ecff",
+                  "mime_type": "application\/pdf",
+                  "filename": "64-Article Text-536-1-10-20221028.pdf",
+                  "datasetid": "document",
+                  "objectid": 184862
+                }
+            ],
+            "main": "64-Article Text-536-1-10-20221028.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/184862",
+            "docid": 184862,
+            "language": "en",
+            "eprintid": 46037
+          }
+      ],
+      "rev_number": 12,
+      "official_url": "https:\/\/jassp.lppm.unila.ac.id\/index.php\/jassp\/article\/view\/64",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/60\/37",
+      "status_changed": "2022-10-29 11:25:16",
+      "pagerange": "36-46"
+    },
+    {
+      "date_type": "published",
+      "title": "Diskursus Pendidikan Seni Hari Ini: Pendidikan Seni Di Era Digital",
+      "lastmod": "2020-08-31 01:56:18",
+      "eprint_status": "archive",
+      "publisher": "Quantum",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Riyan",
+            "family": "Hidayatullah",
+            "lineage": null
+          }
+        }
+      ],
+      "referencetext": "Banks, J. A., & Banks, C. A. M. (2009). Multicultural\r\neducation: Issues and perspectives (7th ed.). United\r\nStates of America: John Wiley & Sons.\r\n\r\nBBC News Indonesia. (2019, October 26). V-Tubers, saingan\r\nbaru para YouTuber dan berita teknologi terbaru\r\nlain—CLICK | BBC News Indonesia—YouTube\r\n[Online]. Retrieved November 2, 2019, from V-Tubers,\r\nsaingan baru para YouTuber dan berita teknologi\r\nterbaru lain website: https:\/\/www.youtube.com\/\r\nwatch?v=aMcset6o2SM\r\n\r\ndeNoyelles, A., & Seo, K. K. (2011). Understanding\r\ncommunication processes in a 3d online social virtual\r\nworld. In Teaching arts and science with the new\r\nsocial media. Retrieved from http:\/\/www.myilibrary.\r\ncom?id=305529\r\n\r\nDewantara, K. H. (1977). Pendidikan (2nd ed.). Yogyakarta:\r\nMajelis Luhur Persatuan Taman Siswa.\r\n\r\nDiamandis, P. H., & Kotler, S. (2012). Abundance: The\r\nfuture is better than you think. Retrieved from www.\r\nSimonandSchuster.com\r\n\r\nDuffy, P. (2008). Engaging the youtube google-eyed generation:\r\nStrategies for using web 2.0 in teaching and learning.\r\nElectronic Journal of E-Learning, 6(2), 119–130.\r\n\r\nGodwin-Jones, R. (2007). Digital Video Update: YouTube,\r\nflash, high-definition [Online]. Retrieved November\r\n9, 2019, from AllBusiness.com website: https:\/\/www.\r\nallbusiness.com\/technology\/4051526-1.html\r\n\r\nHanley, G. L. (2015). MOOCs, MERLOT, and open educational\r\nservices. In C. J. Bonk, M. M. Lee, T. C. Reeves, & T. H.\r\n\r\nReynolds (Eds.), MOOCs and open education around\r\nthe world (pp. 33–40). New York: Routledge.\r\n\r\nHuda, F. A. (2017, April 9). Taksonomi Bloom. Retrieved\r\nOctober 27, 2019, from Fatkhan.web.id website: http:\/\/\r\nfatkhan.web.id\/taksonomi-bloom\/\r\n\r\nMayoral, P., Tello, A., & Gonzalez, J. (2010, April). Youtube\r\nbased learning. Proceeding presented at the FIG\r\nCongress 2010 Facing the Challenges, Sydney, Australia.\r\nRetrieved from http:\/\/www.fig.net\/pub\/fig2010\/papers\/\r\nts07g\/ts07g_mayoralvaldivia_tellomoreno_et_al_4098.\r\npdf\r\n\r\nMERLOT [Education]. (2019, December 9). Retrieved December\r\n9, 2019, from MERLOT website: https:\/\/www.merlot.\r\norg\/merlot\/materials.htm?keywords=music&sort.\r\nproperty=relevance\r\n\r\nNEA. (n.d.). Retrieved October 27, 2019, from NEA website:\r\nhttps:\/\/www.arts.gov\/\r\n\r\nParker, D. H. (2004). The principles of aesthetics (10th ed.).\r\nUnited States of America: Appleton-Century-Crofts.\r\nSukarlan, A. (2019, May 25). Mengapa Pendidikan Seni\r\nBisa Mencegah Radikalisme. Retrieved October 27,\r\n2019, from Media Kritis Anak Bangsa website: https:\/\/\r\nserikatnews.com\/mengapa-pendidikan-seni-bisamencegah-\r\nradikalisme\/\r\n\r\nSuter, W. N., & Suter, P. M. (2018). Understanding plagiarism.\r\nHome Health Care Management & Practice, 30(4),\r\n151–154. https:\/\/doi.org\/10.1177\/1084822318779582\r\n\r\nTriyanto. (2017). Spirit ideologis pendidikan seni.\r\nSemarang: Cipta Prima Nusantara Semarang.\r\n\r\nUNESCO. (2006, March 6). Road map for arts education.\r\nPresented at the The World Conference On Arts\r\nEducation: Building Creative Capacities For The 21st\r\nCentury, Lisbon.\r\n\r\nWankel, C. (2011). New dimensions of communicating with\r\nstudents: Introduction to teaching arts and science with\r\nthe new social media. In Teaching arts and science\r\nwith the new social media. Retrieved from http:\/\/\r\nwww.myilibrary.com?id=305529",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23800",
+      "divisions": [
+        "FKIP25"
+      ],
+      "eprintid": 23800,
+      "subjects": [
+        "L1",
+        "M1",
+        "ML",
+        "MT",
+        "NX"
+      ],
+      "book_title": "Diskursus Pendidikan Seni Hari Ini",
+      "volume": 1,
+      "datestamp": "2020-08-31 01:56:18",
+      "abstract": "Pendidikan seni sebagai sebuah disiplin ilmu,\r\nmeniscayakan posisinya dalam peta ilmu pengetahuan\r\nsebagai bidang yang dapat dikaji dari aspek ontologis,\r\nepistemolgis, dan aksiologis. Sebagai ilmu pengetahuan yang\r\nberada pada rumpun ilmu-ilmu humaniora, secara ontologis,\r\npendidikan seni mempersoalkan hakikat keberadaan seni\r\nsebagai media pendidikan dengan tujuan untuk membentuk\r\nsegi-segi manusia dan kemanusiaan yang memiliki kepekaan\r\nestetik dan kemampuan artistik melalui kegiatan kreatif,\r\nekspresif, dan apresiatif. Dalam perspektif epistemologis,\r\npendidikan seni memerlukan suatu strategi dan\/atau metode\r\nyang bersifat paradigmatis untuk mewujudkan tujuan tersebut.\r\nSementara itu, secara aksiologis, tak dapat dinafikan bahwa\r\nmelalui pendidikan seni, dapat diperoleh manfaat berupa\r\nnilai-nilai yang berorientasi pada upaya memanusiakan\r\nmanusia seutuhnya sebagai mahluk yang memiliki kapasitas\r\nkreatif dan kesadaran budaya. Dengan demikian, pendidikan\r\nseni sebagai ilmu pengetahuan, bukanlah sekadar urusan yang\r\nhanya mengusung hal-hal teknis pembelajaran di kelas semata,\r\ntetapi ia perlu dilihat dan dipahami secara holistik pada ranah\r\nfilosofis-ideologis, paradigmatis, dan aksiologisnya.\r\nDalam kerangka itulah, saya melihat dan memahami\r\nbuku yang berjudul “Diskursus Pendidikan Seni Hari Ini” yang\r\nditulis oleh para mahasiswa Program Doktor Pendidikan Seni\r\nPascasarjana Universitas Negeri Semarang angkatan tahun\r\n2019. Tulisan dalam buku ini sesungguhnya hasil kreativitas\r\nakademik mahasiswa yang bersumber dari tugas pembuatan\r\nmakalah dalam “Mata Kuliah Isu dan Paradigma dalam\r\nPendidikan Seni”. Judul dan uraian yang dipaparkan oleh\r\nsetiap penulis dalam buku ini, sekurang-kurangnya berisi\r\ngagasan-gagasan yang berorientasi pada isu-isu yang bersifat\r\nfilosofis-ideologis, paradigmatis, dan aksiologis tentang\r\npendidikan seni. Hal ini, tentu, relevan dengan kapasitasnya\r\nsebagai mahasiswa calon doktor pendidikan seni.",
+      "pages": 218,
+      "full_text_status": "public",
+      "userid": 1136,
+      "contact_email": "riyan.1002@fkip.unila.ac.id",
+      "isbn": "978-602-5908-20-0",
+      "date": "2020-08",
+      "type": "book_section",
+      "documents": [
+          {
+            "main": "Chapter Diskursus Pendidikan Seni (Pendidikan Seni di Era Digital).pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 1250539,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217195",
+                  "fileid": 217195,
+                  "mtime": "2020-08-29 15:32:55",
+                  "hash_type": "MD5",
+                  "hash": "4ce92416dadae105150ea640cdcdcb33",
+                  "objectid": 37434,
+                  "datasetid": "document",
+                  "filename": "Chapter Diskursus Pendidikan Seni (Pendidikan Seni di Era Digital).pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 37434,
+            "language": "en",
+            "eprintid": 23800,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37434",
+            "format": "text",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "rev_number": 11,
+      "ispublished": "pub",
+      "place_of_pub": "Yogyakarta",
+      "dir": "disk0\/00\/02\/38\/00",
+      "status_changed": "2020-08-31 01:56:18",
+      "pagerange": "129-153"
+    },
+    {
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 440849,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/440849",
+                  "filesize": 777070,
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-08 17:49:36",
+                  "hash": "30a0d9145c48bdaadad5750f6ee431f8",
+                  "mime_type": "application\/pdf",
+                  "filename": "aproval-ESTETIKA SENI.pdf",
+                  "objectid": 160388,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "aproval-ESTETIKA SENI.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "eprintid": 39095,
+            "language": "en",
+            "docid": 160388,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160388",
+            "format": "text"
+          }
+      ],
+      "status_changed": "2022-02-09 01:22:33",
+      "place_of_pub": "Yogyakarta",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/90\/95",
+      "rev_number": 8,
+      "contact_email": "riyan.1002@fkip.unila.ac.id",
+      "full_text_status": "public",
+      "userid": 1136,
+      "pages": 184,
+      "isbn": "978-602-60636-1-8",
+      "date": "2016-09-13",
+      "type": "book",
+      "subjects": [
+        "N1",
+        "NX"
+      ],
+      "eprintid": 39095,
+      "divisions": [
+        "FKIP25"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39095",
+      "datestamp": "2022-02-09 01:22:33",
+      "abstract": "Buku ini berisi tentang pemahaman estetika seni dari berbagai sudut pandang dan filsafat seni, nilai-nilai keindahan, konsep estetika, teori, perkembangan seni, unsur-unsur estetis dan orientasi seni di berbagai negara berdasarkan periodisasi. Substansi yang terdapat dalam buku ini diharapkan mampu menjawab persoalan akan kebutuhan referensi literatur, baik dalam bidang kajian perkuliahan, pengembangan keilmuwan maupun dalam penelitian seni dan pendidikan seni. Konten seni dalam buku ini juga dapat dikonsumsi secara luas oleh masyarakat umum, pembuat kebijakan dan praktisi seni sebagai landasan berpikir.\r\nOrientasi estetika seni secara khusus dipaparkan dalam buku ini untuk mengetahui dan sekaligus memahami nilai-nilai estetis dalam sebuah karya seni. Pemahaman akan nilai-nilai estetis ini sangatlah penting, karena sebuah pemahaman estetis yang baik akan mampu menghasilkan produk seni yang baik. Kritik seni juga sangat berkaitan erat dengan pengalaman estetis seseorang dalam berkarya. Sebuah produk seni yang baik berasal dari sebuah pemahaman estetis dan nilai-nilai estetis yang terkandung dalam sebuah seni, baik itu seni musik, seni btari, seni rupa dan teater pertunjukan. Keseluruhan konsep pemahaman nilai tersebut harus dikaji secara mendalam sesuai dengan porsinya.\r\nDalam penulisan buku ini isi dikaji sesuai dengan rantai perkembangan seni secara periodik. Penulis menggunakan gaya pemaparan yang sistematis dimulai dari ruang lingkup, sampai kepada orientasi dan perkembangannya. Esensi dalam buku terlihat agak pragmatis, namun tetap mengedepankan aspek seni dalam kacamata tekstual maupun kontekstual.\r\nSemoga buku ini dapat menjawab persoalan kebutuhan keilmuwan seni dan bermanfaat bagi seluruh mahasiswa pendidikan seni khususnya di wilayah Provinsi Lampung.",
+      "keywords": "Estetika seni",
+      "publisher": "Arttex",
+      "eprint_status": "archive",
+      "title": "Estetika Seni",
+      "lastmod": "2022-02-09 01:22:33",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "family": "Hidayatullah",
+            "lineage": null,
+            "given": "Riyan",
+            "honourific": null
+          },
+          "id": "riyanhidayat28@gmail.com"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show"
+    },
+    {
+      "date": "2023-06-30",
+      "type": "article",
+      "contact_email": "riyan.1002@fkip.unila.ac.id",
+      "publication": "Jurnal Seni Musik",
+      "full_text_status": "public",
+      "userid": 1136,
+      "status_changed": "2023-07-03 01:51:20",
+      "pagerange": "86-97",
+      "rev_number": 12,
+      "official_url": "https:\/\/journal.unnes.ac.id\/sju\/index.php\/jsm\/article\/view\/70097",
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/21\/94",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 52194,
+            "docid": 252654,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252654",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "Hidayatullah - 2023 - Gitar Tunggal Lampung Enculturation and Ethnopeda.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-06-30 17:10:50",
+                  "fileid": 618489,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618489",
+                  "filesize": 421673,
+                  "filename": "Hidayatullah - 2023 - Gitar Tunggal Lampung Enculturation and Ethnopeda.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 252654,
+                  "datasetid": "document",
+                  "hash": "7998ebe2c1a357cf7e17ea03b9eaf798"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "id_number": "10.15294\/jsm.v12i1.70097",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "given": "Riyan",
+            "lineage": null,
+            "family": "Hidayatullah",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 1,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "title": "Gitar tunggal Lampung: Enculturation and ethnopedagogy in advancing formal music education",
+      "lastmod": "2023-07-03 01:51:20",
+      "eprint_status": "archive",
+      "publisher": "Department of Drama, Dance and Music (Sendratasik), Semarang State University, Indonesia.",
+      "issn": "2503-2860",
+      "date_type": "published",
+      "volume": 12,
+      "abstract": "Formal music education often uses systematic teaching methods, a planned curriculum, leveling, organization, and standardized learning stages. From a pedagogical perspective, learning music provides a more imaginative, improvisatory learning structure besides all these standard rules. By capturing the social practice of music in the community, music scholars can enrich their academic experience and ideas about designing informal music learning in the classroom. The gitar tunggal players from Lampung may serve as ideas for those learning music formally. While they lack musical and academic literacy, they also provide useful self-learning concepts. Over the past four years, data for this study were gathered using ethnomusicological methods. Online databases were used in addition to the primary data collected through fieldwork. When designing curricula, music scholars might include the ideas of enculturation and Ethno pedagogy. A useful suggestion for enhancing formal music education is to base instruction on local culture and learn it from vernacular musicians in Lampung.",
+      "datestamp": "2023-07-03 01:51:20",
+      "eprintid": 52194,
+      "subjects": [
+        "L1",
+        "M1",
+        "ML",
+        "MT",
+        "NX",
+        "Q1",
+        "Z719"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52194",
+      "divisions": [
+        "FKIP25"
+      ]
+    },
+    {
+      "referencetext": "Amer, K., & Noujaim, J. (2019). The great hack [Film]. Brooklyn, New York: The Othrs. Barendregt, B. (2017). Deep hanging out in the age of the digital; contemporary ways of doing online and offline ethnography. Asiascape: Digital Asia, 4(3), 307–315. Retrieved from https:\/\/doi.org\/10.1163\/22142312-12340082 Barendregt, B. (2021). Digital ethnography, or  ̳deep hanging out‘ in the age of big data. In Audiovisual and digital ethnography: A practical and theoretical guide. London: Routledge. Bassett, E. H., & O‘Riordan, K. (2002). Ethics of internet research: Contesting the human subjects research model. Ethics and Information Technology, 4, 233–247.\r\nBerkowitz, S. D. (1982). An Introduction to structural analysis: The Network approach to social research. Toronto: Butterworth. Diamandis, P. H., & Kotler, S. (2012). Abundance: The future is better than you think. New York: Free Press. Retrieved from www.SimonandSchuster.com Hidayatullah, R. (2021). Music performance policy during covid-19 crisis: Expectations versus reality. Journal of Advance in Social Sciences and Policy, 1(1), 1–8. Retrieved from https:\/\/doi.org\/10.23960\/jassp.v1i1.17 Hine, C. (2000). Virtual ethnography. London: SAGE. Hine, C. (2015). Ethnography for the internet. UK; USA: Bloomsbury Academic. Knox, H., & Nafus, D. (Eds.). (2018). Ethnography for a data-saturated world. United Kingdom: Manchester University Press. Kozinets, R. V. (2015). Netnography: Redefined. (M. Steele,Ed.) (2nd Ed). Los Angeles ; London: SAGE Publications Ltd. Pink, S., Horst, H. A., Postill, J., Hjorth, L., Lewis, T., & Tacchi, J. (Eds.). (2016). Digital ethnography: Principles and practice. Los Angeles: SAGE. Przybylski, L. (2020). Hybrid ethnography: Online, offline, and in between (Vol. 58). United States of America: SAGE Publications, Inc. Varto, J. (2009). Basics of artistic research: Ontological, epistemological and historical justifications, University of Art and Design Helsinki Publication B94. Helsinki: Gummerus. Wadiyo. (2003). Teori dan masalah penjelman seni dalam perspektf sosiokultural. Harmonia: Journal of Arts Research and Education, 4(3). Retrieved 13 November 2021 from https:\/\/doi.org\/10.15294\/harmonia.v4i3.727 Wellman, B. (1988). Structural analysis: From method and metaphor to theory and substance. In B. Wellman & S. D. Berkowitz (Eds.), Social structures: A network approach (pp. 19–61). Cambridge,UK: Cambridge University Press.",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayatullah",
+            "given": "Riyan"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "lastmod": "2022-05-20 01:01:19",
+      "issn": "2528-6404",
+      "abstract": "Judul Buku: NetnographyPenulis: Robert V. KozinetsPenerbit: SAGE Publications LtdTahun Terbit: 2015 (edisi ke-2)Jumlah Halaman: 320ISBN: 978-1-4462-8574-9 Artikel ini merupakan resensi buku yang direfleksikan untuk penelitian seni. Di tengah berbagai metodologi yang ditawarkan, pendekatan penelitian berbasis virtual menjadi pilihan bagi peneliti agar tetap produktif. Bagian awal resensi buku ini akan dipaparkan secara umum. Pada bagian selanjutnya berisi diskusi tentang implikasi pendekatan netnografi dalam penelitian seni. Buku yang berjudul Netnography ini menawarkan pemikiran baru tentang cara melakukan peneltian secara daring (online). Informasi yang tersedia dalam bentuk mahadata (big data) saat ini memungkinkan akses luas terhadap data-data yang bersifat terbuka. Kozinets melihat keberadaan ruang digital saat ini sebagai peluang untuk melakukan transformasi besar-besaran dalam mengumpulkan data untuk kebutuhan penelitian. Penelitian tidak selalu dikerjakan di lapangan, tetapi juga mampu diselesaikan di atas meja kerja. Melalui penelusuran secara virtual banyak hal yang bisa dipelajari tentang komunitas dan budaya daring.",
+      "datestamp": "2022-05-20 01:01:19",
+      "volume": 7,
+      "eprintid": 41690,
+      "divisions": [
+        "FKIP25"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publication": "Pelataran Seni",
+      "pagerange": "61-72",
+      "status_changed": "2022-05-20 01:01:19",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/16\/90",
+      "official_url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/pensi\/article\/view\/13394",
+      "documents": [
+          {
+            "content": "published",
+            "docid": 163350,
+            "language": "id",
+            "eprintid": 41690,
+            "license": "cc_by_nc_4",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163350",
+            "rev_number": 3,
+            "pos": 1,
+            "main": 13394,
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 460949,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/460949",
+                  "filesize": 23974,
+                  "mtime": "2022-05-19 15:36:51",
+                  "hash_type": "MD5",
+                  "hash": "f944e5c1074e06dd85565172f4c88339",
+                  "filename": 13394,
+                  "mime_type": "application\/xml",
+                  "objectid": 163350,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "public"
+          },
+          {
+            "rev_number": 1,
+            "pos": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163351",
+            "format": "text",
+            "eprintid": 41690,
+            "language": "en",
+            "docid": 163351,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/460951",
+                  "fileid": 460951,
+                  "filesize": 762883,
+                  "mtime": "2022-05-19 15:37:16",
+                  "hash_type": "MD5",
+                  "hash": "746b7a35e23cededad604c7ccb2572d3",
+                  "mime_type": "application\/pdf",
+                  "filename": "Hidayatullah - 2022 - Merefleksikan Netnografi untuk Penelitian Seni (Re.pdf",
+                  "objectid": 163351,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 2,
+            "main": "Hidayatullah - 2022 - Merefleksikan Netnografi untuk Penelitian Seni (Re.pdf"
+          }
+      ],
+      "id_number": "10.20527\/jps.v7i1.13394",
+      "number": 1,
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "publisher": "Universitas Lambung Mangkurat",
+      "title": "Merefleksikan netnografi untuk penelitian seni (resensi buku)",
+      "date_type": "published",
+      "keywords": "Netnografi",
+      "subjects": [
+        "ML",
+        "NX",
+        "Z665",
+        "ZA4050"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41690",
+      "type": "article",
+      "date": "2022-03-30",
+      "contact_email": "riyan.1002@fkip.unila.ac.id",
+      "full_text_status": "public",
+      "userid": 1136,
+      "rev_number": 13
+    },
+    {
+      "date": "2021-01-11",
+      "isbn": "978-623-6967-27-0",
+      "type": "exhibition",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "output_media": "E-Katalog",
+      "full_text_status": "public",
+      "userid": 1136,
+      "status_changed": "2021-02-01 04:54:48",
+      "official_url": "https:\/\/sites.google.com\/view\/nusantara-art-studies\/beranda?authuser=0",
+      "rev_number": 3,
+      "dir": "disk0\/00\/02\/74\/65",
+      "documents": [
+          {
+            "main": "nusantara-art-studies",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "f0504d1e89d3eb06e5d3bbb61b31ce8d",
+                  "objectid": 41467,
+                  "datasetid": "document",
+                  "mime_type": "text\/html",
+                  "filename": "nusantara-art-studies",
+                  "filesize": 147693,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/245553",
+                  "fileid": 245553,
+                  "hash_type": "MD5",
+                  "mtime": "2021-01-26 04:21:45"
+                }
+            ],
+            "formatdesc": "Pameran Virtual",
+            "mime_type": "text\/html",
+            "security": "public",
+            "docid": 41467,
+            "content": "published",
+            "eprintid": 27465,
+            "language": "en",
+            "license": "cc_by_nc_4",
+            "format": "other",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/41467",
+            "rev_number": 5,
+            "pos": 1
+          }
+      ],
+      "event_location": "Univesitas Negeri Semarang",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "given": "Riyan",
+            "lineage": null,
+            "family": "Hidayatullah",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "lastmod": "2021-02-01 04:54:48",
+      "title": "Nusantara Art Studies: Pameran Data Penelitian",
+      "eprint_status": "archive",
+      "event_dates": "11 Januari 2021",
+      "date_type": "published",
+      "datestamp": "2021-02-01 04:54:48",
+      "abstract": "Assalamualaikum warahmatullahi Wabarakaatuh.\r\nAlhamdulillah puji syukur Kita panjatkan kehadirat Allah SWT, berkat rahmat dan petunjuk-Nya pameran data penelitian ini dapat terlaksana. Pameran bertema “Nusantara Art Studies” ini berbeda dengan pameran pada umumnya. Pameran ini secara khusus bertujuan memberikan pengetahuan tentang ragam kesenian yang ada di Nusantara.  Ini sekaligus mengonfirmasi bahwa kekayaan budaya Indonesia sangatlah banyak. \r\nMateri pameran adalah data-data penelitian 11 orang mahasiswa program doktor Pascasarjana Universitas Negeri Semarang angkatan 2019. Data-data yang didajikan diantaranya tentang kesenian gitar tunggal Lampung Pesisir, penyajian gamelan dalam liturgi ibadah Gereja, Musik Bia dari Kabupaten Minahasa Utara, nilai-nilai edukasi dalam lagu ‘Tegalan’ dan Lagu Anak Karya Djito Kasilo,  eksistensi musik gambus di Pekanbaru, Musik trunthung dalam kesenian lokal Lima Gunung, tembang bocah ‘Banyumasan’, Pertunjukan Tradisi Silat Perisai di Kampar Riau, Enkulturasi Batik Kasumedangan sebagai identitas budaya Sunda, dan tenun songket Suku Sasak.\r\nDi bawah kurasi Prof. Dr. Tjetjep Rohendi Rohidi, M.A pameran ini berusaha untuk memberikan warna baru tentang ragam seni yang divusualisasikan secara virtual. Sajian data penelitian digambarkan dalam berbagai format sehingga menarik untuk dinikmati.\r\nSelamat menikmati.",
+      "eprintid": 27465,
+      "succeeds": 27462,
+      "subjects": [
+        "L1",
+        "ML",
+        "N1",
+        "NX"
+      ],
+      "event_title": "Nusantara Art Studies",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/27465",
+      "divisions": [
+        "FKIP25"
+      ]
+    },
+    {
+      "ispublished": "pub",
+      "place_of_pub": "Yogyakarta",
+      "dir": "disk0\/00\/01\/09\/00",
+      "rev_number": 8,
+      "status_changed": "2019-03-26 01:14:26",
+      "documents": [
+          {
+            "rev_number": 3,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23909",
+            "format": "text",
+            "eprintid": 10900,
+            "language": "en",
+            "docid": 23909,
+            "security": "public",
+            "mime_type": "text\/html",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 23909,
+                  "filename": "index.html",
+                  "mime_type": "text\/html",
+                  "hash": "ace823ed34396aa3d6d8f7d6b446cf4d",
+                  "mtime": "2019-03-10 14:32:52",
+                  "hash_type": "MD5",
+                  "filesize": 83808,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100210",
+                  "fileid": 100210
+                }
+            ],
+            "formatdesc": "Buku bahan ajar",
+            "placement": 1,
+            "main": "index.html"
+          }
+      ],
+      "type": "book",
+      "isbn": "978-602-60636-8-7",
+      "date": 2017,
+      "userid": 1136,
+      "full_text_status": "public",
+      "pages": 104,
+      "abstract": "Buku ini tidak hanya berguna\r\nbagi mahasiswa seni, tetapi juga dapat dikonsumsi oleh praktisi seni dan\r\npeneliti.Buku ini juga memotret sejumlah kesenian yang ada di Lampung\r\nsebagai titik balik dari pengembangan ilmu melalui penelitian-penelitian\r\ndi masa mendatang.Selain menjadi referensi, buku ini juga sebagai sumber\r\nawal melakukan observasi lapangan dengan sudut pandang penulis.\r\nBuku ini terdiri atas 5bab, yaitu (1) Pendahuluan (apa itu seni dan pertunjukan),\r\n(2) lingkup seni, (3) seni pertunjukan, (4) manajemen seni pertunjukan,\r\ndan (5) seni pertunjukan Lampung. Setiap bab dalam buku ini secara\r\nkhusus mendefi nisikan istilah seni, pertunjukan dan turunan dari seni\r\npertunjukan. Perspektif yang digunakan dalam membedah seni tradisional\r\n\r\nmenggunakan gramatika musik barat, seperti dalam hal penulisan notasi.\r\nTujuan lain dari pendekatan tersebut ialah berusaha untuk membuat seni\r\ntradisi Lampung lebih ‘universal’ untuk dapat dipelajari. Buku ini diharapkan\r\ndapat menjadi pengantar yang mudah untuk dicerna dan diapresiasi\r\nsebagai salah satu khasanah keilmuwan budaya Lampung.",
+      "datestamp": "2019-03-26 01:14:26",
+      "divisions": [
+        "FKIP25"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10900",
+      "subjects": [
+        "NX"
+      ],
+      "eprintid": 10900,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Hidayatullah",
+            "lineage": null,
+            "given": "Riyan"
+          },
+          "id": "riyanhidayat28@gmail.com"
+        }
+      ],
+      "eprint_status": "archive",
+      "publisher": "Arttex",
+      "lastmod": "2019-03-26 01:14:26",
+      "title": "Pengantar Seni Pertunjukan Lampung"
+    },
+    {
+      "userid": 1136,
+      "publication": "Radar Lampung: Metropolis",
+      "full_text_status": "public",
+      "contact_email": "riyan.1002@fkip.unila.ac.id",
+      "type": "article",
+      "date": "2021-12-18",
+      "documents": [
+          {
+            "main": "Radar Lampung, 18 Desember 2021.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-12-18 14:05:24",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/427339",
+                  "fileid": 427339,
+                  "filesize": 2065596,
+                  "filename": "Radar Lampung, 18 Desember 2021.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 158274,
+                  "hash": "6dd4559262bf01dbe79411406b24dfc1"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/158274",
+            "format": "text",
+            "docid": 158274,
+            "language": "en",
+            "eprintid": 37360,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/73\/60",
+      "status_changed": "2021-12-20 01:40:52",
+      "pagerange": 9,
+      "date_type": "published",
+      "lastmod": "2021-12-20 01:40:52",
+      "title": "Posisi seni dalam pendidikan di Indonesia",
+      "publisher": "Radar Lampung",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayatullah",
+            "given": "Riyan"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/37360",
+      "divisions": [
+        "FKIP25"
+      ],
+      "eprintid": 37360,
+      "subjects": [
+        "L1",
+        "MT",
+        "NX"
+      ],
+      "keywords": "Seni, Pendidikan",
+      "datestamp": "2021-12-20 01:40:52",
+      "abstract": "Selama bertahun-tahun ilmu eksakta dianggap sebagai indikator anak pintar, sementara itu seni mengindikasikan anak berbakat. Hanya sedikit yang berani mengatakan dengan tegas seni juga salah satu indikator anak yang cerdas, bukan hanya berbakat. Bakat adalah sebuah potensi yang diasah sehingga memiliki hasil yang nyata. Pada dasarnya setiap anak memiliki potensi seni, permasalahannya tidak semua anak mendapatkan pengajaran dan proses yang sesuai untuk meningkatkan potensinya itu. Jadi, pada dasarnya semua manusia itu cerdas dan memiliki sifat-sifat seni. Cara berpikir seni adalah cara berpikir imajinatif dan kreatif. Sehingga, jika cara berpikir ini menjadi landasan dan diterapkan ke dalam semua bidang ilmu, maka hasilnya akan sangat baik. Anak-anak yang mahir memainkan repertoar musik dengan teknik tinggi di usia 5-10 tahun adalah salah satu contoh potensi yang bertemu dengan proses pengasahan yang baik. Sementara anak-anak yang belum menonjolkan keterampilannya dalam memainkan alat musik biasanya belum memiliki lingkungan dan pengajaran yang mendukung.\r\nSeni mengajarkan pola berpikir yang kritis dan inovatif. Munculnya kemajuan teknologi juga didukung oleh cara berpikir seni. Jika sebelumnya teknologi handphone hanya memiliki fitur untuk telepon dan SMS, saat ini diperkaya dengan berbagai fungsi menangkap gambar dan video, menunjukan arah, alat pengingat, melakukan interaksi sosial, dan sebagainya. Semua fitur-fitur itu berangkat dari teknologi berpikir yang cerdas, bukan sekadar pintar. Kecerdasan timbul dari pola pikir yang kreatif, maka orang-orang cerdas selalu berusaha menemukan solusi dengan cara yang elegan dan artistik."
+    },
+    {
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-03-15 13:09:22",
+                  "fileid": 100481,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100481",
+                  "filesize": 246712,
+                  "mime_type": "application\/pdf",
+                  "filename": "Transformasi Tari Bedana Tradisi Menjadi Tari Kreasi.pdf",
+                  "datasetid": "document",
+                  "objectid": 23947,
+                  "hash": "9257aed6c89439bf83c9e7203630874b"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "Transformasi Tari Bedana Tradisi Menjadi Tari Kreasi.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 23947,
+            "language": "en",
+            "eprintid": 10950,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23947"
+          },
+          {
+            "rev_number": 3,
+            "pos": 2,
+            "eprintid": 10950,
+            "language": "en",
+            "content": "published",
+            "docid": 23948,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23948",
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/100484",
+                  "fileid": 100484,
+                  "filesize": 18763,
+                  "hash_type": "MD5",
+                  "mtime": "2019-03-15 13:09:57",
+                  "hash": "f85f575cdf3896b8ed4f7bc5b4993c0b",
+                  "filename": 14774,
+                  "mime_type": "application\/xml",
+                  "datasetid": "document",
+                  "objectid": 23948
+                }
+            ],
+            "formatdesc": "Jurnal Aksara",
+            "placement": 2,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "main": 14774
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/aksara\/article\/view\/14774",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/09\/50",
+      "status_changed": "2019-04-09 03:40:15",
+      "pagerange": "178-191",
+      "full_text_status": "public",
+      "publication": "AKSARA",
+      "userid": 1136,
+      "date": 2017,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10950",
+      "divisions": [
+        "FKIP25"
+      ],
+      "eprintid": 10950,
+      "subjects": [
+        "NX"
+      ],
+      "volume": 18,
+      "datestamp": "2019-04-09 03:40:15",
+      "abstract": "Abstrak\r\n\r\nBedana Dance is one of traditional arts masysrakat Lampung. This dance was brought by the Arabs in about 1930 who later taught to three children named Ma'ruf, Amang, and Abdullah. They then spread this dance to all corners of Lampung. Bedana Dance is a traditional dance that has its roots and is perceived as a symbol of a very wide tradition about the view of life as well as a friendly and open environment environment. Along with the growing time and understanding of the society will be dance bedana, so presently it is assumed the bedana dance has undergone a fairly strong transformation. Traditional Dance of Dance has evolved into dance bedana creations. There is a change in the formation of dancers who are group, in addition to the dance of the bedana has also been danced in traditional events and other entertainment events. In this study, descriptive method is used to find and describe the form of motion danana dance and the meaning of motion dance traditional dress become creations. This new dance is famous for the term new dance creations. Similarly with Bedana Dance, where the dance was originally a traditional dance, but as many developed so that the models and equipment used in dance bedana also experienced a change\r\n\r\nKeywords: Dance of creations creations, dance transformation, Lampung",
+      "issn": "1411-20151",
+      "lastmod": "2019-04-09 03:40:15",
+      "title": "Transformasi Tari Bedana Tradisi Menjadi Tari Bedana Kreasi",
+      "publisher": "Jurusan Pendidikan Bahasa dan Seni FKIP Universitas Lampung",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "family": "Hidayatullah",
+            "lineage": null,
+            "given": "Riyan",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 2
+    },
+    {
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Riyan",
+            "lineage": null,
+            "family": "Hidayatullah,"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2017-11-16 03:19:47",
+      "title": "Jurnal Seni dan Pembelajaran\r\nOpen Journal Systems\r\nJournal Help\r\nUser You are logged in as...\r\nsenitari\r\n\r\n    My Journals\r\n    My Profile\r\n    Log Out\r\n    Log Out as User\r\n\r\nNotifications\r\n\r\n    View (465 new)\r\n    Manage\r\n\r\nJournal Content\r\nSearch\r\nSearch Scope\r\n\r\nBrowse\r\n\r\n    By Issue\r\n    By Author\r\n    By Title\r\n    Other Journals\r\n\r\nFont Size\r\nMake font size smaller\r\nMake font size default\r\nMake font size larger\r\n\r\nInformation\r\n\r\n    For Readers\r\n    For Authors\r\n    For Librarians\r\n\r\n    Home About User Home Search Current Archives Announcements \r\n\r\n\r\nPelatihan Tari Bedana dalam Ekstrakurikuler di SMA Negeri 1 Tanjung Raya Kabupaten Mesuji\r\n\r\nOleh: Ahmad tohirin, Riyan Hidayatullah, Susi Wendhaningsih",
+      "eprint_status": "archive",
+      "datestamp": "2017-11-16 03:19:47",
+      "abstract": "This research aimed to describe planning, process and assessment of bedana dance training in extracurricular activity at SMA Negeri 1 Tanjung Raya, Mesuji. The research used humanistic learning theory. Type of this research is descriptive qualitative research. Data collection was through observation, interview, documentation, training plan, training process and assessment. Data analysis techniques that has used by foccusing important data, presenting data, than taking result. This training plan was included time, matter, and subject. The time has done outside of school learning, the place is the dance studio room, the matter is bedana dance, subject of training are students and trainer. In this training process, the trainer carried out in accordance with the plans made. Learning outcomes in bedana dance training of extracurriculer at SMA Negeri 1 Tanjung Raya of Mesuji district is well.\r\n\r\nPenelitian ini bertujuan untuk mendeskripsikan perencanaan, proses dan penilaian pada pelatihan tari bedana dalam ekstrakurikuler di SMA Negeri 1 Tanjung Raya Kabupaten Mesuji. Penelitian mengunakan teori pembelajaran humanistik. Jenis penelitian ini deskriptif kualitatif. Sumber data pada penelitian yaitu siswa yang berjumlah 10 orang dan satu pelatih tari bedana dalam kegiatan ekstrakurikuler. Teknik pengumpulan data melalui observasi, wawancara, dokumentasi, perencanaan pelatihan, proses pelatihan, dan penilaian. Teknik analisis data  dilakukan dengan cara proses memfokuskan data-data penting, menyajikan data, kemudian menarik simpulan. Perencanaan pelatihan ini meliputi waktu, materi, subjek. Waktu yang dilakukan diluar jam belajar sekolah, tempat berada di ruang sanggar tari, materi yaitu tari bedana, subjek pelatihan yaitu pelatih dan siswa. Proses pelatihan ini pelatih melaksanakan sesuai dengan perencanaan yang dibuat. Hasil pembelajaran pada pelatihan tari bedana dalam ekstrakurikuler di SMA Negeri 1 Tanjung Raya Kabupaten Mesuji adalah baik.\r\n\r\nKata kunci: ekstakurikuler, pelatihan, tari bedana.",
+      "eprintid": 4653,
+      "subjects": [
+        "L1",
+        "NX"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4653",
+      "divisions": [
+        "FKIP25"
+      ],
+      "type": "article",
+      "publication": "Jurnal Seni dan Pembelajaran",
+      "full_text_status": "public",
+      "userid": 1136,
+      "status_changed": "2017-11-16 03:19:47",
+      "rev_number": 9,
+      "dir": "disk0\/00\/00\/46\/53",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17571",
+            "format": "text",
+            "language": "en",
+            "eprintid": 4653,
+            "docid": 17571,
+            "pos": 1,
+            "rev_number": 3,
+            "main": 14152,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "mime_type": "application\/xml",
+                  "filename": 14152,
+                  "datasetid": "document",
+                  "objectid": 17571,
+                  "hash": "f051d4342b2486c218e2af8801c971d6",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-05 09:31:39",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/45637",
+                  "fileid": 45637,
+                  "filesize": 19359
+                }
+            ],
+            "placement": 1
+          }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "main": "CCI01062017.jpg",
+            "files": [
+                {
+                  "filename": "CCI01062017.jpg",
+                  "mime_type": "image\/jpeg",
+                  "objectid": 3143,
+                  "datasetid": "document",
+                  "hash": "9d2f1cad3e6198a1c48ca4a1b32b7307",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-03 04:54:34",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22625",
+                  "fileid": 22625,
+                  "filesize": 266578
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "image\/jpeg",
+            "eprintid": 3247,
+            "language": "en",
+            "docid": 3143,
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3143",
+            "pos": 1,
+            "rev_number": 1
+          },
+          {
+            "docid": 3144,
+            "eprintid": 3247,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3144",
+            "format": "image",
+            "rev_number": 1,
+            "pos": 2,
+            "main": "CCI01062017_0001.jpg",
+            "placement": 2,
+            "files": [
+                {
+                  "filesize": 184662,
+                  "fileid": 22627,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22627",
+                  "mtime": "2017-06-03 04:54:45",
+                  "hash_type": "MD5",
+                  "hash": "63a27785222cc312e1619cf42c66329a",
+                  "datasetid": "document",
+                  "objectid": 3144,
+                  "mime_type": "image\/jpeg",
+                  "filename": "CCI01062017_0001.jpg"
+                }
+            ],
+            "mime_type": "image\/jpeg",
+            "security": "public"
+          },
+          {
+            "main": "SearchBuku_searchCat=Judul&searchTxt=estetika+seni",
+            "security": "public",
+            "mime_type": "text\/html",
+            "files": [
+                {
+                  "hash": "9c8ff386ca54b0bd9f84f4699ad590be",
+                  "objectid": 3145,
+                  "datasetid": "document",
+                  "mime_type": "text\/html",
+                  "filename": "SearchBuku_searchCat=Judul&searchTxt=estetika+seni",
+                  "filesize": 14241,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/22630",
+                  "fileid": 22630,
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-03 04:55:15"
+                }
+            ],
+            "placement": 3,
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/3145",
+            "eprintid": 3247,
+            "language": "en",
+            "content": "published",
+            "docid": 3145,
+            "pos": 3,
+            "rev_number": 3
+          }
+      ],
+      "status_changed": "2017-06-12 04:18:36",
+      "dir": "disk0\/00\/00\/32\/47",
+      "ispublished": "pub",
+      "official_url": "http:\/\/isbn.perpusnas.go.id\/Account\/SearchBuku?searchCat=Judul&searchTxt=estetika+seni",
+      "rev_number": 11,
+      "contact_email": "riyanhidayat28@gmail.com",
+      "userid": 1136,
+      "full_text_status": "public",
+      "pages": 82,
+      "isbn": "978-602-60636-1-8",
+      "type": "book",
+      "date": 2016,
+      "subjects": [
+        "NX"
+      ],
+      "eprintid": 3247,
+      "divisions": [
+        "FKIP25"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3247",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/www.grahailmu.id\/produk-894-estetika-seni.html"
+        }
+      ],
+      "datestamp": "2017-06-12 04:18:36",
+      "eprint_status": "archive",
+      "publisher": "Arttex",
+      "lastmod": "2017-06-12 04:18:36",
+      "title": "Estetika Seni",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "given": "Riyan",
+            "lineage": null,
+            "family": "Hidayatullah,",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Agung",
+            "family": "Kurniawan",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE"
+    },
+    {
+      "documents": [
+          {
+            "formatdesc": "Metode Pekerjaan DAM",
+            "files": [
+                {
+                  "filename": "watch_v=KQzLQz6eNOs&feature=youtu.be",
+                  "mime_type": "text\/html",
+                  "objectid": 19893,
+                  "datasetid": "document",
+                  "hash": "903e3fd447f196fc2631527f84ce8783",
+                  "hash_type": "MD5",
+                  "mtime": "2018-05-21 07:54:33",
+                  "fileid": 63461,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/63461",
+                  "filesize": 154353
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "text\/html",
+            "main": "watch_v=KQzLQz6eNOs&feature=youtu.be",
+            "pos": 1,
+            "rev_number": 3,
+            "language": "en",
+            "eprintid": 6920,
+            "content": "published",
+            "docid": 19893,
+            "format": "video",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19893"
+          }
+      ],
+      "status_changed": "2019-05-14 08:28:37",
+      "official_url": "https:\/\/www.youtube.com\/channel\/UCPZn5FccLtU7ARxMkmKGURg\/videos?view_as=subscriber",
+      "rev_number": 13,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/69\/20",
+      "output_media": "Youtube",
+      "userid": 72,
+      "full_text_status": "public",
+      "date": "2017-08-29",
+      "type": "video",
+      "eprintid": 6920,
+      "subjects": [
+        "NA",
+        "NC",
+        "NX"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6920",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/KQzLQz6eNOs"
+        }
+      ],
+      "datestamp": "2019-05-14 08:28:37",
+      "lastmod": "2019-05-14 08:28:37",
+      "title": "ANIMASI METODE PEKERJAAN DAM",
+      "publisher": "www.panjikurniawan.com",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "given": "PANJI",
+            "family": "KURNIAWAN",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show"
+    },
+    {
+      "full_text_status": "public",
+      "output_media": "Youtube",
+      "userid": 72,
+      "type": "video",
+      "date": "2019-10-16",
+      "documents": [
+          {
+            "rev_number": 3,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29510",
+            "format": "video",
+            "language": "en",
+            "eprintid": 16407,
+            "docid": 29510,
+            "content": "published",
+            "security": "public",
+            "mime_type": "text\/html",
+            "files": [
+                {
+                  "hash": "a9f3b06c8d478357070094e49e247b76",
+                  "mime_type": "text\/html",
+                  "filename": "watch_v=MijzqFCovNI&feature=youtu.be",
+                  "datasetid": "document",
+                  "objectid": 29510,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139950",
+                  "fileid": 139950,
+                  "filesize": 277242,
+                  "mtime": "2019-11-14 06:49:44",
+                  "hash_type": "MD5"
+                }
+            ],
+            "formatdesc": "Animasi Arsitektur Desain Bandar Lampung Agripark",
+            "placement": 1,
+            "main": "watch_v=MijzqFCovNI&feature=youtu.be"
+          }
+      ],
+      "status_changed": "2019-11-14 11:22:58",
+      "rev_number": 13,
+      "official_url": "https:\/\/www.youtube.com\/channel\/UCPZn5FccLtU7ARxMkmKGURg\/videos?view_as=subscriber",
+      "dir": "disk0\/00\/01\/64\/07",
+      "ispublished": "pub",
+      "title": "Animasi Desain Penataan Bandar Lampung Agripark",
+      "lastmod": "2019-11-14 11:22:58",
+      "eprint_status": "archive",
+      "publisher": "www.panjikurniawan.com",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "KURNIAWAN",
+            "given": "PANJI"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 16407,
+      "subjects": [
+        "N1",
+        "NA",
+        "NC",
+        "NX"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16407",
+      "divisions": [
+        "FT9"
+      ],
+      "datestamp": "2019-11-14 11:22:58",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/youtu.be\/MijzqFCovNI"
+        }
+      ],
+      "abstract": "Agrowisata merupakan rangkaian kegiatan wisata yang memanfaatkan potensi pertanian sebagai obyek wisata, baik potensi berupa pemandangan alam kawasan pertaniannya, maupun kekhasan dan keanekaragaman aktivitas produksi dan teknologi pertanian serta budaya masyarakat petaninya. Kegiatan Agrowisata bertujuan untuk memperluas wawasan pengetahuan, pengalaman rekreasi dan hubungan usaha di bidang pertanian yang meliputi tanaman pangan, hortikultura, perkebunan, perikanan dan peternakan. Disamping itu yang termasuk dalamAgrowisata adalah perhutanan dan sumber daya pertanian.\r\n\r\nUpaya pengembangan Agripark yang memanfaatkan potensi agronya, serta adanya pelibatan masyarakat setempat, tentu dapat berfungsi sebagai media pemberdayaan masyarakat berbasis pariwisata (community based tourism). Pemberdayaan masyarakat dimaksud adalah agrowisata yang dapat mengikutsertakan peran dan aspirasi masyarakat setempat selaras dengan pendayagunaan potensi sumber daya alam dan sumber daya manusia yang dimilikinya. Persoalannya adalah bagaimana konsep pengembangan Agripak yang akan di tawarkan, termasuk bagaimana konsep pemberdayaan masyarakat setempat agar potensi-potensi yang dimiliki di sekitar area dapat digali secara optimal, sehingga dapat memberikan hasil maksimal stakeholder terkait dan menjadi sumber pendapatan yang dapat diandalkan bagi Pemerintah Kota Bandar Lampung.\r\n\r\nSejalan dengan itu, maka Pemerintah Pemerintah Kota Bandar Lampung memandang perlu untuk melakukan kajian tentang bagaimana konsep Pengembangan Agripark Kota Bandar Lampung yang berada di Kelurahan Kemiling Raya, Kecamatan Kemiling ini sebagai salah satu penghasil pertumbuhan ekonomi pariwisata, yang pada gilirannya diharapkan dapat berpeluang untuk menjadi pendorong pertumbuhan sektor pembangunan lainnya."
+    },
+    {
+      "status_changed": "2020-11-09 09:13:13",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/46\/61",
+      "rev_number": 12,
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 695889,
+                  "fileid": 223843,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/223843",
+                  "mtime": "2020-11-08 01:27:14",
+                  "hash_type": "MD5",
+                  "hash": "f55b953e01bfe38e42bac7bb9c63b3f1",
+                  "datasetid": "document",
+                  "objectid": 38406,
+                  "filename": "LOGO Dies 55 Unila.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1,
+            "main": "LOGO Dies 55 Unila.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38406",
+            "format": "text",
+            "language": "en",
+            "eprintid": 24661,
+            "docid": 38406
+          }
+      ],
+      "type": "image",
+      "date": "2020-07",
+      "userid": 72,
+      "output_media": "IMAGE",
+      "full_text_status": "public",
+      "abstract": "ARTI LOGO :\r\n\r\nBentuk Setengah Lingkaran Berwarna Kuning, memiliki arti Surya\/Matahari yang bersinar dengan membawa kemakmuran, kegemilangan, berwarna kuning denan latar depan siluet orang dengan keceriaan, merupakan dominasi warna Universitas Lampung, sebagai wadah pendidikan yang mampu menghantarkan civitas akademisnya meraih kesuksesan.\r\nSiluet Garis Horizon berwarna Biru, merupakan Fakultas Penyelenggara yang dalam Hal ini adalah FKIP dan Fakultas Teknik.\r\nRiak Gelombang Ungu yang menyerupai tangan menengadah, merupakan refleksi keluasan ilmu pengetahuan, dan keleluasaan keilmuan (kurikulum merdeka) yang mampu mencapai ke seluruh ruang dan tempat dan mampu beradaptasi dengan kondisi apapun dan dimanapun, dengan tetap menjadikan kebesaran Tuhan YME, Allah SWT sebagai satu-satunya sumber dari segala Ilmu dalam Kehidupan.\r\nSiluet Pohon, Orang sebagai Tunas, dengan Daun Berwarna-warni, merefleksikan Kemampuan & Komitmen Unila untuk mampu Menciptakan Generasi yang Unggul, melalui sejumlah Fakultas yang dimilikinya.",
+      "datestamp": "2020-11-09 09:13:13",
+      "subjects": [
+        "N1",
+        "NC",
+        "ND",
+        "NE",
+        "NK",
+        "NX"
+      ],
+      "eprintid": 24661,
+      "divisions": [
+        "FT9"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24661",
+      "creators": [
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "PANJI",
+            "lineage": null,
+            "family": "KURNIAWAN"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "publisher": "Dies Natalis 55 Unila",
+      "title": "LOGO DIES 55 UNIVERSITAS LAMPUNG",
+      "lastmod": "2020-11-09 09:13:13",
+      "date_type": "published"
+    },
+    {
+      "date_type": "published",
+      "publisher": "https:\/\/www.youtube.com\/",
+      "eprint_status": "archive",
+      "title": "Membuat Animasi 3D Bangunan Masjid pada Narasi Idul Fitri 1441 Hijriah",
+      "lastmod": "2020-06-04 17:08:14",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "KURNIAWAN",
+            "lineage": null,
+            "given": "PANJI",
+            "honourific": null
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT9"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21897",
+      "subjects": [
+        "N1",
+        "NA",
+        "NX"
+      ],
+      "eprintid": 21897,
+      "datestamp": "2020-06-04 17:08:14",
+      "related_url": [
+        {
+          "url": "https:\/\/youtu.be\/TkGgU_oGJkQ",
+          "type": "author"
+        }
+      ],
+      "full_text_status": "public",
+      "userid": 72,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/ANM",
+          "name": {
+            "honourific": null,
+            "given": "PANJI",
+            "family": "KURNIAWAN",
+            "lineage": null
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "date": "2020-05-23",
+      "type": "video",
+      "documents": [
+          {
+            "docid": 35316,
+            "content": "published",
+            "language": "en",
+            "eprintid": 21897,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35316",
+            "format": "video",
+            "rev_number": 3,
+            "pos": 1,
+            "main": "watch_v=TkGgU_oGJkQ&feature=youtu.be",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 264450,
+                  "fileid": 202281,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/202281",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-04 16:12:58",
+                  "hash": "fef197b868217bf7612ef985e9454f6a",
+                  "objectid": 35316,
+                  "datasetid": "document",
+                  "filename": "watch_v=TkGgU_oGJkQ&feature=youtu.be",
+                  "mime_type": "text\/html"
+                }
+            ],
+            "mime_type": "text\/html",
+            "security": "public"
+          }
+      ],
+      "dir": "disk0\/00\/02\/18\/97",
+      "ispublished": "pub",
+      "official_url": "https:\/\/www.youtube.com\/channel\/UCPZn5FccLtU7ARxMkmKGURg\/videos",
+      "rev_number": 11,
+      "status_changed": "2020-06-04 17:08:14"
+    },
+    {
+      "title": "Karya seni batik",
+      "lastmod": "2021-05-11 00:49:28",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "family": "Muhammad Basri",
+            "lineage": null,
+            "given": "Muhammad Basri",
+            "honourific": null
+          },
+          "id": "muhammad.basri@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Sumargono",
+            "family": "Sumargono",
+            "lineage": null
+          },
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 30127,
+      "subjects": [
+        "AZ",
+        "D1",
+        "NX"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30127",
+      "divisions": [
+        "FKIP24"
+      ],
+      "abstract": "Motif batik nekara dan bejana lampung",
+      "datestamp": "2021-05-11 00:49:28",
+      "full_text_status": "public",
+      "userid": 573,
+      "date": "2020-08-14",
+      "type": "patent",
+      "documents": [
+          {
+            "main": "sertifikat_EC00202027868.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "objectid": 135276,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "sertifikat_EC00202027868.pdf",
+                  "hash": "ae0f2af7540db027b1c33b1cb4688b88",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-10 06:31:30",
+                  "filesize": 772880,
+                  "fileid": 357112,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/357112"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 135276,
+            "eprintid": 30127,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135276",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "id_number": "EC00202027868",
+      "patent_applicant": "Menteri Hukum dan Hak Asasi Manusia Direktur Jendral Kekayaan Intelektual",
+      "status_changed": "2021-05-11 00:49:28",
+      "rev_number": 9,
+      "dir": "disk0\/00\/03\/01\/27",
+      "ispublished": "pub"
+    },
+    {
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "profdrsudjarwo@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "SUDJARWO",
+            "family": "SUDJARWO",
+            "lineage": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "lastmod": "2018-06-25 02:35:42",
+      "title": "PI'IL DALAM GERAK TARI LAMPUNG",
+      "eprint_status": "archive",
+      "abstract": "Hak Cipta berupa buku yang berjudul PI'IL dalam Gerak Tari Lampung",
+      "datestamp": "2018-06-25 02:35:42",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7651",
+      "divisions": [
+        "FKIP10"
+      ],
+      "eprintid": 7651,
+      "subjects": [
+        "L1",
+        "NX"
+      ],
+      "type": "patent",
+      "date": "2018-02-19",
+      "userid": 1087,
+      "full_text_status": "public",
+      "rev_number": 9,
+      "dir": "disk0\/00\/00\/76\/51",
+      "ispublished": "pub",
+      "patent_applicant": "Dr. Freddy Haris, S.H., LL.M., ACCS.",
+      "status_changed": "2018-06-25 02:35:42",
+      "id_number": 101770,
+      "documents": [
+          {
+            "docid": 20699,
+            "language": "en",
+            "eprintid": 7651,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20699",
+            "format": "image",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Image (66).jpg",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "5734abf20c024edaa2a9bfd5a970591b",
+                  "datasetid": "document",
+                  "objectid": 20699,
+                  "mime_type": "image\/jpeg",
+                  "filename": "Image (66).jpg",
+                  "filesize": 1204388,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/68717",
+                  "fileid": 68717,
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-25 00:49:27"
+                }
+            ],
+            "mime_type": "image\/jpeg",
+            "security": "public"
+          }
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "ameliahani@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "amel",
+            "family": "Saputri, Amelia Hani",
+            "lineage": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "title": "Eksistensi Tari Virtual Pada Masa Pandemi Covid-19",
+      "lastmod": "2021-06-01 03:00:35",
+      "abstract": "Kemunculan pandemi Covid-19 memotivasi berbagai elemen masyarakat untuk menciptakan sebuah dunia seni baru, yaitu dunia seni virtual, tak terkecuali para penggiat dan pelaku tari. Fenomena tari virtual diartikan sebagai eksistensialisme dalam era modernitas di masa pandemi untuk menjaga keberlanjutan tari di tengah masyarakat. Penelitian ini bertujuan untuk mengamati dan mengkaji eksistensi tari virtual yang saat ini berkembang di masyarakat, baik berupa ruang perlombaan, ruang diskusi, dan ruang pertunjukan. Penelitian ini menggunakan metode deskriptif kualitatif dengan pendekatan studi kasus. Pengambilan data dilakukan dengan studi literatur melalui event tari virtual yang diselenggarakan secara daring. Indikator pemilihan sampel adalah event diskusi, pertunjukan, dan lomba tari virtual dengan penyajian karya-karya yang representative dan berkontribusi pada penanganan Covid-19.  Hasil penelitian menunjukkan bahwa, fenomena tari virtual merupakan manifestasi pelaku tari dalam menunjukkan eksistensinya sebagai masyarakat berbudaya dalam bentuk pertunjukan tari. Event tari virtual merupakan bentuk solidaritas untuk saling mebantu penari, koreografer dan seluruh komunitas tari untuk terus berkarya dan mendapatkan penghasilan di tengah pandemi. Adanya kerjasama antara pemerintah dengan praktisi, akademisi, dan komunitas tari menjadi faktor pendukung keberlanjutan aktivitas berkesenian secara virtual. Sinergitas untuk menjaga keberlanjutan dan eksistensi tari di tengah pandemi merupakan simbiosis mutualisme yang saling menguntungkan antar seluruh pemangku kepentingan. Hal inilah yang mendukung tari virtual menjadi sebuah kebiasaan baru dalam dunia tari. Event tari virtual menjadi sarana untuk mengekspresikan diri serta mempertahankan eksistensi tari dengan dukungan teknologi di media sosial.",
+      "datestamp": "2021-06-01 03:00:35",
+      "divisions": [
+        "FKIP25"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/31542",
+      "event_title": "Seminar Nasional Implementasi Merdeka Belajar di Masa Pandemi Covid :19 Peluang dan Tantangan",
+      "subjects": [
+        "HN",
+        "NX"
+      ],
+      "eprintid": 31542,
+      "type": "conference_item",
+      "date": "2021-02-18",
+      "userid": 2827,
+      "full_text_status": "public",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/15\/42",
+      "rev_number": 9,
+      "status_changed": "2021-06-01 03:00:35",
+      "event_type": "conference",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/142699",
+            "docid": 142699,
+            "language": "en",
+            "eprintid": 31542,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Eksistensi Tari Virtual di masa pandemi.pdf",
+                  "objectid": 142699,
+                  "datasetid": "document",
+                  "hash": "ba4f228d14cbe20934139d46db4521d1",
+                  "mtime": "2021-05-31 13:06:02",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/373763",
+                  "fileid": 373763,
+                  "filesize": 695995
+                }
+            ],
+            "main": "Eksistensi Tari Virtual di masa pandemi.pdf"
+          }
+      ]
+    },
+    {
+      "date": "2021-06-10",
+      "type": "article",
+      "userid": 2827,
+      "publication": "Geter : Jurnal Seni Drama, Tari dan Musik",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/03\/26\/90",
+      "ispublished": "pub",
+      "official_url": "https:\/\/journal.unesa.ac.id\/index.php\/geter\/article\/view\/13577\/5608",
+      "rev_number": 8,
+      "pagerange": "47-57",
+      "status_changed": "2021-06-21 01:06:08",
+      "id_number": "10.26740\/geter.v4n1.p47-57",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 32690,
+            "docid": 148532,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148532",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Artikel Revitalisasi Cangget Bakha.pdf",
+            "files": [
+                {
+                  "hash": "82e196d75d102b6bbefade4d6aba666b",
+                  "filename": "Artikel Revitalisasi Cangget Bakha.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 148532,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/386800",
+                  "fileid": 386800,
+                  "filesize": 316895,
+                  "mtime": "2021-06-18 13:01:23",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Saputri, Amelia Hani",
+            "lineage": null,
+            "given": "amel"
+          },
+          "id": "ameliahani@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "goesthy",
+            "family": "Lestari, Goesthy Ayu Mariana Devi",
+            "lineage": null
+          }
+        }
+      ],
+      "issn": "2655-2205",
+      "date_type": "published",
+      "publisher": "Jurusan Sendratasik FBS Unesa",
+      "eprint_status": "archive",
+      "title": "REVITALISASI CANGGET BAKHA FESTIVAL  DI KABUPATEN LAMPUNG UTARA",
+      "lastmod": "2021-06-21 01:06:08",
+      "related_url": [
+        {
+          "url": "https:\/\/journal.unesa.ac.id\/index.php\/geter\/article\/view\/13577"
+        }
+      ],
+      "abstract": "Cangget Bakha merupakan tradisi upacara adat yang dilaksanakan oleh masyarakat Lampung beradat Pepadun pada saat bulan purnama selepas panen. Cangget Bakha dahulu penyelenggaraannya terikat dalam rangkaian adat Begawi Cakak Pepadun dan yang menarikan terbatas hanya dilakangan anak-anak Penyimbang, maka dalam konteks kekinian fungsi tersebut disesuaikan dengan perubahan zaman melalui proses revitalisasi. Revitalisasi Cangget Bara Festival merupakan upaya pembaharuan penampilan sebuah tarian tradisi yang biasanya ditarikan pada acara adat, menjadi tari yang dipentaskan dalam acara festival. Hasil penelitian menunjukan bahwa revitalisasi dilakukan melalui tahapan; 1) Tahap Reformulasi yaitu pengembangan gagasan awal pelaksanaan Cangget Bara Festival antara praktisi seni, tokoh adat, Dinas Pendidikan dan Kebudayaan Kabupaten Lampung Utara, hingga Kementrian Pendidikan dan Kebudayaan; 2)  Tahap Komunikasi bergabungnya CBF dalam Festifal Indonesiana; 3) Tahap Organisasi dengan membagi tim kerja berdasarkan tugas dan fungsi; 4) Tahap Adaptasi dan Tahap Transformasi yaitu tahap koordinasi antara pemerintah, budayawan, tokoh adat, pemuda untuk saling bekerjasama mensukseskan acara; 5) Tahap Rutinitas melalui kegiatan latihan rutin di Sanggar Cangget Budayo. \r\nKata Kunci: Revitalisasi, Cangget Bara Festival",
+      "datestamp": "2021-06-21 01:06:08",
+      "volume": 4,
+      "divisions": [
+        "FKIP25"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32690",
+      "subjects": [
+        "GN",
+        "HN",
+        "NX"
+      ],
+      "eprintid": 32690
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Zakaria",
+            "lineage": null,
+            "given": "L"
+          },
+          "id": "lazakaria.1969@fmipa.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "publisher": "LPPM Universitas Lampung",
+      "eprint_status": "archive",
+      "lastmod": "2020-06-08 01:27:22",
+      "title": "Kain Batik Fraktal",
+      "date_type": "completed",
+      "datestamp": "2020-06-08 01:27:22",
+      "abstract": "Penyediaan motif batik dengan jumlah varian yang banyak dan dikerjakan dengan cepat serta rapih dapat dilakukan dengan menggunakan sebuah perangkat lunak komputer. Dengan  menggunakan  Mathematica  dapat  diproduksi,  ditampilkan,  dioperasikan,  dan dimanipulatif  sebuah  mapping  yang  menghasilkan  fraktal.  Karya seni ini merupakan aplikasi motif batik fraktal berbasis complex mapping menggunakan perangkat lunak Mathematica.",
+      "subjects": [
+        "NX"
+      ],
+      "eprintid": 22060,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22060",
+      "type": "other",
+      "date": "2020-04",
+      "full_text_status": "public",
+      "userid": 1137,
+      "status_changed": "2020-06-08 01:27:22",
+      "ispublished": "unpub",
+      "dir": "disk0\/00\/02\/20\/60",
+      "rev_number": 11,
+      "documents": [
+          {
+            "rev_number": 2,
+            "pos": 1,
+            "eprintid": 22060,
+            "language": "en",
+            "docid": 35457,
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35457",
+            "files": [
+                {
+                  "mtime": "2020-06-07 09:34:38",
+                  "hash_type": "MD5",
+                  "filesize": 2267936,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/203333",
+                  "fileid": 203333,
+                  "datasetid": "document",
+                  "objectid": 35457,
+                  "mime_type": "application\/pdf",
+                  "filename": "KaryaSeniBatikFraktal.pdf",
+                  "hash": "a411e223833920d99b50fdaa72783cec"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "KaryaSeniBatikFraktal.pdf"
+          }
+      ]
+    },
+    {
+      "official_url": "https:\/\/doi.org\/10.15294\/jst.v8i1.24899",
+      "dir": "disk0\/00\/01\/67\/96",
+      "ispublished": "pub",
+      "status_changed": "2019-11-18 07:12:46",
+      "id_number": "https:\/\/doi.org\/10.15294\/jst.v8i1.24899  number 1",
+      "documents": [
+          {
+            "main": "24899-Article Text-74128-2-10-20190723.pdf",
+            "placement": 2,
+            "files": [
+                {
+                  "filesize": 349737,
+                  "fileid": 142748,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/142748",
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-17 15:32:05",
+                  "hash": "903c65d120411be468c505dc42a9e6d8",
+                  "objectid": 29874,
+                  "datasetid": "document",
+                  "filename": "24899-Article Text-74128-2-10-20190723.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 29874,
+            "language": "en",
+            "eprintid": 16796,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29874",
+            "rev_number": 1,
+            "pos": 2
+          }
+      ],
+      "publication": "Tari Melinting: Di Masa Lalu dan Masa Kini",
+      "volume": "Vol 8",
+      "abstract": "Tumbuh kembang Tari Melinting yang notabane milik masyarakat Lampung menjadi menarik diperhatikan terutama merujuk pada tujuan dan fungsinya saat ini yang terus berubah.  Perubahan-perubahan tersebut dapat terlihat dan dibandingkan dengan bentuk awalan tarian tersebut hidup. Secara rinci terdapat  perbedaan dalam penyajian tari Melinting baik dari segi fungsi, bentuk, maupun maknanya. Penelitian ini mencoba mendeskripsikan perkembangan dan perubahan bentuk tari melinting sebagai upaya pelestarian dan pengembangan budaya lokal. Metode yang digunakan untuk mengungkap perkembangan dan perubahan bentuk tari Melinting yakni metode deskriptif kualitatif. Perkembangan dan perubahan bentuk Tari Melinting dapat dilihat pada tiap elemen seni pertunjukan mulai dari aspek penari, gerak, pola lantai, tata rias, busana, iringan musik, penonton dan elemen pendukung lainnya. Perkembangan dan perubahan yang terjadi merupakan upaya pemerintah dan seniman Lampung dalam melestarikan dan mengembangkan seni budaya serta kearifan lokal.",
+      "datestamp": "2019-11-18 07:12:46",
+      "divisions": [
+        "FKIP25"
+      ],
+      "eprintid": 16796,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "indra bulan",
+            "lineage": null,
+            "given": "bulan"
+          },
+          "id": "indar89bulan@gmail.com"
+        }
+      ],
+      "issn": 22526714,
+      "lastmod": "2019-11-18 07:12:46",
+      "rev_number": 12,
+      "date": "2019-07-23",
+      "type": "article",
+      "full_text_status": "public",
+      "userid": 2825,
+      "related_url": [
+        {
+          "url": "https:\/\/doi.org\/10.15294\/jst.v8i1.24899"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16796",
+      "subjects": [
+        "NX"
+      ],
+      "refereed": "TRUE",
+      "number": 1,
+      "funders": [
+        "indra bulan"
+      ],
+      "projects": [
+        "jurnal"
+      ],
+      "date_type": "published",
+      "title": "Tari Melinting Tari Melinting di Masa Lalu dan Masa Kini",
+      "eprint_status": "archive",
+      "publisher": "jurnal seni tari unes"
+    }
+]
+

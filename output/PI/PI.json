@@ -1,0 +1,1560 @@
+[
+    {
+      "projects": [
+        "Prototype R&D Unila: Purwarupa Papan Kunci Mekanik Aksara Lampung"
+      ],
+      "event_dates": "9-10 September 2018",
+      "date_type": "published",
+      "title": "Lampung Character as Culture Preservation in Digital Era",
+      "lastmod": "2018-11-19 04:17:02",
+      "eprint_status": "archive",
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "gitadjausal@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Djausal",
+            "given": "Gita Paramita"
+          }
+        },
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Martinus",
+            "lineage": null,
+            "family": "."
+          },
+          "id": "martinus@eng.unila.ac.id"
+        }
+      ],
+      "funders": [
+        "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10261",
+      "event_title": "International Indonesia Conference on Interdisciplinary Studies (IICIS) FISIP UNILA",
+      "divisions": [
+        "FISIP8"
+      ],
+      "eprintid": 10261,
+      "subjects": [
+        "PI",
+        "TK"
+      ],
+      "datestamp": "2018-11-19 04:17:02",
+      "abstract": "Ancient lampungnese used Lampung character to write. Nowadays, although lampungnese still use lampung languange to communicate, lampung character role became smaller, used only as a cultural ornament. Development of Lampung character font (Meizano & Martinus, 2015) were meant to rejuvenate people interest, specially lampungnese, in using lampung character as a way to communicate using computer based media. The font were tested in against expert, and received favorable review. But, to make the font available conveniently for public, it must be put on computer based system such as desktop pc, smartphone and tablet from the get go. One way to provide this convenient is by proposing the font to the Unicode standard. If the Lampung character included in Unicode standard, the font can be used directly without having to install a separate font file. Character included in Unicode standard should be the best version because once it's included, it is hard to revise. To create the best version of Lampung character, user experience (UX) must be measured, to make sure there are no liability in Lampung character that will be proposed to Unicode standard. Method in designing UX used to create a better UX for lampung character. There are four step in designing UX, first: Requirement Gathering, second: Alternative Design, third: Prototyping, and, last: Evaluation. After the evaluation, if the targeted UX still not achieved, the process iterate. The evaluation shows there are room for improvement. Based on data, there are some refinement need to be done to achieve a better UX. A larger default character and some refinement on typography. The font itself manage to achieve a favorable review on usable and useful aspect of UX. On it's own, user mostly agreed this lampung character have to be spread out more, in order to support the local value and uniqueness of Lampung.",
+      "full_text_status": "public",
+      "userid": 1199,
+      "type": "conference_item",
+      "date": "2018-09-09",
+      "event_type": "conference",
+      "pres_type": "paper",
+      "event_location": "Novotel, Bandar Lampung",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2018-11-18 02:57:17",
+                  "hash_type": "MD5",
+                  "filesize": 412191,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/95772",
+                  "fileid": 95772,
+                  "datasetid": "document",
+                  "objectid": 23262,
+                  "filename": "Meizano_A_Muhammad-UX-Aksara-Lampung.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "7fed3d3ca22c317ee4e622921c58950b"
+                }
+            ],
+            "placement": 1,
+            "main": "Meizano_A_Muhammad-UX-Aksara-Lampung.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23262",
+            "eprintid": 10261,
+            "language": "en",
+            "docid": 23262
+          }
+      ],
+      "official_url": "http:\/\/iicis.fisip.unila.ac.id\/",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/02\/61",
+      "status_changed": "2018-11-19 04:17:02"
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "ekasupono@gmail.com",
+          "name": {
+            "given": "Sofia Agustina",
+            "family": "Eka",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "event_dates": "16-18 May 2014",
+      "date_type": "published",
+      "lastmod": "2017-03-24 06:54:34",
+      "title": "LAMPUNG LANGUAGE TEACHING IN MULTIETHNIC AREAS (The Study of Contextual Learning)",
+      "eprint_status": "archive",
+      "related_url": [
+        {
+          "url": "http:\/\/eprint.unsri.ac.id\/"
+        }
+      ],
+      "abstract": "Lampung language teaching in multiethnic areas becomes ab important issue in achieving the goal of Lampung language learning maximally. Contextual learning strategies provide a space for teachers to be able to determine the steps of Lampung language learning that is closer to the students' real life. The learning steps starts from the teaching materials that have been specified in the recent curriculum. With seven components in contextual learning that is inquiry, constructivism, asking, modeling, leaning community, reflection, and assesment which are actually the appropriate ways in delivering a Lampung language materila in the classroom situations which is characterized as multiethnic (native Lampung, mixed Lampung, and non-Lampung). From the seven components of the contextual learning, the most dominating in achievement of its implementation is a learning society. Formulation of contextual learning strategies in Lampung language subjects becomes the main point.\r\n\r\nKeywords: Lampung language teaching, multiethnic, contextual learning.",
+      "datestamp": "2017-03-24 06:54:34",
+      "event_title": "Proceedings The First  Sriwijaya University Learning and Education International Conference (SULE-IC) 2014",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1474",
+      "divisions": [
+        "FKIP14"
+      ],
+      "eprintid": 1474,
+      "subjects": [
+        "PI"
+      ],
+      "date": "2014-05-16",
+      "type": "conference_item",
+      "full_text_status": "public",
+      "userid": 2,
+      "official_url": "http:\/\/eprint.unsri.ac.id\/",
+      "rev_number": 7,
+      "dir": "disk0\/00\/00\/14\/74",
+      "ispublished": "pub",
+      "status_changed": "2017-03-24 06:54:34",
+      "pagerange": "482-487",
+      "event_type": "conference",
+      "pres_type": "speech",
+      "event_location": "Palembang, Sumatera Selatan",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1347",
+            "format": "text",
+            "docid": 1347,
+            "eprintid": 1474,
+            "language": "en",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Proceedings The 1st Sriwijaya University.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "367a2f8a6fcdea9748e91d023f15aab0",
+                  "filename": "Proceedings The 1st Sriwijaya University.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 1347,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/10018",
+                  "fileid": 10018,
+                  "filesize": 1476723,
+                  "hash_type": "MD5",
+                  "mtime": "2017-03-21 02:25:41"
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Center For Academic Publishing Serfice",
+      "title": "Bebandung pada Tradisi Musok dalam Masyarakat Adat Lampung Tulang Bawang",
+      "refereed": "TRUE",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1464",
+      "subjects": [
+        "PI"
+      ],
+      "related_url": [
+        {
+          "url": "http:\/\/www.bukuseru.com"
+        }
+      ],
+      "userid": 2,
+      "full_text_status": "public",
+      "pages": 250,
+      "type": "book_section",
+      "date": 2016,
+      "editors": [
+        {
+          "id": "capspenerbit@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suwardi",
+            "given": "Endraswara"
+          }
+        }
+      ],
+      "place_of_pub": "Yogyakarta",
+      "rev_number": 9,
+      "lastmod": "2018-02-13 07:35:42",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "ekasupono@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Sofia Agustina",
+            "family": "Eka",
+            "lineage": null
+          }
+        },
+        {
+          "id": "dulifarida@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Ariyani",
+            "lineage": null,
+            "given": "Farida"
+          }
+        }
+      ],
+      "divisions": [
+        "FKIP14"
+      ],
+      "eprintid": 1464,
+      "book_title": "SASTRA EKOLOGIS (TEORI DAN PRAKTIK PENGKAJIAN)",
+      "datestamp": "2017-03-20 13:50:26",
+      "abstract": "Masyarakat asli Lampung  terdiri atas dua kelompok masyarakat adat yaitu Jurai Pepadun dan Jurai Saibatin.  Orang Lampung  jurai Pepadun pada umumnya bermukim di sepanjang aliran sungai yang bermuara ke Laut Jawa dan orang Lampung jurai Saibatin bermukim di pesisir pantai dan di sepanjang aliran sungai yang bermuara  ke Samudera Indonesia.  Dalam bertutur orang Saibatin berdialek A, sedangkan orang Pepadun berdialek O, akan tetapi tidak semua orang Pepadun yang berdialek O.  Dalam pelaksanaan berkehidupan sosial, masyarakat adat Lampung sangat menjujung tinggi falsafah Piil Pesenggiri, yang terdiri atas,  bejuluk beadek, nemui nyimah, nengah nyappur, dan sakai sambayan.  PemaknaanPiil pesenggiri dikaji berdasarkan pemilahan kata piil dan pesenggiri.Piil artinya “rasa malu” atau “rasa harga diri”, sedangkan, Pesenggiri berarti “pantang mundur”.\r\n\r\nRepresentasi penyetiaan pada falsafah yang dipegang teguh dalam rangkaian acara adatLampung diberi nama musok.  Kegiatan musok bagi masyarakat Lampung Tulang Bawang ini  merupakan salah satu bagian dari acara pernikahan secara adat.  Acara suapan alias musok lazimnya pada masyarakat Lampung Tulang Bawang dinamakan acara tendih selou.Makna dari keseluruhan rangkaian adat ini adalah perkawinan secara adat yaitu mempelai wanita duduk bersila dan ujung lutut sebelah kanannya harus ditidih oleh ujung lutut sebelah kiri mempelai pria.Dalam melakukan musoktersebut diiringi dengan bebandungyang merupakan salah satu bentuk sastra lisan yang ada di Lampung.Bebandungberisi syair-syair yang penuh nasihat yang disampaikan kepada mempelai dengan tujuan untuk menghilangkan rasa canggung atau asing dalam keluarga.\r\n\r\n\r\nKata Kunci: Bebandung, tardisi musok, adat Lampung.",
+      "volume": 1,
+      "isbn": "978-602-9324-79-2",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "9f551679bddb8a98b97b1110b7b68cb9",
+                  "datasetid": "document",
+                  "objectid": 1338,
+                  "mime_type": "application\/pdf",
+                  "filename": "Sastra Ekologis.pdf",
+                  "filesize": 1821102,
+                  "fileid": 9943,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9943",
+                  "mtime": "2017-03-20 09:14:09",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Sastra Ekologis.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "eprintid": 1464,
+            "language": "en",
+            "docid": 1338,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1338"
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/14\/64",
+      "official_url": "http:\/\/www.bukuseru.com",
+      "status_changed": "2017-03-20 13:50:26",
+      "pagerange": "229-245"
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/sunda.upi.edu"
+        }
+      ],
+      "datestamp": "2017-03-20 13:49:49",
+      "abstract": "Kajian ini bertujuan untuk mengidentifikasi, menguraikan, dan menganalisis bagaimanakah masyarakat adat Lampung mengartikan makna Piil Pesenggiri baik secara filosofis maupun secara contoh nyata dalam kehidupan sehari-hari. Penelitian ini bersifat kualitatif dengan pendekatan etnolinguistik yaitu untuk mencari dan menggali pemikiran masyarakat adat Lampung terhadap konsepsi Piil Pesengggiri yang terdiri atas ajaran tentang Piil Pesenggiri, Nemui Nyimah, Nengah Nyappur, Buadek Bejuluk, dan Sakai Sembayan yang hasilnya menjadi dasar kajian etnopedagogik. Hasil Penelitian menunjukkan bahwa Piil pesenggiri bagi masyarakat adat Lampung merupakan potensi sosial budaya daerah yang memiliki makna sebagai sumber mativasi agar setiap orang dinamis dalam usaha memperjuangkan nilai-nilai positif, hidup terhormat, dan dihargai di tengah-tengah kehidupan masyarakat. Bentuk tindakan nyata dari empat pilar tersebut menurut masyarakat adat Lampung dapat dicermati dalam perilaku masyarakat berikut ini. (1) Bejuluk Buadek didefinisikan sebagai  pemberian gelar (Bejuluk Beadek) bagi masyarakat adat Lampung yang memuat  karakter bertanggung-jawab, berkeadilan, kepemimpinan, dan kedisiplinan; (2) Nemui Nyimah diterjemahkan sebagai sikap terbuka, pemurah, suka memberi dalam arti materi sesuai dengan kemampuan, kejujuran, rendah hati, silaturahmi, dan empati; (3) Nengah Nyappur, didefinisikan dengan perilaku konkret menunjukkan masayarakat adat Lampung itu bertoleransi, bermasyrakat, bermusyawarah, dan menghargai; (4) Sakai Sambayan, menampakkan karakter bahwa masyarakat adat Lampung menjunjung tinggi nilai keikhlasan, kesetiakawanan, kebersamaan, dan gotong royong\r\n\r\n\r\n \r\nKata Kunci:  Nilai karakter, nilai kelokalan, Piil Pesenggiri",
+      "subjects": [
+        "PI"
+      ],
+      "eprintid": 1469,
+      "divisions": [
+        "FKIP14"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1469",
+      "event_title": "KONFERENSI INTERNASIONAL (BAHASA, SASTRA, DAN BUDAYA DAERAH INDONESIA)",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Eka",
+            "lineage": null,
+            "given": "Sofia Agustina"
+          },
+          "id": "ekasupono@gmail.com"
+        },
+        {
+          "id": "dulifarida@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Farida",
+            "family": "Ariyani",
+            "lineage": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "lastmod": "2018-02-13 07:36:25",
+      "title": "Pengembangan Nilai Karakter Berbasis Kelokalan (Piil Pesenggiri) pada Ranah Pendidikan untuk Multi Jenjang di Provinsi Lampung",
+      "date_type": "published",
+      "event_dates": "26 Oktober 2015",
+      "pagerange": "171-180",
+      "status_changed": "2017-03-20 13:49:49",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/14\/69",
+      "rev_number": 8,
+      "official_url": "http:\/\/sunda.upi.edu",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 1469,
+            "docid": 1343,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1343",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Prosiding Konferensi Internasional Batra Indonesia.pdf",
+            "files": [
+                {
+                  "filesize": 1442279,
+                  "fileid": 9984,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9984",
+                  "hash_type": "MD5",
+                  "mtime": "2017-03-20 10:12:12",
+                  "hash": "66f93631ac3a17920ebfdc127de9fdaa",
+                  "objectid": 1343,
+                  "datasetid": "document",
+                  "filename": "Prosiding Konferensi Internasional Batra Indonesia.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "event_location": "Jawa Barat, Bandung",
+      "pres_type": "speech",
+      "event_type": "conference",
+      "date": "2015-10-26",
+      "type": "conference_item",
+      "full_text_status": "public",
+      "userid": 2
+    },
+    {
+      "publisher": "Interlude",
+      "eprint_status": "archive",
+      "title": "Representasi Kearifan Ekologis Orang Lampung dalam Lagu Tanah Lado dan Kontribusinya sebagai Bahan Pembelajaran Bahasa Lampung Di Sekolah",
+      "lastmod": "2018-02-13 07:35:10",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "given": "Sofia Agustina",
+            "lineage": null,
+            "family": "Eka",
+            "honourific": null
+          },
+          "id": "ekasupono@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ariyani",
+            "lineage": null,
+            "given": "Farida"
+          },
+          "id": "dulifarida@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "subjects": [
+        "PI"
+      ],
+      "eprintid": 1460,
+      "divisions": [
+        "FKIP14"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1460",
+      "abstract": "Puyang Bangsa Lampung pertama kali bermukim menempati dataran tinggiSekala Brak di lereng Gunung Pesagi.Generasi awal Ulun Lampung berasal dari Sekala Brak, di kaki Gunung Pesagi, Lampung Barat.Secara geografis, Lampung kaya akan pulau-pulau, gunung, sungai, danau, dan kali-kali besar.  Hasilbumi Lampung terkenal dengan kopi, lada, coklat, cengkeh, danbuah-buahan. Kehidupan sosial masyarakat Lampung berpedoman pada falsafah Piil Pesenggiri yang dibangun berdasarkan pilar bejuluk beadek, nemuinyimah, nengah nyappur, dan sakai sambayan. Kegembiraan orang Lampung terhadap alam dan hasil bumi Lampung yang melimpah dimanifestasikan kedalam lagu-lagu Lampung. Permasalahan dalam tulisan ini adalah bagaimana representasi kearifan ekologis orang Lampung melalui lagu-lagu lokal? Dengan tujuan untuk mendeskrikpsikan representasi kearifan ekologis orang Lampung melalui lagu-lagu lokal. Pendekatan kualitatif dengan teknik analisis deskriptif digunakan dalam menganalisis data. Lagu-lagu lokal Lampung yang berhasil diinvetarisasi sebanyak 12 lagu berdasarkan kriteria seringnya lagu tersebut didengar dan dilantunkan oleh masyarakat Lampung baik secara langsung, TV lokal, dan media youtube.  Lagu tersebut yaitu Cangget Agung, Lipang-Lipandang, Tanah Lado, Sang Bumi Ghuwai Jughai, Bumi Lampung, Pakai Sambayan, Seminung, Muloh Tunggo, Penyandangan, Anak Tupai, Adi-Adi Laun Lambar, Eghamku di Lampung.Setelah dilakukan analisis terdata 8 lagu yang merepresentasikan kearifan ekologis orang Lampung yaitu ana ktupai, penyandangan, mulok tungga, seminung, Bumi Lampung, Sang Bumi Jughai, Tanah Lado, dan Cangget Agung dengan mengkarakteristikkan lagu dengan lingkungan bumi Lampung.\r\n\r\n\r\n\r\nKata Kunci: representasi, kearifan ekologis, lagu lokal Lampung",
+      "related_url": [
+        {
+          "url": "http:\/\/www.photounclan.com"
+        },
+        {
+          "url": "http:\/\/www.photounclan.com"
+        },
+        {
+          "url": "http:\/\/www.photounclan.com"
+        }
+      ],
+      "datestamp": "2017-03-20 13:49:52",
+      "book_title": "SASTRA HIJAU DALAM BERBAGAI MEDIA",
+      "userid": 2,
+      "full_text_status": "public",
+      "pages": 368,
+      "date": "2016-10",
+      "isbn": "978-602-6250-20-9",
+      "type": "book_section",
+      "editors": [
+        {
+          "id": "interludepenerbit@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Wiyatmi",
+            "given": "Wiyatmi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Else",
+            "given": "Liliani",
+            "honourific": null
+          },
+          "id": "interludepenerbit@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Dwi",
+            "lineage": null,
+            "given": "Budianto",
+            "honourific": null
+          },
+          "id": "interludepenerbit@gmail.com"
+        }
+      ],
+      "documents": [
+          {
+            "main": "SASTRA HIJAU.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "filename": "SASTRA HIJAU.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 1335,
+                  "hash": "c9464552ff1872c3ef758024e4a4deb9",
+                  "hash_type": "MD5",
+                  "mtime": "2017-03-20 08:27:01",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9923",
+                  "fileid": 9923,
+                  "filesize": 11643522
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1335",
+            "docid": 1335,
+            "language": "en",
+            "eprintid": 1460,
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "status_changed": "2017-03-20 13:49:52",
+      "pagerange": "218-239",
+      "place_of_pub": "Yogyakarta",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/14\/60",
+      "official_url": "http:\/\/www.photounclan.com",
+      "rev_number": 11
+    },
+    {
+      "userid": 97,
+      "full_text_status": "public",
+      "type": "conference_item",
+      "event_location": "UPGRIS Semarang",
+      "pres_type": "paper",
+      "event_type": "conference",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "docid": 40602,
+            "language": "en",
+            "eprintid": 26626,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40602",
+            "placement": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 40602,
+                  "filename": "abstrak prosiding UPGRIS-converted (1).pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "7839b1fc342e15f506593d16ed39400c",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-22 12:57:20",
+                  "filesize": 80264,
+                  "fileid": 239441,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/239441"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "abstrak prosiding UPGRIS-converted (1).pdf"
+          }
+      ],
+      "dir": "disk0\/00\/02\/66\/26",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "official_url": "http:\/\/conference.upgris.ac.id\/index.php\/sndbsbdp\/issue\/view\/17",
+      "status_changed": "2020-11-23 01:03:14",
+      "date_type": "published",
+      "event_dates": "25 Agustus 2020",
+      "eprint_status": "archive",
+      "title": "The Ecology of Oral Literature in Betimbang Tradition of Indigenous People in Kampung Tua Way Kanan Lampung",
+      "lastmod": "2020-11-23 01:03:14",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Farida Ariyani",
+            "given": "Farida"
+          },
+          "id": "farida.ariyani@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Eka Sofia Agustina",
+            "lineage": null,
+            "given": "Eka Sofia"
+          },
+          "id": "eka.sofiaagustina@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Siska Mega Diana",
+            "lineage": null,
+            "given": "Siska",
+            "honourific": null
+          },
+          "id": "siskamegadiana1@gmail.com"
+        }
+      ],
+      "divisions": [
+        "FKIP14"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26626",
+      "event_title": "Seminar Nasional Bahasa, Sastra, Budaya Daerah dan Pembelajarannya",
+      "subjects": [
+        "PI"
+      ],
+      "eprintid": 26626,
+      "abstract": "Kampung Tua Negara Batin is one of the areas in Lampung province that still upholds the noble values of the cultural traditions of its ancestors and keeps the oral tradition passed down from generation to generation. The focus of this research study is the oral tradition in Betimbang tradition. This study aims to describe the oral traditions contained in the Betimbang traditional procession in indigenous peoples in Kampung Tua Negara Batin, Way Kanan Regency, and benefits in documenting the oral traditions of the ancestors and adding references in cultural studies and oral literature in Lampung. This qualitative research implemented a data collection process to data analysis and it was approached by several cultural analysis models. The results indicate that the Betimbang tradition begins with the form of the Betimbang traditional ceremony, the function of the Betimbang traditional ceremony, and the symbolic meaning of the Betimbang traditional ceremony. This Betimbang tradition represents the sustainability of the ecological culture of the indigenous people in Kampung Tua Negara Batin, Way Kanan Regency in spite of the fact that all the ritual processes followed the health protocol in the new normal. All of these stages are inseparable from the ecology of oral literature and have the meaning that the newborn baby (grandson) is a legitimate heir in kepunyimbangan and as a bind of the next ritual procession.",
+      "datestamp": "2020-11-23 01:03:14"
+    },
+    {
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO1"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41820",
+      "subjects": [
+        "L1",
+        "PI"
+      ],
+      "refereed": "TRUE",
+      "number": 1,
+      "date_type": "published",
+      "title": "ETIKA LINGKUNGAN DALAM TRADISI ‘NGEMBANG’ DI SAJIRA LEBAK BANTEN: UPAYA PENGUATAN PENDIDIKAN KARAKTER (KAJIAN FOLKLOR)",
+      "publisher": "Pendidikan Bahasa dan Sastra Indonesia",
+      "eprint_status": "archive",
+      "rev_number": 18,
+      "place_of_pub": "Lampung",
+      "date": 2022,
+      "type": "article",
+      "userid": 3012,
+      "full_text_status": "public",
+      "contact_email": "khoerotun.nisa@fkip.unila.ac.id",
+      "volume": 10,
+      "datestamp": "2022-05-25 06:08:10",
+      "abstract": "This research raises issues related to environmental ethics in the tradition of developing in Sajira \r\nLebak District, Banten. This study aims to describe the meaning of ritual discourse in the \r\nngembang tradition and to describe the environmental ethics contained in the ngembang tradition \r\nas an effort to strengthen character education in society. The method and approach in this \r\nresearch is qualitative-descriptive. There are four activities in the series of traditional \r\ndevelopment rituals described in this study. The activities, namely the face of leuweung, melak \r\npare, nyandak seed, noong pare .. The results of this study describe that the activity that contains \r\nthe principle of activity that contains the principle of the life centered theory is the activity of the \r\nface leuweung. Activities that contain the land ethic principle are advance leuweung and \r\nnoongpare activities. Next, the activity that contains the principle of equal treatment is face \r\nleuweung. Finally, the activities that contain the principles of theocentrism theory are the activities \r\nof nyandak seeds and melak pare.\r\nKeywords: environmental ethics, folklore, development tradition",
+      "divisions": [
+        "FKIP14"
+      ],
+      "eprintid": 41820,
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "KNL",
+            "family": "Khoerotun Nisa Liswati",
+            "lineage": null
+          },
+          "id": "khoerotun.nisa@fkip.unila.ac.id"
+        },
+        {
+          "id": "rian.andri@fkip.unila.ac.id",
+          "name": {
+            "family": "Rian Andri Prasetya",
+            "lineage": null,
+            "given": "RAP",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "NNA",
+            "lineage": null,
+            "family": "Nuri Novianti Afidah"
+          },
+          "id": "nuri.novianti.afidah@upi.edu"
+        }
+      ],
+      "referencetext": "Danandjaja, James. 2002. Folklor Indonesia (Ilmu Gosip, Dongeng, dan lain-lain). Jakarta: Grafiti Press. \r\nHudha, Atok Miftachul, dkk. 2019. Etika Lingkungan (Teori dan Praktik Pembelajarannya). Malang: Universitas Muhammadiyah Malang.\r\nKeraf, A.S. 2014. Filsafat Lingkungan Hidup : Alam Sebagai Sebuah Sistem Kehidupan. Yogyakarta: Kanisius.\r\nKuswarno, Engkus. 2011. Etnografi Komunikasi. Bandung: Refika Aditama.\r\nLight&Rolstone III,H. 2002. Environmental Ethics: An Antology. US: Wiley-Blackwell. \r\nMarfai, M.A. 2013. Pengantar Etika Lingkungan dan Kearifan Lokal. Yogyakarta:GMU-Press.\r\nPrasetyo, Agus dan Emusti Rivasintha.(2011). Konsep Urgensi dan Implementasi pendidikan Karakter di Sekolah. Tersedia dalam http:\/\/edukasi.kompasiana.com\/2011\/05\/27\/konsep-urgensi-danimplementasi- pendidikan-karakter-disekolah (diakses tanggal 20 Mei 2022).\r\nPropp. 1997. Theory and History of Folklore. Minneapolis: University of Minne sota Press.\r\nSyamsuri, I. 1996. Etika Lingkungan (Usul Tentang Cara Merumuskan  dan Memasyarakatkannya). Chimera: 1(2)85-98.",
+      "issn": "2338-8153",
+      "lastmod": "2022-05-25 06:08:10",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO1\/article\/view\/24462",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/18\/20",
+      "pagerange": "44-50",
+      "status_changed": "2022-05-25 06:08:10",
+      "id_number": "Vol 10 No.1 Apr (2022)",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163486",
+            "eprintid": 41820,
+            "language": "en",
+            "docid": 163486,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2022-05-25 04:23:16",
+                  "hash_type": "MD5",
+                  "fileid": 461838,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/461838",
+                  "filesize": 927860,
+                  "mime_type": "application\/pdf",
+                  "filename": "ETIKA LINGKUNGAN DALAM TRADISI ‘NGEMBANG’ DI SAJIRA LEBAK BANTEN UPAYA PENGUATAN PENDIDIKAN KARAKTER (KAJIAN FOLKLOR) Liswati Jurnal Kata (Bahasa, Sastra, dan Pembelajarannya).pdf",
+                  "datasetid": "document",
+                  "objectid": 163486,
+                  "hash": "642a30b1ddc12aa2b8b7a8f3255d785e"
+                }
+            ],
+            "placement": 2,
+            "main": "ETIKA LINGKUNGAN DALAM TRADISI ‘NGEMBANG’ DI SAJIRA LEBAK BANTEN UPAYA PENGUATAN PENDIDIKAN KARAKTER (KAJIAN FOLKLOR) Liswati Jurnal Kata (Bahasa, Sastra, dan Pembelajarannya).pdf"
+          },
+          {
+            "docid": 163488,
+            "eprintid": 41820,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163488",
+            "pos": 3,
+            "rev_number": 1,
+            "main": "ETIKA LINGKUNGAN DALAM TRADISI 'NGEMBANG' DI SAJIRA LEBAK BANTEN UPAYA PENGUATAN PENDIDIKAN KARAKTER KAJIAN FOLKLOR-KHOEROTUN NISA L_Artikel.pdf",
+            "placement": 3,
+            "files": [
+                {
+                  "filesize": 235616,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/461844",
+                  "fileid": 461844,
+                  "hash_type": "MD5",
+                  "mtime": "2022-05-25 04:26:37",
+                  "hash": "c2c1d5924d7dca9dd6acf37d049e3d4e",
+                  "objectid": 163488,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "ETIKA LINGKUNGAN DALAM TRADISI 'NGEMBANG' DI SAJIRA LEBAK BANTEN UPAYA PENGUATAN PENDIDIKAN KARAKTER KAJIAN FOLKLOR-KHOEROTUN NISA L_Artikel.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "publication": "JURNAL KATA"
+    },
+    {
+      "publisher": "FKIP Unila",
+      "eprint_status": "archive",
+      "title": "ETIKA LINGKUNGAN DALAM TRADISI ‘NGEMBANG’ DI SAJIRA LEBAK BANTEN: UPAYA PENGUATAN PENDIDIKAN KARAKTER (KAJIAN FOLKLOR)",
+      "lastmod": "2022-05-30 03:22:28",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Khoerotun Nisa Liswati",
+            "lineage": null,
+            "given": "KNL"
+          },
+          "id": "khoerotun.nisa@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rian Andri Prasetya",
+            "lineage": null,
+            "given": "RAP"
+          },
+          "id": "rian.andri@fkip.unila.ac.id"
+        },
+        {
+          "id": "nuri.novianti.afidah@upi.edu",
+          "name": {
+            "given": "NNA",
+            "family": "Nuri Novianti Afidah",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "subjects": [
+        "P1",
+        "PI"
+      ],
+      "eprintid": 41957,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41957",
+      "abstract": "Penelitian ini mengangkat permasalahan yang berkenaan dengan etika lingkungan dalam  tradisi ngembang di Kecamatan Sajira Lebak Banten. Penelitian ini bertujuan untuk mendeskripsikan bagaimana makna wacana ritual dalam tradisi ngembang dan mendeskripsikan etika lingkungan yang terdapat dalam tradisi ngembang sebagai upaya penguatan pendidikan karakter dalam masyarakat. Metode dan pendekatan dalam penelitian ini adalah kualitatif-deskriptif . Ada empat kegiatan dalam rangkaian praritual tradisi ngembang  yang dideskripsikan dalam penelitian ini.  Adapun kegiatan tersebut, yaitu muka leuweung, melak pare, nyandak bibit, noong pare.. Hasil dari penelitian ini mendeskripsikan bahwa kegiatan yang mengandung prinsip Kegiatan yang mengandung prinsip the life centered theory adalah kegiatan muka leuweung. Kegiatan yang mengandung prinsip the land ethic adalah kegiatan muka leuweung dan noong pare . Berikutnya, kegiatan yang mengandung prinsip equal treatment adalah muka leuweung. Terakhir, kegiatan yang mengandung  prinsip dari teori teosentrisme  adalah kegiatan nyandak bibit dan melak pare.",
+      "datestamp": "2022-05-30 03:22:28",
+      "full_text_status": "public",
+      "userid": 23019,
+      "date": "2022-04",
+      "type": "other",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 1073633,
+                  "fileid": 462910,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/462910",
+                  "mtime": "2022-05-30 01:38:47",
+                  "hash_type": "MD5",
+                  "hash": "93c9fefde65e02be15291e8f83246378",
+                  "datasetid": "document",
+                  "objectid": 163644,
+                  "mime_type": "application\/pdf",
+                  "filename": "Peer Review Artikel-KNL.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "Peer Review Artikel-KNL.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "docid": 163644,
+            "eprintid": 41957,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163644",
+            "format": "text"
+          }
+      ],
+      "status_changed": "2022-05-30 03:22:28",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/19\/57",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO1\/article\/view\/24462",
+      "rev_number": 8
+    },
+    {
+      "divisions": [
+        "FT8"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24097",
+      "subjects": [
+        "PI"
+      ],
+      "eprintid": 24097,
+      "abstract": "Program komputer yang langsung menterjemahkan pada saat pengguna memberikan masukan dari bahasa Indonesia menjadi aksara Lampung dengan transliterasinya dan sebaliknya.",
+      "datestamp": "2020-09-21 03:27:34",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "title": "Hak Cipta Program Komputer Kamus Aksara Lampung",
+      "lastmod": "2020-09-21 03:27:34",
+      "metadata_visibility": "show",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Muhammad",
+            "given": "Meizano Ardhi",
+            "honourific": null
+          }
+        },
+        {
+          "id": "martinus@eng.unila.ac.id",
+          "name": {
+            "given": "Martinus",
+            "family": ".",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "given": "Mardiana",
+            "honourific": null
+          },
+          "id": "mardiana@eng.unila.ac.id"
+        }
+      ],
+      "id_number": "EC00201702736",
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37800",
+            "docid": 37800,
+            "language": "en",
+            "eprintid": 24097,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "EC00201702736-meizano.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219406",
+                  "fileid": 219406,
+                  "filesize": 191451,
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-20 04:56:31",
+                  "hash": "adbc6d54ee3d159ce169343d7f260261",
+                  "filename": "EC00201702736-meizano.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 37800
+                }
+            ]
+          }
+      ],
+      "dir": "disk0\/00\/02\/40\/97",
+      "ispublished": "pub",
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/T2crdjBCWEFpdmNYc2VTdWF5ZEpSQT09",
+      "rev_number": 7,
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "status_changed": "2020-09-21 03:27:34",
+      "userid": 1199,
+      "full_text_status": "public",
+      "type": "patent",
+      "date": "2016-12-16"
+    },
+    {
+      "lastmod": "2020-09-21 03:28:52",
+      "title": "Hak Cipta Program Komputer Transliterasi Aksara Lampung",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Meizano Ardhi",
+            "family": "Muhammad",
+            "lineage": null
+          },
+          "id": "meizano@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": ".",
+            "given": "Martinus"
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Djausal",
+            "lineage": null,
+            "given": "Gita Paramita"
+          },
+          "id": "gita.djausal@fisip.unila.ac.id"
+        },
+        {
+          "id": "chacho81@yahoo.com",
+          "name": {
+            "given": "Warsono",
+            "family": ".",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": ".",
+            "given": "Hartoyo",
+            "honourific": null
+          },
+          "id": "htyiluh@yahoo.co.id"
+        }
+      ],
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 24103,
+      "subjects": [
+        "PI",
+        "T1",
+        "T201"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24103",
+      "divisions": [
+        "FT8"
+      ],
+      "abstract": "Aksara Lampung adalah warisan budaya Indonesia yang harus dilestarikan. Demi mendorong penggunaan aksara Lampung di masyarakat modern, dibuat aplikasi Transliterasi Aksara Lampung. Transliterasi Aksara Lampung adalah aplikasi yang berfungsi untuk melakukan transliterasi kata lampung yang ditulis dalam huruf alfabet menjadi aksara Lampung. Fungsi lainnya adalah melakukan pengetikan aksara Lampung menggunakan keyboard, baik virtual atau pun fisik. Dengan mengetahui bentuk aksara Lampung dari kata Lampung yang digunakan, diharapkan aksara Lampung dapat dipakai dalam komunikasi di masyarakat.",
+      "datestamp": "2020-09-21 03:28:52",
+      "userid": 1199,
+      "full_text_status": "public",
+      "type": "patent",
+      "date": "2018-11-16",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37806",
+            "format": "text",
+            "docid": 37806,
+            "language": "en",
+            "eprintid": 24103,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "sertifikat_EC00201857013.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-20 05:21:49",
+                  "fileid": 219462,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219462",
+                  "filesize": 770623,
+                  "mime_type": "application\/pdf",
+                  "filename": "sertifikat_EC00201857013.pdf",
+                  "datasetid": "document",
+                  "objectid": 37806,
+                  "hash": "b17c29e59411aeed23e45a5c83932242"
+                }
+            ]
+          }
+      ],
+      "id_number": "EC00201857013",
+      "status_changed": "2020-09-21 03:28:52",
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "rev_number": 10,
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/TmRRQjZxNlpmWVcyaTNKaitod01jUT09",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/41\/03"
+    },
+    {
+      "datestamp": "2020-09-21 03:28:40",
+      "abstract": "Font Komputer yang dapat digunakan untuk mengetik aksara Lampung menggunakan huruf alfabet yang dipetakan ke setiap aksara.",
+      "subjects": [
+        "PI",
+        "T1",
+        "T201"
+      ],
+      "eprintid": 24101,
+      "divisions": [
+        "FT8"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24101",
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Muhammad",
+            "lineage": null,
+            "given": "Meizano Ardhi"
+          }
+        },
+        {
+          "name": {
+            "given": "Martinus",
+            "family": ".",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "martinus@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Hery Dian",
+            "family": "Septama",
+            "lineage": null
+          },
+          "id": "hery@eng.unila.ac.id"
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Mardiana",
+            "family": ".",
+            "lineage": null
+          }
+        },
+        {
+          "id": "gita.djausal@fisip.unila.ac.id",
+          "name": {
+            "given": "Gita Paramita",
+            "lineage": null,
+            "family": "Djausal",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Raden",
+            "lineage": null,
+            "family": "Arum Setia Priadi"
+          },
+          "id": "rasp@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Gigih Forda",
+            "lineage": null,
+            "family": "Nama",
+            "honourific": null
+          },
+          "id": "gigih@eng.unila.ac.id"
+        },
+        {
+          "id": "yessi.mulyani@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Mulyani",
+            "given": "Yessi",
+            "honourific": null
+          }
+        },
+        {
+          "id": "komar@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Muhamad",
+            "family": "Komarudin",
+            "lineage": null
+          }
+        },
+        {
+          "id": "titin.yulianti@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yulianti",
+            "given": "Titin"
+          }
+        },
+        {
+          "id": "mona.batubara@eng.unila.id",
+          "name": {
+            "lineage": null,
+            "family": "Muda",
+            "given": "Mona Arif",
+            "honourific": null
+          }
+        },
+        {
+          "id": "eko@eng.unila.ac.id",
+          "name": {
+            "given": "Wahyu Eko",
+            "lineage": null,
+            "family": "Sulistiono",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Restuningrat",
+            "lineage": null,
+            "given": "Anang"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "title": "Hak Cipta Program Komputer Font Aksara Lampung",
+      "lastmod": "2020-09-21 03:28:40",
+      "date_type": "published",
+      "patent_applicant": "Lembaga Penelitian dan Pengabdian kepada Masyarakat Universitas Lampung",
+      "status_changed": "2020-09-21 03:28:40",
+      "dir": "disk0\/00\/02\/41\/01",
+      "ispublished": "pub",
+      "rev_number": 13,
+      "official_url": "https:\/\/pdki-indonesia.dgip.go.id\/index.php\/hakcipta\/dm1FZjN6bDRoL0R0YS83RDBVV3FZZz09",
+      "documents": [
+          {
+            "main": "sertifikat_EC00201826133.pdf",
+            "files": [
+                {
+                  "hash": "e91fff70e5822212cd8082c3b2c9bbe6",
+                  "mime_type": "application\/pdf",
+                  "filename": "sertifikat_EC00201826133.pdf",
+                  "datasetid": "document",
+                  "objectid": 37804,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/219440",
+                  "fileid": 219440,
+                  "filesize": 771743,
+                  "hash_type": "MD5",
+                  "mtime": "2020-09-20 05:11:29"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "eprintid": 24101,
+            "language": "en",
+            "docid": 37804,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37804",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "id_number": "EC00201826133",
+      "type": "patent",
+      "date": "2016-10-28",
+      "full_text_status": "public",
+      "userid": 1199
+    },
+    {
+      "type": "book",
+      "isbn": "978-623-7718-43-7",
+      "date": "2020-11",
+      "pages": 86,
+      "full_text_status": "public",
+      "userid": 3309,
+      "official_url": "https:\/\/isbn.perpusnas.go.id\/Account\/SearchBuku?searchCat=ISBN&searchTxt=978-623-7718-43-7",
+      "rev_number": 9,
+      "place_of_pub": "Indonesia",
+      "dir": "disk0\/00\/02\/63\/98",
+      "ispublished": "pub",
+      "status_changed": "2020-11-20 02:17:15",
+      "editors": [
+        {
+          "name": {
+            "family": "Raksa",
+            "lineage": null,
+            "given": "Vega",
+            "honourific": null
+          }
+        }
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "language": "en",
+            "eprintid": 26398,
+            "docid": 40296,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40296",
+            "format": "image",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-20 02:09:18",
+                  "filesize": 353596,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/237756",
+                  "fileid": 237756,
+                  "datasetid": "document",
+                  "objectid": 40296,
+                  "mime_type": "image\/jpeg",
+                  "filename": "Antologi_Cover.jpeg",
+                  "hash": "cbc026cc6f5aa243bd86329bc49d260a"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "image\/jpeg",
+            "main": "Antologi_Cover.jpeg"
+          }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "family": "Riyantika",
+            "lineage": null,
+            "given": "Fajar",
+            "honourific": null
+          },
+          "id": "fajar.riyantika@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Dito",
+            "family": "Aditia",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Maulana",
+            "lineage": null,
+            "given": "Nana",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Lia",
+            "lineage": null,
+            "family": "Lestari"
+          },
+          "id": null
+        }
+      ],
+      "title": "BE FADILAN\r\nANTOLOGI CERPEN LAMPUNG 1999-2010",
+      "lastmod": "2020-11-20 02:17:15",
+      "eprint_status": "archive",
+      "publisher": "CV. IRDH (International Research and Development for Human Beings)",
+      "abstract": "Antologi Cerpen Lampung 1999 – 2010 ini berisikan 11 cerita dan quotes yang ditulis oleh 4 orang yaitu Fajar, Dito, Lia, dan Nana, atau disingkat sebagai BE Fadilan: saling berbagi kisah dan memberi kasih untuk sesama. Selain itu, arti kata Fadil menurut bahasa Arab berarti suka memberi, murah hati atau dermawan.Buku ini merupakan karya kami yang berisi kumpulan cerita yang mengambil latar belakang dari kisah pada kurun waktu 1999 hingga 2010 yang terangkum dari kisah-kisah inspiratif, kebudayaan dan pariwisata daerah serta bernostalgia dengan masa lalu di Provinsi Lampung.",
+      "datestamp": "2020-11-20 02:17:15",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26398",
+      "divisions": [
+        "UNILA6"
+      ],
+      "eprintid": 26398,
+      "subjects": [
+        "PI",
+        "PN"
+      ]
+    },
+    {
+      "issn": "978-602-60167-0-6",
+      "title": "PEMBELAJARAN BERBICARA BERBASIS TIPOLOGIS BAHASA\r\nDAN KEARIFAN LOKAL MASYARAKAT LAMPUNG\r\nBAGI PESERTA BIPA DI UNIVERSITAS LAMPUNG\r\n\r\noleh\r\nMuhammad Fuad\r\nSumarti",
+      "lastmod": "2017-11-16 03:25:32",
+      "publisher": "Program Studi Magister Pendidikan Bahasa, Sastra, dan Daerah (MPBSD) FKIP Universitas Lampung",
+      "eprint_status": "archive",
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Sumarti",
+            "family": "Sumarti",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "gragemarti@yahoo.co.id"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4746",
+      "eprintid": 4746,
+      "subjects": [
+        "PI"
+      ],
+      "datestamp": "2017-11-16 03:25:32",
+      "abstract": "ABSTRAK\r\n\r\n        Tulisan ini dimaksudkan untuk memaparkan implementasi ancangan pembelajaran berbicara berbasis tipologi bahasa para peserta BIPA Darmasiswa Unila, dengan penguatan kearifan lokal masyarakat Lampung. Hal ini bertolak dari konsep bahwa pelafalan bunyi bahasa Indonesia yang benar, sesuai artikulasi dan kaidah fonotaktiknya,  merupakan salah satu indikator terampil berbicara bahasa Indonesia. Padahal, peserta BIPA Darmasiswa Unila yang berasal dari Polandia, Slovakia, Madagaskar, dan Vietnam  sudah terbiasa berbahasa ibu yang memiliki tipologi dan sistem morfofonologi berbeda dengan sistem artikulasi bahasa Indonesia.\r\n        Di sisi lain, salah satu strategi internasionalisasi bahasa Indonesia melalui BIPA ialah penciptaan impresi bahwa belajar bahasa Indonesia itu mudah dan menyenangkan. Oleh karena itu, kearifan lokal masyarakat Lampung yang khas atau mungkin unik sengaja digunakan oleh pengajar sebagai penguatan materi pembelajaran. Pengajar menggunakan teks kearifan lokal yang unik itu sebagai bahan suplemen untuk strategi pembelajaran yang dipilih, yaitu pembelajaran berdasarkan pada kajian tipologi dan sistem morfologi bahasa penutur asing sehingga menguatkan kompetensi yang telah ada sekaligus mengantisipasi kesulitan mereka dalam mempelajari sistem artikulasi bahasa Indonesia sebagai bahasa target. \r\n        Selanjutnya, dengan menggunakan pendekatan deskriptif-kualitatif dan teknik observasi, wawancara,dan tes, kiranya dapat dipaparkan pula sejumlah data. Pertama, bahwa peserta BIPA Darmasiswa Unila dari Polandia dan Slovakia (penutur bahasa inflektif) mengalami kesulitan melafalkan fonem nasal, deret nasal+velar, konsonan palatal. Kedua, peserta yang berasal dari Madagaskar (penutur bahasa aglutinatif) mengalami kesulitan melafalkan nasal velar diikuti vokal tengah dan getar, nasal+vokal+nasal. Ketiga, peserta yang berasal dariVietnam (penutur bahasa isolatif) kesulitan melafalkan fonem geseran laminoalveolar+semivokal dan kluster\/gugus. Keempat, pelatihan berbicara dengan nada, tempo, dan durasi tertentu, disertai materi ajar yang menarik, seperti lagu dan permainan bahasa yang berisi kearifan lokal masyarakat Lampung, para peserta BIPA Darmasiswa di Unila dapat mengatasi kendala sekaligus dapat mencapai target dalam belajar kemampuanberbicara bahasa Indonesia.\r\n\r\nKata Kunci: tipologi bahasa, morfofonologi, kearifan lokal \t\r\n\r\n\r\nTHE SPEAKING LEARNING BASED ON LINGUISTIC  TYPOLOGY AND LOCAL WISDOM OF LAMPUNG PEOPLE FOR PARTICIPANTS \r\nOF BIPA IN LAMPUNG UNIVERSITY\r\noleh\r\nMuhammad Fuad\r\nSumarti\r\n\r\n\r\nABSTRACT\r\nThis article is aimed to explain the implementation of speaking lesson design based on linguistic typology for  participants of BIPA (Indonesian Language for Foreign Speaker) Darmasiswa in Lampung University with reinforcement of local wisdom of Lampung people.  This is back grounded by` the concept that pronunciation of  Indonesian language sound which is in accord with its articulation and phonotactics rule, is one indicator of speaking Indonesian language skillfully.  Whereas, participants of BIPA Darmasiswa in Lampung University who come from Poland, Slovakia, Madagaskar and Vietnam had been get used to speak their mother tongue whose typology and morphology system  is different from articulation system of Indonesian language.\r\nOn the other side, one strategy to internationalize Indonesian language  through BIPA  is to create the impression that learning Indonesian language is easy and fun.  Therefore, local wisdom of Lampung people which is unique or probably unique is deliberately used by instructor as learning material reinforcement.  The instructor use local wisdom text as supplemental  material for learning strategy chosen, that is, learning based on typology study and language morphology system of foreign speaker  so it reinforce the existing competence and at the same time to anticipate their difficulty in learning articulation system of Indonesian language as target language.\r\nNext, by using descriptive- qualitative approach and techniques such as observation, interview, and test, some data can be explained.   First, that participants of BIPA Darmasiwa in Lampung University from Poland and Slovakia (flexion language speaker) find difficulty to pronoun nasal phoneme,  nasal + velar row, palatal consonant.  Second,the participants who come from  Madagaskar (flexion – agglutinative language speaker)  find difficulty to pronoun middle and vibrate vocals, nasal + vocal+nasal. Third,participants who come from Vietnam (isolative language speaker) find difficulty to pronoun fricative phoneme of laminoalveolar+semivocal  and cluster.  Forth, because theinstructor train by using  certain tone, tempo and duration with interesting teaching material such as song and language game which contain local wisdom of Lampung people, the participants of BIPA Darmasiswa in Lampung University can overcome the barrier and at the same time can achieve the target in learning the ability to speak Indonesian language.\r\n\r\nKeywords: linguistic  typology, morphology, local wisdom",
+      "full_text_status": "public",
+      "publication": "Konferensi Internasional VI",
+      "userid": 538,
+      "type": "article",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "language": "en",
+            "eprintid": 4746,
+            "docid": 17667,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17667",
+            "format": "text",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46388",
+                  "fileid": 46388,
+                  "filesize": 3723042,
+                  "mtime": "2017-11-06 10:40:09",
+                  "hash_type": "MD5",
+                  "hash": "ee669641374f8048e61112b9e53d8b0a",
+                  "mime_type": "application\/pdf",
+                  "filename": "Pembelajaran Berbicara Berbasis Tipologi Bahasa dan Kearifan Lokal Masyarakat Lampung bagi Penutur BIPA di UNILA.pdf",
+                  "datasetid": "document",
+                  "objectid": 17667
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Pembelajaran Berbicara Berbasis Tipologi Bahasa dan Kearifan Lokal Masyarakat Lampung bagi Penutur BIPA di UNILA.pdf"
+          }
+      ],
+      "rev_number": 6,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/47\/46",
+      "status_changed": "2017-11-16 03:25:32"
+    },
+    {
+      "type": "article",
+      "date": "2017-10-12",
+      "publication": "PROSIDING Konferensi Internasional Pengajaran Bahasa Indonesia bagi Penutur Asing (KIPBIPA X\/2017)",
+      "userid": 538,
+      "full_text_status": "public",
+      "pagerange": "1-7",
+      "status_changed": "2017-11-16 03:25:37",
+      "rev_number": 6,
+      "dir": "disk0\/00\/00\/47\/49",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "Pembelajaran Berbicara Berbasis Tipologi Bahasa dan Kearifan Lokal Masyarakat Lampung bagi Penutur BIPA di UNILA.pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 17670,
+                  "mime_type": "application\/pdf",
+                  "filename": "Pembelajaran Berbicara Berbasis Tipologi Bahasa dan Kearifan Lokal Masyarakat Lampung bagi Penutur BIPA di UNILA.pdf",
+                  "hash": "ee669641374f8048e61112b9e53d8b0a",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-06 11:18:40",
+                  "filesize": 3723042,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46401",
+                  "fileid": 46401
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 4749,
+            "docid": 17670,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17670",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "creators": [
+        {
+          "id": "gragemarti@yahoo.co.id",
+          "name": {
+            "family": "Sumarti",
+            "lineage": null,
+            "given": "Sumarti",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "title": "PEMBELAJARAN BERBICARA BERBASIS TIPOLOGIS BAHASA\r\nDAN KEARIFAN LOKAL MASYARAKAT LAMPUNG\r\nBAGI PESERTA BIPA DI UNIVERSITAS LAMPUNG",
+      "lastmod": "2017-11-16 03:25:37",
+      "eprint_status": "archive",
+      "publisher": "Media Nusa Creative",
+      "issn": "978-602-6743-49-7",
+      "abstract": "ABSTRAK\r\n\r\n        Tulisan ini dimaksudkan untuk memaparkan implementasi ancangan pembelajaran berbicara berbasis tipologi bahasa para peserta BIPA Darmasiswa Unila, dengan penguatan kearifan lokal masyarakat Lampung. Hal ini bertolak dari konsep bahwa pelafalan bunyi bahasa Indonesia yang benar, sesuai artikulasi dan kaidah fonotaktiknya,  merupakan salah satu indikator terampil berbicara bahasa Indonesia. Padahal, peserta BIPA Darmasiswa Unila yang berasal dari Polandia, Slovakia, Madagaskar, dan Vietnam  sudah terbiasa berbahasa ibu yang memiliki tipologi dan sistem morfofonologi berbeda dengan sistem artikulasi bahasa Indonesia.\r\n        Di sisi lain, salah satu strategi internasionalisasi bahasa Indonesia melalui BIPA ialah penciptaan impresi bahwa belajar bahasa Indonesia itu mudah dan menyenangkan. Oleh karena itu, kearifan lokal masyarakat Lampung yang khas atau mungkin unik sengaja digunakan oleh pengajar sebagai penguatan materi pembelajaran. Pengajar menggunakan teks kearifan lokal yang unik itu sebagai bahan suplemen untuk strategi pembelajaran yang dipilih, yaitu pembelajaran berdasarkan pada kajian tipologi dan sistem morfologi bahasa penutur asing sehingga menguatkan kompetensi yang telah ada sekaligus mengantisipasi kesulitan mereka dalam mempelajari sistem artikulasi bahasa Indonesia sebagai bahasa target. \r\n        Selanjutnya, dengan menggunakan pendekatan deskriptif-kualitatif dan teknik observasi, wawancara,dan tes, kiranya dapat dipaparkan pula sejumlah data. Pertama, bahwa peserta BIPA Darmasiswa Unila dari Polandia dan Slovakia (penutur bahasa inflektif) mengalami kesulitan melafalkan fonem nasal, deret nasal+velar, konsonan palatal. Kedua, peserta yang berasal dari Madagaskar (penutur bahasa aglutinatif) mengalami kesulitan melafalkan nasal velar diikuti vokal tengah dan getar, nasal+vokal+nasal. Ketiga, peserta yang berasal dariVietnam (penutur bahasa isolatif) kesulitan melafalkan fonem geseran laminoalveolar+semivokal dan kluster\/gugus. Keempat, pelatihan berbicara dengan nada, tempo, dan durasi tertentu, disertai materi ajar yang menarik, seperti lagu dan permainan bahasa yang berisi kearifan lokal masyarakat Lampung, para peserta BIPA Darmasiswa di Unila dapat mengatasi kendala sekaligus dapat mencapai target dalam belajar kemampuanberbicara bahasa Indonesia.\r\n\r\nKata Kunci: tipologi bahasa, morfofonologi, kearifan lokal \t\r\n\r\nABSTRACT\r\nThis article is aimed to explain the implementation of speaking lesson design based on linguistic typology for  participants of BIPA (Indonesian Language for Foreign Speaker) Darmasiswa in Lampung University with reinforcement of local wisdom of Lampung people.  This is back grounded by` the concept that pronunciation of  Indonesian language sound which is in accord with its articulation and phonotactics rule, is one indicator of speaking Indonesian language skillfully.  Whereas, participants of BIPA Darmasiswa in Lampung University who come from Poland, Slovakia, Madagaskar and Vietnam had been get used to speak their mother tongue whose typology and morphology system  is different from articulation system of Indonesian language.\r\nOn the other side, one strategy to internationalize Indonesian language  through BIPA  is to create the impression that learning Indonesian language is easy and fun.  Therefore, local wisdom of Lampung people which is unique or probably unique is deliberately used by instructor as learning material reinforcement.  The instructor use local wisdom text as supplemental  material for learning strategy chosen, that is, learning based on typology study and language morphology system of foreign speaker  so it reinforce the existing competence and at the same time to anticipate their difficulty in learning articulation system of Indonesian language as target language.\r\nNext, by using descriptive- qualitative approach and techniques such as observation, interview, and test, some data can be explained.   First, that participants of BIPA Darmasiwa in Lampung University from Poland and Slovakia (flexion language speaker) find difficulty to pronoun nasal phoneme,  nasal + velar row, palatal consonant.  Second,the participants who come from  Madagaskar (flexion – agglutinative language speaker)  find difficulty to pronoun middle and vibrate vocals, nasal + vocal+nasal. Third,participants who come from Vietnam (isolative language speaker) find difficulty to pronoun fricative phoneme of laminoalveolar+semivocal  and cluster.  Forth, because theinstructor train by using  certain tone, tempo and duration with interesting teaching material such as song and language game which contain local wisdom of Lampung people, the participants of BIPA Darmasiswa in Lampung University can overcome the barrier and at the same time can achieve the target in learning the ability to speak Indonesian language.\r\n\r\nKeywords: linguistic  typology, morphology, local wisdom",
+      "datestamp": "2017-11-16 03:25:37",
+      "eprintid": 4749,
+      "subjects": [
+        "PI"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4749",
+      "divisions": [
+        "FKIP14"
+      ]
+    },
+    {
+      "subjects": [
+        "PI"
+      ],
+      "eprintid": 4829,
+      "divisions": [
+        "FKIP14"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4829",
+      "datestamp": "2017-11-10 16:42:50",
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "abstract": "ABSTRAK\r\n\r\n        Tulisan ini dimaksudkan untuk memaparkan implementasi ancangan pembelajaran berbicara berbasis tipologi bahasa para peserta BIPA Darmasiswa Unila, dengan penguatan kearifan lokal masyarakat Lampung. Hal ini bertolak dari konsep bahwa pelafalan bunyi bahasa Indonesia yang benar, sesuai artikulasi dan kaidah fonotaktiknya,  merupakan salah satu indikator terampil berbicara bahasa Indonesia. Padahal, peserta BIPA Darmasiswa Unila yang berasal dari Polandia, Slovakia, Madagaskar, dan Vietnam  sudah terbiasa berbahasa ibu yang memiliki tipologi dan sistem morfofonologi berbeda dengan sistem artikulasi bahasa Indonesia.\r\n        Di sisi lain, salah satu strategi internasionalisasi bahasa Indonesia melalui BIPA ialah penciptaan impresi bahwa belajar bahasa Indonesia itu mudah dan menyenangkan. Oleh karena itu, kearifan lokal masyarakat Lampung yang khas atau mungkin unik sengaja digunakan oleh pengajar sebagai penguatan materi pembelajaran. Pengajar menggunakan teks kearifan lokal yang unik itu sebagai bahan suplemen untuk strategi pembelajaran yang dipilih, yaitu pembelajaran berdasarkan pada kajian tipologi dan sistem morfologi bahasa penutur asing sehingga menguatkan kompetensi yang telah ada sekaligus mengantisipasi kesulitan mereka dalam mempelajari sistem artikulasi bahasa Indonesia sebagai bahasa target. \r\n        Selanjutnya, dengan menggunakan pendekatan deskriptif-kualitatif dan teknik observasi, wawancara,dan tes, kiranya dapat dipaparkan pula sejumlah data. Pertama, bahwa peserta BIPA Darmasiswa Unila dari Polandia dan Slovakia (penutur bahasa inflektif) mengalami kesulitan melafalkan fonem nasal, deret nasal+velar, konsonan palatal. Kedua, peserta yang berasal dari Madagaskar (penutur bahasa aglutinatif) mengalami kesulitan melafalkan nasal velar diikuti vokal tengah dan getar, nasal+vokal+nasal. Ketiga, peserta yang berasal dariVietnam (penutur bahasa isolatif) kesulitan melafalkan fonem geseran laminoalveolar+semivokal dan kluster\/gugus. Keempat, pelatihan berbicara dengan nada, tempo, dan durasi tertentu, disertai materi ajar yang menarik, seperti lagu dan permainan bahasa yang berisi kearifan lokal masyarakat Lampung, para peserta BIPA Darmasiswa di Unila dapat mengatasi kendala sekaligus dapat mencapai target dalam belajar kemampuanberbicara bahasa Indonesia.\r\n\r\nKata Kunci: tipologi bahasa, morfofonologi, kearifan lokal",
+      "publisher": "Media Nusa Creative",
+      "eprint_status": "archive",
+      "lastmod": "2017-11-10 16:42:50",
+      "title": "PEMBELAJARAN BERBICARA BERBASIS TIPOLOGIS BAHASA\r\nDAN KEARIFAN LOKAL MASYARAKAT LAMPUNG\r\nBAGI PESERTA BIPA DI UNIVERSITAS LAMPUNG",
+      "issn": "978-602-6743-49-7",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "family": "Sumarti",
+            "lineage": null,
+            "given": "Sumarti",
+            "honourific": null
+          },
+          "id": "gragemarti@yahoo.co.id"
+        }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "ee669641374f8048e61112b9e53d8b0a",
+                  "mime_type": "application\/pdf",
+                  "filename": "Pembelajaran Berbicara Berbasis Tipologi Bahasa dan Kearifan Lokal Masyarakat Lampung bagi Penutur BIPA di UNILA.pdf",
+                  "objectid": 17750,
+                  "datasetid": "document",
+                  "fileid": 46976,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46976",
+                  "filesize": 3723042,
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-07 14:26:25"
+                }
+            ],
+            "main": "Pembelajaran Berbicara Berbasis Tipologi Bahasa dan Kearifan Lokal Masyarakat Lampung bagi Penutur BIPA di UNILA.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17750",
+            "docid": 17750,
+            "eprintid": 4829,
+            "language": "en"
+          }
+      ],
+      "status_changed": "2017-11-10 16:42:50",
+      "pagerange": "1-7",
+      "dir": "disk0\/00\/00\/48\/29",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "publication": "PROSIDING KIPBIPA X\/2017",
+      "userid": 538,
+      "full_text_status": "public",
+      "type": "article",
+      "date": "2017-10-12"
+    },
+    {
+      "subjects": [
+        "PI"
+      ],
+      "eprintid": 1463,
+      "divisions": [
+        "FKIP14"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1463",
+      "datestamp": "2017-03-20 13:49:58",
+      "related_url": [
+        {
+          "url": "http:\/\/ejournal.upi.edu\/index.php\/lokabasa"
+        }
+      ],
+      "abstract": "Pemakaian bahasa Lampung di daerah Rajabasa menjadi fokus permasalahan dalam penelitian ini.  Tujuan melaksanakan penelitian adalah memberikan informasi dan deskripsi kepada masyarakat, praktisi bahasa, dan budayawan tentang pemakaian bahasa Lampung di daearah Rajabasa. Penelitian ini dilaksanakan selama tiga bulan  Hasil yang diperoleh menunjukkan bahwa pemakaian bahasa ibu di daerah Rajabasa dengan jumlah penduduk 45.421 jiwa dengan pengambilan sampel sebanyak 15% sehingga berjumlah 6.821 responden  yang tersebar di 7 kelurahan, diperoleh data bahwa 50% dari responden beretnis  bukan Lampung (seperti etnis Jawa, Sunda, Padang, Batak, Palembang) sesuai dengan yang tercatat pada data seluruhnya menggunakan bahasa ibu sesuai dengan keetnisan masing-masing.  Hal ini menyimpulkan bahwa bahasa ibu masyarakat daerah kecamatan Rajabasa berkesesuaian dengan keetnisanya. Selanjutnya, pemakaian bahasa Lampung di daerah Rajabasa disimpulkan secara keseluruhan sebanding dengan bahasa yang digunakan bukan orang Lampung yaitu 50% juga.  Hanya saja, untuk kategori ini perolehannya dipecah menjadi dua yaitu Lampung  asli dan Lampung campur.  Untuk kategori Lampung asli diperoleh data   sebanyak 35% dan Lampung campur 15%.  Sekali lagi, manakala itu digabungkan  perolehannya berimbang sama-sama 50% dengan etnis bukan Lampung. Selain itu ditemukan pula bahwa di daerah kecamatan Rajabasa ada sebuah kampung adat  yang terdapat beberapa  buay, seperti buay Subing dan  buay Pubian terletak di seputaran pasar Tempel dan sekitarnya.\r\n\r\nKata Kunci: bahasa Lampung, daerah Rajabasa",
+      "volume": 6,
+      "publisher": "Departemen Jurusan Pendidikan Bahasa Daerah dan Forum Komunikasi MGMP Bahasa Daerah Jawa Barat",
+      "eprint_status": "archive",
+      "lastmod": "2017-03-20 13:49:58",
+      "title": "PEMAKAIAN BAHASA LAMPUNG DI DAERAH RAJABASA",
+      "date_type": "published",
+      "issn": "2338-6193",
+      "number": 1,
+      "creators": [
+        {
+          "id": "ekasupono@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "eka",
+            "given": "sofia agustina"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1337",
+            "format": "text",
+            "language": "en",
+            "eprintid": 1463,
+            "docid": 1337,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "LOKABASA (JURNAL KAJIAN BAHASA, SASTRA, DAN BUDAYA DAERAH SERTA PENGAJARANNYA).pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "171b89184f9ac0e502b95f7e8d6df2ff",
+                  "datasetid": "document",
+                  "objectid": 1337,
+                  "mime_type": "application\/pdf",
+                  "filename": "LOKABASA (JURNAL KAJIAN BAHASA, SASTRA, DAN BUDAYA DAERAH SERTA PENGAJARANNYA).pdf",
+                  "filesize": 4947909,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9933",
+                  "fileid": 9933,
+                  "hash_type": "MD5",
+                  "mtime": "2017-03-20 08:57:20"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "status_changed": "2017-03-20 13:49:58",
+      "pagerange": "1-112",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/14\/63",
+      "rev_number": 6,
+      "official_url": "http:\/\/ejournal.upi.edu\/index.php\/lokabasa",
+      "publication": "Lokabasa",
+      "full_text_status": "public",
+      "userid": 2,
+      "type": "article",
+      "date": "2015-04"
+    }
+]
+

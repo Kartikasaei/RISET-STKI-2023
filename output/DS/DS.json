@@ -1,0 +1,81 @@
+[
+    {
+      "date": "2022-04",
+      "isbn": "978-623-420-201-4",
+      "type": "book",
+      "full_text_status": "public",
+      "userid": 2784,
+      "pages": 267,
+      "status_changed": "2022-06-30 08:33:38",
+      "ispublished": "pub",
+      "place_of_pub": "Klaten",
+      "dir": "disk0\/00\/04\/28\/08",
+      "rev_number": 8,
+      "documents": [
+          {
+            "rev_number": 2,
+            "pos": 1,
+            "eprintid": 42808,
+            "language": "en",
+            "docid": 164560,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164560",
+            "format": "image",
+            "files": [
+                {
+                  "hash": "7d3024782a3c28bd1f73d72cc2085e86",
+                  "datasetid": "document",
+                  "objectid": 164560,
+                  "filename": "WhatsApp Image 2022-06-08 at 4.07.58 PM.jpeg",
+                  "mime_type": "image\/jpeg",
+                  "filesize": 403456,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/469141",
+                  "fileid": 469141,
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-30 04:25:45"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "image\/jpeg",
+            "main": "WhatsApp Image 2022-06-08 at 4.07.58 PM.jpeg"
+          }
+      ],
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "lineage": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Yusuf",
+            "family": "Perdana",
+            "lineage": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "publisher": "Penerbit Lakeisha",
+      "title": "SEJARAH INDONESIA MASA ORDE BARU HINGGA REFORMASI",
+      "lastmod": "2022-06-30 08:33:38",
+      "date_type": "published",
+      "datestamp": "2022-06-30 08:33:38",
+      "subjects": [
+        "DS"
+      ],
+      "eprintid": 42808,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42808"
+    }
+]
+

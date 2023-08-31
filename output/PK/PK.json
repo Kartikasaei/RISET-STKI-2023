@@ -1,0 +1,286 @@
+[
+    {
+      "status_changed": "2020-05-30 07:29:13",
+      "dir": "disk0\/00\/02\/11\/35",
+      "ispublished": "pub",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO1\/index",
+      "rev_number": 13,
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34543",
+            "eprintid": 21135,
+            "language": "en",
+            "docid": 34543,
+            "rev_number": 2,
+            "pos": 2,
+            "main": "20893-48652-1-PB.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 34543,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "20893-48652-1-PB.pdf",
+                  "hash": "2cf42434c3da802b9150fe54e1cbdeb6",
+                  "mtime": "2020-05-30 06:38:11",
+                  "hash_type": "MD5",
+                  "filesize": 206946,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197129",
+                  "fileid": 197129
+                }
+            ],
+            "placement": 2
+          }
+      ],
+      "type": "article",
+      "date": "2020-04",
+      "publication": "JURNAL KATA",
+      "full_text_status": "public",
+      "userid": 3012,
+      "datestamp": "2020-05-30 07:29:13",
+      "abstract": "Strategi produsen dalam menarik minat konsumen melalui iklan televisi saat ini\r\nsangat beragam. Pemanfaatan bahasa dalam iklan tersebut menjadi salah satu\r\nstrateginya. Salah satu ragam bahasa yang diguanakan adalah ragam bahasa yang\r\nbersifat ekspresif. Penelitian ini bertujuan untuk mendeskripsikan tindak ilokusi\r\nekspresif yang terdapat dalam iklan makanan di televisi. Metode yang digunakan\r\ndalam penelitian ini adalah deskriptif kualitatif. Sumber data dalam penelitain ini\r\nadalah iklan makanan cepat saji yang tayang di televisi. Hasil penelitian\r\nmenunjukkan bahwa tindak ilokusi ekspresif yang digunakan berfungsi secara\r\nkomunikatif dalam bentuk mengagumi, merasa bangga, mengeluh, merasa\r\nkecewa, merasa bahagia, merasa rindu, merasa malu.\r\nKata kunci: tindak ilokusi, ekspresif, iklan, televisi",
+      "volume": 8,
+      "subjects": [
+        "PK"
+      ],
+      "eprintid": 21135,
+      "divisions": [
+        "FKIP14"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21135",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Prasetya",
+            "lineage": null,
+            "given": "Rian Andri"
+          },
+          "id": "rian.andri@fkip.unila.ac.id"
+        },
+        {
+          "id": "rahmat.prayogi@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Prayogi",
+            "given": "Rahmat",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Riadi",
+            "given": "Bambang",
+            "honourific": null
+          },
+          "id": "bambangriadi.br@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "publisher": "Pendidikan Bahasa dan Sastra Indonesia",
+      "eprint_status": "archive",
+      "lastmod": "2020-05-30 07:29:13",
+      "title": "TINDAK ILOKUSI EKSPRESIF DALAM IKLAN MAKANAN DI\r\nTELEVISI",
+      "issn": "2338-8153",
+      "date_type": "published"
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "rahmat.prayogi@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Prayogi",
+            "given": "Rahmat"
+          }
+        },
+        {
+          "id": "bambangriadi.br@gmail.com",
+          "name": {
+            "given": "Bambang",
+            "lineage": null,
+            "family": "Riadi",
+            "honourific": null
+          }
+        },
+        {
+          "id": "rian.andri@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Rian Andri",
+            "lineage": null,
+            "given": "Prasetya"
+          }
+        }
+      ],
+      "number": 1,
+      "date_type": "published",
+      "issn": "2621-0673",
+      "title": "ANALISIS WACANA KRITIS KORUPSI MELALUI LITERASI MEDIA(Critical Discourse Analysis of Corruption through Media Literacy)",
+      "lastmod": "2020-05-22 01:48:40",
+      "publisher": "Universitas Muhammadiyah Kotabumi",
+      "eprint_status": "archive",
+      "volume": 18,
+      "datestamp": "2020-05-22 01:48:40",
+      "related_url": [
+        {
+          "url": "https:\/\/jurnal.umko.ac.id\/index.php\/elsa\/issue\/view\/14"
+        }
+      ],
+      "abstract": "Mass media is part of public space which cannot be seen as a mere passive hegemony. The discourse constructed by Tempo magazine reporters through Indonesiana is not completely neutral or naturally reporting news about corruption, and violations of the law. However, it has been influenced by the ideas or viewpoints of text writers (journalists) in responding to the events constructed in their reporting. This paper aims to show how the Fairclough text analysis tools work in dissecting dubious media texts.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20208",
+      "divisions": [
+        "FKIP14"
+      ],
+      "eprintid": 20208,
+      "subjects": [
+        "PK"
+      ],
+      "date": "2020-04-01",
+      "type": "article",
+      "publication": "ELSA (Edukasi Lingua Sastra)",
+      "userid": 3013,
+      "full_text_status": "public",
+      "rev_number": 7,
+      "official_url": "https:\/\/jurnal.umko.ac.id\/",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/02\/08",
+      "pagerange": "1-95",
+      "status_changed": "2020-05-22 01:48:40",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "e73f12d179aa3e4dee0499ce8b9b0e94",
+                  "filename": 233,
+                  "mime_type": "text\/html",
+                  "objectid": 33547,
+                  "datasetid": "document",
+                  "fileid": 190554,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190554",
+                  "filesize": 16433,
+                  "mtime": "2020-05-20 04:42:55",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "text\/html",
+            "main": 233,
+            "pos": 1,
+            "rev_number": 3,
+            "eprintid": 20208,
+            "language": "id",
+            "docid": 33547,
+            "content": "published",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33547",
+            "format": "text"
+          }
+      ]
+    },
+    {
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "number": 2,
+      "creators": [
+        {
+          "id": "iing_sunarti@yahoo.com",
+          "name": {
+            "given": "Iing",
+            "lineage": null,
+            "family": "Sunarti",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sumarti",
+            "given": "Sumarti"
+          },
+          "id": "gragemarti@yahoo.co.id"
+        },
+        {
+          "id": "bambangriadi.br@gmail.com",
+          "name": {
+            "family": "Riadi",
+            "lineage": null,
+            "given": "Bambang",
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "issn": "1798-4769",
+      "title": "The Terms of Address of Abung Lampungese Language as a Local Wisdom in Its Multicultural Society",
+      "lastmod": "2019-04-08 02:38:14",
+      "publisher": "Academy Publication",
+      "eprint_status": "archive",
+      "volume": 10,
+      "related_url": [
+        {
+          "url": "http:\/\/www.academypublication.com\/ojs\/index.php\/jltr\/article\/view\/jltr1002329337"
+        }
+      ],
+      "abstract": "As a multiethnic and multilingual population, Lampung province can be broadly divided into two groups; the indigenous population (Lampung ethnic) and immigrant population. Abung Lampungese community, as one of Lampung ethnic, has a unique and varied terms of address, and it also has a rule of use. This study aims to investigate the forms and the rules of terms of address used in Abung Lampungese by using qualitative descriptive design, observation and interview as the data collection techniques. There are ten terms of address and twelve factors of the terms of address rules and norms in Lampungese found in this study, each of which portrays the relationship between the speaker and the interlocutor.",
+      "datestamp": "2019-04-08 02:38:14",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10849",
+      "divisions": [
+        "FKIP14"
+      ],
+      "eprintid": 10849,
+      "subjects": [
+        "PK"
+      ],
+      "date": "2019-03",
+      "type": "article",
+      "publication": "Journal of Language Teaching and Research",
+      "full_text_status": "public",
+      "userid": 1189,
+      "official_url": "http:\/\/www.academypublication.com",
+      "rev_number": 8,
+      "dir": "disk0\/00\/01\/08\/49",
+      "ispublished": "pub",
+      "pagerange": "329-337",
+      "status_changed": "2019-04-08 02:38:14",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23861",
+            "eprintid": 10849,
+            "language": "en",
+            "docid": 23861,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "9c632d88510c5d9e494da082915aa798",
+                  "datasetid": "document",
+                  "objectid": 23861,
+                  "mime_type": "application\/pdf",
+                  "filename": "Jurnal Sapaan.pdf",
+                  "filesize": 917998,
+                  "fileid": 99880,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/99880",
+                  "hash_type": "MD5",
+                  "mtime": "2019-02-27 07:34:20"
+                }
+            ],
+            "placement": 1,
+            "main": "Jurnal Sapaan.pdf"
+          }
+      ]
+    }
+]
+

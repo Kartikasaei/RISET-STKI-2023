@@ -1,0 +1,4453 @@
+[
+    {
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "SUPARMAN",
+            "family": "ARIF",
+            "lineage": null
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yustina Sri",
+            "lineage": null,
+            "family": "Ekwandari",
+            "honourific": null
+          },
+          "id": "yustina.sri@fkip.unila.ac.id"
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Pratama",
+            "lineage": null,
+            "given": "Rinaldo Adi"
+          }
+        }
+      ],
+      "date_type": "published",
+      "issn": "1979-0112",
+      "eprint_status": "archive",
+      "publisher": "Minda Masagi Press.",
+      "lastmod": "2020-05-27 06:30:16",
+      "title": "Pola Permukiman Etnis Tionghoa di Bandar Lampung: Suatu Tinjauan Historis",
+      "datestamp": "2020-05-27 06:30:16",
+      "abstract": "“The Settlement Patterns of Chinese Community in Bandar Lampung: A Historical Review”. The research aims to find the history and the distribution of Chinese ethnic settlements in Bandar Lampung City, Lampung, Indonesia. The research method used is the historical research method, that is method which includes heuristic, critics, interpretation, and historiography. Interview techniques were also conducted with respondents, who were from Chinese-Indonesian ethnicity. Historical research methods try to reconstruction the past event objectively and systematically by collecting, evaluating, verifying, and analyzing the evidence to establish the facts and obtain strong conclusions. The results of the study can be concluded that in Bandar Lampung, Chinese in general there are three tribes, namely the Khe tribe, the Hok Kian tribe, and the Kong Hu tribe, who have different types of work and affect existing settlement patterns. Distribution of ethnic Chinese community settlements in Bandar Lampung follows the liner pattern or centralized, clustering, and spreading. In the linear pattern, it can be seen that the ethnic Chinese people, majority and ideally, live linearly; and because they are traders, they use the straight line of the streets. In addition, they also have to live in groups to look after each other and help each other in various life aspects. While the majority of ethnic Chinese people who live spread are those who are economically inadequate; and, finally, they blended with ordinary people in Lampung, Indonesia.",
+      "volume": 13,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20683",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 20683,
+      "type": "article",
+      "date": "2020-05",
+      "publication": "SOSIOHUMANIKA: Jurnal Pendidikan Sains Sosial dan Kemanusiaan",
+      "full_text_status": "public",
+      "userid": 2784,
+      "dir": "disk0\/00\/02\/06\/83",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "official_url": "http:\/\/journals.mindamas.com\/index.php\/sosiohumanika\/article\/view\/1295",
+      "pagerange": "13-24",
+      "status_changed": "2020-05-27 06:30:16",
+      "id_number": "https:\/\/doi.org\/10.2121\/sosiohumanika.v13i1.1295",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "030abf7db16cbf2488aeb73f72963286",
+                  "datasetid": "document",
+                  "objectid": 34020,
+                  "mime_type": "application\/pdf",
+                  "filename": "Vol. 13 No. 1 Mei 2020.pdf",
+                  "filesize": 704051,
+                  "fileid": 193882,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/193882",
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-27 06:14:08"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Vol. 13 No. 1 Mei 2020.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "language": "en",
+            "eprintid": 20683,
+            "docid": 34020,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34020"
+          }
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "publication": "SOSIOHUMANIKA: Jurnal Pendidikan Sains Sosial dan Kemanusiaan",
+      "userid": 250,
+      "type": "article",
+      "date": 2020,
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37440",
+            "format": "text",
+            "eprintid": 23807,
+            "language": "en",
+            "docid": 37440,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "030abf7db16cbf2488aeb73f72963286",
+                  "objectid": 37440,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Vol. 13 No. 1 Mei 2020.pdf",
+                  "filesize": 704051,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217236",
+                  "fileid": 217236,
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-30 06:17:08"
+                }
+            ],
+            "placement": 1,
+            "main": "Vol. 13 No. 1 Mei 2020.pdf"
+          }
+      ],
+      "id_number": "10.2121\/sosiohumanika.v13i1.1295",
+      "status_changed": "2020-08-31 01:55:55",
+      "pagerange": "13-24",
+      "official_url": "http:\/\/journals.mindamas.com\/index.php\/sosiohumanika\/article\/view\/1295",
+      "rev_number": 7,
+      "dir": "disk0\/00\/02\/38\/07",
+      "ispublished": "pub",
+      "lastmod": "2020-08-31 01:55:55",
+      "title": "Pola Permukiman Etnis Tionghoa di Bandar Lampung: Suatu Tinjauan Historis",
+      "eprint_status": "archive",
+      "publisher": "Minda Masagi Press.",
+      "date_type": "published",
+      "issn": "1979-0112",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "given": "SUPARMAN",
+            "lineage": null,
+            "family": "ARIF",
+            "honourific": null
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Yustina Sri",
+            "lineage": null,
+            "family": "Ekwandari"
+          },
+          "id": "yustina.sri@fkip.unila.ac.id"
+        },
+        {
+          "id": "rinaldo@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Pratama",
+            "given": "Rinaldo Adi"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "eprintid": 23807,
+      "subjects": [
+        "C1",
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23807",
+      "divisions": [
+        "FKIP24"
+      ],
+      "volume": 13,
+      "abstract": "The Settlement Patterns of Chinese Community in Bandar Lampung: A Historical Review”. The research aims to find the history and the distribution of Chinese ethnic settlements in Bandar Lampung City, Lampung, Indonesia. The research method used is the historical research method, that is method which includes heuristic, critics, interpretation, and historiography. Interview techniques were also conducted with respondents, who were from Chinese-Indonesian ethnicity. Historical research methods try to reconstruction the past event objectively and systematically by collecting, evaluating, verifying, and analyzing the evidence to establish the facts and obtain strong conclusions. The results of the study can be concluded that in Bandar Lampung, Chinese in general there are three tribes, namely the Khe tribe, the Hok Kian tribe, and the Kong Hu tribe, who have different types of work and affect existing settlement patterns. Distribution of ethnic Chinese community settlements in Bandar Lampung follows the liner pattern or centralized, clustering, and spreading. In the linear pattern, it can be seen that the ethnic Chinese people, majority and ideally, live linearly; and because they are traders, they use the straight line of the streets. In addition, they also have to live in groups to look after each other and help each other in various life aspects. While the majority of ethnic Chinese people who live spread are those who are economically inadequate; and, finally, they blended with ordinary people in Lampung, Indonesia.",
+      "datestamp": "2020-08-31 01:55:55"
+    },
+    {
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/37\/98",
+      "rev_number": 9,
+      "status_changed": "2020-08-31 01:56:11",
+      "pagerange": "448-457",
+      "documents": [
+          {
+            "main": "Prosiding Sejarah (4)_2.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 37432,
+                  "mime_type": "application\/pdf",
+                  "filename": "Prosiding Sejarah (4)_2.pdf",
+                  "hash": "7af278c7f61b20d9370f18411ce7d2c3",
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-29 08:46:50",
+                  "filesize": 29692981,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217177",
+                  "fileid": 217177
+                }
+            ],
+            "placement": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37432",
+            "format": "text",
+            "eprintid": 23798,
+            "language": "en",
+            "docid": 37432,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "isbn": 9786026042002,
+      "date": 2016,
+      "type": "book_section",
+      "userid": 250,
+      "full_text_status": "public",
+      "book_title": "Proseding Seminar Nasional Program Studi Sejarah se-Indonesia",
+      "datestamp": "2020-08-31 01:56:11",
+      "abstract": "Tanggal 1 Januari 1949, bertetapan dengan 12 hari setelah meruntuhkan Ibukota Yogyakarta, Belanda mengarahkan pasukannya menuju sai bumi ruwa jurai, Karesidenan Lampung dan melumpuhkan Teluk Betung-Tanjung Karang, Ibukota karesidenan. Lampung yang sebelumnya jauh dari hingar bingar bunyi tembakan mendadak panas dengan kobaran semangat rakyat untuk mempertahankan wilayahnya demi mempertahankan kemerdekaan Republik Indonesia dari Agresi Militer Belanda II. Salah satu wilayah yang bergejolak di Lampung adalah Kalianda, kota yang berada di ujung selatan Pulau Sumatera. Apa artinya Indonesia tanpa wilayahnya, inilah kesadaran nasionalisme yang dimiliki rakyat Lampung untuk berjuang mempertahankan wilayahnya. Ada peristiwa heroic yang dikenang masyarakat Kalianda yaitu pertempuran 5 jam yang berhasil memukul mundur tentara Belanda tanggal 21 Maret 1949 oleh segenap kekuatan perlawanan rakyat semesta pimpinan Kolonel Makmum Rasyid. Pertempuran 5 jam terjadi pukul 01.00 sampai pukul 05.00. Pertempuran mengakibatkan 10 korban jiwa, 2 korban luka-luka dari pasukan Kolonel Makmun Rasyid 9 orang tewas dari pihak Belanda.",
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23798",
+      "subjects": [
+        "D1",
+        "D731",
+        "D839"
+      ],
+      "eprintid": 23798,
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "suparman.arif@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "ARIF",
+            "given": "SUPARMAN",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Syaiful",
+            "lineage": null,
+            "family": "M",
+            "honourific": null
+          },
+          "id": "syaiful.m@fkip.unila.ac.id"
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "FIS UNY",
+      "title": "Pertempuran 5 Jam di Kalianda: Mempertahanan Republik Indonesia di Pintu Gerbang Sumatera",
+      "lastmod": "2020-08-31 01:56:11"
+    },
+    {
+      "date": "2018-06",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "INTERNATIONAL JOURNAL PEDAGOGY OF SOCIAL STUDIES",
+      "userid": 265,
+      "dir": "disk0\/00\/01\/04\/64",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "official_url": "http:\/\/ejournal.upi.edu\/index.php\/pips\/article\/view\/12323",
+      "pagerange": "39-49",
+      "status_changed": "2018-12-19 06:04:04",
+      "documents": [
+          {
+            "docid": 23481,
+            "language": "en",
+            "eprintid": 10464,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/23481",
+            "format": "text",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Intelectual and Participatory Skill hermi dkk ke repository kim.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "7fc4f1aa4f37937c334ad39d30d4e4d1",
+                  "filename": "Intelectual and Participatory Skill hermi dkk ke repository kim.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 23481,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/97143",
+                  "fileid": 97143,
+                  "filesize": 361235,
+                  "mtime": "2018-12-04 10:26:39",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "number": 1,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Adha",
+            "given": "M. Mona"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Hermi",
+            "family": "Yanzi",
+            "lineage": null
+          },
+          "id": "sinarbanten1@yahoo.co.id"
+        },
+        {
+          "id": "nurmalisayunisca@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Yunisca",
+            "family": "Nurmalisa",
+            "lineage": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "issn": "ISSN: 2549-6530",
+      "eprint_status": "archive",
+      "publisher": "INTERNATIONAL JOURNAL PEDAGOGY OF SOCIAL STUDIES",
+      "title": "The Improvement of Student Intelectual and Participatory Skill Through Project\r\nCitizen Model in Civic Education Classroom",
+      "lastmod": "2018-12-19 06:04:04",
+      "abstract": "Abstract. The use of learning models in classroom civic education becomes substantive. Improving student\r\nlearning outcomes and motivation in the classroom is the main goal of the project citizen model. The learning\r\nsteps in this model invite students to be active, think critically, be able to work together, be creative, and get\r\nan effective learning experience. The control class and the experimental class are subject to quasi experiment.\r\nThe results show that there is a significant increase in students' intellectual and participatory skills in students\r\nwho use project citizen models. The creativity and ability of the teacher to use the learning model project\r\ncitizen has implications for student motivation and open classroom climate. The implication of this research is\r\nthat building a democratic society requires education so that its citizens can criticize and understand existing\r\nproblems. Thus the civic education will produce a democratic education by giving birth to a smart, open,\r\nindependent and democratic future generation.\r\nKeywords: civic education, classroom, model project citizen, intellectual skill, participatory skill",
+      "datestamp": "2018-12-19 06:04:04",
+      "volume": 3,
+      "divisions": [
+        "FKIP12"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/10464",
+      "subjects": [
+        "D1",
+        "H1",
+        "K1",
+        "L1",
+        "Q1"
+      ],
+      "eprintid": 10464
+    },
+    {
+      "type": "article",
+      "date": "2019-11",
+      "publication": "Jurnal Hutan Tropis",
+      "full_text_status": "public",
+      "userid": 623,
+      "contact_email": "jurnal.hutantropis@ulm.ac.id",
+      "ispublished": "submitted",
+      "dir": "disk0\/00\/01\/12\/76",
+      "rev_number": 10,
+      "official_url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/jht\/about\/contact",
+      "status_changed": "2020-05-18 02:02:17",
+      "id_number": "127\/B-PM\/JHT\/2019",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 322653,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/102755",
+                  "fileid": 102755,
+                  "mtime": "2019-04-24 03:29:56",
+                  "hash_type": "MD5",
+                  "hash": "90e91aa22ac27c7f50b81a592efd7ef7",
+                  "objectid": 24280,
+                  "datasetid": "document",
+                  "filename": "IMG_20190424_080826.jpg",
+                  "mime_type": "image\/jpeg"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "image\/jpeg",
+            "main": "IMG_20190424_080826.jpg",
+            "pos": 1,
+            "rev_number": 1,
+            "language": "en",
+            "eprintid": 11276,
+            "docid": 24280,
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/24280"
+          },
+          {
+            "rev_number": 1,
+            "pos": 2,
+            "docid": 33093,
+            "language": "en",
+            "eprintid": 11276,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33093",
+            "format": "text",
+            "placement": 2,
+            "files": [
+                {
+                  "filesize": 934929,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/187552",
+                  "fileid": 187552,
+                  "mtime": "2020-05-16 14:50:52",
+                  "hash_type": "MD5",
+                  "hash": "7a6b9d482d20eaa8ee8b36cedf965311",
+                  "objectid": 33093,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "7513-17554-1-SM (1)_emi kartika.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "7513-17554-1-SM (1)_emi kartika.pdf"
+          }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Artika",
+            "lineage": null,
+            "given": "Emi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Arief",
+            "family": "Darmawan",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "family": "Hilmanto",
+            "lineage": null,
+            "given": "Rudi",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 3,
+      "issn": "2337-7771",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Fakultas Kehutanan Universitas Lambung Mangkurat",
+      "lastmod": "2020-05-18 02:02:17",
+      "title": "Perbandingan Metode Maximum Likelihood Clasification (MLC) dan Object Oriented Clasification (OOC) dalam Pemetaan Tutupan Mangrove di Kabupaten Lampung Selatan",
+      "abstract": "Hutan mangrove berperan penting dalam menjaga ekosistem daerah pesisir.\r\nEkosistem ini telah banyak mengalami konversi dan alih fungsi lahan menjadi tambak,\r\npemukiman, perkebunan, dan sawah. Informasi mengenai tutupan hutan mangrove secara\r\nperiodik dan akurat sangat diperlukan untuk memastikan ekosistem ini terjaga dengan baik,\r\nakan tetapi saat ini informasi tersebut masih sangat terbatas ditinjau dari aspek kuatitas data\r\nmaupun metodologi pemetaannya. Penelitian ini bertujuan untuk menganalisis teknik deteksi\r\nhutan mangrove yang paling tepat dengan menggunakan citra satelit penginderaan jauh secara\r\ndigital. Lokasi penelitian adalah Kabupaten Lampung Selatan. Tutupan lahan mangrove\r\ndihasilkan dari proses klasifikasi citra satelit menggunakan algoritma maximum likelihood\r\nclassification dan object oriented classification. Hasil penelitian menunjukkan  bahwa algoritma\r\nobject oriented classification merupakan metode klasifikasi yang lebih baik dan akurat dalam\r\nmemetakan hutan mangrove dengan nilai akurasi sebesar 95%. Total tutupan hutan mangrove\r\ndi Kabupaten Lampung Selatan yang dihasilkan dari hasil klasifikasi ini pada tahun 2017\r\nadalah seluas 458 ha.",
+      "related_url": [
+        {
+          "url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/jht\/about\/contact"
+        }
+      ],
+      "datestamp": "2020-05-18 02:02:17",
+      "volume": 7,
+      "divisions": [
+        "FP5"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11276",
+      "subjects": [
+        "D1",
+        "S1",
+        "SD"
+      ],
+      "eprintid": 11276
+    },
+    {
+      "publication": "RESONA: Jurnal Ilmiah Pengabdian Masyarakat",
+      "full_text_status": "public",
+      "userid": 2784,
+      "type": "article",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/151469",
+            "eprintid": 33180,
+            "language": "en",
+            "docid": 151469,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 151469,
+                  "mime_type": "application\/pdf",
+                  "filename": "594-2926-2-PB (1).pdf",
+                  "hash": "0b7f4793586b600f1815ef44995b05b2",
+                  "mtime": "2021-07-10 08:02:19",
+                  "hash_type": "MD5",
+                  "filesize": 309640,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/393011",
+                  "fileid": 393011
+                }
+            ],
+            "placement": 1,
+            "main": "594-2926-2-PB (1).pdf"
+          }
+      ],
+      "rev_number": 6,
+      "dir": "disk0\/00\/03\/31\/80",
+      "ispublished": "pub",
+      "status_changed": "2021-07-10 13:20:00",
+      "issn": "2614-2481",
+      "date_type": "published",
+      "lastmod": "2021-07-10 13:20:00",
+      "title": "PEMBUATAN VIDEO PEMBELAJARAN SEJARAH UNTUK MENDUKUNG\r\nE-LEARNING DI MASA PANDEMI BAGI MGMP SEJARAH PROVINSI\r\nLAMPUNG",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Basri",
+            "given": "Muhammad",
+            "honourific": null
+          },
+          "id": "muhammad.basri@fkip.unila.ac.id"
+        },
+        {
+          "id": "suparman.arif@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "ARIF",
+            "lineage": null,
+            "given": "SUPARMAN"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Lestari",
+            "lineage": null,
+            "given": "Nur Indah"
+          },
+          "id": "nur.indahlestari@fkip.unila.ac.id"
+        },
+        {
+          "id": "rinaldo@fkip.unila.ac.id",
+          "name": {
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "number": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33180",
+      "divisions": [
+        "FKIP24"
+      ],
+      "eprintid": 33180,
+      "subjects": [
+        "D1"
+      ],
+      "volume": 5,
+      "datestamp": "2021-07-10 13:20:00",
+      "abstract": "Pelatihan pembuatan video pembelajaran bagi MGMP Sejarah di Provinsi\r\nLampung ini dilakukan melalui dua tahap yaitu kegiatan pelatihan dan tindak\r\nlanjut berupa kewajiban peserta pelatihan untuk membuat video pembelajaran\r\nsesuai topik yang telah ditentukan. Kegiatan ini bertujuan untuk memberikan\r\npelatihan kepada guru sejarah agar mampu merancang media pembelajaran\r\nberbasis video pembelajaran yang dapat mendukung e-larning. Metode yang\r\ndigunakan dalam pelatihan ini terdiri dari dua yaitu penyuluhan dan pelatihan.\r\nPenyuluhan berupa penyampaian materi yang bersifat teoretis tentang\r\npengembangan bahan ajar berbasis video. Sedangkan, pelatihan bertujuan untuk\r\nmenanamkan keterampilan praktis kepada guru untuk merancang video\r\npembelajaran. Kegiatan pelatihan pembuatan video pembelajaran berjalan dengan\r\nbaik hal ini terlihat dari tingginya antusiasme peserta selama mengikuti pelatihan.\r\nKeberhasilan kegiatan pelatihan ini juga ditunjukkan dengan adanya peningkatan\r\nskor posttest peserta yang lebih tinggi dibandingkan dengan hasil pretest. Di masa\r\nyang akan datang pelatihan pembuatan video pembelajaran ini perlu dilakukan\r\npada semua jenjang pendidikan mengingat pentingnya penggunaan media audio\r\nvisual pada proses pembelajaran."
+    },
+    {
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Henry",
+            "lineage": null,
+            "given": "Susanto"
+          },
+          "id": "henry.susanto@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Yusuf Perdana",
+            "lineage": null,
+            "given": "Yusuf Perdana",
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Sri Ekwandari",
+            "lineage": null,
+            "family": "Yustina",
+            "honourific": null
+          },
+          "id": "yustina.sriekwandari@fkip.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2022-12-19 10:07:56",
+      "title": "DWIFUNGSI ABRI DALAM SOSIAL POLITIK SEBAGAI GERAKAN AKAR\r\nRUMPUT PADA MASA ORDE BARU",
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Sejarah, Universitas Lampung",
+      "issn": "2830-2346",
+      "date_type": "published",
+      "volume": 1,
+      "abstract": "This research aims to determine the implementation of ABRI in the village in building community credibility\r\nand to find out ABRI's contribution to Golkar as a political machine. The method uses historical research\r\nmethods or historical research, while the stages of historical research are Heuristics, Criticism, Interpretation\r\nand Historiography. The data that has been collected from the regional libraries and university libraries have\r\nbeen evaluated, verified and synthesized evidence to establish facts and draw conclusions. The results showed\r\nthat: 1. The implementation of ABRI entering the village is very useful in accelerating development, both\r\nphysical development and non-physical development for improving the economy and welfare of the\r\ncommunity and serves as a means of strengthening national unity, overcoming difficulties that occur in the\r\nregion and accelerating village development in an effort to maintain the integrity of the Unitary Republic of\r\nIndonesia. 2. ABRI's contribution to Golkar is seen in the political structure of ABRI and Golkar can be\r\nlikened to a machine to perpetuate the New Order's power. Golkar is a political machine through general\r\nelections. The success achieved by Golkar in the election is the success achieved by ABRI in maintaining\r\npower.",
+      "datestamp": "2022-12-19 10:07:56",
+      "eprintid": 47317,
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47317",
+      "divisions": [
+        "FKIP24"
+      ],
+      "type": "article",
+      "date": "2022-04-14",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Henry",
+            "given": "Susanto"
+          },
+          "id": "henry.susanto@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Yusuf",
+            "lineage": null,
+            "given": "Perdana",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "id": "yustina.sriekwandari@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Yustina Sri",
+            "lineage": null,
+            "given": "Ekwandari"
+          }
+        }
+      ],
+      "userid": 2779,
+      "publication": "KRAKATOA: Journal of History, History Education, and Cultural Studies",
+      "full_text_status": "public",
+      "pagerange": "1-4",
+      "status_changed": "2022-12-19 10:07:56",
+      "rev_number": 6,
+      "official_url": "https:\/\/journals.fkip.unila.ac.id\/index.php\/krakatoa\/article\/view\/2",
+      "dir": "disk0\/00\/04\/73\/17",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "DWIFUNGSI ABRI DALAM SOSIAL POLITIK SEBAGAI GERAKAN AKAR RUMPUT.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "08098c5cc4ec79b9ead993cce6e5b8ae",
+                  "objectid": 186330,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "DWIFUNGSI ABRI DALAM SOSIAL POLITIK SEBAGAI GERAKAN AKAR RUMPUT.pdf",
+                  "filesize": 129457,
+                  "fileid": 519297,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519297",
+                  "mtime": "2022-12-19 07:16:59",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 186330,
+            "eprintid": 47317,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186330",
+            "format": "text",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ]
+    },
+    {
+      "publication": "Artefak",
+      "full_text_status": "public",
+      "userid": 2784,
+      "date": "2022-04",
+      "type": "article",
+      "documents": [
+          {
+            "main": "6478-26348-1-PB.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/460003",
+                  "fileid": 460003,
+                  "filesize": 466810,
+                  "hash_type": "MD5",
+                  "mtime": "2022-05-10 06:00:15",
+                  "hash": "3c4b4d5c538428721cf566bf6ee7ec58",
+                  "filename": "6478-26348-1-PB.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 163219,
+                  "datasetid": "document"
+                }
+            ],
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163219",
+            "docid": 163219,
+            "eprintid": 41562,
+            "language": "en",
+            "rev_number": 2,
+            "pos": 1
+          }
+      ],
+      "pagerange": "1-8",
+      "status_changed": "2022-05-10 08:07:22",
+      "rev_number": 7,
+      "official_url": "https:\/\/jurnal.unigal.ac.id\/index.php\/artefak\/article\/view\/6478",
+      "dir": "disk0\/00\/04\/15\/62",
+      "ispublished": "pub",
+      "title": "EKSPLORASI ASPEK HISTORIS MASJID JAMI’ AL-ANWAR DALAM PROSES ISLAMISASI DI TELUK BETUNG SELATAN, LAMPUNG",
+      "lastmod": "2022-05-10 08:07:22",
+      "eprint_status": "archive",
+      "publisher": "Universitas Galuh",
+      "date_type": "published",
+      "issn": "2580-0027",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Iskarina",
+            "given": "Meta"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Yuliana",
+            "given": "Nunung",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Tina",
+            "family": "Wulandari",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Pratama",
+            "given": "Rinaldo Adi",
+            "honourific": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        }
+      ],
+      "number": 1,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprintid": 41562,
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41562",
+      "divisions": [
+        "FKIP24"
+      ],
+      "volume": 9,
+      "datestamp": "2022-05-10 08:07:22",
+      "abstract": "Tujuan penelitian ini adalah untuk mengetahui sejarah serta perkembangan Masjid Jami’ Al-Anwar dalam proses Islamisasi di Lampung. Metode yang digunakan dalam penelitian adalah metode historis yang meliputi heuristik, kritik\/verifikasi, interpretasi, dan historiografi. Hasil penelitian menyatakan bahwa Masjid Jami’ Al-Anwar merupakan masjid tertua di Provinsi Lampung yang pada zaman dahulu digunakan sebagai proses Islamisasi di Lampung. Masjid Jami’ Al-Anwar sangat berpengaruh dalam kehidupan masyarakat dari waktu ke waktu. Masjid Jami’ Al-Anwar memiliki banyak benda bersejarah yang tersimpan dalam komplek Masjid Jami’ Al-Anwar seperti Al-Qur’an tertua di Lampung yang berasal dari Arab Saudi tahun 1934, meriam peninggalan Portugis pada tahun 1111 M, gentong air bercorak Chinese, sebuah sumur tua buku-buku dan arsip peninggalan Belanda dan Portugis."
+    },
+    {
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/42807",
+      "subjects": [
+        "D1",
+        "HN"
+      ],
+      "eprintid": 42807,
+      "datestamp": "2022-06-30 08:34:47",
+      "abstract": "Tujuan penulisan artikel ini yaitu untuk memberikan gambaran tentang pentingnya digitalisasi arsip yang dilakukan oleh lembaga kearsipan untuk menunjang kepentingan penelitian sejarah yang memberikan dampak bagi kualitas penelitian sejarah. Pandemi Covid-19 yang menyebar ke seluruh Indonesia menyebabkan peneliti mengalami suatu kendala dalam melakukan penelitian sejarah dimana sulit mendapatkan berbagai macam sumber untuk mendukung penelitian. Sehingga penggunaan arsip digital diharapkan menjadi solusi untuk mempermudah melakukan penelitian sejarah di era pandemi Covid-19. Metode yang dipergunakan dalam penulisan artikel ini adalah metode kualitatif. Layanan Arsip digital telah banyak disediakan oleh berbagai lembaga kearsipan. Salah satunya yakni layanan arsip digital yang dibuat oleh Arsip Nasional Republik Indonesia berupa Laman Sejarah Nusantara. Ketersediaan layanan arsip digital sangat membantu dalam menunjang penelitian sejarah yang sedang dilakukan, kesulitan mencari sumber secara langsung dilapangan pada masa pandemi Covid-19 dan kesulitan mencari sumber buku maupun arsip statis secara langsung dapat diatasi dengan memanfaatkan sejumlah layanan digital yang tersedia.",
+      "volume": 1,
+      "date_type": "published",
+      "issn": "2830-2346",
+      "publisher": "Pendidikan Sejarah, Universitas Lampung",
+      "eprint_status": "archive",
+      "lastmod": "2022-06-30 08:34:47",
+      "title": "Urgensi Arsip Digital Sebagai Bahan Rujukan Penelitian Sejarah di Era Pandemi Covid-19",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "number": 1,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Istiqomah",
+            "lineage": null,
+            "family": "Istiqomah"
+          }
+        },
+        {
+          "id": "rinaldo@fkip.unila.ac.id",
+          "name": {
+            "given": "Rinaldo Adi",
+            "lineage": null,
+            "family": "Pratama",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Ali",
+            "lineage": null,
+            "family": "Imron",
+            "honourific": null
+          },
+          "id": "ali.imron@fkip.unila.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 2,
+            "docid": 164559,
+            "language": "en",
+            "eprintid": 42807,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/164559",
+            "format": "text",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "a0d728756d14ee377789626270b9f125",
+                  "mime_type": "application\/pdf",
+                  "filename": "jk11-02 (2).pdf",
+                  "datasetid": "document",
+                  "objectid": 164559,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/469132",
+                  "fileid": 469132,
+                  "filesize": 195230,
+                  "hash_type": "MD5",
+                  "mtime": "2022-06-30 04:20:08"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "jk11-02 (2).pdf"
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/28\/07",
+      "rev_number": 8,
+      "official_url": "https:\/\/journals.fkip.unila.ac.id\/index.php\/krakatoa\/article\/view\/12",
+      "pagerange": "5-9",
+      "status_changed": "2022-06-30 08:34:47",
+      "publication": "KRAKATOA: Journal of History, History Education, and Cultural Studies",
+      "full_text_status": "public",
+      "userid": 2784,
+      "type": "article",
+      "date": "2022-04"
+    },
+    {
+      "eprintid": 41065,
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41065",
+      "divisions": [
+        "FKIP24"
+      ],
+      "volume": 2,
+      "datestamp": "2022-04-05 07:13:14",
+      "abstract": "Kegagalan demokrasi parlementer atau demokrasi liberal menjadikan pemerintahan Indonesia tidak stabil. Sistem demokrasi liberal dengan multipartai yang dijalankan diinspirasi salah satunya dari  sistem yang berlaku di Belanda. Hal ini menunjukkan bahwa Indonesia belum lepas dari pengaruh kolonialisme dan imperialisme menjadikan Sukarno sang Presiden kala itu mencari solusi atas masalah dalam demokrasi liberal dan mencari alternatif lain dalam menjalankan kehidupan bernegara Indonesia yang jauh dari pengaruh kolonialisme dan imperialisme. Demokrasi terpimpin menjadi solusi dari gagalnya demokrasi liberal di Indonesia saat itu. Sejak saat itu fenomena sejarah bernegara Republik Indonesia mulai berkiblat ke negara Cina. Model pembangunan negeri Cina diyakini oleh Sukarno sebagai jalan alternatif modernisasi Indonesia yang berada di tengah pusaran Perang Dingin antara Uni Soviet dan Amerika Serikat. Penelitian ini merupakan penelitian yang menggunakan pendekatan kualitatif dengan metode historis. Peneliti menggunakan teknik kepustakaan dan teknik dokumentasi dalam pengumpulan data. Berdasarkan hasil penelitian dan pembahasan, penulis mengambil kesimpulan bahwa faktor penyebab diterapkan demokrasi terpimpin adalah Sukarno sebagai presiden memiliki perkembangan anti imperialisme dan kolonialisme. Hal ini dapat dilihat dari perilaku politiknya   yang tumbuh dari faktor eksternal dan berkenaan dengan hal itu Cina memberikan inspirasi saat kunjugan Sukarno ke Cina ditengah kegagalan yang sedang dialami saat pelaksanaan demokrasi liberal, terlebih dengan kenyataan bahwa demokrasi liberal masih mendapatkan pengaruh dari Belanda. Sukarno kemudian menerapkan Demokrasi terpimpin dan Nasakom sebagai alternatif dalam kegagalan demokrasi liberal, hal tersebut justru menimbulkan risiko yang merugikan bagi bangsa Indonesia itu sendiri seperti keterasingan dari dunia Internasional dan terpuruknya ekonomi Indonesia serta peristiwa G30S yang menjadi bibit penggembosan Sukarno.",
+      "title": "Orientasi Bernegara Republik Indonesia Periode 1959-1965",
+      "lastmod": "2022-04-05 07:13:14",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Luluq",
+            "lineage": null,
+            "family": "Istiqomah"
+          }
+        },
+        {
+          "id": "henry.susanto@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Henry",
+            "family": "Susanto",
+            "lineage": null
+          }
+        },
+        {
+          "id": "rinaldo@fkip.unila.ac.id",
+          "name": {
+            "family": "Pratama",
+            "lineage": null,
+            "given": "Rinaldo Adi",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 2,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "docid": 162489,
+            "language": "en",
+            "eprintid": 41065,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162489",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "22146-58186-1-PB.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 211254,
+                  "fileid": 456104,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456104",
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-05 05:48:56",
+                  "hash": "0a2878cbe0d8631b4e10dfb5b456d399",
+                  "objectid": 162489,
+                  "datasetid": "document",
+                  "filename": "22146-58186-1-PB.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "status_changed": "2022-04-05 07:13:14",
+      "pagerange": "65-72",
+      "rev_number": 6,
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jips\/article\/view\/22146",
+      "dir": "disk0\/00\/04\/10\/65",
+      "ispublished": "pub",
+      "publication": "Journal of Social Science Education",
+      "userid": 2784,
+      "full_text_status": "public",
+      "date": 2021,
+      "type": "article"
+    },
+    {
+      "pres_type": "paper",
+      "event_type": "conference",
+      "event_location": "Bandar Lampung",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "docid": 185129,
+            "language": "en",
+            "eprintid": 46241,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185129",
+            "format": "text",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 1592524,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511023",
+                  "fileid": 511023,
+                  "mtime": "2022-11-03 12:34:10",
+                  "hash_type": "MD5",
+                  "hash": "bb5f27ff16b40c5250bb0813a7685b69",
+                  "datasetid": "document",
+                  "objectid": 185129,
+                  "filename": "Prosiding Semnas Rinaldo_Falsafah 3S.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "Prosiding Semnas Rinaldo_Falsafah 3S.pdf"
+          }
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/62\/41",
+      "pagerange": "110-120",
+      "status_changed": "2022-11-04 08:28:31",
+      "userid": 2784,
+      "full_text_status": "public",
+      "date": "2022-08",
+      "type": "conference_item",
+      "event_title": "Seminar Nasional Pendidikan Sejarah",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46241",
+      "divisions": [
+        "FKIP24"
+      ],
+      "eprintid": 46241,
+      "subjects": [
+        "D1"
+      ],
+      "datestamp": "2022-11-04 08:28:31",
+      "abstract": "Penelitian ini membahas tentang falsafah nilai budaya masyarakat suku Bugis yaitu Sipakatau, Sipakainge serta Sipakalebbi. Metode yang digunakan yaitu metode pengumpulan data dan analisis sumber yaitu data yang diperoleh dari skripsi, jurnal, berita online dan sumber-sumber lain yang terkait, kemudian menganalisis data yang telah dikumpulkan mengolah data tersebut menjadi informasi sehingga karakteristik data tersebut bisa dipahami dan bermanfaat menambah wawasan, terutama masalah yang berkaitan dengan penelitian. Dari hasil penelitian ini dapat di simpulkan bahwa Nilai-nilai yang bersumber dari nenek moyak yang menjadi kepercayaan dan bahkan menjadi nilai dan prinsip hidup bagi masyarakat tersebut, nilai merupakan suatu prinsip, falsafah atau patokan yang melandasi sikap, tutur kata serta perbuatan manusia yang menjadi penganutnya, falsafah tersebut Sipakatau, sipakalebbi dan sipakainge merupakan budaya moral Bugis di Sulawesi Selatan yang perlu dilestarikan Nilai Sipakatau, sipalebbi dan sipakainge’ merupakan falsafah Bugis yang menuntun seseorang untuk bagaimana bersikap, bertutur kata dalam menjalankan kehidupan bermasyarakat, Sipakainge berarti saling mengingatkan, sipakatau artinya saling memanusiakan manusia dalam kondisi apapun, dan sipakalebbi artinya saling menghargai satu sama lain. Prinsip inilah yang terus diamalkan masyarakat Bugis dalam menjalankan kehidupan bermasyarakat.",
+      "event_dates": "24 Maret 2022",
+      "date_type": "published",
+      "lastmod": "2022-11-04 08:28:31",
+      "title": "FALSAFAH NILAI BUDAYA 3S (SIPAKATAU, SIPAKAINGE, SIPAKALEBBI) PADA MASYARAKAT SUKU BUGIS",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Khaeruddin",
+            "family": "Khaeruddin",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "khaeruddinfis@unm.ac.id"
+        },
+        {
+          "id": "aulia@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Aulia",
+            "given": "Tina",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Pratama",
+            "lineage": null,
+            "given": "Rinaldo Adi",
+            "honourific": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "status_changed": "2020-05-18 02:02:30",
+      "ispublished": "submitted",
+      "dir": "disk0\/00\/01\/12\/75",
+      "official_url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/jht",
+      "rev_number": 19,
+      "documents": [
+          {
+            "eprintid": 11275,
+            "language": "en",
+            "docid": 33088,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33088",
+            "format": "text",
+            "pos": 2,
+            "rev_number": 1,
+            "main": "7511-17550-1-SM_cecil.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-05-16 14:45:23",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/187528",
+                  "fileid": 187528,
+                  "filesize": 753969,
+                  "filename": "7511-17550-1-SM_cecil.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 33088,
+                  "datasetid": "document",
+                  "hash": "6bd278f806175fa040ec261f9ab875a8"
+                }
+            ],
+            "placement": 2,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "id_number": "122\/B-PM\/JHT\/2018",
+      "type": "article",
+      "date": "2019-11",
+      "contact_email": "jurnal.hutantropis@ulm.ac.id",
+      "publication": "Jurnal Hutan Tropis",
+      "full_text_status": "public",
+      "userid": 623,
+      "related_url": [
+        {
+          "url": "https:\/\/ppjp.ulm.ac.id\/journal\/index.php\/jht"
+        }
+      ],
+      "datestamp": "2020-05-18 02:02:30",
+      "abstract": "Sistem agroforestri yang khas dari Pesisir Barat Lampung ialah Repong Damar \r\nyang telah memberikan hasil bernilai ekonomi,ù bagi masyarakat secara turun temurun. Secara\r\nekologi, peranannya sebagai penyangga kehidupan masyarakat sangatlah penting karena\r\nsecara fisik memiliki kemiripan dengan hutan alam.  Penelitian ini dilakukan untuk mencari\r\nmetode deteksi tutupan repong damar yang tepat dan akurat menggunakan data penginderaan\r\njauh, sehingga pemantauannya secara berkelanjutan dapat dilakukan. Tiga metode deteksi\r\ntutupan repong damar dari Citra Landsat 8 dievaluasi, yaitu Maximum Likelihood Classification\r\n(MLC), Object Oriented Classification (OOC) dan Indeks Vegetasi (Normalized Difference\r\nVegetation Index\/NDVI, Normalized Difference Water Index\/NDWI dan Enhanced Vegetation\r\nIndex\/EVI) melalui perbandingan matriks kesalahan (error matrix) dari tabel kontingensi. Hasil\r\nmenunjukkan bahwa nilai akurasi total (overall accuracy) metode MLC adalah 92,16%, metode\r\nOOC adalah 92,27% dan metode Indeks Vegetasi dengan algoritma EVIadalah 83,33%.\r\nMetode OOC dan MLC memiliki perbedaan nilai akurasi yang sangat kecil yaitu sebesar 0,11%.\r\nDari ketiga metode tersebut, metode OOC memiliki tingkat akurasi paling tinggi dengan nilai\r\nsebesar 92,27%.",
+      "volume": 7,
+      "subjects": [
+        "D1",
+        "G1",
+        "SB",
+        "SD"
+      ],
+      "eprintid": 11275,
+      "divisions": [
+        "FP5"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/11275",
+      "number": 3,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Laura",
+            "given": "Cecilina Tika",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Arief",
+            "family": "Darmawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "arief.darmawan@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Rudi",
+            "family": "Hilmanto",
+            "lineage": null
+          },
+          "id": null
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "publisher": "Fakultas Kehutanan Universitas Lambung Mangkurat",
+      "eprint_status": "archive",
+      "lastmod": "2020-05-18 02:02:30",
+      "title": "Deteksi Penutupan Repong Damar di Pesisir Barat Lampung Menggunakan Citra Satelit Penginderaan Jauh",
+      "issn": "2337-7771",
+      "date_type": "published"
+    },
+    {
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/154006",
+            "format": "text",
+            "eprintid": 33774,
+            "language": "en",
+            "docid": 154006,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "22816-54869-1-PB-Jurnal Pesagi Boxer.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "cef8fe7cc84a1f873525dc16b8f0bc78",
+                  "filename": "22816-54869-1-PB-Jurnal Pesagi Boxer.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 154006,
+                  "fileid": 399868,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/399868",
+                  "filesize": 160150,
+                  "hash_type": "MD5",
+                  "mtime": "2021-09-03 04:01:23"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "id_number": "http:\/\/dx.doi.org\/10.23960\/pesagi",
+      "pagerange": "33-39",
+      "status_changed": "2021-09-03 07:37:46",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/PES\/article\/view\/22816",
+      "dir": "disk0\/00\/03\/37\/74",
+      "ispublished": "pub",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "publication": "Pemberontakan Boxer Sebagai Gerakan Anti Bangsa Asing 1899-1901",
+      "eprintid": 33774,
+      "divisions": [
+        "FKIP24"
+      ],
+      "volume": "Vol 9",
+      "datestamp": "2021-09-03 07:37:46",
+      "abstract": "Penelitian ini mengkaji tentang faktor-faktor penyebab terjadinya Pemberontakan Boxer sebagai gerakan menolak bangsa Asing (1899-1901). Metode yang digunakan dalam penelitian ini adalah metode historis dengan mengumpulkan sumber-sumber sejarah, menilainya secara kritis, dan menyajikan sintesis hasil-hasil yang dicapainya dalam bentuk tertulis. Pasca berakhirnya Perang Candu Cina menandatangani perjanjian Nanjing dan Inggris memaksa Cina untuk membuka pelabuhan agar Inggris dapat mendominasi kekuasaan diwilayahnya. Tindakan Inggris ini kemudian diikuti oleh negara-negara lain seperti Jerman, Perancis dan Rusia. Dominasi tersebut menimbulkan perlawanan dari masyarakat lokal. Pemberontakan Boxer pada dasarnya merupakan gerakan yang mendukung pemberontakan petani pada 1900-an yang berupaya mengusir bangsa Barat dari Cina. Nama “Boxer” adalah julukan yang diberikan oleh orang-orang Barat untuk mereka yang tergabung dalam kelompok militan bernama Yihequan. Faktor utama pemberontakan ini karena dominasi asing yang dilakukan bangsa Barat yang dianggap oleh serikat Boxer dapat menghilangkan budaya dan kepercayaan leluhur.",
+      "lastmod": "2021-09-03 07:37:46",
+      "issn": "2745-8717",
+      "creators": [
+        {
+          "id": "nur.indahlestari@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Nur Indah",
+            "lineage": null,
+            "family": "Lestari"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "rev_number": 6,
+      "full_text_status": "public",
+      "userid": 2778,
+      "type": "article",
+      "date": "2021-06-30",
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33774",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/PES\/article\/view\/22816",
+          "type": "pub"
+        }
+      ],
+      "title": "PEMBERONTAKAN BOXER SEBAGAI GERAKAN ANTI BANGSA ASING 1899-1901",
+      "eprint_status": "archive",
+      "publisher": "Jurnal Pendidikan dan Penelitian Sejarah Pesagi",
+      "date_type": "published",
+      "number": 1,
+      "funders": [
+        "Universitas Lampung"
+      ],
+      "refereed": "TRUE"
+    },
+    {
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 30733,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30733",
+      "datestamp": "2021-05-27 02:29:55",
+      "abstract": "The research aims to find and explore the history and acculturation of Lampung and Chinese in the house of Nuwo Tantan Gumanti. The research method is descriptive and data analysis using descriptive analysis. The results of this research showed that there was cultural acculturation between Lampung and China in the house of Nuwo Tantan Gumanti, including glass with Chinese ornaments such as phoenixes, snakes, butterflies and the colorful glass on the top of the window and above the room door. There are also Chinese scripts that are still clearly visible on the connecting wood and the walls of the house. The roof of Nuwo Tantan Gumanti is different from other houses in Lampung community, because the shape of a pyramid, and the pillars are rectangular and have pegs that are connected to them. From the research results It can be concluded that there is a cultural acculturation between Lampung and China in the Nuwo Tantan Gumanti architecture on several sides of the building.",
+      "eprint_status": "archive",
+      "lastmod": "2021-05-27 02:29:55",
+      "title": "Akulturasi Budaya Lampung Dan Cina Pada Nuwo Tantan Gumanti",
+      "issn": "2598-4934",
+      "creators": [
+        {
+          "name": {
+            "family": "Marzius",
+            "lineage": null,
+            "given": "Insani",
+            "honourific": null
+          },
+          "id": "marzius.insani@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Syaiful",
+            "lineage": null,
+            "given": "M",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "valensy.rachmedita02@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Valensy Rachmedita",
+            "given": "Valensy Rachmedita",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Adi Pratama",
+            "family": "Rinaldo",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "docid": 138581,
+            "eprintid": 30733,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/138581",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 364491,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/364491",
+                  "filesize": 1177182,
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-25 04:25:32",
+                  "hash": "7e3e3a3f2ff02d37a1b51aa30b535845",
+                  "mime_type": "application\/pdf",
+                  "filename": "Jurnal Kaganga Desember 2020.pdf",
+                  "objectid": 138581,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "Jurnal Kaganga Desember 2020.pdf"
+          }
+      ],
+      "status_changed": "2021-05-27 02:29:55",
+      "dir": "disk0\/00\/03\/07\/33",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "publication": "Jurnal Pendidikan Sejarah dan Riset Sosial Humaniora (KAGANGA)",
+      "userid": 2784,
+      "full_text_status": "public",
+      "type": "article"
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mayasari",
+            "given": "Shinta",
+            "honourific": null
+          },
+          "id": "shinta.mayasari@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Mujiyati",
+            "lineage": null,
+            "given": "Mujiyati"
+          },
+          "id": "mujiyati@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Mahfud",
+            "lineage": null,
+            "given": "Ashari"
+          }
+        }
+      ],
+      "date_type": "published",
+      "issn": "2541-2779",
+      "publisher": "Universitas Mathla'ul Anwar Banten",
+      "eprint_status": "archive",
+      "lastmod": "2023-01-13 08:31:41",
+      "title": "Dimensi Identitas Pi’il Pesenggiri Ulun Lampung dalam \r\nPengembangan Konseling Indigenous: Suatu Tinjauan \r\nSistematis",
+      "abstract": "DIMENSIONS OF PI'IL PESENGGIRI ULUN LAMPUNG'S IDENTITY IN \r\nINDIGENOUS COUNSELING DEVELOPMENT: A SYSTEMATIC REVIEW. \r\nThis research was conducted to find out and understand the meaning of pi'il pesenggiri as one of the dimensions of Lampung's ulun identity in the development of indigenous counseling. The method used is a systematic review\r\nof a number of articles about pi'il pesenggiri in reputable journals. A search on journal databases such as DOAJ, microsoft academic, and researchgate found 234 journals with the keyword pi'il pesenggiri. Furthermore, the journals were \r\ncollected for a screening process and their eligibility according to the inclusion \r\nand exclusion criteria determined by the researcher. Based on the screening \r\nprocess, 5 articles were obtained which were the subject of research studies. The \r\nresults showed that pi'il pesenggiri is the philosophy of life of ulun Lampung \r\nwhich refers to self-esteem and honor. Includes aspects of 1) Bejuluk Adek, 2) \r\nNemui Nyimah, 3) Nengah Nyappur, and 4) Sakai Sambaiyan. The value of pi'il pesenggiri can be a potential in the development of customary extension. These values can be the basis for increasing the multicultural competence of \r\ncounselors in terms of understanding and knowledge of local wisdom. This is based on the content possessed by pi'il pesenggiri for ulun Lampung in the form of divine values (holiness), religious values, spiritual values, moral values, intellectual values, individual values, social values, and material values. These values can be re-condensed into divine values, human values, and life values.\r\nKEYWORDS:1Divorcees and Counseling Approach, Psycho-Social Challenges, Reality Therapy.",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "DOI: https:\/\/doi.org\/10.30653\/001.202261.185"
+        }
+      ],
+      "datestamp": "2023-01-13 08:31:41",
+      "volume": 6,
+      "divisions": [
+        "FKIP2"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47792",
+      "subjects": [
+        "D1",
+        "H1"
+      ],
+      "eprintid": 47792,
+      "date": "2022-01-31",
+      "type": "article",
+      "publication": "Indonesian Journal of Educational Counseling",
+      "userid": 20,
+      "full_text_status": "public",
+      "dir": "disk0_bak\/00\/04\/77\/92",
+      "ispublished": "pub",
+      "official_url": "http:\/\/ijec.ejournal.id\/index.php\/counseling\/article\/view\/185",
+      "rev_number": 7,
+      "status_changed": "2023-01-13 08:31:41",
+      "pagerange": "33-43",
+      "documents": [
+          {
+            "main": "2.Indonesian Journal of Educational Counseling, 2022, Vol. 6No. 1, Page 34-43_S4.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "3b508f05cd8ad7b99d5eff655a4d615f",
+                  "datasetid": "document",
+                  "objectid": 186893,
+                  "mime_type": "application\/pdf",
+                  "filename": "2.Indonesian Journal of Educational Counseling, 2022, Vol. 6No. 1, Page 34-43_S4.pdf",
+                  "filesize": 482253,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/523249",
+                  "fileid": 523249,
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-13 07:54:45"
+                }
+            ],
+            "placement": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186893",
+            "eprintid": 47792,
+            "language": "en",
+            "docid": 186893,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ]
+    },
+    {
+      "eprintid": 30123,
+      "subjects": [
+        "D1",
+        "D901"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30123",
+      "divisions": [
+        "FKIP24"
+      ],
+      "datestamp": "2021-05-10 06:25:30",
+      "abstract": "Buku ajar ini merupakan sebuah tambahan bagi pemenuhan ilmu pengetahuan para mahasiswa universitas lampung fakultas keguruan dan ilmu pendidikan, jurusan IPS Khususnya Program Studi Pendidikan Sejarah tentunya. Dengan adanya buku ini diharapakan dapat menunjang aktifitas kuliah para mahasiswa calon guru sejarah",
+      "lastmod": "2021-05-10 06:25:30",
+      "title": "Buku Sejarah Eropa",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "given": "Muhammad Basri",
+            "lineage": null,
+            "family": "Muhammad Basri",
+            "honourific": null
+          },
+          "id": "muhammad.basri@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135268",
+            "docid": 135268,
+            "language": "en",
+            "eprintid": 30123,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "objectid": 135268,
+                  "datasetid": "document",
+                  "filename": "sertifikat_EC00201973797.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "96fcae93cc05f902240688e8ba43893a",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-10 05:53:41",
+                  "filesize": 768383,
+                  "fileid": 357066,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/357066"
+                }
+            ],
+            "main": "sertifikat_EC00201973797.pdf"
+          }
+      ],
+      "id_number": "EC00201973797",
+      "patent_applicant": "Menteri Hukum dan Hak Asasi Manusia Direktur Jendral Kekayaan Intelektual",
+      "status_changed": "2021-05-10 06:25:30",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/01\/23",
+      "userid": 573,
+      "full_text_status": "public",
+      "type": "patent",
+      "date": "2019-10-02"
+    },
+    {
+      "date": "2020-08-14",
+      "type": "patent",
+      "full_text_status": "public",
+      "userid": 573,
+      "patent_applicant": "Menteri Hukum dan Hak Asasi Manusia Direktur Jendral Kekayaan Intelektual",
+      "status_changed": "2021-05-11 00:49:28",
+      "rev_number": 9,
+      "dir": "disk0\/00\/03\/01\/27",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135276",
+            "docid": 135276,
+            "language": "en",
+            "eprintid": 30127,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/357112",
+                  "fileid": 357112,
+                  "filesize": 772880,
+                  "mtime": "2021-05-10 06:31:30",
+                  "hash_type": "MD5",
+                  "hash": "ae0f2af7540db027b1c33b1cb4688b88",
+                  "mime_type": "application\/pdf",
+                  "filename": "sertifikat_EC00202027868.pdf",
+                  "datasetid": "document",
+                  "objectid": 135276
+                }
+            ],
+            "main": "sertifikat_EC00202027868.pdf"
+          }
+      ],
+      "id_number": "EC00202027868",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Muhammad Basri",
+            "given": "Muhammad Basri",
+            "honourific": null
+          },
+          "id": "muhammad.basri@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Sumargono",
+            "lineage": null,
+            "given": "Sumargono",
+            "honourific": null
+          },
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "lastmod": "2021-05-11 00:49:28",
+      "title": "Karya seni batik",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "abstract": "Motif batik nekara dan bejana lampung",
+      "datestamp": "2021-05-11 00:49:28",
+      "eprintid": 30127,
+      "subjects": [
+        "AZ",
+        "D1",
+        "NX"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30127",
+      "divisions": [
+        "FKIP24"
+      ]
+    },
+    {
+      "datestamp": "2021-06-21 08:24:18",
+      "subjects": [
+        "D1",
+        "D204"
+      ],
+      "eprintid": 32734,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32734",
+      "creators": [
+        {
+          "name": {
+            "given": "Rizkillah",
+            "family": "Muhammad Rizkillah",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rizkillah@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fera Ferianti",
+            "given": "Ferianti",
+            "honourific": null
+          },
+          "id": "fera.ferianti98@gmail.com"
+        },
+        {
+          "id": "hilman.rifqi19@gmail.com",
+          "name": {
+            "given": "Rifqi",
+            "lineage": null,
+            "family": "Hilman Rifqi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "publisher": "University of Lampung",
+      "title": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus",
+      "lastmod": "2021-06-21 08:24:18",
+      "status_changed": "2021-06-21 08:24:18",
+      "dir": "disk0\/00\/03\/27\/34",
+      "ispublished": "unpub",
+      "rev_number": 10,
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "language": "en",
+            "eprintid": 32734,
+            "docid": 148778,
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148778",
+            "files": [
+                {
+                  "hash": "16dfecd057501ad85750f8f3165f7797",
+                  "filename": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus.jpeg",
+                  "mime_type": "image\/jpeg",
+                  "datasetid": "document",
+                  "objectid": 148778,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/387331",
+                  "fileid": 387331,
+                  "filesize": 235070,
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-21 04:33:37"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "image\/jpeg",
+            "main": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus.jpeg"
+          }
+      ],
+      "date": "2021-12-18",
+      "type": "other",
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Rizkillah",
+            "lineage": null,
+            "family": "Muhammad"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "rizkillah@gmail.com"
+        },
+        {
+          "id": "fera.ferianti98@gmail.com",
+          "name": {
+            "given": "Ferianti",
+            "family": "Fera",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "hilman.rifqi19@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Rifqi",
+            "lineage": null,
+            "family": "Hilman",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Yusuf Perdana",
+            "lineage": null,
+            "given": "Yusuf Perdana",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "userid": 2779,
+      "full_text_status": "public"
+    },
+    {
+      "eprintid": 47310,
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47310",
+      "divisions": [
+        "FKIP24"
+      ],
+      "volume": 5,
+      "datestamp": "2022-12-19 07:19:17",
+      "abstract": "Tujuan penelitian ini untuk mengetahui pendidikan karakter masyarakat Lampung\r\nPesisir melalui tradisi ngebuyu sebagai kearifan lokal. Metode penelitian ini\r\nmerupakan jenis penelitian kualitatif dengan menggunakan pendekatan etnografi\r\nyang mendeskripsikan kebudayaan lokal masyarakat Lampung Pesisir Kalianda\r\nyaitu Ngebuyu. Hasil penelitian menunjukkan bahwa budaya lokal mengandung\r\nnilai-nilai pendidikan karakter yang penting untuk ditransformasikan kepada\r\ngenerasi muda. Salah satu budaya tersebut adalah tradisi Negbuyu. Tradisi\r\nNgebuyu yaitu tradisi yang dilaksanakan oleh masyarakat Lampung Pesisir yang\r\nberada diwilayah Kalianda Kabupaten Lampung Selatan. Masyarakat Lampung\r\nPesisir atau yang biasa disebut dalam bahasa lokal dengan istilah ‘Ulun Lampung\r\nSaibatin’ memiliki ritual dalam menyambut kelahiran bayi, ritual atau tradisi\r\ntersebut disebut dengan Ngebuyu. Simpulan penelitian pendidikan karakter tradisi\r\nngebuyu dengan menginternalisasikan nilai budaya pada pembelajaran sejarah\r\ndapat menarik minat peserta didik dalam belajar sejarah dan membuat\r\npembelajaran sejarah lebih bermakna.\r\nKata Kunci: Kearifan Lokal, Pendidikan Karakter, Tradisi Ngebuyu",
+      "lastmod": "2022-12-19 07:19:17",
+      "title": "PENDIDIKAN KARAKTER MELALUI TRADISI NGEBUYU SEBAGAI\r\nKEARIFAN LOKAL MASYARAKAT LAMPUNG PESISIR",
+      "publisher": "KAGANGA : Jurnal Pendidikan Sejarah dan Riset Humaniora",
+      "eprint_status": "archive",
+      "issn": "2621-119X",
+      "date_type": "published",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Nur",
+            "family": "Nur Indah Lestari",
+            "lineage": null
+          },
+          "id": "nurindah.lestari@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Rinaldo",
+            "lineage": null,
+            "given": "Adi Pratama",
+            "honourific": null
+          },
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yusuf Perdana",
+            "family": "Yusuf Perdana",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "id": "sumargono.1988@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Sumargono",
+            "lineage": null,
+            "given": "Sumargono"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 779761,
+                  "fileid": 519208,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519208",
+                  "mtime": "2022-12-19 05:43:50",
+                  "hash_type": "MD5",
+                  "hash": "072e8e0c83ac3d9edd065a7d817dfa7c",
+                  "datasetid": "document",
+                  "objectid": 186307,
+                  "mime_type": "application\/pdf",
+                  "filename": "PENDIDIKAN KARAKTER MELALUI TRADISI NGEBUYU SEBAGAI.pdf"
+                }
+            ],
+            "main": "PENDIDIKAN KARAKTER MELALUI TRADISI NGEBUYU SEBAGAI.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186307",
+            "format": "text",
+            "docid": 186307,
+            "eprintid": 47310,
+            "language": "en"
+          }
+      ],
+      "pagerange": "88-99",
+      "status_changed": "2022-12-19 07:19:17",
+      "rev_number": 6,
+      "official_url": "https:\/\/journal.ipm2kpe.or.id\/index.php\/KAGANGA\/article\/view\/3689",
+      "dir": "disk0\/00\/04\/73\/10",
+      "ispublished": "pub",
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "nur indah",
+            "lineage": null,
+            "given": "lestari"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "nur.indahlestari@fkip.unila.ac.id"
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "family": "Rinaldo",
+            "lineage": null,
+            "given": "Adi Pratama",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Perdana",
+            "family": "Yusuf",
+            "lineage": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "id": "sumargono.1988@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "sumargono",
+            "given": "sumargono"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "userid": 2779,
+      "publication": "PENDIDIKAN KARAKTER MELALUI TRADISI NGEBUYU SEBAGAI KEARIFAN LOKAL MASYARAKAT LAMPUNG PESISIR",
+      "full_text_status": "public",
+      "type": "article",
+      "date": "2022-06-10"
+    },
+    {
+      "userid": 2779,
+      "publication": "Historia Madania: Jurnal Ilmu Sejarah",
+      "full_text_status": "public",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Perdana",
+            "lineage": null,
+            "family": "Yusuf",
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "date": "2022-12-09",
+      "type": "article",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "1977a615a7e832721144c03383d21a5e",
+                  "datasetid": "document",
+                  "objectid": 188219,
+                  "mime_type": "application\/pdf",
+                  "filename": "Perkembangan Tembakau di Distrik Lampung Masa Kolonial.pdf",
+                  "filesize": 362447,
+                  "fileid": 531506,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531506",
+                  "mtime": "2023-03-06 09:34:17",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "Perkembangan Tembakau di Distrik Lampung Masa Kolonial.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "docid": 188219,
+            "language": "en",
+            "eprintid": 48804,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188219",
+            "format": "text"
+          }
+      ],
+      "rev_number": 8,
+      "official_url": "https:\/\/journal.uinsgd.ac.id\/index.php\/historia\/article\/view\/21280\/7905",
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/04\/88\/04",
+      "pagerange": "147-158",
+      "status_changed": "2023-03-06 09:59:19",
+      "issn": "2723-4185",
+      "date_type": "published",
+      "lastmod": "2023-03-06 09:59:19",
+      "title": "Perkembangan Tembakau di Distrik Lampung Masa Kolonial\r\nAbad XIX",
+      "eprint_status": "archive",
+      "publisher": "UIN Sunan Gunung Jati",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Perdana",
+            "lineage": null,
+            "given": "Yusuf"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "number": 2,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48804",
+      "divisions": [
+        "FKIP24"
+      ],
+      "eprintid": 48804,
+      "subjects": [
+        "D1"
+      ],
+      "volume": 6,
+      "datestamp": "2023-03-06 09:59:19",
+      "abstract": "The purpose of this study was to determine the development of tobacco plantations in the Lampung\r\ndistrict during the 19th century colonial period and as a source of learning material for the history\r\nof plantations in Lampung and local history in Lampung. The method used in this research is using\r\nthe historical method with several stages, namely heusristic, verification, interpretation and\r\nhistoriography. The results of this study briefly describe the development of tobacco plantations in\r\nthe Lampung district during the colonial period. And the dynamics of tobacco with many other\r\nplantation products can be said to be not easy, the dynamics of tobacco plants that were cultivated\r\nduring the colonial period experienced many highs and lows of tobacco production. With conditions\r\nin the colonial period being in changing weather so that it had an impact on the production of its\r\nown tobacco, so that in the 1830s the colonial began to order again for farmers in the Dutch East\r\nIndies to plant plantation products that were sold on the international market."
+    },
+    {
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/14\/49",
+      "rev_number": 7,
+      "official_url": "https:\/\/ojs.unud.ac.id\/index.php\/pustaka\/article\/view\/94292",
+      "pagerange": "35-41",
+      "status_changed": "2023-05-12 01:08:18",
+      "id_number": "https:\/\/doi.org\/10.24843\/PJIIB.2023.v23.i01.p07",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-05-11 16:36:17",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/609540",
+                  "fileid": 609540,
+                  "filesize": 3541,
+                  "mime_type": "text\/html",
+                  "filename": 49329,
+                  "objectid": 248660,
+                  "datasetid": "document",
+                  "hash": "c3f4dc12aa8f79fb2772cb31f43df866"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "text\/html",
+            "main": 49329,
+            "rev_number": 3,
+            "pos": 1,
+            "eprintid": 51449,
+            "language": "en",
+            "content": "published",
+            "docid": 248660,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/248660"
+          }
+      ],
+      "date": "2023-02",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "PUSTAKAJURNAL ILMU-ILMU BUDAYA",
+      "userid": 2784,
+      "datestamp": "2023-05-12 01:08:18",
+      "abstract": "Indische culture is a culture that results from a combination of European (Dutch) culture and local (Javanese) culture. Starting from the arrival of the Dutch to Indonesia which resulted in a cultural contact. Caused by this cultural contact, then  led  to  acculturation  between  Dutch  culture  and  local  culture  resulting  in  a  new  culture  called  Indische  culture.  This article was written with the aim of finding out about how Indische culture can enter and develop in Indonesia. The method  used  is  literature  study,  namely  by  collecting  historical  sources  and  data  consisting  of  archives,  documents,  books, journals, newspapers and magazines.",
+      "volume": 23,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/51449",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 51449,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Wahyu Agil",
+            "lineage": null,
+            "family": "Permana"
+          },
+          "id": "wahyuagil63@gmail.com"
+        },
+        {
+          "id": "andinishiraaaa@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Putri",
+            "lineage": null,
+            "given": "Andiri Shira"
+          }
+        },
+        {
+          "id": "rinaldo@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Rinaldo Adi",
+            "lineage": null,
+            "family": "Pratama"
+          }
+        }
+      ],
+      "date_type": "published",
+      "issn": "2528-7516",
+      "publisher": "Universitas Udayana",
+      "eprint_status": "archive",
+      "lastmod": "2023-05-12 01:08:18",
+      "title": "Kebudayaan Indis: Hasil Akulturasi Budaya antara Jawa dengan Kolonial Belanda"
+    },
+    {
+      "volume": 4,
+      "datestamp": "2020-11-11 07:37:56",
+      "related_url": [
+        {
+          "url": "http:\/\/insist.unila.ac.id\/index.php\/ojs\/article\/view\/165",
+          "type": "pub"
+        }
+      ],
+      "abstract": "Urban village as a historic village has a high physical, social and cultural values that needs to be preserved. Kampung Negeri Olok Gading has been designated as a cultural and historical village by the Government of Bandar Lampung City, however it is constrainted by the development of the surrounding area. The purposes of this study are: (1) to know the pattern and variety of activities within the village as a creative village embryo; (2) to know the physical condition, functional condition and environmental condition of the kampung; (3) to formulate the physical arrangement strategy in transforming Kampung Negeri Olok Gading become Urban Creative Village. This research uses descriptive analysis methodology through empirical study to existing condition. Through empirical tracking of the physical elements of the area, it is known that there are significant changes to the condition of the urban village such as: the changing of land use and building, the changing of the building and the environment. The main strategy that can be applied to transform Kampung into the creative village is the integrated conservation of the area which include physical, social and cultural aspects.\r\nKeywords—conservation, kampung, creative, traditional, Negeri Olok Gading",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24913",
+      "divisions": [
+        "FT9"
+      ],
+      "eprintid": 24913,
+      "subjects": [
+        "D1",
+        "H1",
+        "NA"
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "citra.persada@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Persada",
+            "given": "Citra",
+            "honourific": null
+          }
+        },
+        {
+          "id": "nandang.1957@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nandang",
+            "given": "Nandang",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nugroho",
+            "lineage": null,
+            "given": "Agung Cahyo"
+          },
+          "id": "agung.cahyo@eng.unila.ac.id"
+        }
+      ],
+      "number": 2,
+      "date_type": "published",
+      "issn": "2502-8588",
+      "title": "Spatial Identifications and Strategies toward Creative Village in Bandar Lampung City",
+      "lastmod": "2020-11-11 07:37:56",
+      "publisher": "University of Lampung",
+      "eprint_status": "archive",
+      "rev_number": 15,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/49\/13",
+      "pagerange": "231-235",
+      "status_changed": "2020-11-11 07:37:56",
+      "documents": [
+          {
+            "eprintid": 24913,
+            "language": "en",
+            "docid": 38654,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38654",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "165-409-1-SM.pdf",
+            "files": [
+                {
+                  "filesize": 458510,
+                  "fileid": 225653,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/225653",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-11 05:47:12",
+                  "hash": "b8cb464cf94cff1031cec313db73e587",
+                  "objectid": 38654,
+                  "datasetid": "document",
+                  "filename": "165-409-1-SM.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "rev_number": 3,
+            "pos": 2,
+            "content": "published",
+            "docid": 38655,
+            "language": "en",
+            "eprintid": 24913,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38655",
+            "format": "text",
+            "placement": 2,
+            "files": [
+                {
+                  "hash": "58661dcfbe2752a496ea09ced7140c2b",
+                  "objectid": 38655,
+                  "datasetid": "document",
+                  "filename": 165,
+                  "mime_type": "application\/xml",
+                  "filesize": 30193,
+                  "fileid": 225657,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/225657",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-11 05:48:16"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "public",
+            "main": 165
+          }
+      ],
+      "date": "2019-10-20",
+      "type": "article",
+      "publication": "INSIST",
+      "full_text_status": "public",
+      "userid": 31
+    },
+    {
+      "eprintid": 16395,
+      "subjects": [
+        "D1",
+        "D839"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16395",
+      "divisions": [
+        "FKIP24"
+      ],
+      "volume": 4,
+      "datestamp": "2019-11-14 10:34:41",
+      "abstract": "This research aims to find the role of locality in the revolution period. As we\r\nknow that revolution period was a period that was quite important for the history of the\r\nnation because many areas are involved in this important event. The research method\r\nused is historical methods that include, heuristics, criticism, interpretation, and\r\nhistoriography. Based on the research conducted that during the period of Indonesia's\r\nindependence revolution, Kuningan had a central role in the struggle to maintain the\r\nsovereignty of the country in the eastern region of West Java, especially the Karesidenan\r\nCirebon. Kuningan in particular Ciwaru has a stake in the struggle for independence\r\nwhich is the capital of refugee from the Karesidenan Cirebon government after being\r\nbombarded the center of government in Cirebon by the events of the first Dutch Military\r\nAggression. In addition there are also wars involving civilians with the formation special\r\ntroops in Kuningan. As a place of refuge in the civil administration, the Karesidenan\r\nCirebon certainly made Kuningan as a battleground that was quite powerful in the\r\neastern region of West Java",
+      "title": "KECAMUK REVOLUSI KEMERDEKAAN DI KUNINGAN (1947-1950)",
+      "lastmod": "2019-11-14 10:34:41",
+      "publisher": "Jurusan Pendidikan Sejarah",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "issn": "2477-2771",
+      "number": 2,
+      "creators": [
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Pratama",
+            "given": "Rinaldo Adi"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29499",
+            "format": "text",
+            "eprintid": 16395,
+            "language": "en",
+            "docid": 29499,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "d35477d72f518c3721db18a6eefdf5ba",
+                  "objectid": 29499,
+                  "datasetid": "document",
+                  "filename": "1. Susurgalur Vol. 3 No. 2  September 2015.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 290270,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139875",
+                  "fileid": 139875,
+                  "mtime": "2019-11-14 05:28:06",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 1,
+            "main": "1. Susurgalur Vol. 3 No. 2  September 2015.pdf"
+          }
+      ],
+      "status_changed": "2019-11-14 10:34:41",
+      "pagerange": "94-106",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/63\/95",
+      "full_text_status": "public",
+      "publication": "Jurnal Candrasangkala",
+      "userid": 2784,
+      "date": 2018,
+      "type": "article"
+    },
+    {
+      "publisher": "Jurusan Pendidikan Sejarah",
+      "eprint_status": "archive",
+      "title": "KECAMUK REVOLUSI KEMERDEKAAN DI KUNINGAN (1947-1950)",
+      "lastmod": "2020-05-18 21:42:13",
+      "issn": "2477-2771",
+      "date_type": "published",
+      "number": 2,
+      "creators": [
+        {
+          "name": {
+            "given": "Rinaldo Adi",
+            "lineage": null,
+            "family": "Pratama",
+            "honourific": null
+          },
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "D1",
+        "D839"
+      ],
+      "eprintid": 19990,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19990",
+      "abstract": "This research aims to find the role of locality in the revolution period. As we\r\nknow that revolution period was a period that was quite important for the history of the\r\nnation because many areas are involved in this important event. The research method\r\nused is historical methods that include, heuristics, criticism, interpretation, and\r\nhistoriography. Based on the research conducted that during the period of Indonesia's\r\nindependence revolution, Kuningan had a central role in the struggle to maintain the\r\nsovereignty of the country in the eastern region of West Java, especially the Karesidenan\r\nCirebon. Kuningan in particular Ciwaru has a stake in the struggle for independence\r\nwhich is the capital of refugee from the Karesidenan Cirebon government after being\r\nbombarded the center of government in Cirebon by the events of the first Dutch Military\r\nAggression. In addition there are also wars involving civilians with the formation special\r\ntroops in Kuningan. As a place of refuge in the civil administration, the Karesidenan\r\nCirebon certainly made Kuningan as a battleground that was quite powerful in the\r\neastern region of West Java",
+      "datestamp": "2020-05-18 21:42:13",
+      "volume": 4,
+      "userid": 2784,
+      "publication": "Jurnal Candrasangkala",
+      "full_text_status": "public",
+      "type": "article",
+      "date": 2018,
+      "documents": [
+          {
+            "docid": 33335,
+            "language": "en",
+            "eprintid": 19990,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33335",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "Vol. 4 No. 2 2018.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 472846,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/189076",
+                  "fileid": 189076,
+                  "mtime": "2020-05-18 09:56:19",
+                  "hash_type": "MD5",
+                  "hash": "353f6d692d646d551a504fc9d0c95472",
+                  "objectid": 33335,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Vol. 4 No. 2 2018.pdf"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "pagerange": "94-106",
+      "status_changed": "2020-05-18 21:42:13",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/99\/90",
+      "rev_number": 4
+    },
+    {
+      "type": "book_section",
+      "date": "2020-10",
+      "full_text_status": "public",
+      "userid": 2784,
+      "rev_number": 8,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/36\/77",
+      "status_changed": "2022-07-29 01:35:57",
+      "documents": [
+          {
+            "main": "PR Kota Tua Punya Banyak Cerita Jilid 2 229hlm-compressed.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filename": "PR Kota Tua Punya Banyak Cerita Jilid 2 229hlm-compressed.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 165611,
+                  "datasetid": "document",
+                  "hash": "85100be9f7561be5316c715d64b55de6",
+                  "hash_type": "MD5",
+                  "mtime": "2022-07-28 16:09:22",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/476234",
+                  "fileid": 476234,
+                  "filesize": 3786270
+                }
+            ],
+            "placement": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165611",
+            "language": "en",
+            "eprintid": 43677,
+            "docid": 165611,
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Pratama",
+            "given": "Rinaldo Adi",
+            "honourific": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        }
+      ],
+      "title": "Kota tua punya banyak cerita jilid 2",
+      "lastmod": "2022-07-29 01:35:57",
+      "eprint_status": "archive",
+      "publisher": "Farha Pustaka",
+      "book_title": "Kota Tua Punya Banyak Cerita Jilid 2",
+      "datestamp": "2022-07-29 01:35:57",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43677",
+      "divisions": [
+        "FKIP24"
+      ],
+      "eprintid": 43677,
+      "subjects": [
+        "D1",
+        "H1"
+      ]
+    },
+    {
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 50593,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50593",
+      "abstract": "During the independence war of Indonesia, particularly, Kraai Operation or in the military base, also known as the Dutch Military Aggression II in the Lampung Residency, made many contributions to maintaining state sovereignty. e revolution in the Lampung region was part of the Sumatra Province, namely the Lampung Residency. is study aimed to find out the impact of the Kraai Operation. e research used historical research methods. We conducted the research in three regions once the Lampung Residency’s emergency capital focused on politics, the military, and economics. During the Kraai Operation period or Dutch Military Aggression II 1949-1950, Lampung Residency led by Gele Harun Nasution issued political, military, and economic policies to counteract the Kraai Operation. He moved the Government and Defense, formed the North Front, Central Front, and Southern Front, and coordinated the camps in the Lampung Residency. Moreover, he printed emergency money for the Residency of Lampung to prevent the spread of the Dutch currency, which affected inflation.",
+      "datestamp": "2023-04-17 00:46:51",
+      "volume": 33,
+      "publisher": "History Department, Faculty of Social Sciences, Universitas Negeri Semarang",
+      "eprint_status": "archive",
+      "title": "Emergency Government of Lampung Residency during Kraai Operation, 1949- 1950",
+      "lastmod": "2023-04-17 00:46:51",
+      "date_type": "published",
+      "issn": "2407-5825",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "lineage": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Maskun",
+            "lineage": null,
+            "given": "Maskun"
+          },
+          "id": "maskun.1959@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "ARIF",
+            "given": "SUPARMAN"
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        }
+      ],
+      "number": 1,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "filename": "31858-112552-1-PB (1).pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 190297,
+                  "datasetid": "document",
+                  "hash": "0d1518a2d8dd38f31beb1ce67a5a8935",
+                  "hash_type": "MD5",
+                  "mtime": "2023-04-16 22:20:09",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/545488",
+                  "fileid": 545488,
+                  "filesize": 2843541
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "31858-112552-1-PB (1).pdf",
+            "pos": 1,
+            "rev_number": 2,
+            "docid": 190297,
+            "language": "en",
+            "eprintid": 50593,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190297",
+            "format": "text"
+          }
+      ],
+      "id_number": "https:\/\/doi.org\/10.15294\/paramita.v33i1.31858",
+      "pagerange": "106-117",
+      "status_changed": "2023-04-17 00:46:51",
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/05\/93",
+      "rev_number": 7,
+      "official_url": "https:\/\/journal.unnes.ac.id\/nju\/index.php\/paramita\/article\/view\/31858",
+      "publication": "Paramita: Historical Studies Journal",
+      "userid": 2784,
+      "full_text_status": "public",
+      "date": "2023-04",
+      "type": "article"
+    },
+    {
+      "divisions": [
+        "FISIP4"
+      ],
+      "event_title": "Kompetisi Visualisasi Rempah, Lomba Poster dan Animasi",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20242",
+      "subjects": [
+        "D051",
+        "D1"
+      ],
+      "eprintid": 20242,
+      "abstract": "Karya ini ingin menghubungkan situasi terkini peradaban manusia di seluruh dunia yang terancam runtuh menghadapi masalah terbesar abad ini, yaitu wabah Virus Korona yang telah menghilankan jutaan nyawa dan belum ditemukan obatnya. Kemudian secara singkat dan mendalam poster ini menjelaskan peran rempah-rempah yang telah digunakan selama ratusan tahun untuk mengobati penyakit dan kemungkinan turut memperbaiki keadaan krisis akibat Virus Korona. \r\n\r\nPoster ini menjadi manifestasi untuk menunjukan kepada generasi muda Indonesia tentang bagaimana besar dan gemilangnya sejarah Jalur Rempah Nusantara, yang telah ada sejak ribuan tahun lalu dan memberi pengaruh pada peradaban manusia dalam berbagai aspek di lingkup domestik, Indonesia bahkan global. Pada kesempatan ini sekaligus diharapkan akan menjadi momentum tepat untuk mempengaruhi persepsi dan menajamkan pikiran generasi milenial, agar secara kreatif dan inovatif mendayagunakan budaya rempah sebagai suatu kekayaan kultural yang sangat bernilai kedepannya. Dan menggiring perhatian generasi muda Indonesia untuk turut membantu menyelesaikan masalah-masalah terkait rempah-rempah yang selama ini terlewatkan oleh mereka.",
+      "datestamp": "2020-05-22 02:50:57",
+      "date_type": "submitted",
+      "event_dates": "April 14, 2020",
+      "eprint_status": "archive",
+      "title": "Kompetisi Visualisasi Rempah\/Jalur Rempah",
+      "lastmod": "2020-05-22 02:50:57",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Putra",
+            "family": "Purwanto",
+            "lineage": null
+          },
+          "id": "purwanto.putra@fisip.unila.ac.id"
+        }
+      ],
+      "event_location": "Kemendikbud",
+      "documents": [
+          {
+            "rev_number": 2,
+            "pos": 1,
+            "docid": 33577,
+            "content": "published",
+            "language": "id",
+            "eprintid": 20242,
+            "license": "cc_gnu_gpl",
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33577",
+            "placement": 1,
+            "files": [
+                {
+                  "objectid": 33577,
+                  "datasetid": "document",
+                  "filename": "Poster 1_Paint_Finish.jpg",
+                  "mime_type": "image\/jpeg",
+                  "hash": "4ad156e19654780d8789c13b417ccab3",
+                  "mtime": "2020-05-20 09:01:37",
+                  "hash_type": "MD5",
+                  "filesize": 332946,
+                  "fileid": 190750,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190750"
+                }
+            ],
+            "formatdesc": "Kompetisi Visualisasi Rempah\/ Jalur Rempah",
+            "mime_type": "image\/jpeg",
+            "security": "public",
+            "main": "Poster 1_Paint_Finish.jpg"
+          }
+      ],
+      "dir": "disk0\/00\/02\/02\/42",
+      "rev_number": 10,
+      "official_url": "https:\/\/kebudayaan.kemdikbud.go.id\/bpnbkepri\/kompetisi-visualisasi-rempah-lomba-poster-dan-animasi\/",
+      "status_changed": "2020-05-22 02:50:57",
+      "output_media": "Poster",
+      "full_text_status": "public",
+      "userid": 2792,
+      "contact_email": "jalurrempah@kemendikbud.go.id",
+      "type": "exhibition"
+    },
+    {
+      "publisher": "Universitas Galuh",
+      "eprint_status": "archive",
+      "title": "KEARIFAN LOKAL MEGOU PA’ SEBAGAI PREVENTIF KEHAMILAN DILUAR NIKAH PADA MASYARAKAT TULANG BAWANG",
+      "lastmod": "2022-05-10 08:07:25",
+      "date_type": "published",
+      "issn": "2580-0027",
+      "creators": [
+        {
+          "name": {
+            "given": "Sumargono",
+            "lineage": null,
+            "family": "Sumargono",
+            "honourific": null
+          },
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "lineage": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "siska",
+            "given": "siska",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Adelia",
+            "given": "Dea Nuci",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Diana Martha",
+            "family": "Irawan",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "number": 1,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 41563,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41563",
+      "abstract": "Seks bebas yang menjadi problem sosial di kalangan remaja telah menimbulkan banyak dampak negatif seperti kehamilan diluar nikah dan tindakan aborsi. Penelitian ini bertujuan untuk mengkaji nilai-nilai kearifan lokal Megou Pa’ Tulang Bawang yang memiliki milai-nilai preventif dalam mencegah terjadinya kehamilan diluar nikah. Jenis penelitian yang digunakan adalah penelitian kualitatif dengan pendekatan deskriptif. Teknik pengumpulan data melalui observasi, wawancara dan dokumentasi. Hasil penelitian ini menunjukkan bahwa masyarakat Tulang Bawang menjunjung tinggi nilai-nilai kesopanan antara laki-laki dan perempuan serta menganggap tabu hubungan seksual sebelum menikah.",
+      "datestamp": "2022-05-10 08:07:25",
+      "volume": 9,
+      "publication": "Artefak",
+      "userid": 2784,
+      "full_text_status": "public",
+      "type": "article",
+      "date": "2022-04",
+      "documents": [
+          {
+            "files": [
+                {
+                  "hash": "a3e9ad34dc4134cf5b39c9fc4a99aacf",
+                  "objectid": 163220,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "7480-26699-1-PB.pdf",
+                  "filesize": 1070216,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/460010",
+                  "fileid": 460010,
+                  "hash_type": "MD5",
+                  "mtime": "2022-05-10 06:10:48"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "7480-26699-1-PB.pdf",
+            "rev_number": 2,
+            "pos": 1,
+            "language": "en",
+            "eprintid": 41563,
+            "docid": 163220,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163220",
+            "format": "text"
+          }
+      ],
+      "pagerange": "61-70",
+      "status_changed": "2022-05-10 08:07:25",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/15\/63",
+      "rev_number": 8,
+      "official_url": "https:\/\/jurnal.unigal.ac.id\/index.php\/artefak\/article\/view\/7480"
+    },
+    {
+      "number": 1,
+      "refereed": "TRUE",
+      "title": "Peran Lada Lampung Menyokong Komoditas Perdagangan Banten",
+      "publisher": "Candrasangkala : Jurnal Pendidikan dan Sejarah",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/jurnal.untirta.ac.id\/index.php\/Candrasangkala\/article\/view\/14987"
+        }
+      ],
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48663",
+      "date": "2022-05-01",
+      "type": "article",
+      "full_text_status": "public",
+      "userid": 1246,
+      "rev_number": 11,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Sumargono",
+            "lineage": null,
+            "family": "Sumargono"
+          },
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Rinaldo",
+            "lineage": null,
+            "given": "Adi Pratama",
+            "honourific": null
+          },
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Yusuf Perdana",
+            "lineage": null,
+            "given": "Yusuf Perdana",
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nur Indah Lestari",
+            "given": "Nur"
+          },
+          "id": "nurindah.lestari@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Triaristina",
+            "lineage": null,
+            "family": "Aprila",
+            "honourific": null
+          },
+          "id": "aprilia@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "lastmod": "2023-03-01 02:00:33",
+      "issn": "2477-2771",
+      "volume": 8,
+      "datestamp": "2023-03-01 02:00:33",
+      "abstract": "anoh Lampung tanoh lado, sebaris lirik lagu daerah yang mengingatkan sejarah kejayaan lada Lampung yang terkenal keberbagai bangsa pada masa penguasaan Kesultanan Banten. Tujuan penelitian ini adalah untuk mengetahui kejayaan lada Lampung dan relasi antara Lampung dengan Banten sampai lada Lampung menjadi komoditas perdagangan dan pelabuhan Kesultanan Banten. Adapun metode penelitian yang digunakan adalah metode penelitian sejarah dengan menggunakan dua sumber pengumpulan data yakni studi pustaka dan dokumentasi dengan menggunakan teknik analisis kualitatif. Berdasarkan penelitian yang telah dilaksanakan, kejayaan lada Lampung dan terjalinnya relasi yang baik antara Lampung dengan Kesultanan Banten merupakan dua hal yang sangat mendukung. Lada Lampung yang terkenal karena kualitas dan ketenarannya pada masa Kesultanan Banten menguasai Lampung. Hubungan antara Banten dengan Lampung terjalin dengan baik karena adanya lada Lampung yang semakin diluaskan lahan perkebunannya. Antara Lampung dan Kesultanan Banten juga tidak terjadi pemberontakan\/perlawanan\/perang yang dilakukan kedua belah pihak. Hal ini dikarenakan adanya kesepakatan antara Banten dan Lampung yakni Banten memberikan perintah melalui piagam (pijagem) yang dikeluarkan mengenai perintah tanam pohon lada kepada para pemimpin adat di marga Lampung dan sebaliknya para pemuka adat Lampung mendapatkan gelar adat dan benda simbolis dari Sultan Banten yang dapat digunakan dalam kepimimpinan marga. Hal inilah yang menjadi resep harmonisnya hubungan Lampung dan Kesultanan Banten sampai Lampung menjadi komoditas penyokong lada utama dan sampai terbangunnya pelabuhan-pelabuhan yang megah di Banten.",
+      "eprintid": 48663,
+      "divisions": [
+        "FKIP24"
+      ],
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "contributors": [
+        {
+          "id": "sumargono.1988@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Sumargono",
+            "family": "Sumargono",
+            "lineage": null
+          }
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Adi Pratama",
+            "family": "Rinaldo",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana",
+            "honourific": null
+          }
+        },
+        {
+          "id": "nurindah.lestari@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "family": "Nur Indah Lestari",
+            "lineage": null,
+            "given": "Nur",
+            "honourific": null
+          }
+        },
+        {
+          "id": "aprilia@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Triaristina",
+            "family": "Aprila",
+            "lineage": null
+          }
+        }
+      ],
+      "publication": "Peran Lada Lampung Menyokong Komoditas Perdagangan Banten",
+      "status_changed": "2023-03-01 02:00:33",
+      "pagerange": "60-69",
+      "official_url": "https:\/\/jurnal.untirta.ac.id\/index.php\/Candrasangkala\/article\/view\/14987",
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/04\/86\/63",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188018",
+            "format": "text",
+            "docid": 188018,
+            "language": "en",
+            "eprintid": 48663,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "7  LADA LAMPUNG.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 530429,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530429",
+                  "filesize": 145783,
+                  "hash_type": "MD5",
+                  "mtime": "2023-02-28 22:34:14",
+                  "hash": "14c49f0373ad4bb4f129723fb08cc26d",
+                  "filename": "7  LADA LAMPUNG.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 188018
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "date": "2022-05-20",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "Candrasangkala: Jurnal Pendidikan dan Sejarah",
+      "userid": 2779,
+      "contributors": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sumargono",
+            "given": "Sumargono",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Adi Pratama",
+            "family": "Rinaldo",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        },
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Perdana",
+            "family": "Yusuf",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nur",
+            "given": "Indah Lestari"
+          },
+          "id": "nurindah.lestari@fkip.unila.ac.id"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Tri Aristina",
+            "lineage": null,
+            "family": "Aprilia"
+          },
+          "id": "aprilia@fkip.unila.ac.id"
+        }
+      ],
+      "official_url": "https:\/\/jurnal.untirta.ac.id\/index.php\/Candrasangkala\/article\/view\/14987",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/73\/23",
+      "pagerange": "60-69",
+      "status_changed": "2022-12-19 10:08:05",
+      "documents": [
+          {
+            "main": "PERAN LADA LAMPUNG MENYOKONG KOMODITAS PERDAGANGAN BANTEN.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 145783,
+                  "fileid": 519361,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519361",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-19 07:39:48",
+                  "hash": "14c49f0373ad4bb4f129723fb08cc26d",
+                  "datasetid": "document",
+                  "objectid": 186333,
+                  "mime_type": "application\/pdf",
+                  "filename": "PERAN LADA LAMPUNG MENYOKONG KOMODITAS PERDAGANGAN BANTEN.pdf"
+                }
+            ],
+            "placement": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186333",
+            "format": "text",
+            "eprintid": 47323,
+            "language": "en",
+            "docid": 186333,
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "sumargono.1988@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Sumargono",
+            "given": "Sumargono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Adi Pratama",
+            "lineage": null,
+            "family": "Rinaldo"
+          },
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        },
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "given": "Yusuf Perdana",
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "honourific": null
+          }
+        },
+        {
+          "id": "nurindah.lestari@fkip.unila.ac.id",
+          "name": {
+            "given": "Nur",
+            "lineage": null,
+            "family": "Nur Indah Lestari",
+            "honourific": null
+          }
+        },
+        {
+          "id": "aprilia@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Triaristina",
+            "family": "Aprilia",
+            "lineage": null
+          }
+        }
+      ],
+      "number": 1,
+      "date_type": "published",
+      "issn": "2477-8214",
+      "lastmod": "2022-12-19 10:08:05",
+      "title": "PERAN LADA LAMPUNG MENYOKONG KOMODITAS PERDAGANGAN\r\nBANTEN",
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Sejarah Universitas Sultan Ageng Tirtayasa",
+      "volume": 8,
+      "abstract": "Tanoh Lampung tanoh lado, sebaris lirik lagu daerah yang mengingatkan\r\nsejarah kejayaan lada Lampung yang terkenal di berbagai bangsa pada masa penguasaan\r\nKesultanan Banten. Tujuan penelitian ini adalah untuk mengetahui kejayaan lada\r\nLampung dan relasi antara Lampung dengan Banten sampai lada Lampung menjadi\r\nkomoditas perdagangan dan pelabuhan Kesultanan Banten. Metode penelitian yang\r\ndigunakan adalah metode penelitian sejarah dengan menggunakan dua sumber\r\npengumpulan data yakni studi pustaka dan dokumentasi dengan menggunakan teknik\r\nanalisis kualitatif. Berdasarkan penelitian yang telah dilaksanakan, kejayaan lada\r\nLampung dan terjalinnya relasi yang baik antara Lampung dengan Kesultanan Banten\r\nmerupakan dua hal yang sangat mendukung. Lada Lampung yang terkenal karena\r\nkualitas dan ketenarannya pada masa Kesultanan Banten menguasai Lampung. Hubungan\r\nantara Banten dengan Lampung terjalin dengan baik karena adanya lada Lampung yang\r\nsemakin diluaskan lahan perkebunannya. Antara Lampung dan Kesultanan Banten juga\r\ntidak terjadi pemberontakan\/perlawanan\/perang yang dilakukan kedua belah pihak. Hal\r\nini dikarenakan adanya kesepakatan antara Banten dan Lampung yakni Banten\r\nmemberikan perintah melalui piagam (pijagem) yang dikeluarkan mengenai perintah\r\ntanam pohon lada kepada para pemimpin adat di marga Lampung dan sebaliknya para\r\npemuka adat Lampung mendapatkan gelar adat dan benda simbolis dari Sultan Banten\r\nyang dapat digunakan dalam kepimimpinan marga.\r\nKata Kunci Perdagangan, lada Lampung, Kesultanan Banten.",
+      "datestamp": "2022-12-19 10:08:05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47323",
+      "divisions": [
+        "FKIP24"
+      ],
+      "eprintid": 47323,
+      "subjects": [
+        "D1"
+      ]
+    },
+    {
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47735",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 47735,
+      "abstract": "The  toponymy  of  thevillages  in  Pringsewu  is  a  memory  that  holds  about  past experiences. Toponymy brings a distinctive uniqueness about the names of villages, especially the names  of  villages  that  come  from  various  aspects  including  physical  aspects  or  embodiment aspects,  hydrological  aspects,  geomorphological  aspects,  and  biological-ecological  aspects,  thus changing  the  name  of  the  village  into  an  object  of  knowledge  that  can  be  explored  and  read.  This research  is qualitative  researchwith  a  descriptive  approach.  Data  collection  techniques  through observation,  literature  studies,  and  documentation.  The  data  validity  technique  uses  source triangulation. Furthermore, the method used in analysingthe data is a qualitative method, which describes  the uniqueness  of  the  toponymy  of  transmigration  villages  in  Pringsewu  and  their potential as a source of historical learning based on data that has been collected through literature studies, field studies and documentation. The toponymic values of village names have the potential to  be  integrated  in  history  learning,  as  an  effort  to  humanize  the  narrative  (the  humanizing narrative) that reveals the nuances of history, as well as to appreciate the previous communities in their struggle to openland in the form of forests to be turned into a village andempathize through lens  observations  from  human  life  experiences.  This  shows  that  the  local  people  are  very instrumental in providing the names of the villages in accordance with the expectations for future progress, tocreate a safe, prosperous, happy village, and a beautiful village according to the name embedded in its name",
+      "datestamp": "2023-01-11 10:28:17",
+      "volume": 11,
+      "issn": "2301-461x",
+      "eprint_status": "archive",
+      "publisher": "Program Magister Pendidikan Sejarah",
+      "lastmod": "2023-01-11 10:28:17",
+      "title": "Nilai-Nilai Kampung  Transmigrasi di    Pringsewu sebagai Sumber Belajar Sejarah",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "sumargono.1988@fkip.unila.ac.id",
+          "name": {
+            "family": "Sumargono",
+            "lineage": null,
+            "given": "Sumargono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Yusuf Perdana",
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Rinaldo Adi",
+            "lineage": null,
+            "family": "Pratama",
+            "honourific": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        },
+        {
+          "id": "nur.indahlestari@fkip.unila.ac.id",
+          "name": {
+            "given": "Nur Indah",
+            "lineage": null,
+            "family": "Lestari",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 2,
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186828",
+            "language": "en",
+            "eprintid": 47735,
+            "docid": 186828,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "26633-Article Text-83649-1-10-20221107 (2).pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-11 10:08:42",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522706",
+                  "fileid": 522706,
+                  "filesize": 467528,
+                  "mime_type": "application\/pdf",
+                  "filename": "26633-Article Text-83649-1-10-20221107 (2).pdf",
+                  "objectid": 186828,
+                  "datasetid": "document",
+                  "hash": "d42262680876e8463dfb68b939bd4f03"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/04\/77\/35",
+      "official_url": "http:\/\/journal.unj.ac.id\/unj\/index.php\/jps\/article\/view\/26633\/13643",
+      "rev_number": 6,
+      "status_changed": "2023-01-11 10:28:17",
+      "publication": "Jurnal Pendidikan Sejarah",
+      "full_text_status": "public",
+      "userid": 2784,
+      "type": "article"
+    },
+    {
+      "documents": [
+          {
+            "files": [
+                {
+                  "objectid": 38005,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Vol 7 No. 2, Sept 2020.pdf",
+                  "hash": "6d7ab289276dde72e17d7e36a7ec9e1f",
+                  "mtime": "2020-10-09 08:40:54",
+                  "hash_type": "MD5",
+                  "filesize": 459592,
+                  "fileid": 221026,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/221026"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Vol 7 No. 2, Sept 2020.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "language": "en",
+            "eprintid": 24287,
+            "docid": 38005,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38005",
+            "format": "text"
+          }
+      ],
+      "status_changed": "2020-10-14 04:08:05",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/42\/87",
+      "rev_number": 6,
+      "official_url": "https:\/\/jurnal.unigal.ac.id\/index.php\/artefak\/article\/view\/3203",
+      "userid": 2784,
+      "publication": "Artefak",
+      "full_text_status": "public",
+      "type": "article",
+      "date": "2020-09",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 24287,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24287",
+      "datestamp": "2020-10-14 04:08:05",
+      "abstract": "In Karl Marx’s view, the economic activity of society is the basis as a driving factor for historical movement. Marx revealed that the historical movement occurred because of the conflict of social classes in society. The social class is a pattern of historical movement. The method used is a historical method that includes heuristics, critics, interpretation and historiography. This article addressed three main problems, the movement of human activity as a pattern of historical movement, the basic foundation of philosophy as a driving force, and the ultimate goal of historical movement.",
+      "volume": 7,
+      "eprint_status": "archive",
+      "publisher": "Universitas Galuh",
+      "lastmod": "2020-10-14 04:08:05",
+      "title": "GERAK LAJU SEJARAH DALAM PANDANGAN FILSAFAT KARL MARX",
+      "date_type": "published",
+      "issn": "2580-0027",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suparman",
+            "lineage": null,
+            "given": "Arif"
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Adi Pratama",
+            "family": "Rinaldo",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Yusuf Perdana",
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "number": 2,
+      "refereed": "FALSE",
+      "metadata_visibility": "show"
+    },
+    {
+      "title": "Gerakan Feminisme Fujinkai dalam Perspektif Sejarah Perjuangan\r\nPerempuan di Indonesia",
+      "lastmod": "2022-12-19 10:08:03",
+      "publisher": "Universitas Hamzanwadi",
+      "eprint_status": "archive",
+      "issn": "2549-5585",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "suparman.arif@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Suparman",
+            "lineage": null,
+            "given": "Arif"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana",
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "number": 1,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprintid": 47321,
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47321",
+      "divisions": [
+        "FKIP24"
+      ],
+      "volume": 6,
+      "abstract": "Kekalahan Belanda atas kekuasaannya di daerah jajahan mengakhiri praktik\r\nkolonialisme dan imperialisme ala barat. Namun, hal itu tidak serta merta membuat Indonesia\r\nlangsung merdeka dan merdeka begitu saja. Pada masa pemerintahan Jepang, berbagai bentuk\r\npropaganda diperkenalkan, salah satunya adalah Fujinkai yang dibuat pada awal pendudukan\r\nJepang di Indonesia. Fujinkai menjadi organisasi wanita, yang secara signifikan menaungi\r\nsemua aktivitas wanita saat itu. Penelitian ini bertujuan untuk mengkaji gerakan feminisme\r\nFujinkai dari perspektif sejarah perjuangan perempuan di Indonesia. Pada saat yang sama, ada\r\njuga barisan pendukung yang ikut serta dalam tantara Jepang. Metode yang digunakan dalam\r\npenelitian ini adalah metode sejarah yang terdiri dari 5 tahap: penentuan topik, pengumpulan\r\nsumber (heuristik), kritik sumber, interpretasi, dan penulisan (historiografi). Hasil penelitian\r\nini antara lain melihat peran Fujinkai dalam sejarah perjuangan perempuan Indonesia di\r\nbidang pendidikan dan kegiatan sosial, menjalin hubungan dengan Jepang dalam bidang seni\r\ndan kebajikan, serta mengasah ilmu pengetahuan dan pelatihan keterampilan.\r\nKata Kunci: Fujinkai; gerakan perempuan; perjuangan perempuan",
+      "datestamp": "2022-12-19 10:08:03",
+      "contributors": [
+        {
+          "id": "suparman.arif@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suparman",
+            "given": "Arif"
+          }
+        },
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Yusuf",
+            "lineage": null,
+            "given": "Perdana"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publication": "Fajar Historia",
+      "full_text_status": "public",
+      "userid": 2779,
+      "date": "2022-06-14",
+      "type": "article",
+      "documents": [
+          {
+            "main": "Gerakan Feminisme Fujinkai dalam Perspektif Sejarah Perjuangan.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "5d1c5c5a9f08224fe082ebb7af595083",
+                  "datasetid": "document",
+                  "objectid": 186332,
+                  "filename": "Gerakan Feminisme Fujinkai dalam Perspektif Sejarah Perjuangan.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 341226,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519353",
+                  "fileid": 519353,
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-19 07:33:10"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186332",
+            "format": "text",
+            "docid": 186332,
+            "language": "en",
+            "eprintid": 47321,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "status_changed": "2022-12-19 10:08:03",
+      "pagerange": "87-97",
+      "official_url": "https:\/\/e-journal.hamzanwadi.ac.id\/index.php\/fhs\/article\/view\/5145",
+      "rev_number": 6,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/73\/21"
+    },
+    {
+      "publication": "Sosial Horizon: Jurnal Pendidikan Sosial",
+      "userid": 2784,
+      "full_text_status": "public",
+      "date": "2019-12-31",
+      "type": "article",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 17903,
+            "docid": 31029,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/31029",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "8. Sosial Horizon, Vol 6 No. 2 2019.pdf",
+            "files": [
+                {
+                  "hash": "fda19fd1f7bf1580dbd2a2c93db0be67",
+                  "mime_type": "application\/pdf",
+                  "filename": "8. Sosial Horizon, Vol 6 No. 2 2019.pdf",
+                  "objectid": 31029,
+                  "datasetid": "document",
+                  "fileid": 150777,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/150777",
+                  "filesize": 371631,
+                  "hash_type": "MD5",
+                  "mtime": "2020-02-05 07:56:27"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "pagerange": "338-354",
+      "status_changed": "2020-02-17 03:49:27",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/79\/03",
+      "rev_number": 6,
+      "eprint_status": "archive",
+      "publisher": "LPPM IKIP PGRI Pontianak",
+      "lastmod": "2020-02-17 03:49:27",
+      "title": "Kadipaten Gunung Polisi: Upaya Belanda Dalam Menguasai Tanah Kasunanan Surakarta Pada Abad Ke-19",
+      "issn": "2407-5299",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "henry.susanto@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Susanto",
+            "lineage": null,
+            "given": "Henry"
+          }
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "number": 2,
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 17903,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/17903",
+      "datestamp": "2020-02-17 03:49:27",
+      "related_url": [
+        {
+          "url": "http:\/\/journal.ikippgriptk.ac.id\/index.php\/sosial\/article\/view\/1291"
+        }
+      ],
+      "abstract": "This research aims to reconstruct historical events regarding Dutch colonialism in Kasunanan Surakarta in the 19th century, in the context of the problem of why and how the Dutch colonial government controlled the Kasunanan Surakarta. The research method used in this research is a historical research method which includes the steps: heuristics, criticism, interpretation, and historiography. The framework used is that the Kasunanan Surakarta region controled by the Dutch colonial government was assumed in the framework of the Dutch colonial government's efforts\r\nto sustain the success of the commercial plantation industry in the Kasunanan Surakarta in the 19th century. The establishment of the tundan post was followed by the formation of the Kadipaten Gunung Polisi as a way for the Dutch to control the lands belonging to the Kasunanan Surakarta and to inculcate their political influence in the former Kingdom of Mataram II.",
+      "volume": 6
+    },
+    {
+      "status_changed": "2023-01-11 10:27:57",
+      "official_url": "http:\/\/journal.unj.ac.id\/unj\/index.php\/jps\/article\/view\/25709\/13610",
+      "rev_number": 6,
+      "dir": "disk0_bak\/00\/04\/77\/36",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186829",
+            "format": "text",
+            "language": "en",
+            "eprintid": 47736,
+            "docid": 186829,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "25709-Article Text-83245-1-10-20221031.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2023-01-11 10:16:29",
+                  "hash_type": "MD5",
+                  "filesize": 627365,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/522712",
+                  "fileid": 522712,
+                  "objectid": 186829,
+                  "datasetid": "document",
+                  "filename": "25709-Article Text-83245-1-10-20221031.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "10f222d11ba79b3ebe54876b3489f256"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "type": "article",
+      "publication": "Jurnal Pendidikan Sejarah",
+      "full_text_status": "public",
+      "userid": 2784,
+      "volume": 11,
+      "datestamp": "2023-01-11 10:27:57",
+      "abstract": "The revolutionof independenceperiod was a time when the Indonesian people fought to  maintain  independence.  At  this  time  the  Indonesian  people  were  faced  with  two  choices  in defending  Indonesian  independence,  namely  by  physically  fighting  through  military  actions  or negotiating  through  diplomatic.  During  the  revolution,  newspapers  had  an  important  role because they were able to voice their views, attitudes, and stances firmly and frontally to a wide audience  in  response  to  events  in  Indonesia  after  the  beginning  of  independence.  At  the beginning  of  the  Indonesian  revolution,  there  were  already  many  press  media,  both  circulating nationally  and  locally.  At  the  time  of  the  revolution  the  national  press  can  be  categorized  into two, namely the revolutionary national press and thecounter-revolutionary national press. The purpose of this study is to find out about the pros and cons that occurred in the national press in an  effort  to  maintain  independence  during  the  Indonesian  revolution.  The  method  used  in  this study  is  a  historical  research  method  with  data  collection  techniques  using  documentation techniques  and  literature  techniques.  Contemporaneous  newspapers  as  primary  sources  used  in this study were the newspapers Merdeka, Warta Indonesia, Lasjkar, and Kedaulatan Rakjat. The results   showed   that   the   revolutionary   national   press   wanted   to   maintain   Indonesian independence  by  fighting  and  the  counter-revolutionary  national  press  wanted  to  maintain Indonesian  independence  by  negotiating.  The  two  presses  competed  with  each  other  to  rally public  opinion  in  making  decisions  to  defend  Indonesian  independence  through  various  rubrics and opinions published in their newspapers",
+      "eprintid": 47736,
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47736",
+      "divisions": [
+        "FKIP24"
+      ],
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "family": "Susanto",
+            "lineage": null,
+            "given": "Henry",
+            "honourific": null
+          },
+          "id": "henry.susanto@fkip.unila.ac.id"
+        },
+        {
+          "id": "rinaldo@fkip.unila.ac.id",
+          "name": {
+            "given": "Rinaldo Adi",
+            "lineage": null,
+            "family": "Pratama",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2023-01-11 10:27:57",
+      "title": "Revolusi Indonesia dalam Perspektif Pro dan Kontra Pers Nasional Periode Pasca Proklamasi hingga Tercapainya Pengakuan Kedaulatan",
+      "publisher": "Program Magister Pendidikan Sejarah",
+      "eprint_status": "archive",
+      "issn": "2301-461x"
+    },
+    {
+      "issn": "2435-0184",
+      "lastmod": "2023-01-25 06:21:10",
+      "metadata_visibility": "show",
+      "referencetext": "Aspinall, E. 2005. The Helsinki Agreement: A More Promising Basis for Peace in Aceh? Policy Studies 20.\r\n\r\nKingsbury, D. 2010. 8. The Aceh Peace Process. In A. Graf, S. Schroter, and E. P. Wieringa (eds.). Aceh: History,\r\nPolitics and Culture (pp. 135-154), Singapore: ISEAS Publishing",
+      "creators": [
+        {
+          "id": "arizka.warganegara@fisip.unila.ac.id",
+          "name": {
+            "given": "Arizka",
+            "family": "Warganegara",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "divisions": [
+        "FISIP5"
+      ],
+      "eprintid": 47997,
+      "abstract": "This book offers a variety of interesting narratives about the Acehnese struggle to end the\r\nprolonged conflict in the province. The conflict is a complicated and deep-rooted issue, and during the\r\nNew Order era between 1968 and 1998, there was a great deal of tension between the local activists\r\nrepresented by GAM and the Indonesian Central Government under Suharto’s regime. This prolonged\r\nconflict occurred as a result of both groups having different perspectives on particular issues such as\r\nthe implementation of Sharia law and the distribution of natural resources between the local and\r\ncentral governments. Under Suharto, the Indonesian Government believed that GAM was an\r\ninsurgency movement that aimed to separate Aceh from Indonesia. Conversely, GAM felt that the\r\nSuharto regime was too oppressive after its decision to establish a military operational zone in the\r\nprovince.",
+      "datestamp": "2023-01-25 06:21:10",
+      "volume": 4,
+      "publication": "Merawat Ingatan: Biografi Perintis Jalan Damai Aceh (Keeping Memory Alive: Short Biographies of Aceh Peace Negotiators) Volume 1",
+      "documents": [
+          {
+            "docid": 187163,
+            "eprintid": 47997,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/187163",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "ASIA JAPAN RITSUMEIKAN_WARGANEGARA.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "a86d2b4e5eb9da7845fb90b89db005e0",
+                  "filename": "ASIA JAPAN RITSUMEIKAN_WARGANEGARA.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 187163,
+                  "datasetid": "document",
+                  "fileid": 524953,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/524953",
+                  "filesize": 137872,
+                  "hash_type": "MD5",
+                  "mtime": "2023-01-25 03:16:14"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/04\/79\/97",
+      "official_url": "https:\/\/www.ritsumei.ac.jp\/research\/aji\/publication\/journal\/",
+      "status_changed": "2023-01-25 06:21:10",
+      "pagerange": "201-202",
+      "date_type": "published",
+      "projects": [
+        "xxx"
+      ],
+      "eprint_status": "archive",
+      "publisher": "Asia-Japan Research Institute of Ritsumeikan University",
+      "title": "BOOK REVIEW: Merawat Ingatan: Biografi Perintis Jalan Damai Aceh (Keeping Memory Alive: Short Biographies of Aceh Peace\r\nNegotiators) Volume 1",
+      "refereed": "TRUE",
+      "funders": [
+        "xxx"
+      ],
+      "note": "xxxx",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47997",
+      "subjects": [
+        "D1",
+        "G1",
+        "H1",
+        "JA"
+      ],
+      "related_url": [
+        {
+          "url": "https:\/\/www.ritsumei.ac.jp\/research\/aji\/publication\/journal\/"
+        }
+      ],
+      "keywords": "xxxx",
+      "userid": 570,
+      "full_text_status": "public",
+      "contact_email": "arizka.warganegara@fisip.unila.ac.id",
+      "type": "article",
+      "date": "2022-11-04",
+      "rev_number": 9
+    },
+    {
+      "event_type": "conference",
+      "pres_type": "paper",
+      "event_location": "Bandar Lampung",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/185128",
+            "format": "text",
+            "docid": 185128,
+            "language": "en",
+            "eprintid": 46240,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Prosiding Semnas Rinaldo_Implementasi Sakai Sambayan.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 185128,
+                  "filename": "Prosiding Semnas Rinaldo_Implementasi Sakai Sambayan.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "137c7117af3cc490dcfc31a479e68bde",
+                  "mtime": "2022-11-03 12:29:05",
+                  "hash_type": "MD5",
+                  "filesize": 1570706,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/511016",
+                  "fileid": 511016
+                }
+            ]
+          }
+      ],
+      "rev_number": 7,
+      "dir": "disk0\/00\/04\/62\/40",
+      "ispublished": "pub",
+      "status_changed": "2022-11-04 08:28:37",
+      "pagerange": "97-103",
+      "userid": 2784,
+      "full_text_status": "public",
+      "date": "2022-08",
+      "type": "conference_item",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/46240",
+      "event_title": "Seminar Nasional Pendidikan Sejarah",
+      "divisions": [
+        "FKIP24"
+      ],
+      "eprintid": 46240,
+      "subjects": [
+        "D1"
+      ],
+      "datestamp": "2022-11-04 08:28:37",
+      "abstract": "Masyarakat etnis Lampung terdiri dari dua golongan yaitu Pepadun dan Saibatin. dua golongan etnis ini sama-sama mengenal adanya pedoman hidup yang disebut dengan Piil Pesenggiri yang didalamnya terdapat komponen yang dikenal dengan sakai sambayan dalam Pepadun dan khepot delom mufakat sebutan bagi Lampung Saibatin. walaupun berbeda dalam penamaan namun inti dari kedua yaitu sama. Bahwa manusia tidak akan dapat melaksanakan pekerjaannya seorang diri dan akan membutuhkan bantuan dari individu lainnya. Terjadinya sakai sambayan selain manusia yang tidak dapat mengerjakan semua seorang diri juga dengan adanya sakai sambyan maka akan terciptamya hubungan sosial yang baik terhadap sesama dengan dibalut konsep kebudayaan. Pada masyarakat etnis Lampung. Pepadun mengenal adanya upacara begawi yang merupakan salah satu kebudayaan etnis Lampung dengan tujuan untuk mendapatkan gelar. Pada upacara begawi terdapat beragam rangkaian acara yang pastinya tidak dapat dilaksanakan sendiri maka seseorang yang akan melaksanakan gawi membutuhkan bantuan dari seseornag untuk mensukseskan sebuah acaranya yang disebut tolong menolong, gotong royong atau dalam budaya Lampung disebut sakai sambayan. Sakai sambayan memiliki nilai-nilai sosial diantaranya nilai kebersamaan, kesetiakawanan, keikhlasan. Pada Tiyuh Karta Kecamatan Tulang Bawang Udik, Kabupaten Tulang Bawang Barat masyarakatnya menganut golongan Pepadun yang menggunakan dialek O. Tiyuh ini juga masih melestarikan kegiatan-kegiatan adat yaitu Begawi yang membutuhkan sakai sambayan dalam melaksanakannya",
+      "event_dates": "24 Maret 2022",
+      "date_type": "published",
+      "lastmod": "2022-11-04 08:28:37",
+      "title": "IMPLEMENTASI SAKAI SAMBAYAN DALAM UPACARA BEGAWI ADAT LAMPUNG PADA MASYARAKAT TIYUH KARTA KECAMATAN TULANGBAWANG UDIK KABUPATEN TULANG BAWANG BARAT",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "henitriwulandari6301@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Wulandari",
+            "lineage": null,
+            "given": "Heni Tri"
+          }
+        },
+        {
+          "name": {
+            "given": "Suparman",
+            "family": "Arif",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Rinaldo Adi",
+            "family": "Pratama",
+            "lineage": null
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "event_type": "conference",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "PROSIDING SEMINAR SEJARAH.pdf",
+                  "objectid": 186305,
+                  "datasetid": "document",
+                  "hash": "59eb7890802f325b27c19dda1fdfde7f",
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-19 05:28:43",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519190",
+                  "fileid": 519190,
+                  "filesize": 4797341
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "PROSIDING SEMINAR SEJARAH.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 186305,
+            "eprintid": 47308,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186305"
+          }
+      ],
+      "dir": "disk0\/00\/04\/73\/08",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "pagerange": "69-78",
+      "status_changed": "2022-12-19 07:19:59",
+      "userid": 2779,
+      "full_text_status": "public",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusuf",
+            "given": "Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "type": "conference_item",
+      "date": "2022-08-20",
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47308",
+      "event_title": "Prosiding Seminar Nasional Pendidikan Sejarah Universitas Lampung 2022",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 47308,
+      "datestamp": "2022-12-19 07:19:59",
+      "abstract": "Penelitian ini memiliki tujuan untuk menganalisis nilai-nilai karakter yang terdapat dalam\r\nlakon Banjaran Bima yang diintegrasikan dengan pembelajaran sejarah lokal Lampung untuk\r\nmengatasi Learning Loss yang terjadi akibat memudarnya nilai-nilai karakter peserta didik pasca\r\npandemi. Pembelajaran daring yang telah diterapkan sejak adanya pandemi berakibat pada minat\r\nbelajar peserta didik yang semakin menurun. Hal ini tentu saja merupakan dampak yang kurang baik\r\nbagi keberlangsungan pembelajaran bagi peserta didik. Maka dari itu dibutuhkan suatu solusi yang\r\nmampu mengatasi permasalahan ini. Metode yang digunakan dalam penelitian ini adalah metode\r\nkualitatif dengan pendekatan etnografi. Hasil penelitian menyatakan bahwa minat belajar peserta\r\ndidik mengalami penurunan di masa pasca pandemi akademik baik pengetahuan maupun\r\nketerampilan. Hal ini berakibat pada hasil belajar yang tidak maksimal. Oleh karenanya diperlukan\r\nupaya penanaman nilai-nilai karakter yang dapat membangkitkan semangat belajar dalam diri peserta\r\ndidik yaitu dengan mengintegrasikan nilai-nilai karakter yang terdapat dalam lakon Banjaran Bima\r\ndengan pembelajaran Sejarah Lokal Lampung. Lakon Banjaran Bima sendiri memiliki nilai-nilai\r\nkarakter yang dapat diteladani oleh peserta didik sehingga mampu membangkitkan sikap karakter\r\nyang baik. Melalui gagasan ini peserta didik dapat memahami dan mengambil nilai-nilai karakter\r\nlakon Banjaran Bima yang terdapat dalam situs-situs bersejarah di Lampung di antara yakni sikap\r\ndisiplin, tanggung jawab, peduli sosial, dan kerja keras sehingga akan menumbuhkan minat belajar\r\ndan meningkatkan prestasi belajar peserta didik.\r\nKata Kunci: Character Education, Banjaran Bima, Sejarah",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "lastmod": "2022-12-19 07:19:59",
+      "title": "INTERNALISASI KARAKTER DISIPLIN LAKON BANJARAN BIMA\r\nSEBAGAI UPAYA MENGATASI LEARNING LOSS PADA\r\nPEMBELAJARAN SEJARAH LOKAL LAMPUNG PASCA PANDEMI",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "referencetext": "Amboro, K. (2019). Kontekstualisasi Pandemi Covid-19 dalam Pembelajaran Sejarah. Jurnal\r\nYupa: Historical Studies Journal, 3(2), 90-106.\r\nAndriani, W., dkk. (2021). Learning Loss dalam Pembelajaran Daring di Masa Pandemi\r\nCorona. Seminar Nasional Teknologi Pembelajaran. Universitas Negeri Malang.\r\nArifin, Muh. Z. (2020). Nilai Moral Karya Sastra Sebagai Alternatif Pendidikan Karakter\r\n(Novel Amuk Wisanggeni Karya Suwito Sarjono). Jurnal Lentera:Jurnal Pendidikan\r\ndan Pengajaran Bahasa Indonesia, 3(2), 3-10.\r\nArjun, R.D., & Basri, W. (2021). Problematika Pembelajaran Sejarah Di SMA Negeri 2\r\nRambatan Pada Masa Pandemi Covid-19. Jurnal Kronologi, 3(4), 193-2018.\r\nAssiddiqi, D. R., & Soeryanto (2021). Peluang Menurunnya Capaian Hasil Belajar (Learning\r\nLoss) Dan Alternatif Solusinya: Kajian Kasus Pembelajaran Online di Era Pandemi\r\nCovid-19 Di Jurusan Teknik Mesin Unesa. JPTM, 10 (3), 47-54.\r\nBudi, S., dkk. (2021). Deteksi Potensi Learning Loss Pada Siswa Berkebutuhan Khusus\r\nSelama Pembelajaran Daring Masa Pandemi Covid-19 di Sekolah Inklusif. Jurnal\r\nBasicedu, 5(5), 3607-3613.\r\nDwijonagoro, Suwarna dkk. (2019). Pendidikan Karakter Dalam Lakon Banjaran Bima\r\nDan Implikasinya Dalam Pendidikan. Jurnal Pendidikan Karakter, 9(2), 133-151.\r\nDwijonagoro, Suwarna dkk. (2019). Pendidikan Karakter Dalam Lakon Banjaran Bima\r\nDan Implikasinya Dalam Pendidikan. Jurnal Pendidikan Karakter. 9(2), 133-151.\r\nHarahap, Aridin S. (2019). Teknik Wawancara Bagi Reporter dan Moderator di Televisi.\r\nJurnal Komunikasi, 16(1), 1-6.\r\nKaffenberger, M. (2021). Modelling the long-run learning impact of the Covid-19\r\nlearning shock: Actions to (more than) mitigate loss. International Journal of\r\nEducational Development, 81, 102-326.\r\nKathryn, E. (2016). Multi-Episode Constructions. Dissertation: Universiteit Leiden.\r\nKuswono, K., Hartati, U., Amboro, K., & Mujiyati, N. (2019). Metro Tempo Dulu:\r\nSejarah Metro era Kolonisasi 1935-1942. Pendidikan Sejarah UM Metro.\r\nMaulyda, M.A, Erfan, M & Hidayati, V.R. (2021). Analisis Situasi Pembelajaran Selama\r\nPandemi Covid-19 Di SDN Senurus:Kemungkinan Terjadinya Leraning Loss.\r\nCollase:Creative of Learning Students Elemnatry Education Jurnal of Elemntary\r\nEducation, 4(3), 386-390.\r\nMutiani, dkk. (2020). Membangun Komunitas Belajar Melalui Lesson Study Model\r\nTranscript Based Learning Analysis. Jurnal Pendidik dan Peneliti Sejarah,\r\n3(2),113-122.\r\nNaredi, H. 2020. Pembelajaran Sejarah Berbasis Sejarah Lokal Banten dan Kaitannya\r\ndengan Toleransi Beragama (Studi Kasus: Masjid Agung Banten dan Vihara\r\nAvalokitesvara). Jurnal Candrasangkala, 6 (1), 22-23.\r\nPratiwi, N. I. 2017. Penggunaan Media Vidio Call dalam Teknologi Komunikasi. Jurnal\r\nIlmiah Dinamika Sosial, 1(2), 212-213.\r\nPratiwi, W. D. 2021. Dinamika Learning Loss: Guru dan orang Tua. Jurnal Edukasi\r\nNonformal, 2 (1), 147-153.Rahmat, P. S. 2009. Penelitian Kualitatif. Jurnal\r\nEquilibrium, 5 (9), 507-612.\r\nPutra, M. S. (2020). Selama Belajar Online, Peserta didik Lebih Banyak Bermain Game.\r\nKalimantaan: Telisik Indoesia. (Selasa 5 April 2022), hal 1.\r\nRahman, Novri. (2019). Nilai Karakter Syair Lagu Gitar Tunggal Lampung Pesisir.\r\nSkripsi. Universitas Lampung.\r\nSiska, Y. 2015. Analisis Kebutuhan Bahan Ajar Sejarah Lokal Lampung untuk Sekolah\r\nDasar. Jurnal Mimbar Sekolah Dasar, 2(2), 199-211.\r\nSukardi, T. (2011). Tinjauan Kritis Mengenai Pembelajaran Sejarah. Khazanah\r\nPendidikan, 3(2), 1-22.\r\nTas’au, P.R. (2016). Pelestarian Budaya Tenun Buna dalam Mengembangkan Ekonomi\r\nKerakyatan (Studi Etnografi Masyarakat Adat Sonaf Maubes) National Conference On Economic Education. Disertasi. Program Pascasarjana Universitas Negeri,\r\nMalang.\r\nVerrysaputro, Exwan A dkk. (2020). Nilai Pendidikan Karakter Pada Lakon Cerita\r\nWayang Sumantri Ngenger Oleh Ki Manteb Soedharsono Untuk Siswa Sekolah\r\nDasar Kelas Rendah. Jurnal Elementary School, 7, 312-317.\r\nWibowo, AM. 2016. Pengembangan Model Pembelajaran Sejarah Lokal di SMA Kota\r\nMadiun. Jurnal Agastya, 6(1), 86-97.\r\nWijaya, H. (2018). Analisis Data Kualitatif Model Spradley (Etnografi).\r\nhttps:\/\/core.ac.uk\/download\/pdf\/287061605.pdf. Diakses tanggal 12 Maret 2021.\r\nWindiani. (2016). Menggunakan Metode Etnografi dalam Penelitian Sosial. Jurnal\r\nDimensi, 9(2),90-95.\r\nZayyadi, M. (2017). Eksplorasi Etnomatika pada Batik Madura. Jurnal Sigma, 2(2):36-\r\n40.",
+      "creators": [
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "given": "Yusuf Perdana",
+            "family": "Yusuf Perdana",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188233",
+            "language": "en",
+            "eprintid": 48814,
+            "docid": 188233,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "Implementasi Nilai-Nilai Piil Pesenggiri Sebagai Pencegahan Degradasi.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2023-03-06 11:11:56",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531593",
+                  "fileid": 531593,
+                  "filesize": 208481,
+                  "mime_type": "application\/pdf",
+                  "filename": "Implementasi Nilai-Nilai Piil Pesenggiri Sebagai Pencegahan Degradasi.pdf",
+                  "datasetid": "document",
+                  "objectid": 188233,
+                  "hash": "06e4ec8ff7dfea2b0313b7e2b031b8e2"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "status_changed": "2023-03-07 02:25:39",
+      "pagerange": "231-245",
+      "dir": "disk0_bak\/00\/04\/88\/14",
+      "ispublished": "pub",
+      "official_url": "https:\/\/journal.ikippgriptk.ac.id\/index.php\/sosial\/article\/view\/3857",
+      "rev_number": 7,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Yusuf",
+            "lineage": null,
+            "given": "Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "publication": "Sosial Horizon: Jurnal Pendidikan Sosial",
+      "full_text_status": "public",
+      "userid": 2779,
+      "date": "2022-12-16",
+      "type": "article",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 48814,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48814",
+      "datestamp": "2023-03-07 02:25:39",
+      "abstract": "Tujuan penelitian ini adalah untuk mengetahui bagaimanakah nilai-nilai local\r\nwisdom masyarakat suku Lampung yang disebut Piil Pesenggiri dapat menjadi\r\nacuan moral, etika, dan pandangan hidup yang dinamis untuk dapat menjawab\r\ntantangan budaya asing dalam proses transformasi sosial dan budaya di era 5.0.\r\nMetode penelitian yang digunakan adalah metode kualitatif, dengan teknik\r\npengumpulan data obeservasi dan wawancara. Teknik analisis data terdiri dari\r\nreduksi data, penyajian data, dan penarikan kesimpulan. Hasil dari penelitian ini\r\nadalah faktor-faktor yang menyebabkan terjadinya degradasi sosiokultural yaitu,\r\npembangunan ekonomi, kebutuhan masyarakat, pembangunan dan perubahan\r\nsosial, dan globalisasi dapat dicegah dengan mengimplementasikan nilai-nilai\r\nlocal wisdom masyarakat suku Lampung yaitu Piil Pesenggiri yang berupa Nemui\r\nNyimah, Nengah Nyappur, Sakai Sambayan, dan Bejuluk Beadok. Nilai-nilai\r\ntersebut dapat menjadi acuan hidup di era industri 5.0 yang dijadikan sebagai\r\nsuatu sudut pandang atau stereotip serta sebagai modal budaya dan strategi\r\nidentitas kehidupan sehari-hari.",
+      "volume": 9,
+      "eprint_status": "archive",
+      "publisher": "LPPM IKIP PGRI Pontianak",
+      "title": "Implementasi Nilai-Nilai Piil Pesenggiri Sebagai Pencegahan Degradasi Sosiokultural di Era Revolusi Industri 5.0",
+      "lastmod": "2023-03-07 02:25:39",
+      "issn": "2407-5299",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "given": "Yusuf Perdana",
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "number": 2,
+      "metadata_visibility": "show",
+      "refereed": "TRUE"
+    },
+    {
+      "event_type": "conference",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 186306,
+            "language": "en",
+            "eprintid": 47309,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186306",
+            "format": "text",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "59eb7890802f325b27c19dda1fdfde7f",
+                  "datasetid": "document",
+                  "objectid": 186306,
+                  "mime_type": "application\/pdf",
+                  "filename": "PROSIDING SEMINAR SEJARAH.pdf",
+                  "filesize": 4797341,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519201",
+                  "fileid": 519201,
+                  "mtime": "2022-12-19 05:38:48",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "PROSIDING SEMINAR SEJARAH.pdf"
+          }
+      ],
+      "dir": "disk0\/00\/04\/73\/09",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "status_changed": "2022-12-19 07:20:01",
+      "pagerange": "157-163",
+      "userid": 2779,
+      "full_text_status": "public",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Perdana",
+            "family": "Yusuf",
+            "lineage": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "date": "2022-08-20",
+      "type": "conference_item",
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47309",
+      "event_title": "Prosiding Seminar Nasional Pendidikan Sejarah Universitas Lampung 2022",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 47309,
+      "abstract": "Microsoft paint adalah program aplikasi yang diperuntukan untuk menggambar\/melukis.\r\nTujuan dari penulisan karya tulis ilmiah ini adalah untuk menyelidiki bagaimanakah peran atau\r\npengaruh Microsoft Paint dalam mendukung proses menciptakan kolaborasi media pengajaran mind\r\nmapping dalam pembelajaran sejarah kebudayaan islam di era pandemi covid-19. Penulisan ini\r\nmerupakan penulisan kepustakaan. Sumber data diambil dari jurnal nasional dan internasional, buku\r\nteks Indonesia dan asing. Hasil dari penulisan ini menunjukkan bahwa Microsoft Paint dapat\r\ndigunakan dalam menciptakan kolaborasi media pengajaran dalam mind mapping karena memiliki\r\nfitur lengkap dan dapat membuat gambar yang bagus dan terperinci. Dengan diterapkannya metode\r\nmind mapping berbasis microsoft paint di era pandemi dalam pembelajaran sejarah kebudayaan islam\r\nini sangat berpengaruh dan berkembang dengan baik bagi peserta didik yang dimana dengan hanya\r\nbermodal gambar digital dari microsoft paint, metode mind mapping dapat menumbuhkan imajinasi\r\npeserta didik bertambah akan pelajaran sejarah kebudayaan islam di era pandemi covid-19.\r\nKata Kunci : Microsoft Paint, Mind Mapping, Sejarah Kebudayaan Islam.",
+      "datestamp": "2022-12-19 07:20:01",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "lastmod": "2022-12-19 07:20:01",
+      "title": "MIND MAPPING SEBAGAI INOVATIVE LEARNING BERBASIS\r\nMICROSOFT PAINT DALAM PEMBELAJARAN SEJARAH\r\nKEBUDAYAAN ISLAM ERA PANDEMI COVID-19",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana"
+          }
+        }
+      ]
+    },
+    {
+      "abstract": "This study aims to determine the implementation of the Cultuurstelsel period in Semangka Baai.\r\nSemaka Baai is an area that is used to shape the politics and economy of the Cultuurstelsel era, which\r\nis located near the port of Kota Agung. Semangka Baai is one of the implementation areas for\r\nCultuurstelsel in the from of pepper plantations managed by Europeans and is the canter of pepper\r\ncultivation in Lampung. In 1914 Lampung was able to produce 13,207 tons of pepper for the Dutch East\r\nIndies and one of the largest pepper producers in Lampung came from Semangka Baai. However,\r\nbehind the historical facts that were owned by the Semangka Baai area at the time of the\r\nimplementation of the Cultuurstelsel period, many indigenous people of Semangka Baai or now Known\r\nas Semaka did not know more about the historical journey of the glory of pepper plantations as the\r\nmain commodity in the Lampung residency. The method used in this research is the historical method\r\nwith heuristic stages by collecting data sources, verifying or investigating the data, interpretation by\r\nestablishing meaning and interrelation with the facts obtained, and historiography by rewriting the\r\ndata obtained. The results of this study provide an explanation that the Cultuurstelsel period had been\r\napplied in Lampung, especially in the Teluk Semangka area as evidenced by the many plantations that\r\nwere mostly managed by Europeans and even became the center of pepper cultivation in Lampung. In\r\naddition, Nederlandsche Bestuur or Dutch governance in Semangka Baai has an influence on people’s\r\nlives in Semangka Baai, such as settlement conflicts, robbers, to social and cultural influences.",
+      "datestamp": "2022-12-19 07:20:03",
+      "volume": 1,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47311",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 47311,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "given": "Yusuf Perdana",
+            "family": "Yusuf Perdana",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "issn": "2961-8770",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Asian Journal of Humanities and Culture Research",
+      "title": "Nederlandsche bestuur during culturstelsel at the Semangka Baai",
+      "lastmod": "2022-12-19 07:20:03",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/73\/11",
+      "official_url": "https:\/\/lighthouse-pub.com\/ajhcr\/article\/view\/67\/55",
+      "rev_number": 6,
+      "status_changed": "2022-12-19 07:20:03",
+      "pagerange": "13-18",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186313",
+            "format": "text",
+            "eprintid": 47311,
+            "language": "en",
+            "docid": 186313,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Nederlandsche bestuur during culturstelsel at the Semangka Baai.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2022-12-19 06:09:04",
+                  "hash_type": "MD5",
+                  "fileid": 519232,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519232",
+                  "filesize": 583919,
+                  "filename": "Nederlandsche bestuur during culturstelsel at the Semangka Baai.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 186313,
+                  "datasetid": "document",
+                  "hash": "ff059c013109125f9d0c3fa83d46bd21"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "type": "article",
+      "date": "2022-07-27",
+      "publication": "Nederlandsche bestuur during culturstelsel at the Semangka Baai",
+      "full_text_status": "public",
+      "userid": 2779,
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Perdana",
+            "lineage": null,
+            "family": "Yusuf"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ]
+    },
+    {
+      "issn": "2961-8770",
+      "date_type": "published",
+      "publisher": "https:\/\/lighthouse-pub.com\/",
+      "eprint_status": "archive",
+      "lastmod": "2023-03-06 09:59:23",
+      "title": "Repong damar as a mitigation effort for the ulun saibatin landslide disaster in the regency of Pesisir Barat",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Yusuf Perdana",
+            "lineage": null,
+            "family": "Yusuf Perdana"
+          }
+        }
+      ],
+      "number": 1,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48808",
+      "subjects": [
+        "D1"
+      ],
+      "eprintid": 48808,
+      "datestamp": "2023-03-06 09:59:23",
+      "abstract": "The background of this research is that Pesisir Barat Regency is prone to landslides, so that\r\nlandslide disaster mitigation efforts are needed using the local wisdom of Repong Damar. The\r\npurpose of this study was to determine the role of Repong Damar in landslide disaster mitigation.\r\nThe method used in this study is a qualitative method with a descriptive approach. The results of\r\nthe study describe Repong Damar's role in landslide disaster mitigation efforts includes the role of\r\nthe canopy as a water reservoir, thereby reducing the amount of rainwater that reaches the\r\nground. The second role is that large roots will have a grip on the soil which can reduce the\r\npossibility of soil movement and increase the shear strength of the soil. The third role,\r\nevapotranspiration plays a role in reducing soil saturation, so that water does not accumulate in\r\nthe impermeable layer. The existence of Repong Damar will minimize the occurrence of erosion,\r\nbecause Repong Damar has woody trees that have strong roots such as damar, duku, petai,\r\njengkol, teak and durian trees.",
+      "volume": 1,
+      "publication": "Asian Journal of Humanities and Culture Research",
+      "userid": 2779,
+      "full_text_status": "public",
+      "contributors": [
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Perdana",
+            "lineage": null,
+            "family": "Yusuf"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "type": "article",
+      "date": "2022-11-13",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "objectid": 188224,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Repong damar as a mitigation effort for the ulun saibatin landslide disaster in the.pdf",
+                  "hash": "c2335ece6f43f12f35837acf0525a8eb",
+                  "mtime": "2023-03-06 09:49:22",
+                  "hash_type": "MD5",
+                  "filesize": 961475,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/531536",
+                  "fileid": 531536
+                }
+            ],
+            "main": "Repong damar as a mitigation effort for the ulun saibatin landslide disaster in the.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188224",
+            "format": "text",
+            "docid": 188224,
+            "eprintid": 48808,
+            "language": "en"
+          }
+      ],
+      "dir": "disk0_bak\/00\/04\/88\/08",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "official_url": "https:\/\/lighthouse-pub.com\/ajhcr\/index",
+      "status_changed": "2023-03-06 09:59:23",
+      "pagerange": "40-49"
+    },
+    {
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "given": "Yusuf Perdana",
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "honourific": null
+          }
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "given": "Adi Pratama",
+            "family": "Rinaldo",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "lastmod": "2023-07-31 09:40:00",
+      "title": "Sejarah Pergerakan Nasional Indonesia",
+      "publisher": "Penerbit Lakeisha",
+      "eprint_status": "archive",
+      "datestamp": "2023-07-31 09:40:00",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52309",
+      "divisions": [
+        "FKIP24"
+      ],
+      "eprintid": 52309,
+      "succeeds": 46359,
+      "subjects": [
+        "D1"
+      ],
+      "type": "book",
+      "isbn": "978-623-420-310-3",
+      "date": "2022-08-15",
+      "pages": 201,
+      "full_text_status": "public",
+      "userid": 2779,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Perdana",
+            "lineage": null,
+            "family": "Yusuf"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Rinaldo",
+            "lineage": null,
+            "given": "Adi Pratama"
+          }
+        }
+      ],
+      "rev_number": 10,
+      "dir": "disk0_bak\/00\/05\/23\/09",
+      "ispublished": "pub",
+      "status_changed": "2023-07-31 09:40:00",
+      "documents": [
+          {
+            "main": "WhatsApp Image 2022-08-12 at 14.26.49.jpeg",
+            "mime_type": "image\/jpeg",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mtime": "2023-07-28 11:27:35",
+                  "hash_type": "MD5",
+                  "filesize": 363342,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/619993",
+                  "fileid": 619993,
+                  "datasetid": "document",
+                  "objectid": 253315,
+                  "filename": "WhatsApp Image 2022-08-12 at 14.26.49.jpeg",
+                  "mime_type": "image\/jpeg",
+                  "hash": "b12039f1fac33f1fe802ee03cb89c755"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/253315",
+            "format": "image",
+            "docid": 253315,
+            "eprintid": 52309,
+            "language": "en",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ]
+    },
+    {
+      "date": "2022-10-27",
+      "type": "article",
+      "contributors": [
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Perdana",
+            "lineage": null,
+            "family": "Yusuf"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "sumargono.1988@fkip.unila.ac.id",
+          "name": {
+            "given": "Sumargono",
+            "lineage": null,
+            "family": "Sumargono",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rinaldo",
+            "given": "Adi Pratama"
+          }
+        },
+        {
+          "id": "nurindah.lestari@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Indah Lestari",
+            "family": "Nur",
+            "lineage": null
+          }
+        }
+      ],
+      "userid": 2779,
+      "publication": "Riwayat: Educational Journal of History and Humanities",
+      "full_text_status": "public",
+      "pagerange": "334-340",
+      "status_changed": "2022-12-19 07:20:10",
+      "rev_number": 6,
+      "dir": "disk0\/00\/04\/73\/16",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 186318,
+            "language": "en",
+            "eprintid": 47316,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/186318",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "The Gait of Islamic Unions in the Political Stage of the National.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-12-19 06:21:59",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/519257",
+                  "fileid": 519257,
+                  "filesize": 404968,
+                  "mime_type": "application\/pdf",
+                  "filename": "The Gait of Islamic Unions in the Political Stage of the National.pdf",
+                  "datasetid": "document",
+                  "objectid": 186318,
+                  "hash": "9d7592e2591ce3bdbed7f85c62663c56"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "number": 2,
+      "creators": [
+        {
+          "id": "yusuf.perdana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Yusuf Perdana",
+            "lineage": null,
+            "family": "Yusuf Perdana"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Sumargono",
+            "lineage": null,
+            "given": "Sumargono"
+          },
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "family": "Rinaldo",
+            "lineage": null,
+            "given": "Adi Pratama",
+            "honourific": null
+          },
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Nur",
+            "lineage": null,
+            "family": "Nur Indah Lestari"
+          },
+          "id": "nurindah.lestari@fkip.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2022-12-19 07:20:10",
+      "title": "The Gait of Islamic Unions in the Political Stage of the National\r\nMovement",
+      "publisher": "Pendidikan Sejarah Universitas Syiah Kuala",
+      "eprint_status": "archive",
+      "issn": "2614-3917",
+      "date_type": "published",
+      "volume": 5,
+      "abstract": "Tujuan penelitian ini adalah untuk menggambarkan kiprah politik organisasi Islam yakni\r\nSarekat Islam Pada Tahun 1916-1921. Organisasi Serekat Islam (SI) berawal dari Sarekat\r\nDagang Islam (SDI) yang bertransformasi\r\nmenjadi Sarekat Islam dengan tujuan untuk\r\nmemperluas jangkauan yang tidak hanya\r\nterbatas pada pedagang saja. SI berubah menjadi perkumpulan yang mendorong perjuangan\r\nsosial politik masyarakat pada awal abad XX\r\ntersebut. Metode yang digunakan dalam\r\npenelitian ini adalah Metode Historis yakni\r\ndengan langkah-langkah heuristik, kritik sumber, interpretasi data dan historiografi. Hasil\r\npenelitian adalah kiprah politik organisasi Islam yakni Sarekat Islam Pada Tahun 1916-\r\n1921 melalui kongres nasional di beberapa\r\ndaerah dnegan mengusung permasalahan –\r\npermasalahan sosial politik, yang mana berujung pada Tahun 1921 dengan perpecahan Sarekat Islam sendiri dengan dua aliran yaitu Sarekat Islam Merah dengan berasaskan sosialiskomunis yang dipimpin oleh Semaun dan Sarekat Islam Putih dengan berasaskan kebangsaan dan keagamaan yang dipimpin oleh\r\nTjokroaminoto.",
+      "datestamp": "2022-12-19 07:20:10",
+      "eprintid": 47316,
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/47316",
+      "divisions": [
+        "FKIP24"
+      ]
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 404968,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/530588",
+                  "fileid": 530588,
+                  "hash_type": "MD5",
+                  "mtime": "2023-03-01 04:58:39",
+                  "hash": "9d7592e2591ce3bdbed7f85c62663c56",
+                  "objectid": 188044,
+                  "datasetid": "document",
+                  "filename": "11 riwayat.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "main": "11 riwayat.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/188044",
+            "format": "text",
+            "docid": 188044,
+            "language": "en",
+            "eprintid": 48684
+          }
+      ],
+      "pagerange": "269-275",
+      "status_changed": "2023-03-01 07:45:49",
+      "dir": "disk0_bak\/00\/04\/86\/84",
+      "ispublished": "pub",
+      "official_url": "https:\/\/jurnal.unsyiah.ac.id\/riwayat\/article\/view\/27582",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Yusuf Perdana",
+            "lineage": null,
+            "given": "Yusuf Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Sumargono",
+            "lineage": null,
+            "family": "Sumargono"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Rinaldo",
+            "given": "Adi Pratama",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "rinaldo.adipratama@fkip.unila.ac.id"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Nur",
+            "family": "Nur Indah Lestari",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nurindah.lestari@fkip.unila.ac.id"
+        }
+      ],
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "publication": "The Gait of Islamic Unions in the Political Stage of the National Movement",
+      "eprintid": 48684,
+      "divisions": [
+        "FKIP24"
+      ],
+      "datestamp": "2023-03-01 07:45:49",
+      "abstract": "The purpose of this study was to describe the political activities of an\r\nIslamic organization, namely Sarekat Islam in 1916-1921. The Union of Islamic Organizations (SI) started from the Sarekat Dagang Islam (SDI) which was transformed into the Sarekat Islam with the aim of expanding its reach which was not\r\nonly limited to traders. SI turned into an association that encouraged the sociopolitical struggle of the people at the beginning of the twentieth century. The\r\nmethod used in this study is the Historical Method, namely heuristic steps, source\r\ncriticism, data interpretation and historiography. The results of the study are the\r\npolitical progress of the Islamic organization, namely Sarekat Islam in 1916-1921\r\nthrough national congresses in several regions by bringing up socio-political problems, which culminated in 1921 with the split of Sarekat Islam itself with two\r\nstreams, namely Sarekat Islam Merah with socialist principles communists led by\r\nSemaun and Sarekat Islam Putih based on nationality and religion led by\r\nTjokroaminoto.",
+      "volume": 5,
+      "lastmod": "2023-03-01 07:45:49",
+      "issn": "2614-3917",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana"
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Sumargono",
+            "lineage": null,
+            "family": "Sumargono"
+          },
+          "id": "sumargono.1988@fkip.unila.ac.id"
+        },
+        {
+          "id": "rinaldo.adipratama@fkip.unila.ac.id",
+          "name": {
+            "family": "Rinaldo",
+            "lineage": null,
+            "given": "Adi Pratama",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Nur Indah Lestari",
+            "lineage": null,
+            "given": "Nur",
+            "honourific": null
+          },
+          "id": "nurindah.lestari@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "rev_number": 7,
+      "userid": 1246,
+      "full_text_status": "public",
+      "date": "2022-08-01",
+      "type": "article",
+      "subjects": [
+        "D1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/48684",
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "https:\/\/jurnal.unsyiah.ac.id\/riwayat\/article\/view\/27582"
+        }
+      ],
+      "eprint_status": "archive",
+      "publisher": "Riwayat: Educational Journal of History and Humanities",
+      "title": "The Gait of Islamic Unions in the Political Stage of the National Movement",
+      "date_type": "published",
+      "number": 2,
+      "refereed": "TRUE"
+    }
+]
+

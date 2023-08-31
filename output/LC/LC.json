@@ -1,0 +1,2174 @@
+[
+    {
+      "full_text_status": "public",
+      "publication": "Titian Ilmu: Jurnal Ilmiah Multi Sciences",
+      "userid": 332,
+      "type": "article",
+      "date": "2019-07",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 34573,
+            "language": "en",
+            "eprintid": 21187,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/34573",
+            "format": "text",
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/197334",
+                  "fileid": 197334,
+                  "filesize": 161784,
+                  "mtime": "2020-05-30 13:29:17",
+                  "hash_type": "MD5",
+                  "hash": "b5c52d32aad07ee0cff369f4ec0fe049",
+                  "filename": "1. Akmala dkk.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 34573
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "1. Akmala dkk.pdf"
+          }
+      ],
+      "status_changed": "2020-05-30 19:58:06",
+      "dir": "disk0\/00\/02\/11\/87",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "official_url": "https:\/\/journal.stkipnurulhuda.ac.id\/index.php\/JTI\/article\/view\/472",
+      "publisher": "STKIP Nurul Huda",
+      "eprint_status": "archive",
+      "title": "Analisis Kemampuan Berpikir Tingkat Tinggi Siswa SMA pada Materi Hukum Newton Tentang Gerak",
+      "lastmod": "2020-05-30 19:58:06",
+      "issn": "2087-4839",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "faizahakmala@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Nur Faizah",
+            "family": "Akmala",
+            "lineage": null
+          }
+        },
+        {
+          "id": "wsuane@gmail.com",
+          "name": {
+            "family": "Suana",
+            "lineage": null,
+            "given": "Wayan",
+            "honourific": null
+          }
+        },
+        {
+          "id": "feriansyah_sesunan@yahoo.co.id",
+          "name": {
+            "given": "Feriansyah",
+            "family": "Sesunan",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "subjects": [
+        "LC"
+      ],
+      "eprintid": 21187,
+      "divisions": [
+        "FKIP17"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/21187",
+      "abstract": "Penelitian ini bertujuan untuk mendeskripsikan kemampuan berpikir tingkat tinggi siswa SMA\/MA pada materi Hukum Newton tentang gerak serta mendeskripsikan perbedaan kemampuan siswa berdasarkan gender. Jenis penelitian ini adalah penelitian kuantitatif deskriptif dengan responden berjumlah 456 siswa di Kota Bandar Lampung. Data dikumpulkan menggunakan soal tes pilihan jamak dengan jumlah 20 butir soal yang telah teruji validitas dan reliabilitasnya. Berdasarkan hasil penelitian yang diperoleh, persentase kemampuan berpikir tingkat tinggi siswa tergolong rendah dengan nilai rata-rata sebesar 44,1. Dari ketiga dimensi proses berpikir, rata-rata kemampuan siswa pada level berpikir analisis, evaluasi, dan mencipta, secara berturut-turut adalah 65,0 (cukup tinggi), 28,3 (rendah), dan 29,2 (rendah). Berdasarkan gender, rata-rata kemampuan siswa laki-laki dan perempuan hampir sama, yaitu laki-laki 44,7 dan perempuan 43,7 dan keduanya berkategori rendah. Dari hasil uji t, tidak ditemukan adanya perbedaan yang signifikan antara kemampuan siswa laki-laki dan perempuan. Kesimpulannya adalah kemampuan berpikir tingkat tinggi siswa SMA\/MA di Bandar Lampung tergolong rendah dan tidak ada perbedaan yang signifikan mengenai kemampuan siswa antar gender.",
+      "datestamp": "2020-05-30 19:58:06"
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "name": {
+            "given": "ER",
+            "family": "Erlina Rufaidah",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "erlina.rufaidah@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kodri",
+            "given": "Kodri"
+          },
+          "id": null
+        }
+      ],
+      "date_type": "published",
+      "title": "Strategi Inovasi dan Kreativitas Berwirausaha di Era Revolusi 4.0 (Kajian Empiris dan Kajian Literatur)",
+      "lastmod": "2020-05-20 03:44:05",
+      "publisher": "ALFABETA, cv",
+      "eprint_status": "archive",
+      "datestamp": "2020-05-20 03:44:05",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/20194",
+      "divisions": [
+        "FKIP16"
+      ],
+      "eprintid": 20194,
+      "subjects": [
+        "L1",
+        "LB2300",
+        "LC"
+      ],
+      "date": 2020,
+      "isbn": "979-602-289-589-3",
+      "type": "book",
+      "pages": 118,
+      "userid": 1109,
+      "full_text_status": "public",
+      "corp_creators": [
+        "Jurusan Pendidikan IPS FKIP Unika"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "rev_number": 9,
+      "dir": "disk0\/00\/02\/01\/94",
+      "place_of_pub": "Bandung",
+      "ispublished": "pub",
+      "status_changed": "2020-05-20 03:44:05",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/190482",
+                  "fileid": 190482,
+                  "filesize": 2093632,
+                  "mtime": "2020-05-20 03:36:34",
+                  "hash_type": "MD5",
+                  "hash": "0d248c01dc6e3c7ef7c67264ae22d703",
+                  "filename": "Strategi Inovasi dan Kreativitas Berwirausaha di Era Revolusi 4.0 (Kajian Empiris dan Kajian Literatur).pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 33536
+                }
+            ],
+            "main": "Strategi Inovasi dan Kreativitas Berwirausaha di Era Revolusi 4.0 (Kajian Empiris dan Kajian Literatur).pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/33536",
+            "format": "text",
+            "docid": 33536,
+            "language": "en",
+            "eprintid": 20194
+          }
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "family": "Fuad",
+            "lineage": null,
+            "given": "Muhammad",
+            "honourific": null
+          },
+          "id": "muhammad.fuadum@fkip.unila.ac.id"
+        }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "lastmod": "2021-07-09 07:13:08",
+      "title": "Building the National Identity with the Literacy Culture Revitalization.",
+      "publisher": "LP Unimed, Medan",
+      "eprint_status": "archive",
+      "issn": "ISBN (p): 978-602-60343-6-6; (e): 978--602-60343--7-3",
+      "datestamp": "2021-07-09 07:13:08",
+      "eprintid": 33122,
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC",
+        "LC5201"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/33122",
+      "divisions": [
+        "FKIP8"
+      ],
+      "type": "article",
+      "date": "2017-09-12",
+      "publication": "Proceedings International Seminar and Annual Meeting 2017 BKS PTN Wilayah Barat Fields of Linguistics, Literature, Arts and Culture.",
+      "full_text_status": "public",
+      "userid": 941,
+      "pagerange": "472-477",
+      "status_changed": "2021-07-09 07:13:08",
+      "official_url": "http:\/\/lemlit.unimed.ac.id",
+      "rev_number": 10,
+      "dir": "disk0\/00\/03\/31\/22",
+      "ispublished": "unpub",
+      "documents": [
+          {
+            "main": "Building the National Identity with the Literacy Culture Revitalization..pdf",
+            "files": [
+                {
+                  "fileid": 392348,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/392348",
+                  "filesize": 9557548,
+                  "hash_type": "MD5",
+                  "mtime": "2021-07-09 04:24:34",
+                  "hash": "106bc18513e4be8a6149c89deffb04a0",
+                  "mime_type": "application\/pdf",
+                  "filename": "Building the National Identity with the Literacy Culture Revitalization..pdf",
+                  "datasetid": "document",
+                  "objectid": 151180
+                }
+            ],
+            "formatdesc": "Artikel",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 33122,
+            "docid": 151180,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/151180",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2
+          }
+      ]
+    },
+    {
+      "event_location": "Hotel Emersia",
+      "pres_type": "paper",
+      "event_type": "other",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-17 13:01:37",
+                  "filesize": 500191,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/55058",
+                  "fileid": 55058,
+                  "objectid": 18848,
+                  "datasetid": "document",
+                  "filename": "semnas PKM.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "4797c526982799858085c01347e11a4c"
+                }
+            ],
+            "placement": 1,
+            "main": "semnas PKM.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18848",
+            "eprintid": 5930,
+            "language": "en",
+            "docid": 18848
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/59\/30",
+      "rev_number": 9,
+      "status_changed": "2018-04-25 03:47:50",
+      "userid": 1136,
+      "full_text_status": "public",
+      "type": "conference_item",
+      "divisions": [
+        "FKIP25"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5930",
+      "event_title": "Semnas PKM",
+      "subjects": [
+        "LB2361",
+        "LC"
+      ],
+      "eprintid": 5930,
+      "datestamp": "2018-04-25 03:47:50",
+      "abstract": "Aplikasi merupakan basis pembelajaran yang saat ini banyak digunakan di luar negeri. Pentingnya media berbasis daring ini adalah sebagai bentuk penyesuaian terhadap zaman yang terus berkembang. Parasiswa sebagai generasi milenial sangat dekat dengan \"gadget\" dan berbagai konten berbasis daring. Hal ini yang menyebabkan pembelajaran berbasis aplikasi perlu diterapkan.",
+      "eprint_status": "archive",
+      "title": "PELATIHAN APLIKASI PLICKERS UNTUK PENILAIAN FORMATIF BERBASIS TIK DALAM PEMBELAJARAN SENI DI LAMPUNG",
+      "lastmod": "2018-04-25 03:47:50",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "riyanhidayat28@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Hidayatullah",
+            "given": "Riyan"
+          }
+        }
+      ]
+    },
+    {
+      "creators": [
+        {
+          "id": "meizano@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Meizano Ardhi",
+            "lineage": null,
+            "family": "Muhammad"
+          }
+        },
+        {
+          "id": "mardiana@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": ".",
+            "lineage": null,
+            "given": "Mardiana"
+          }
+        },
+        {
+          "id": "gigih@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Nama",
+            "given": "Gigih Forda",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Mulyani",
+            "given": "Yessi"
+          },
+          "id": "yessi.mulyani@eng.unila.ac.id"
+        }
+      ],
+      "funders": [
+        "DIPA FT Universitas Lampung"
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "title": "PEMBUATAN POSTER SIKLUS HIDUP KUPU-KUPU SUMATRA UNTUK MEMBANGUN KESADARAN KEANEKARAGAMAN HAYATI DI TAMAN KUPU-KUPU GITA PERSADA",
+      "lastmod": "2019-05-26 01:39:06",
+      "eprint_status": "archive",
+      "event_dates": "24 April 2019",
+      "projects": [
+        "PEMBUATAN MATERI POSTER SEBAGAI MARKETING KIT DAN SOUVENIR KUPU- KUPU SUMATRA UNTUK KESADARAN KEANEKARAGAMAN HAYATI DI TAMAN KUPU-KUPU GITA PERSADA"
+      ],
+      "date_type": "published",
+      "abstract": "Kesadaran masyarakat mengenai kupu-kupu penting untuk dibangun agar konservasi dapat terlaksana dengan sukses dan berkelanjutan. Salah satu cara membangun kesadaran masyarakat adalah melalui marketing kit seperti poster pendidikan. Pembuatan poster pendidikan untuk membangun kesadaran masyarakat mengenai pentingnya konservasi kupu-kupu Sumatra perlu dilakukan. Tahapan kegiatan yang dilakukan terdiri dari 3 tahap, yaitu Diskusi Kebutuhan dengan Masyarakat, Pembuatan Poster Kupu-Kupu Sumatra, dan Pengukuran Kesadaran Pentingnya Konservasi Kupu-Kupu. Kegiatan pembuatan poster dilakukan berkoordinasi dengan ahli kupu-kupu Sumatra dan menggunakan metode pemaparan informasi yang tepat sasaran. Tolak ukur capaian dilakukan menggunakan observasi dan wawancara untuk mengetahui kesesuaian tujuan dengan capaian. Dibuat 2 poster terkait siklus kupu-kupu. Poster dicetak dalam ukuran A3 dan diperbanyak yang kemudian dipasang di Taman Kupu-Kupu Gita Persada dan juga disediakan sebagai souvenir. Hasil dari kegiatan adalah terbantunya Taman Kupu Gita Persada dalam membantu mensosialisasikan mengenai konservasi kupu-kupu tanpa harus berinteraksi penuh dengan pengunjung. Masyarakat menjadi tahu pentingnya kupu-kupu sebagai indikator keanekaragaman hayati dan merasa perlu untuk peduli terhadap pelestarian alam dalam menjaga keanekaragaman hayati.",
+      "datestamp": "2019-05-26 01:39:06",
+      "eprintid": 13290,
+      "subjects": [
+        "LC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13290",
+      "event_title": "Senapati 2019",
+      "divisions": [
+        "UNILA5"
+      ],
+      "date": "2019-04-24",
+      "type": "conference_item",
+      "userid": 1199,
+      "full_text_status": "public",
+      "status_changed": "2019-05-26 01:39:06",
+      "official_url": "http:\/\/senapati.eng.unila.ac.id\/",
+      "rev_number": 7,
+      "dir": "disk0\/00\/01\/32\/90",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26287",
+            "language": "en",
+            "eprintid": 13290,
+            "docid": 26287,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "fileid": 116513,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/116513",
+                  "filesize": 523586,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-24 15:46:24",
+                  "hash": "2c8a3a08eee28da7a79a0bc8612dba72",
+                  "filename": "meizano-senapati-presentasi.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 26287
+                }
+            ],
+            "placement": 1,
+            "main": "meizano-senapati-presentasi.pdf"
+          }
+      ],
+      "pres_type": "keynote",
+      "event_type": "conference",
+      "event_location": "Bandar Lampung"
+    },
+    {
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/19223",
+            "eprintid": 6307,
+            "language": "en",
+            "docid": 19223,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2017-12-27 05:14:24",
+                  "hash_type": "MD5",
+                  "filesize": 141190,
+                  "fileid": 57516,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/57516",
+                  "datasetid": "document",
+                  "objectid": 19223,
+                  "filename": "wals_2014FeniMunifatullah.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "f44fbb694dc54f174932dc4f00408e5e"
+                }
+            ],
+            "placement": 1,
+            "main": "wals_2014FeniMunifatullah.pdf"
+          }
+      ],
+      "status_changed": "2018-02-14 03:30:57",
+      "pagerange": "69-72",
+      "official_url": "http:\/\/www.walsnet.org\/2014\/",
+      "rev_number": 6,
+      "dir": "disk0\/00\/00\/63\/07",
+      "ispublished": "pub",
+      "publication": "WALS 2014 International Conference Proceeding",
+      "full_text_status": "public",
+      "userid": 76,
+      "date": "2014-11-25",
+      "type": "article",
+      "eprintid": 6307,
+      "subjects": [
+        "LC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6307",
+      "divisions": [
+        "FKIP1"
+      ],
+      "datestamp": "2018-02-14 03:30:57",
+      "abstract": "Personality traits and personal reference of three NETs are observed through in-depth interview, participants’ account through individual log book, and observation during initial group sessions. The result of the investigation signifies that introverts have more or less equal possibility to join group with the extroverts. In spite of suggestion that extroverts are likely to succeed a group work, this finding offers different idea. Personal reference that does not support their participation in TSG does not instantly drive NETs to decide to not joining TSG. On the contrary, they take the challenge and participate voluntarily.\r\nKey words:\r\nPersonality, Past Experience, Self-Directedness, Andragogy",
+      "lastmod": "2018-02-14 03:30:57",
+      "title": "An Investigation to Novice English Teachers’ Self-Consideration Upon Their Decision of Joining Teacher Study Group: A Case Study in Bandar Lampung, Indonesia",
+      "publisher": "Pusat Inovasi Pendidikan  Lembaga Penelitian dan Pengabdian Kepada Masyarakat  Universitas Pendidikan Indonesia",
+      "eprint_status": "archive",
+      "issn": "ISBN 978-602-99410-1-2",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Munifatullah",
+            "given": "Feni"
+          },
+          "id": "feni.munifatullah@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE"
+    },
+    {
+      "number": 2,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Hermawan",
+            "family": "Rahmat",
+            "lineage": null
+          },
+          "id": "nugafik@yahoo.co.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "publisher": "jurnal sportif, jurnal Penelitian Pembelajaran",
+      "title": "COMPARISON OF CRYOTHERAPY AND FOAM ROLLING ON PERFORMANCE AND LACTATE LEVELS IN FUTSAL ATHLETES",
+      "lastmod": "2022-01-20 07:31:14",
+      "issn": 25487833,
+      "related_url": [
+        {
+          "url": "https:\/\/scholar.google.co.id\/citations?user=mn3pkfkAAAAJ&hl=en"
+        }
+      ],
+      "datestamp": "2022-01-20 07:31:14",
+      "abstract": "The use of Cryotherapy and Foam rolling methods is considered to speed up the post-exercise recovery process. However, so far there have been no studies comparing the two methods, thus the aim of this study was to compare the Cryotherapy and Foam rolling methods on performance and lactate levels in futsal athletes. This study uses an experimental method with a one-way crossover design pretest-posttest approach. The total subjects were 16 Amateur Futsal Players with an average age, 20.25 1.23 years; height, 168.87 ± 2.02 cm; and weight, 54.61 ± 1.94 kg, BMI, 19.16± 1.01 kg\/m-2. The results showed that foam rolling and cryotherapy had no effect on physical performance, but both methods could significantly reduce lactate levels. However, in this case the foam rolling method showed an improvement in the 20-meter sprint which was better than cryotherapy. Thus, the results of this study provide a recommendation for\r\n\r\nfutsal athletes to use foam rolling in the post-exercise recovery process.\r\n\r\nKeywords: Cold water immersion, Recovery, Foam rolling",
+      "volume": 7,
+      "subjects": [
+        "L1",
+        "LB",
+        "LB1501",
+        "LC",
+        "LC5201",
+        "Q1"
+      ],
+      "succeeds": 37610,
+      "eprintid": 38112,
+      "divisions": [
+        "FKIP20"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38112",
+      "date": "2021-08",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "COMPARISON OF CRYOTHERAPY AND FOAM ROLLING ON PERFORMANCE AND LACTATE LEVELS IN FUTSAL ATHLETES",
+      "userid": 982,
+      "status_changed": "2022-01-20 07:31:14",
+      "pagerange": "248-7833",
+      "dir": "disk0\/00\/03\/81\/12",
+      "ispublished": "pub",
+      "rev_number": 11,
+      "official_url": "https:\/\/scholar.google.co.id\/citations?user=mn3pkfkAAAAJ&hl=en",
+      "documents": [
+          {
+            "files": [
+                {
+                  "filesize": 5402018,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432927",
+                  "fileid": 432927,
+                  "mtime": "2022-01-04 10:13:19",
+                  "hash_type": "MD5",
+                  "hash": "13125349fae53bcecb6e8adb01ba1307",
+                  "objectid": 159103,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Jurnal sportif (1).pdf"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Jurnal sportif (1).pdf",
+            "rev_number": 2,
+            "pos": 1,
+            "eprintid": 38112,
+            "language": "en",
+            "docid": 159103,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159103"
+          },
+          {
+            "rev_number": 2,
+            "pos": 2,
+            "docid": 159104,
+            "language": "en",
+            "eprintid": 38112,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159104",
+            "placement": 2,
+            "files": [
+                {
+                  "filename": "Review Comparison.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 159104,
+                  "hash": "8d56d7dabc62f7623df22f593b319aff",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 05:15:12",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432931",
+                  "fileid": 432931,
+                  "filesize": 886770
+                }
+            ],
+            "formatdesc": "Reviewer",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "Review Comparison.pdf"
+          }
+      ],
+      "id_number": 25487833
+    },
+    {
+      "type": "article",
+      "date": 2021,
+      "userid": 982,
+      "publication": "Kinestetik",
+      "full_text_status": "public",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "official_url": "https:\/\/ejournal.unib.ac.id\/index.php\/kinestetik\/issue\/view\/1120",
+      "rev_number": 11,
+      "dir": "disk0\/00\/03\/80\/98",
+      "ispublished": "pub",
+      "pagerange": "310-317",
+      "status_changed": "2022-01-20 07:30:34",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 38098,
+            "docid": 159063,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159063",
+            "pos": 1,
+            "rev_number": 4,
+            "main": "Artikel Bengkulu.pdf",
+            "files": [
+                {
+                  "hash": "18b9a8f2022cedbce562da797105a926",
+                  "datasetid": "document",
+                  "objectid": 159063,
+                  "mime_type": "application\/pdf",
+                  "filename": "Artikel Bengkulu.pdf",
+                  "filesize": 386477,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432807",
+                  "fileid": 432807,
+                  "hash_type": "MD5",
+                  "mtime": "2021-12-17 08:05:30"
+                }
+            ],
+            "formatdesc": "Artikel",
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "formatdesc": "Reviewer",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 04:23:17",
+                  "filesize": 1223764,
+                  "fileid": 432809,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432809",
+                  "objectid": 159064,
+                  "datasetid": "document",
+                  "filename": "peer review JN Evaluation studi on teacher.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "7af54060452088948d195c5a99ad1fe3"
+                }
+            ],
+            "placement": 2,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "peer review JN Evaluation studi on teacher.pdf",
+            "rev_number": 2,
+            "pos": 2,
+            "eprintid": 38098,
+            "language": "en",
+            "docid": 159064,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159064"
+          }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "number": 2,
+      "creators": [
+        {
+          "id": "nugafik@yahoo.co.id",
+          "name": {
+            "given": "Hermawan",
+            "lineage": null,
+            "family": "Rahmat",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "2685-6514",
+      "date_type": "published",
+      "title": "EVALUATION STUDY ON TEACHER COMPETENCY PHYSICAL EDUCATION, SPORTS AND HEALTH (PJOK) IN PESAWARAN DISTRICT",
+      "lastmod": "2022-01-20 07:30:34",
+      "eprint_status": "archive",
+      "publisher": "universitas bengkulu",
+      "volume": 5,
+      "datestamp": "2022-01-20 07:30:34",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38098",
+      "divisions": [
+        "FKIP20"
+      ],
+      "eprintid": 38098,
+      "succeeds": 37356,
+      "subjects": [
+        "L1",
+        "LA",
+        "LB",
+        "LB1501",
+        "LC",
+        "LC5201"
+      ]
+    },
+    {
+      "status_changed": "2022-01-20 07:30:51",
+      "pagerange": "14-35",
+      "rev_number": 11,
+      "official_url": "https:\/\/core.ac.uk\/download\/pdf\/296288538.pdf",
+      "dir": "disk0\/00\/03\/81\/02",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "eprintid": 38102,
+            "language": "en",
+            "docid": 159068,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159068",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "main": "JURNAL KEPELATIAHN OLAHRAGA j (1).pdf",
+            "files": [
+                {
+                  "hash": "f131b05581278442b5b180af03fec190",
+                  "filename": "JURNAL KEPELATIAHN OLAHRAGA j (1).pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 159068,
+                  "fileid": 432827,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432827",
+                  "filesize": 4139846,
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-04 06:58:27"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          },
+          {
+            "eprintid": 38102,
+            "language": "en",
+            "docid": 159069,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159069",
+            "pos": 2,
+            "rev_number": 2,
+            "main": "Peer Review JN Efektivitas kepemimpinan.pdf",
+            "formatdesc": "Reviewer",
+            "files": [
+                {
+                  "filesize": 1330043,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432829",
+                  "fileid": 432829,
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 04:43:28",
+                  "hash": "1cfaccc5ecffbd15c115e836dc08ee41",
+                  "datasetid": "document",
+                  "objectid": 159069,
+                  "mime_type": "application\/pdf",
+                  "filename": "Peer Review JN Efektivitas kepemimpinan.pdf"
+                }
+            ],
+            "placement": 2,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "id_number": "2086339x",
+      "date": "2012-06",
+      "type": "article",
+      "publication": "Efektivitas Kepemimpinan Lembaga Swadaya Masyarakat dalam Pembinaan Olahraga Prestasi (Studi Kasus di Padepokan Angkat Besi dan Angkat Berat Gajah Lampung)",
+      "userid": 982,
+      "full_text_status": "public",
+      "volume": 4,
+      "datestamp": "2022-01-20 07:30:51",
+      "related_url": [
+        {
+          "url": "https:\/\/core.ac.uk\/download\/pdf\/296288538.pdf"
+        }
+      ],
+      "abstract": "Abstrak Masalah\r\n\r\nasalah utama yang diteliti adalah elektivitas kepemimpinan Lembaga Swadaya Masyarakat dalam pembinaan olahraga prestasi pada angkat besi dan angkul berat. dengan memperhitungkan konteks lingkungan sosial budaya dan sosialisasi para atlet usia muda serta peranan kebijakan pemerintah serhadap pembinaan prestasi lahraga yang berkaitan dengan penghargaan dan bantuan Hubungan fungsional antara prestasi angkat besi dan angkat berat dengan fisik, fisiologis dan motivasi para atles juga menjadi fokus kajian Untuk menjawab masalah tersebut, dus pendekatan yatig ditempuh, yaitu pendekatan kualitatif disusul dengan pendekatan kuantitauf. Seimentara unit analisis adalah Padepokan Gajah Lampung serta pembina dan 47 orang utlet 120 putri dan 27 putraj Data kualitatif diperoleh melalu wawancara. observasi dokumentasi dan argket, sedangkan data kuantitutif melalui tes dan pengukuran serta angket. Kesimpulan (1) gaya kepemimpinan pelatih, dan lingkungan sosial budaya berpengaruh terhadap efektifitas pembinaan, (23 Terdapat hubungan fungsional antara faktor fisik (tinggi badan) dengan prestasi angkatan pada atlet putra dan putri, Sedangkan tarikan lengan dan power (putra), serta lingkar lengan dan genggam tangan kanan (putri) juga ada hubungan dengan prestasi angkatan\r\n\r\nKata Kunci Lembaga Swadaya Masyarakat, fisk, fisiologns, metsas kahtard, kannatif",
+      "eprintid": 38102,
+      "subjects": [
+        "L1",
+        "LA",
+        "LB",
+        "LB1501",
+        "LC",
+        "Q1"
+      ],
+      "succeeds": 37596,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38102",
+      "divisions": [
+        "FKIP20"
+      ],
+      "creators": [
+        {
+          "id": "nugafik@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "given": "Hermawan",
+            "family": "Rahmat",
+            "lineage": null
+          }
+        }
+      ],
+      "number": 1,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "title": "Efektivitas Kepemimpinan Lembaga Swadaya Masyarakat dalam Pembinaan Olahraga Prestasi (Studi Kasus di Padepokan Angkat Besi dan Angkat Berat Gajah Lampung)",
+      "lastmod": "2022-01-20 07:30:51",
+      "publisher": "Jurnal Kepelatihan Olahraga",
+      "eprint_status": "archive",
+      "issn": "2086339x"
+    },
+    {
+      "official_url": "http:\/\/journal.um.ac.id\/index.php\/sport-science\/",
+      "rev_number": 9,
+      "dir": "disk0\/00\/03\/81\/06",
+      "ispublished": "pub",
+      "status_changed": "2022-01-20 07:31:00",
+      "pagerange": "42-82",
+      "id_number": 19075111,
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 432882,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432882",
+                  "filesize": 4784562,
+                  "mtime": "2022-01-03 14:54:11",
+                  "hash_type": "MD5",
+                  "hash": "b3bfda5b87aac2656897cc3415cd4a03",
+                  "filename": "Sport Science.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 159088
+                }
+            ],
+            "main": "Sport Science.pdf",
+            "rev_number": 2,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159088",
+            "format": "text",
+            "docid": 159088,
+            "language": "en",
+            "eprintid": 38106
+          },
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159089",
+            "language": "en",
+            "eprintid": 38106,
+            "docid": 159089,
+            "rev_number": 2,
+            "pos": 2,
+            "main": "peer review JN Kemampuan Fisik S1 Penjaskes.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "3fbb5724d28b7cf1145e02df9debc70c",
+                  "mime_type": "application\/pdf",
+                  "filename": "peer review JN Kemampuan Fisik S1 Penjaskes.pdf",
+                  "datasetid": "document",
+                  "objectid": 159089,
+                  "fileid": 432884,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432884",
+                  "filesize": 1245804,
+                  "mtime": "2022-01-20 05:01:12",
+                  "hash_type": "MD5"
+                }
+            ],
+            "formatdesc": "Reviewer",
+            "placement": 2
+          }
+      ],
+      "date": "2009-12",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "Kemampuan Fisik dan Akademik Mahasiswa S1 Penjaskes yang Diterima Melalui Jalur PKAB dan SPMB Tahun 2005",
+      "userid": 982,
+      "volume": 2,
+      "datestamp": "2022-01-20 07:31:00",
+      "related_url": [
+        {
+          "url": "http:\/\/journal.um.ac.id\/index.php\/sport-science\/"
+        }
+      ],
+      "abstract": "Abstract: This study aimed to examine the physical ability (physical fitness) and academic (grade) students of Physical Education and Health FKIP Lampung University received through channels and SPMB PKAB force in 2005 The method used in this research is descriptive through tests and documentation The results showed (1) the physical ability of students accepted through SPMB point average higher than the students accepted through PKAB point, either at the beginning of ac ceptance or at the end of the semester with a difference of 1 0142 and (2) academic ability PKAB higher than SPMB students, but the difference is relatively small that is equal to 0 5676\r\n\r\nKey words: physical ability, academic ability, SPMB, and PKAB",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38106",
+      "divisions": [
+        "FKIP20"
+      ],
+      "eprintid": 38106,
+      "succeeds": 37584,
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC",
+        "Q1"
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "nugafik@yahoo.co.id",
+          "name": {
+            "given": "Hermawan",
+            "family": "Rahmat",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "number": 2,
+      "issn": 19075111,
+      "lastmod": "2022-01-20 07:31:00",
+      "title": "Kemampuan Fisik dan Akademik Mahasiswa S1 Penjaskes yang Diterima Melalui Jalur PKAB dan SPMB Tahun 2005",
+      "publisher": "Sport Science, jurnal Kajian Ilmu Keolahragaan",
+      "eprint_status": "archive"
+    },
+    {
+      "publisher": "Jurnal Iptek Olahraga",
+      "eprint_status": "archive",
+      "title": "Olahraga Unggulan Provinsi Jambi",
+      "date_type": "published",
+      "number": 1,
+      "refereed": "TRUE",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB1501",
+        "LC",
+        "LC5201",
+        "Q1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38107",
+      "related_url": [
+        {
+          "url": "http:\/\/lib.unnes.ac.id\/32571\/1\/Pengembangan_Teknobgi_Analisis_Citra_Digital_untuk.._.pdf"
+        }
+      ],
+      "full_text_status": "public",
+      "userid": 982,
+      "type": "article",
+      "date": "2008-01",
+      "rev_number": 11,
+      "lastmod": "2022-01-20 07:31:03",
+      "issn": 14110016,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Hermawan",
+            "family": "Rahmat",
+            "lineage": null
+          },
+          "id": "nugafik@yahoo.co.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "succeeds": 37583,
+      "eprintid": 38107,
+      "divisions": [
+        "FKIP20"
+      ],
+      "abstract": "Abstrak Penelitian ini bertujuan untuk mendapatkan gambaran tentang berbagai cabang olahraga unggulan, pembinaan cabang olahraga unggulan, program latihan serta pelaksanannya, kondisi prasarana dan sarana, serta penghargaan pemerintah yang telah diberikan pada olahragawan, pelatih dan pembina olahraga unggulan di Provinsi Jambi. Teknik pengambilan sampel dilakukan dengan teknik random sampling sehingga diambil 44 (empat puluh empat) orang sampel yang terdiri dari pelatih, olahragawan, dan pengurus cabang olahraga. Analisis data dilakukan dengan menggunakan metode deskriptif. Hasil penelitian ini menunjukkan bahwa cabang olahraga yang menjadi unggulan Provinsi Jambi adalah renang (81,8%), gulat dan pencak silat (72,72%), dayung, panahan, angkat besi, dan kempo (45,5%). serta senam (36,4%).\r\n\r\nKata kunci: olahraga unggulan, Provinsi Jambi.",
+      "datestamp": "2022-01-20 07:31:03",
+      "volume": 10,
+      "publication": "Olahraga Unggulan Provinsi Jambi",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "278e3bf73e7b4b3ddcd4c95afcabe10c",
+                  "datasetid": "document",
+                  "objectid": 159090,
+                  "filename": "Jurnal IPTEK Olahraga (Jambi) (1).pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 8194230,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432892",
+                  "fileid": 432892,
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-03 14:28:46"
+                }
+            ],
+            "placement": 1,
+            "main": "Jurnal IPTEK Olahraga (Jambi) (1).pdf",
+            "rev_number": 2,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159090",
+            "language": "en",
+            "eprintid": 38107,
+            "docid": 159090
+          },
+          {
+            "main": "Olahraga Jambi.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 835993,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432894",
+                  "fileid": 432894,
+                  "mtime": "2022-01-20 05:06:12",
+                  "hash_type": "MD5",
+                  "hash": "8b04b2c1b33fcc5876a498a6fad5c1b7",
+                  "objectid": 159091,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Olahraga Jambi.pdf"
+                }
+            ],
+            "formatdesc": "Reviewer",
+            "placement": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159091",
+            "language": "en",
+            "eprintid": 38107,
+            "docid": 159091,
+            "rev_number": 2,
+            "pos": 2
+          }
+      ],
+      "id_number": 14110016,
+      "pagerange": "56-72",
+      "status_changed": "2022-01-20 07:31:03",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/81\/07",
+      "official_url": "http:\/\/staff.uny.ac.id\/sites\/default\/files\/penelitian\/Prof.%20Dr.%20Sukadiyanto,%20M.Pd.\/Instrumen%20Strategi%20Multiteknik%20Mental%20Atlet%20Usia%2011-13%20Tahun.PDF"
+    },
+    {
+      "type": "article",
+      "date": "2012-12",
+      "full_text_status": "public",
+      "publication": "Prestasi Merubah Status Sosial Para Atlet Angkat Besi dan Angkat berat di padepokan Gajah Lampung",
+      "userid": 982,
+      "status_changed": "2022-01-20 07:30:53",
+      "pagerange": "119-218",
+      "rev_number": 10,
+      "official_url": "http:\/\/PrestasiMerubahStatusSosialAtletAngkatBeratPadepokanGajahLampung",
+      "dir": "disk0\/00\/03\/81\/03",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "docid": 159071,
+            "eprintid": 38103,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159071",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 2,
+            "main": "Indonesian's scientific journal (2).pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "mtime": "2022-01-04 06:04:33",
+                  "hash_type": "MD5",
+                  "filesize": 8534649,
+                  "fileid": 432845,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432845",
+                  "datasetid": "document",
+                  "objectid": 159071,
+                  "filename": "Indonesian's scientific journal (2).pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "66fe647269054648bb19c2e4de4e02d2"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          },
+          {
+            "main": "peer review prestasi merubah status sosial.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 1522861,
+                  "fileid": 432847,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/432847",
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-20 04:48:10",
+                  "hash": "d04b6319c9eda40d9f7202c5bab7e912",
+                  "datasetid": "document",
+                  "objectid": 159072,
+                  "mime_type": "application\/pdf",
+                  "filename": "peer review prestasi merubah status sosial.pdf"
+                }
+            ],
+            "formatdesc": "Reviewer",
+            "placement": 2,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159072",
+            "format": "text",
+            "language": "en",
+            "eprintid": 38103,
+            "docid": 159072,
+            "rev_number": 2,
+            "pos": 2
+          }
+      ],
+      "id_number": 23017198,
+      "creators": [
+        {
+          "id": "nugafik@yahoo.co.id",
+          "name": {
+            "given": "Hermawan",
+            "family": "Rahmat",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "number": 2,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2022-01-20 07:30:53",
+      "title": "Prestasi Merubah Status Sosial Para Atlet Angkat Besi dan Angkat berat di padepokan Gajah Lampung",
+      "eprint_status": "archive",
+      "publisher": "Indonesian's Scientific Journal of Sports and Health",
+      "issn": 23017198,
+      "volume": 1,
+      "datestamp": "2022-01-20 07:30:53",
+      "related_url": [
+        {
+          "url": "http:\/\/PrestasiMerubahStatusSosialAtletAngkatBeratPadepokanGajahLampung"
+        }
+      ],
+      "abstract": "Abstrak\r\n\r\nPenelitian ini bertujuan untuk mengungkap dampak atau pengaruh dari prestasi yang dicapai para atlet angkat besi dan angkat berat di Padepokan Gajah Lampung terhadap perubahan status sosialnya. Penelitian ini bersifat kualitatif dengan teknik pengumpulan data yang berupa observasi, wawancara dan dokumentasi. Sampel sebanyak 47 orang (27 pria dan 20 wanita) yang sedang berlatih di Padepokan Gajah Lampung. maka disebut sebagai sampel total atau sampel populasi.\r\n\r\nHasil penelitian menunjukan bahwa sebagian besar atlet angkat besi dan angkat berat yang berada di Padepokan Gajah Lampung berasal dari keluarga yang kurang mampu (90%). Penelitian ini menyimpulkan bahwa sebagain besar atlet atau lifter yang telah berhasil meraih juara atau medali di berbagai kejuaraan telah merubah keadaan status sosialnya. Hal ini ditandai dengan pekerjaan tetap, tempat tinggal, kendaraan pribadi (motor\/mobil) dan tanah atau lahan yang dimiliki.\r\n\r\nKata Kunci: Prestasi, Status Sosial, Angkat Besi, Angkat Berat",
+      "eprintid": 38103,
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC",
+        "LC5201",
+        "Q1"
+      ],
+      "succeeds": 37592,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38103",
+      "divisions": [
+        "FKIP20"
+      ]
+    },
+    {
+      "title": "Peningkatan Kompetensi Pelatihan Teknik Olahraga Angkat Besi Melalui Implementasi Biomenika Olahraga",
+      "lastmod": "2022-01-20 07:31:31",
+      "eprint_status": "archive",
+      "publisher": "Jurnal Iptek Olahraga",
+      "issn": "1411-0016",
+      "creators": [
+        {
+          "name": {
+            "family": "Rahmat",
+            "lineage": null,
+            "given": "Hermawan",
+            "honourific": null
+          },
+          "id": "nugafik@yahoo.co.id"
+        },
+        {
+          "id": "azima.dimyati@ubl.ac.id",
+          "name": {
+            "family": "Dimyati",
+            "lineage": null,
+            "given": "azima",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "fransiskus",
+            "lineage": null,
+            "given": "nurseto",
+            "honourific": null
+          },
+          "id": null
+        }
+      ],
+      "number": 1,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprintid": 38122,
+      "subjects": [
+        "L1",
+        "LB",
+        "LC",
+        "LC5201",
+        "Q1"
+      ],
+      "succeeds": 37747,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38122",
+      "divisions": [
+        "FKIP20"
+      ],
+      "volume": 15,
+      "related_url": [
+        {
+          "url": "https:\/\/lib.atmajaya.ac.id\/default.aspx?tabID=61&src=a&id=313538"
+        }
+      ],
+      "abstract": "Abstrak Penelitian ini terfokus pada peningkatan kompetensi pelatihan teknik yang\r\n\r\ndimiliki pelatih angkat besi Padepokan Gajah Lampung. Penelitian ini menggunakan penelitian kaji tindak (action research). Data penelitian dikumpulkan melalui observasi, angket dan wawancara. Subjek penelitian adalah para pelatih angkat besi Padepokan Gajah Lampung yang ditentukan secara purposeful sampling. Temuan penelitian menunjukkan: (1) aplikasi teknologi video camera telah memberikan perubahan kemampuan pelatih angkat besi, khususnya kemampuan dalam pengamatan teknik angkat besi. (2) pemahaman konsep-konsep mekanika gerak telah memberikan perubahan kemampuan pelatih angkat besi, khususnya dalam memahami permasalahan teknik cabang olahraga angkat besi, (3) pemahaman model analisis teknik cabang olahraga telah memberikan perubahan kemampuan pelatih dalam meningkatkan efisiensi analisis teknik angkat besi, (4) pemahaman video camera, konsep mekanika gerak angkat besi, model analisis teknik telah memberikan perubahan kemampuan pelatih dalam pelatihan teknik cabang olahraga angkat besi\r\n\r\nKata kunci: biomekanika olahraga, the common center of gravity, stabilitas",
+      "datestamp": "2022-01-20 07:31:31",
+      "publication": "Peningkatan Kompetensi Pelatihan Teknik Olahraga Angkat Besi Melalui Implementasi Biomenika Olahraga",
+      "full_text_status": "public",
+      "userid": 982,
+      "date": "2013-01",
+      "type": "article",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-01-07 07:27:45",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433004",
+                  "fileid": 433004,
+                  "filesize": 1772660,
+                  "filename": "Peningkatan Kopetensi.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 159116,
+                  "datasetid": "document",
+                  "hash": "310feaa38bdd6f45a71758786fc7a57d"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "Peningkatan Kopetensi.pdf",
+            "rev_number": 2,
+            "pos": 1,
+            "docid": 159116,
+            "eprintid": 38122,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159116"
+          },
+          {
+            "rev_number": 2,
+            "pos": 2,
+            "docid": 159117,
+            "eprintid": 38122,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159117",
+            "placement": 2,
+            "formatdesc": "Reviewer",
+            "files": [
+                {
+                  "hash": "301a80cfd07b05deecc22cd6c75af505",
+                  "mime_type": "application\/pdf",
+                  "filename": "peer review JN Peningkatan kompetensi pelatih.pdf",
+                  "datasetid": "document",
+                  "objectid": 159117,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433006",
+                  "fileid": 433006,
+                  "filesize": 1354680,
+                  "mtime": "2022-01-20 05:45:54",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "peer review JN Peningkatan kompetensi pelatih.pdf"
+          }
+      ],
+      "id_number": 14110016,
+      "status_changed": "2022-01-20 07:31:31",
+      "pagerange": "97-110",
+      "rev_number": 11,
+      "official_url": "https:\/\/lib.atmajaya.ac.id\/default.aspx?tabID=61&src=a&id=313538",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/81\/22"
+    },
+    {
+      "abstract": "Introduction. In the process of improving an athlete's performance, the recovery methods must be optimized. Recovery is required to maximize training and competition performance, fatigue should be minimized by recovering as fast as possible. This study aimed to assess effects of contrast water therapy on blood lactate concentration after high-intensity interval training HIIT) in alte futeal players\r\n\r\nMethode. A total of 30 male futsal athletes volunteered to be subjects in this study. The test session consisted of repeated sprints at the distance of 25 m (3 series of two 1-min repetitions at 90% of maximum heart rate). After HIIT, the participants were randomized into 2 groups: 15 received contract water therapy (CWT), and 15 were given slow jogging recovery (SJR). The recovery for the CWT group consisted of periodic immersions in cold water (18°C) for 1 min and then in hot water (37°C) for 2 min, with accumulating 15 min in the water. The recovery for the SJR group included 8 min of slow jogging (6.8 km-h around a field. Results. Affor 30-min recovery, lactate concentration was significantly greater (p=0.001) in the SR group (7.67 mmol\/) than\r\n\r\nin the GWT group 82 mm and remained significantly different 60 min after recovery (p=0.0001, 680 mmol and 5.01 mmol\/l,\r\n\r\nrespectively).\r\n\r\nConclusione. We demonstrated that CWT after HIIT had an effect on the recovery of elite futsal players by decreasing the Lactate concentration and rapid recovery of heart rate Key words: recovery, performance, fatigue, muscle function, sprint",
+      "datestamp": "2022-01-21 01:35:56",
+      "volume": 27,
+      "divisions": [
+        "FKIP20"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/38137",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB1501",
+        "LC"
+      ],
+      "eprintid": 38137,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "number": 3,
+      "creators": [
+        {
+          "name": {
+            "given": "Hermawan",
+            "lineage": null,
+            "family": "Rahmat",
+            "honourific": null
+          },
+          "id": "nugafik@yahoo.co.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ramdan",
+            "lineage": null,
+            "given": "Pelana"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Winata",
+            "family": "Bagus",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Widiastuti",
+            "given": "A.E.",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "syukur",
+            "lineage": null,
+            "family": "abdul"
+          },
+          "id": null
+        }
+      ],
+      "issn": "2544-4395",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "University School Of Physical Education In Wroclaw",
+      "title": "Effect of contrast water therapy on blood lactate concentration after high-intensity interval training in elite futsal players",
+      "lastmod": "2022-01-21 01:35:56",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/81\/37",
+      "official_url": "https:\/\/www.termedia.pl\/Effect-of-contrast-water-therapy-on-blood-lactate-concentration-after-high-intensity-interval-training-in-elite-futsal-players,128,37129,0,1.html",
+      "rev_number": 13,
+      "status_changed": "2022-01-21 01:35:56",
+      "pagerange": "18-25",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mtime": "2022-01-20 08:15:24",
+                  "hash_type": "MD5",
+                  "filesize": 6412286,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433156",
+                  "fileid": 433156,
+                  "datasetid": "document",
+                  "objectid": 159133,
+                  "filename": "CamScanner 01-20-2022 12.41.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "7b90ab15e7fb9bcb0bc1bd4404ad4e3e"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "CamScanner 01-20-2022 12.41.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "eprintid": 38137,
+            "language": "en",
+            "docid": 159133,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159133"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 2,
+            "files": [
+                {
+                  "filesize": 1990217,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/433158",
+                  "fileid": 433158,
+                  "mtime": "2022-01-20 08:15:50",
+                  "hash_type": "MD5",
+                  "hash": "3c9c9bd1b6765e380a3cefd4a1c4d0b6",
+                  "datasetid": "document",
+                  "objectid": 159134,
+                  "mime_type": "application\/pdf",
+                  "filename": "Jurnal ilmiah internasional (1).pdf"
+                }
+            ],
+            "formatdesc": "Reviewer",
+            "main": "Jurnal ilmiah internasional (1).pdf",
+            "rev_number": 2,
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/159134",
+            "docid": 159134,
+            "language": "en",
+            "eprintid": 38137
+          }
+      ],
+      "date": "2019-06",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "Physiotherapy Quarterly",
+      "userid": 982
+    },
+    {
+      "learning_level": "Higher Education",
+      "datestamp": "2020-11-16 15:09:50",
+      "abstract": "Responsi hidrologi berisikan materi terkait langkah demi langkah dalam pengerjaan tugas besar hidrologi. Tugas besar hidrologi tersebut berkenaan perencanaan debit rencana pada pembangunan insfrastruktur drainase atau normalisasi sungai. Dalam sumber belajar ini disedikan tata cara menghitung mulai dari data mentah hingga hasil perencanaan akhir.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25582",
+      "eprintid": 25582,
+      "completion_time": "1 semester",
+      "subjects": [
+        "LC",
+        "TA"
+      ],
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "riki.chandra@eng.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Riki Chandra Wijaya",
+            "given": "Riki",
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "title": "Responsi Hidrologi (vclass.unila.ac.id)",
+      "lastmod": "2020-11-16 15:09:50",
+      "publisher": "vclass.unila.ac.id",
+      "eprint_status": "archive",
+      "rev_number": 9,
+      "official_url": "https:\/\/vclass.unila.ac.id\/course\/view.php?id=5569",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/55\/82",
+      "status_changed": "2020-11-16 15:09:50",
+      "documents": [
+          {
+            "main": "RESPONSI HIDROLOGI-VCLASS.pdf",
+            "placement": 1,
+            "formatdesc": "Responsi hidrologi vclass.unila.ac.id",
+            "files": [
+                {
+                  "hash": "8e4be0431d6a6b6ac4c66049afe51174",
+                  "datasetid": "document",
+                  "objectid": 39386,
+                  "mime_type": "application\/pdf",
+                  "filename": "RESPONSI HIDROLOGI-VCLASS.pdf",
+                  "filesize": 383331,
+                  "fileid": 230582,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/230582",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-16 10:42:48"
+                }
+            ],
+            "date_embargo": "2025-01-01",
+            "mime_type": "application\/pdf",
+            "security": "validuser",
+            "content": "other",
+            "docid": 39386,
+            "eprintid": 25582,
+            "language": "id",
+            "format": "other",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39386",
+            "pos": 1,
+            "rev_number": 2
+          }
+      ],
+      "skill_areas": [
+        "Hidrologi"
+      ],
+      "type": "teaching_resource",
+      "date": "2020-11-01",
+      "task_purpose": "menghitung luas basin\r\nmenghitung hujan rata-rata menggunakan metode polygon thieesen\r\nmenghitung hujan rencana periode ulang\r\nmenghitung c-square\r\nmenghitung dimensi saluran",
+      "userid": 2899,
+      "full_text_status": "restricted",
+      "contact_email": "riki.chandra@eng.unila.ac.id"
+    },
+    {
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 35999,
+                  "mime_type": "application\/pdf",
+                  "filename": "06 DEV OF DESC.pdf",
+                  "hash": "9b96d34f177249822087a052c82ea0e7",
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-17 05:51:45",
+                  "filesize": 767841,
+                  "fileid": 206730,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/206730"
+                }
+            ],
+            "main": "06 DEV OF DESC.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35999",
+            "format": "text",
+            "docid": 35999,
+            "language": "en",
+            "eprintid": 22542
+          }
+      ],
+      "ispublished": "unpub",
+      "dir": "disk0\/00\/02\/25\/42",
+      "rev_number": 11,
+      "status_changed": "2020-06-17 06:09:55",
+      "full_text_status": "public",
+      "userid": 758,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/REV"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/REV"
+        }
+      ],
+      "corp_creators": [
+        "Jurusan Pendidikan MIPA FKIP Unila",
+        "Jurusan Ilmu Pendidikan FKIP Unila"
+      ],
+      "date": 2019,
+      "type": "other",
+      "divisions": [
+        "FKIP19"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22542",
+      "subjects": [
+        "L1",
+        "LB",
+        "LB1501",
+        "LC",
+        "LC5201"
+      ],
+      "eprintid": 22542,
+      "datestamp": "2020-06-17 06:09:55",
+      "eprint_status": "archive",
+      "publisher": "FKIP Unila",
+      "title": "Development of Description Test Instruments Based Saintific  Approach to Measure Ability to Create Critical Participants in Class V Basic School",
+      "lastmod": "2020-06-17 06:09:55",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "undangros@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rosidin",
+            "given": "Undang"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Rini",
+            "lineage": null,
+            "given": "Riswanti"
+          }
+        }
+      ]
+    },
+    {
+      "datestamp": "2020-06-17 06:10:11",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22541",
+      "eprintid": 22541,
+      "subjects": [
+        "L1",
+        "LB",
+        "LB1501",
+        "LC",
+        "LC5201"
+      ],
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Rosidin",
+            "lineage": null,
+            "given": "Undang"
+          },
+          "id": "undangros@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rini",
+            "given": "Riswanti"
+          }
+        }
+      ],
+      "title": "The Development of Higher Order Thinking Skills-Based Assessment Instrument for Elementary School Integrated Thematic Learning",
+      "lastmod": "2020-06-17 06:10:11",
+      "eprint_status": "archive",
+      "publisher": "FKIP Unila",
+      "rev_number": 11,
+      "dir": "disk0\/00\/02\/25\/41",
+      "ispublished": "unpub",
+      "status_changed": "2020-06-17 06:10:11",
+      "documents": [
+          {
+            "main": "05 THE DEV OF HOTS.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "ed5c103e1951579fe0dd7c15da81dd82",
+                  "filename": "05 THE DEV OF HOTS.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 35998,
+                  "fileid": 206719,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/206719",
+                  "filesize": 784964,
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-17 05:49:00"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 35998,
+            "language": "en",
+            "eprintid": 22541,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35998",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "type": "other",
+      "date": 2019,
+      "userid": 758,
+      "full_text_status": "public",
+      "corp_creators": [
+        "Jurusan Pendidikan MIPA FKIP Unila",
+        "Jurusan Ilmu Pendidikan FKIP Unila"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/REV"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/REV"
+        }
+      ]
+    },
+    {
+      "publication": "AKSARA: Jurnal Bahasa dan Sastra",
+      "userid": 2813,
+      "full_text_status": "public",
+      "date": 2020,
+      "type": "article",
+      "documents": [
+          {
+            "main": "PUBLIKASI ARTIKEL AKSARA 2020.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "c69d1b960960deef79df573855469b65",
+                  "filename": "PUBLIKASI ARTIKEL AKSARA 2020.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 139005,
+                  "datasetid": "document",
+                  "fileid": 365334,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/365334",
+                  "filesize": 719683,
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-25 22:37:39"
+                }
+            ],
+            "placement": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139005",
+            "format": "text",
+            "eprintid": 30800,
+            "language": "en",
+            "docid": 139005,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "id_number": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/aksara\/issue\/view\/1097",
+      "status_changed": "2021-05-27 02:34:17",
+      "pagerange": "115-132",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/08\/00",
+      "rev_number": 9,
+      "eprint_status": "archive",
+      "publisher": "AKSARA: Jurnal Bahasa dan Sastra",
+      "title": "Pengembangan kamus daring bahasa Prancis-Indonesia \r\nbidang pariwisata berbasis blog interaktif",
+      "lastmod": "2021-05-27 02:34:17",
+      "date_type": "published",
+      "issn": "P-ISSN: 1411-2051 \/ E-ISSN: 2620-3928",
+      "number": 2,
+      "creators": [
+        {
+          "id": "setiarini99@yahoo.fr",
+          "name": {
+            "honourific": null,
+            "given": "Rini",
+            "family": "Setia",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "Kusrini",
+            "family": "Nani",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "nani.kusrini7@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "subjects": [
+        "L1",
+        "LB",
+        "LC",
+        "PB"
+      ],
+      "eprintid": 30800,
+      "divisions": [
+        "FKIP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30800",
+      "abstract": "The industrial revolution 4.0 has given many great impacts in all aspects, \r\neither positive or negative. In areas of education, there are many things \r\nthat have changed, it is more modern and efficient thanks to technology, \r\nthere is no limitation of time and place. The learning process at all levels \r\nhas already used various innovative learning media and digital media. In \r\naddition, the use of the Internet for learning and teaching purposes is \r\nused more from time to time. In this era, all things integrate with the \r\ninternet (internet of things), this condition then stimulates all people to \r\nbe more creative to take advantage of the internet in the way of producing \r\nor creating a creation. This can be used by many people like the \r\napplication, the site, the web, etc. Consequently, based on the previous \r\nresearch, we therefore make a development of our research result to be \r\nmore efficient, more modern and which is suitable with the condition of \r\nthe era. The French-Indonesian digital dictionary on tourism in 2018, we \r\nare developing it by adding more data and also applications for all users. \r\nWe therefore hope that this digital dictionary can help and be used by \r\nmany people who learn French, especially in the field of tourism.\r\nKeywords: online dictionary, French-Indonesian, tourism",
+      "datestamp": "2021-05-27 02:34:17",
+      "volume": 21
+    },
+    {
+      "type": "article",
+      "date": "2018-11-12",
+      "userid": 459,
+      "publication": "Pranala",
+      "full_text_status": "public",
+      "status_changed": "2019-05-23 07:14:35",
+      "pagerange": "1-12",
+      "dir": "disk0\/00\/01\/31\/05",
+      "ispublished": "pub",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/PRANALA\/index",
+      "rev_number": 7,
+      "documents": [
+          {
+            "main": "Kartika.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "a9aa4da1016f0c024762523a1da35b87",
+                  "filename": "Kartika.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 26101,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/115205",
+                  "fileid": 115205,
+                  "filesize": 452225,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-20 21:13:45"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 26101,
+            "language": "en",
+            "eprintid": 13105,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26101",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "given": "Kartika",
+            "family": "Soraya",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "kartikasoraya40@gmail.com"
+        },
+        {
+          "id": "Nainggolan.flora@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nainggolan",
+            "given": "Flora"
+          }
+        },
+        {
+          "id": "ndianarosita@ymail.com",
+          "name": {
+            "honourific": null,
+            "given": "Diana",
+            "family": "Rosita",
+            "lineage": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "publisher": "FKIP Unila",
+      "lastmod": "2019-05-23 07:14:35",
+      "title": "Model Concept Sentence dalam Karangan Deskripsi  Bahasa Prancis Siswa Kelas XI IPA",
+      "date_type": "published",
+      "datestamp": "2019-05-23 07:14:35",
+      "abstract": "ABSTRACT: Modèle concept sentence dans le texte descriptif de la langue française pour les étudiants de la classe XIe IPA. Cette recherche vise à améliorer les résultats d'apprentissage dans le texte desriptif de la langue française des étudiants en appliquant le modèle d'apprentissage concept sentence. Concept sentence est un modèle d’apprentissage dans lequel les étudiants apprennent avec leur groupe à faire plusieurs phrases en fonction des mots-clés que l'enseignant a donnés aux étudiants. Puis le texte descriptif est un essai qui peut amener les pensées et les sentiments du lecteur à comprendre et à apprécier l'objet écrit dans l'essai comme si le lecteur l'avait expérimenté lui-même. Ensuite, cette recherche est une recherche expérimentale avec le design d'un groupe pré-test post-test. La recherche expérimentale est des méthodes de recherche utilisées pour déterminer l’influence de certains traitements sur d’autres dans des conditions contrôlées. Les analyses des données dans cette recherche utilisent le test de normalité, le test d'homogénéité, le test de gain et le test-t. Les résultats de cette étude indiquent qu'il existe la difference significative des résultats d'apprentissage des étudiants de la classe XIe IPA au lycée 16 Bandarlampung dans les compétences d’écriture du texte descriptif en appliquant le modèle d'apprentissage concept sentence. Ceci est démontré par les résultats du test de N-gain avec la valeur moyenne 0,563 et du test-t avec la valeur de signification des données (0,000 <0,05), puis Ha est accepté et Ho est rejeté. L’hypothèse de cette étude a donc été testée et cette vérité peut être considérée dans un niveau de confiance de 95% (α = 0,05).  \r\nMots-clés: concept sentence, la recherche expérimentale, texte descriptif. \r\nABSTRAK: Model Concept Sentence dalam Karangan Deskripsi Bahasa Prancis Siswa Kelas XI IPA. Penelitian ini bertujuan untuk meningkatkan hasil belajar siswa dalam menulis karangan deskripsi bahasa Prancis dengan menerapkan model pembelajaran concept sentence. Concept sentence merupakan salah satu model dimana siswa belajar dengan kelompoknya untuk membuat beberapa kalimat sesuai dengan kata kunci yang telah diberikan guru kepada siswa. Karangan deskripsi adalah karangan yang bagaimana dapat membawa pikiran dan perasaan pembaca untuk memahami dan menghayati objek yang dituliskan dalam karangan seolah-olah pembaca itu mengalaminya sendiri. Selanjutnya, penelitian ini adalah penelitian eksperimen dengan desain one group pretest-posttest. Eksperimen adalah metode penelitian yang digunakan untuk mencari pengaruh perlakuan tertentu terhadap yang lain dalam kondisi yang terkendalikan. Analisis data pada penelitian ini menggunakan uji normalitas, uji homogenitas, uji gain dan uji-t. Hasil penelitian ini menunjukkan terdapat perbedaan yang signifikan terhadap hasil belajar siswa kelas XI IPA SMAN 16 Bandarlampung dalam keterampilan menulis karangan deskripsi bahasa Prancis dengan menerapkan model pembelajaran concept sentence. Hal itu dibuktikan dengan hasil uji-t dengan nilai signifikasi data (0,000 < 0,05), maka Ha diterima dan Ho ditolak. Jadi hipotesis pada penelitian ini telah teruji dan dapat diyakini kebenarannya dalam taraf kepercayaan 95% (α = 0,05).  \r\nKata kunci: concept sentence, karangan deskripsi, penelitian eksperimen.",
+      "volume": 1,
+      "subjects": [
+        "LB2300",
+        "LC"
+      ],
+      "eprintid": 13105,
+      "divisions": [
+        "FKIP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13105"
+    },
+    {
+      "datestamp": "2020-06-18 07:34:24",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22641",
+      "divisions": [
+        "FKIP19"
+      ],
+      "eprintid": 22641,
+      "subjects": [
+        "L1",
+        "LB1501",
+        "LC",
+        "LC5201"
+      ],
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suntoro",
+            "given": "Irawan",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Rini",
+            "lineage": null,
+            "given": "Riswanti",
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2020-06-18 07:34:24",
+      "title": "Efektivitas Implementasi Pilar Manajemen Berbasis Sekolah Di Sekolah Dasar Provinsi Lampung",
+      "publisher": "FKIP Unila",
+      "eprint_status": "archive",
+      "rev_number": 10,
+      "ispublished": "unpub",
+      "dir": "disk0\/00\/02\/26\/41",
+      "status_changed": "2020-06-18 07:34:24",
+      "documents": [
+          {
+            "main": "16 EFEKTIFITAS.pdf",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/207653",
+                  "fileid": 207653,
+                  "filesize": 723540,
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-18 07:22:40",
+                  "hash": "5469ffda4a4806ed5c3f6d9b479379ac",
+                  "filename": "16 EFEKTIFITAS.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 36114
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 22641,
+            "docid": 36114,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/36114",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "date": 2020,
+      "type": "other",
+      "full_text_status": "public",
+      "userid": 825,
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/REV"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/REV"
+        }
+      ]
+    },
+    {
+      "full_text_status": "public",
+      "publication": "Jurnal etika Demokrasi",
+      "userid": 36,
+      "type": "article",
+      "date": "2021-06",
+      "documents": [
+          {
+            "main": "5317-17664-5-PB (1).pdf",
+            "files": [
+                {
+                  "filesize": 578193,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/410672",
+                  "fileid": 410672,
+                  "mtime": "2021-11-05 14:14:51",
+                  "hash_type": "MD5",
+                  "hash": "62aaf8e2ffcb5fe04f43623b073d9ab9",
+                  "objectid": 155893,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "5317-17664-5-PB (1).pdf"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "eprintid": 35115,
+            "language": "en",
+            "content": "accepted",
+            "docid": 155893,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/155893",
+            "license": "cc_by_sa_4",
+            "pos": 1,
+            "rev_number": 3
+          }
+      ],
+      "pagerange": "254-263",
+      "status_changed": "2021-11-06 02:15:41",
+      "dir": "disk0\/00\/03\/51\/15",
+      "ispublished": "pub",
+      "official_url": "https:\/\/jurnal.unismuh.ac.id\/index.php\/jed\/article\/view\/5317",
+      "rev_number": 15,
+      "publisher": "Universitas Muhammadiyah Makassar",
+      "eprint_status": "archive",
+      "title": "Bhinneka Tunggal Ika As A National Consensus And A Universal\r\nTool Of The Indonesian Nation",
+      "lastmod": "2021-11-06 02:15:41",
+      "date_type": "published",
+      "issn": "2615-4374",
+      "referencetext": "Abdulkarim, A., Komalasari, K., Saripudi. D., Rtmaningsih, N., and A. (2020). Development of a Unity in Diversity-based Pancasila Education Text Book for Indonesia Universities. International Journal of Instruction.\r\n\r\nAbdulkarim, A., Ratmaningsih, N., and A. (2018). eveloping Civicpedia as a Civic Education E-Learning Media to Improve Student’s Information Literacy. Journal of Social Studies Education Research,.\r\n\r\nAghabian, H. (2015). The Kakawin Sutasoma: A look at “Bhinneka Tunggal Ika” & Perceptions of the Text’s Religion Implications. Independent Study Project.\r\n\r\nAstuti, AD, Farida. MWN, and F. A. (2020). Menerapkan Sikap dan Perilaku yang berprinsip pada Bhinneka tunggal Ika di Era 4.0 dalam Pembelajaran K-13 DI SD\/MI Kelas VI. Journal of Madrasah Ibtidaiyah Education.\r\n\r\nBaihaki, E. S. (2017). Strengthening Bhinneka Tunggal Ika As An Identity and Unifier Of The Nation: Realizing A Peacful Islam Statehood Harmonization. Jurnal ADDIN.\r\n\r\nButler, D. (2016). Peace and Harmony in the World Based on Pancasila and Bhinneka Tunggal Ika (Unity in Diversity). Journal Multicultural and Multireligius.\r\n\r\nFarisi, M. I. (2014). Bhinneka Tunggal Ika [Unity in Diversity]: From Dinasty Policy to Classroom Practice. Journal of Social Science Educatiton.\r\n\r\nFitch, R. . (2011). Moral Edication in Indonesia: a Preliminary Study. Education y Cienca.\r\n\r\nHardono, H. . (1994). Hakikat dan Muatan Filsafat Pancasila. Kanisius.\r\n\r\nK., dan P. A. N. (2017). Counteract Radicalism and Bring Up Bhinneka Tunggal Ika. Proceeding of International of Islamic Education.\r\n\r\nKurniawan, J. A., dan Candidate, P. (2018). When Human Right Enough: “Failure” Multiculturalism in Indonesia. Journal of Shoutheast Asian Human Rights.\r\n\r\nPursika. (2009). Kajian Analitik Terhadap Bhinneka Tunggal Ika. Jurnal Pendidikan Dan Pengajaran.\r\n\r\nRambe, T. (2017). Membingkai Kebhinnekaan dan Kedaulatan dalam Berbangsa dan Bernegara dari Sudut Pandang Sosial Politik Nasional. Jurnal Generasi Kampus.\r\n\r\nRidwan. (2015). Problematika Keberagaman Kebudayaaan dan Alternatif Pemecahan. Jurnal Madaniyah.\r\n\r\nRizal Mustnsyir. (1995). Bhinneka Tunggal Ika dalam Perspektif Filsafat Analitik. Jurnal Filsafat.",
+      "number": 2,
+      "creators": [
+        {
+          "id": "nurhayati.1992@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "nurhayati",
+            "lineage": null,
+            "family": "nurhayati"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Setiyowati",
+            "lineage": null,
+            "given": "Rini"
+          },
+          "id": null
+        },
+        {
+          "id": "nurmalisayunisca@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Nurmalisa",
+            "given": "Yunisca",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "subjects": [
+        "H1",
+        "L1",
+        "LC"
+      ],
+      "eprintid": 35115,
+      "divisions": [
+        "FKIP12"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35115",
+      "abstract": "This article ims to reveal a meaning contained in Bhinneka Tunggal Ika which is used as a tool to unite the nation. In living together with diversity can be a blessing or a source of disaster depending on how we view and manage it. The existence of diversity grows and develops over time. It cannot be denied thet we live among many differences, therefore the Indonesian nation makes unity in diversity a motto that is upheld as a tool that uites all differences that exist within the nation, namely race, ethnicity, religion, and so on.",
+      "datestamp": "2021-11-06 02:15:41",
+      "volume": 6
+    },
+    {
+      "pagerange": "95-104",
+      "status_changed": "2020-06-12 08:45:28",
+      "official_url": "http:\/\/semnaspend.fkip.unila.ac.id\/2019\/08\/14\/prosiding\/",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/23\/56",
+      "documents": [
+          {
+            "eprintid": 22356,
+            "language": "en",
+            "content": "published",
+            "docid": 35774,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35774",
+            "rev_number": 3,
+            "pos": 1,
+            "main": "Annisa Yulistia. Sastra Anak sebagai Literasi Awal Pengantar Tahap Perkembangan ANak.docx",
+            "files": [
+                {
+                  "hash": "3603e703049ec2efacd4fa6533ecec95",
+                  "objectid": 35774,
+                  "datasetid": "document",
+                  "filename": "Annisa Yulistia. Sastra Anak sebagai Literasi Awal Pengantar Tahap Perkembangan ANak.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filesize": 206484,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205412",
+                  "fileid": 205412,
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-18 08:44:10"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          },
+          {
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "files": [
+                {
+                  "hash": "902edc3a3c7c315b9ef204247732ba8d",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "Prosiding Semnas 28 Sep 2019.docx",
+                  "objectid": 35775,
+                  "datasetid": "document",
+                  "fileid": 205414,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205414",
+                  "filesize": 203194,
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-12 06:37:48"
+                }
+            ],
+            "placement": 2,
+            "main": "Prosiding Semnas 28 Sep 2019.docx",
+            "pos": 2,
+            "rev_number": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35775",
+            "eprintid": 22356,
+            "language": "en",
+            "docid": 35775
+          },
+          {
+            "docid": 35776,
+            "content": "published",
+            "language": "en",
+            "eprintid": 22356,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35776",
+            "rev_number": 3,
+            "pos": 3,
+            "main": "index.html",
+            "placement": 3,
+            "files": [
+                {
+                  "fileid": 205417,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205417",
+                  "filesize": 32592,
+                  "hash_type": "MD5",
+                  "mtime": "2020-06-12 06:38:56",
+                  "hash": "2859fb87f388407bb1881d995cc6596d",
+                  "mime_type": "text\/html",
+                  "filename": "index.html",
+                  "objectid": 35776,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "text\/html",
+            "security": "public"
+          }
+      ],
+      "event_type": "conference",
+      "pres_type": "paper",
+      "event_location": "FKIP Universitas Lampung",
+      "type": "conference_item",
+      "date": "2019-09-28",
+      "full_text_status": "public",
+      "userid": 2790,
+      "abstract": "Abstract: Children Literature as Early Literacy to Guide Children Reach the Development Stage.  Children Literature describes the lives of children and has benefits including being able to provide fun, develop imagination, provide new experiences, develop insights as well as, develop culture and literature. However, at an early age of development, children have not been able to choose the appropriate reading for themselves. So that children can get readings in accordance with their development, we must care about the reading given to children. The selection of readings must be done carefully and not based on subjective tastes and adult glasses and pay attention to the components of language that must be adapted to the stages of intellectual development.\r\nkeywords: children literature, early literacy, development stage",
+      "datestamp": "2020-06-12 08:45:28",
+      "eprintid": 22356,
+      "subjects": [
+        "L1",
+        "LC"
+      ],
+      "succeeds": 17011,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22356",
+      "event_title": "Seminar Nasional Pendidikan FKIP 2019",
+      "divisions": [
+        "FKIP23"
+      ],
+      "creators": [
+        {
+          "name": {
+            "family": "yulistia",
+            "lineage": null,
+            "given": "annisa",
+            "honourific": null
+          },
+          "id": "yulistiaannisa@gmail"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "lastmod": "2020-06-12 08:45:28",
+      "title": "SASTRA ANAK SEBAGAI LITERASI AWAL PENGANTAR TAHAP PERKEMBANGAN ANAK",
+      "eprint_status": "archive",
+      "event_dates": "28 September 2019",
+      "date_type": "published"
+    }
+]
+

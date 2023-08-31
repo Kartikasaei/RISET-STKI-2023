@@ -1,0 +1,131 @@
+[
+    {
+      "divisions": [
+        "FP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/43478",
+      "subjects": [
+        "BC"
+      ],
+      "eprintid": 43478,
+      "abstract": "The Lahat people are one of the people who are very obedient to customs. Adat is something that \r\nmust be adhered to firmly. Even though the Lahat people are far from their hometown, they still maintain \r\nand also preserve their cultural customs. One of them is the philosophy of Seganti Setungguan. The \r\npurpose of this study was to determine the implementation of the philosophy of seganti setungguan \r\namong overseas communities in Bandarlampung. The method used in this research is the descriptive \r\nqualitative research method. The approach used in this research is ethnography. The research location is \r\nin the city of Bandarlampung, this location was chosen as a research location because there are Lahat \r\npeople who live and live in Lampung Province. So that researchers can see facts or realities in society that \r\nhave these characteristics. The results showed that the Lahat people who were overseas continued to carry \r\nout and preserve the philosophy of the Lahat by forming an association of Lahat people. The form of \r\nimplementation of the philosophy as a wavering is carried out in the form of joyful activities such as \r\nweddings, then mourning activities, such as death and calamities, then educational activities, and religious \r\nactivities. The implementation of this philosophy is as much as a striving, indirectly forming mechanical \r\nsocial solidarity that binds fellow Lahat people overseas due to the feeling of coincidence, helping, and \r\ncaring for others.",
+      "datestamp": "2022-07-20 09:46:53",
+      "volume": 8,
+      "issn": "2364-5369",
+      "date_type": "published",
+      "publisher": "Teti Feriyani, Erlina Rufaidah, Pargito",
+      "eprint_status": "archive",
+      "title": "Overseas Lahat Community in Bandarlampung",
+      "lastmod": "2022-07-20 09:46:53",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "number": 6,
+      "creators": [
+        {
+          "id": "-",
+          "name": {
+            "family": "Teti",
+            "lineage": null,
+            "given": "Feriyani",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Rufaidah",
+            "family": "Erlina",
+            "lineage": null
+          },
+          "id": "-"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "-",
+            "lineage": null,
+            "family": "Pargito"
+          },
+          "id": "-"
+        }
+      ],
+      "documents": [
+          {
+            "main": "Jurnal 001.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 531861,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/474633",
+                  "fileid": 474633,
+                  "mtime": "2022-07-20 05:07:27",
+                  "hash_type": "MD5",
+                  "hash": "cd12d18179c45102aa4b4721c6d72c1f",
+                  "datasetid": "document",
+                  "objectid": 165418,
+                  "mime_type": "application\/pdf",
+                  "filename": "Jurnal 001.pdf"
+                }
+            ],
+            "placement": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/165418",
+            "format": "text",
+            "language": "en",
+            "eprintid": 43478,
+            "docid": 165418,
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "dir": "disk0\/00\/04\/34\/78",
+      "ispublished": "pub",
+      "rev_number": 10,
+      "official_url": "https:\/\/ijmmu.com\/index.php\/ijmmu\/article\/view\/2588\/2305",
+      "pagerange": "1-8",
+      "status_changed": "2022-07-20 09:46:53",
+      "publication": "Overseas Lahat Community in Bandarlampung",
+      "full_text_status": "public",
+      "userid": 1000,
+      "contributors": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Teti",
+            "lineage": null,
+            "given": "Feriyani"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "-"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Rufaidah",
+            "family": "Erlina",
+            "lineage": null
+          },
+          "id": "-"
+        },
+        {
+          "name": {
+            "given": "-",
+            "family": "Pargito",
+            "lineage": null,
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "-"
+        }
+      ],
+      "corp_creators": [
+        "Teti Feriyani",
+        "Erlina Rufaidah",
+        "Pargito"
+      ],
+      "type": "article",
+      "date": "2021-06"
+    }
+]
+

@@ -1,0 +1,137 @@
+[
+    {
+      "datestamp": "2021-06-21 08:24:18",
+      "subjects": [
+        "D1",
+        "D204"
+      ],
+      "eprintid": 32734,
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32734",
+      "creators": [
+        {
+          "name": {
+            "family": "Muhammad Rizkillah",
+            "lineage": null,
+            "given": "Rizkillah",
+            "honourific": null
+          },
+          "id": "rizkillah@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Fera Ferianti",
+            "given": "Ferianti",
+            "honourific": null
+          },
+          "id": "fera.ferianti98@gmail.com"
+        },
+        {
+          "id": "hilman.rifqi19@gmail.com",
+          "name": {
+            "given": "Rifqi",
+            "family": "Hilman Rifqi",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Yusuf Perdana",
+            "given": "Yusuf Perdana",
+            "honourific": null
+          },
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "publisher": "University of Lampung",
+      "title": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus",
+      "lastmod": "2021-06-21 08:24:18",
+      "status_changed": "2021-06-21 08:24:18",
+      "dir": "disk0\/00\/03\/27\/34",
+      "ispublished": "unpub",
+      "rev_number": 10,
+      "documents": [
+          {
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/148778",
+            "eprintid": 32734,
+            "language": "en",
+            "docid": 148778,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus.jpeg",
+            "security": "public",
+            "mime_type": "image\/jpeg",
+            "files": [
+                {
+                  "hash": "16dfecd057501ad85750f8f3165f7797",
+                  "datasetid": "document",
+                  "objectid": 148778,
+                  "mime_type": "image\/jpeg",
+                  "filename": "Poster tenggelamnya Mutiara Hitam Lampung Lada ke Kopi Era Kolonial Di Kabupaten Tanggamus.jpeg",
+                  "filesize": 235070,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/387331",
+                  "fileid": 387331,
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-21 04:33:37"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "date": "2021-12-18",
+      "type": "other",
+      "contributors": [
+        {
+          "id": "rizkillah@gmail.com",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "given": "Rizkillah",
+            "family": "Muhammad",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "fera.ferianti98@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Fera",
+            "lineage": null,
+            "given": "Ferianti"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "family": "Hilman",
+            "lineage": null,
+            "given": "Rifqi",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "hilman.rifqi19@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Yusuf Perdana",
+            "family": "Yusuf Perdana",
+            "lineage": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yusuf.perdana@fkip.unila.ac.id"
+        }
+      ],
+      "userid": 2779,
+      "full_text_status": "public"
+    }
+]
+

@@ -1,0 +1,96 @@
+[
+    {
+      "id_number": "10.2121\/sosiohumanika.v13i1.1295",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2020-08-30 06:17:08",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/217236",
+                  "fileid": 217236,
+                  "filesize": 704051,
+                  "filename": "Vol. 13 No. 1 Mei 2020.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 37440,
+                  "datasetid": "document",
+                  "hash": "030abf7db16cbf2488aeb73f72963286"
+                }
+            ],
+            "placement": 1,
+            "main": "Vol. 13 No. 1 Mei 2020.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37440",
+            "format": "text",
+            "language": "en",
+            "eprintid": 23807,
+            "docid": 37440
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/38\/07",
+      "official_url": "http:\/\/journals.mindamas.com\/index.php\/sosiohumanika\/article\/view\/1295",
+      "rev_number": 7,
+      "status_changed": "2020-08-31 01:55:55",
+      "pagerange": "13-24",
+      "publication": "SOSIOHUMANIKA: Jurnal Pendidikan Sains Sosial dan Kemanusiaan",
+      "userid": 250,
+      "full_text_status": "public",
+      "date": 2020,
+      "type": "article",
+      "divisions": [
+        "FKIP24"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23807",
+      "subjects": [
+        "C1",
+        "D1"
+      ],
+      "eprintid": 23807,
+      "datestamp": "2020-08-31 01:55:55",
+      "abstract": "The Settlement Patterns of Chinese Community in Bandar Lampung: A Historical Review”. The research aims to find the history and the distribution of Chinese ethnic settlements in Bandar Lampung City, Lampung, Indonesia. The research method used is the historical research method, that is method which includes heuristic, critics, interpretation, and historiography. Interview techniques were also conducted with respondents, who were from Chinese-Indonesian ethnicity. Historical research methods try to reconstruction the past event objectively and systematically by collecting, evaluating, verifying, and analyzing the evidence to establish the facts and obtain strong conclusions. The results of the study can be concluded that in Bandar Lampung, Chinese in general there are three tribes, namely the Khe tribe, the Hok Kian tribe, and the Kong Hu tribe, who have different types of work and affect existing settlement patterns. Distribution of ethnic Chinese community settlements in Bandar Lampung follows the liner pattern or centralized, clustering, and spreading. In the linear pattern, it can be seen that the ethnic Chinese people, majority and ideally, live linearly; and because they are traders, they use the straight line of the streets. In addition, they also have to live in groups to look after each other and help each other in various life aspects. While the majority of ethnic Chinese people who live spread are those who are economically inadequate; and, finally, they blended with ordinary people in Lampung, Indonesia.",
+      "volume": 13,
+      "issn": "1979-0112",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Minda Masagi Press.",
+      "title": "Pola Permukiman Etnis Tionghoa di Bandar Lampung: Suatu Tinjauan Historis",
+      "lastmod": "2020-08-31 01:55:55",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "ARIF",
+            "given": "SUPARMAN"
+          },
+          "id": "suparman.arif@fkip.unila.ac.id"
+        },
+        {
+          "id": "yustina.sri@fkip.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Ekwandari",
+            "given": "Yustina Sri",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Pratama",
+            "given": "Rinaldo Adi"
+          },
+          "id": "rinaldo@fkip.unila.ac.id"
+        }
+      ],
+      "number": 1
+    }
+]
+

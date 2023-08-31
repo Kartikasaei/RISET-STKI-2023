@@ -1,0 +1,75 @@
+[
+    {
+      "date_type": "published",
+      "publisher": "Dies Natalis 55 Unila",
+      "eprint_status": "archive",
+      "title": "LOGO DIES 55 UNIVERSITAS LAMPUNG",
+      "lastmod": "2020-11-09 09:13:13",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "PANJI",
+            "lineage": null,
+            "family": "KURNIAWAN"
+          },
+          "id": "panji.kurniawan@eng.unila.ac.id"
+        }
+      ],
+      "divisions": [
+        "FT9"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/24661",
+      "subjects": [
+        "N1",
+        "NC",
+        "ND",
+        "NE",
+        "NK",
+        "NX"
+      ],
+      "eprintid": 24661,
+      "datestamp": "2020-11-09 09:13:13",
+      "abstract": "ARTI LOGO :\r\n\r\nBentuk Setengah Lingkaran Berwarna Kuning, memiliki arti Surya\/Matahari yang bersinar dengan membawa kemakmuran, kegemilangan, berwarna kuning denan latar depan siluet orang dengan keceriaan, merupakan dominasi warna Universitas Lampung, sebagai wadah pendidikan yang mampu menghantarkan civitas akademisnya meraih kesuksesan.\r\nSiluet Garis Horizon berwarna Biru, merupakan Fakultas Penyelenggara yang dalam Hal ini adalah FKIP dan Fakultas Teknik.\r\nRiak Gelombang Ungu yang menyerupai tangan menengadah, merupakan refleksi keluasan ilmu pengetahuan, dan keleluasaan keilmuan (kurikulum merdeka) yang mampu mencapai ke seluruh ruang dan tempat dan mampu beradaptasi dengan kondisi apapun dan dimanapun, dengan tetap menjadikan kebesaran Tuhan YME, Allah SWT sebagai satu-satunya sumber dari segala Ilmu dalam Kehidupan.\r\nSiluet Pohon, Orang sebagai Tunas, dengan Daun Berwarna-warni, merefleksikan Kemampuan & Komitmen Unila untuk mampu Menciptakan Generasi yang Unggul, melalui sejumlah Fakultas yang dimilikinya.",
+      "full_text_status": "public",
+      "output_media": "IMAGE",
+      "userid": 72,
+      "type": "image",
+      "date": "2020-07",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 24661,
+            "docid": 38406,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/38406",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "LOGO Dies 55 Unila.pdf",
+            "files": [
+                {
+                  "fileid": 223843,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/223843",
+                  "filesize": 695889,
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-08 01:27:14",
+                  "hash": "f55b953e01bfe38e42bac7bb9c63b3f1",
+                  "filename": "LOGO Dies 55 Unila.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 38406
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "dir": "disk0\/00\/02\/46\/61",
+      "ispublished": "pub",
+      "rev_number": 12,
+      "status_changed": "2020-11-09 09:13:13"
+    }
+]
+

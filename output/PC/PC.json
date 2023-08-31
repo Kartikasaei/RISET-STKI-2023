@@ -1,0 +1,1035 @@
+[
+    {
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "fileid": 114684,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114684",
+                  "filesize": 22365,
+                  "mtime": "2019-05-17 03:24:49",
+                  "hash_type": "MD5",
+                  "hash": "afc4863e9838df0260733e753a23d47e",
+                  "filename": 17401,
+                  "mime_type": "application\/xml",
+                  "objectid": 26023,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "main": 17401,
+            "pos": 1,
+            "rev_number": 3,
+            "format": "archive",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26023",
+            "eprintid": 13019,
+            "language": "id",
+            "docid": 26023,
+            "content": "published"
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/30\/19",
+      "rev_number": 9,
+      "status_changed": "2019-05-21 02:58:03",
+      "full_text_status": "public",
+      "publication": "Pranala",
+      "userid": 383,
+      "date": "2019-01",
+      "type": "article",
+      "divisions": [
+        "FKIP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13019",
+      "subjects": [
+        "L1",
+        "PC"
+      ],
+      "eprintid": 13019,
+      "abstract": "Tujuan penelitian ini adalah untuk mendeskripsikan pembelajaran menulis teks deskripsi bahasa Prancis pada siswa kelas XI IPS 3 SMA Negeri 9 Bandarlampung Tahun Pelajaran 2017\/2018. Metode penelitian yang digunakan adalah deksriptif kualitatif. Sumber data pada penelitian ini ialah kegiatan pembelajaran menulis teks deskripsi bahasa Prancis. Teknik pengumpulan data pada penelitian ini dilakukan dengan caraobservasi, dokumentasi, dan wawancara. Hasil penelitian menunjukkan guru melakukan tiga tahap kegiatan dalam pembelajaran. Ketiga kegiatan tersebut mencakup (1)  perencanaan, yaitu guru membuat RPP sesuai dengan Permendikbud, (2) pelaksanaan, yang melibatkan keaktifan siswa dan guru, (3) penilaian pembelajaran, guru menggunakan teknik tes dengan bentuk soal essai. Pada perencanaan guru telah menyusun RPP dengan lengkap berdasarkan KD dan indikator. Pelaksanaan pembelajaran yang dilakukan guru meliputikegiatan pendahuluan, inti, dan penutup  yang melibatkan kegiatan guru dan siswa sesuai dengan APKG. Untuk penilaian pembelajaran menulis teks deskripsi, guru menggunakan jenis tes tertulis dalam bentuk tes uraian\/essai.\r\n\r\nKata kunci: menulis, pembelajaran bahasa Prancis, teks deskripsi",
+      "datestamp": "2019-05-21 02:58:03",
+      "volume": 1,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Bahasa Prancis Unila",
+      "title": "Pembelajaran Menulis Teks Deskripsi Bahasa Prancis Siswa Kelas XI IPS 3 SMA Negeri 9 Bandarlampung Tahun Pelajaran 2017\/2018",
+      "lastmod": "2019-05-21 02:58:03",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "finafitt95@gmail.com",
+          "name": {
+            "given": "Fina",
+            "lineage": null,
+            "family": "Fitria",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sumarti",
+            "given": "Sumarti",
+            "honourific": null
+          },
+          "id": "gragemarti@yahoo.co.id"
+        },
+        {
+          "id": "nani.kusrini7@gmail.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kusrini",
+            "given": "Nani"
+          }
+        }
+      ],
+      "number": 1
+    },
+    {
+      "status_changed": "2019-05-21 02:58:05",
+      "rev_number": 12,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/30\/20",
+      "documents": [
+          {
+            "docid": 26024,
+            "content": "published",
+            "eprintid": 13020,
+            "language": "id",
+            "format": "archive",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26024",
+            "rev_number": 3,
+            "pos": 1,
+            "main": 17400,
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "03334d92d0f8b3ee77e79265c043f707",
+                  "objectid": 26024,
+                  "datasetid": "document",
+                  "filename": 17400,
+                  "mime_type": "application\/xml",
+                  "filesize": 22167,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114693",
+                  "fileid": 114693,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-17 03:32:29"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "public"
+          }
+      ],
+      "type": "article",
+      "date": 2019,
+      "publication": "Pranala",
+      "full_text_status": "public",
+      "userid": 383,
+      "volume": 2,
+      "abstract": "Penelitian ini bertujuan untuk mendeskripsikan nilai-nilai moral dalam dongeng karya Bertrand Solet dan Michel Cosem dan implikasinya terhadap pembelajaran bahasa Prancis di SMA. Penelitian menggunakan metode deskriptif kualitatif. Sumber data penelitiannya kumpulan dongeng karya Bertrand Solet dan Michel Cosem. Hasil penelitian menunjukkan bahwa nilai moral hubungan manusia dan Tuhan, meliputi taat beribadah dan berdoa kepada Tuhan; nilai moral hubungan manusia dan diri sendiri, meliputi tidak mudah putus asa, rela berkorban, kesabaran, teguh pendirian, pemberani, kejujuran, rasa dendam, penyesalan, dan rasa takut; nilai moral hubungan manusia dan manusia lain dalam lingkup sosial dan alam, meliputi tolong menolong, kasih sayang orang tua kepada anak, kasih sayang anak kepada orang tua, kasih sayang sesama teman, gotong royong, saling menghargai, saling percaya, dan kasih sayang suami kepada istri. Bentuk penyampaian nilai moral, meliputi langsung dan tidak langsung. Hasil penelitian ini dapat diimplikasikan terhadap pembelajaran bahasa Prancis di SMA kelas XII pada KD 3.8 : mencirikan  cerita fabel (fable) Prancis yang sederhana dengan memperhatikan fungsi sosial, struktur teks, dan unsur kebahasaan yang benar dan sesuai konteks.\r\n\r\nKata kunci: bentuk penyampaian nilai moral, dongeng, nilai moral",
+      "datestamp": "2019-05-21 02:58:05",
+      "eprintid": 13020,
+      "subjects": [
+        "L1",
+        "PC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13020",
+      "divisions": [
+        "FKIP1"
+      ],
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Handayani",
+            "given": "Tri",
+            "honourific": null
+          },
+          "id": "trihandayani.th2@gmail.com"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sumarti",
+            "given": "Sumarti",
+            "honourific": null
+          },
+          "id": "gragemarti@yahoo.co.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Nani",
+            "family": "Kusrini",
+            "lineage": null
+          },
+          "id": "nani.kusrini7@gmail.com"
+        }
+      ],
+      "number": 1,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "title": "Nilai Moral dalam Dongeng Bertrand Solet dan Michel Cosem dan Implikasinya terhadap Pembelajaran",
+      "lastmod": "2019-05-21 02:58:05",
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Bahasa Prancis Unila",
+      "date_type": "published"
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "nani.kusrini@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Nani",
+            "family": "Kusrini",
+            "lineage": null
+          }
+        }
+      ],
+      "number": 22,
+      "issn": "2550-1313",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "FKIP Unila",
+      "lastmod": "2019-05-21 02:57:55",
+      "title": "Learning Abbreviation Style of French Language  Conversation on Twitter",
+      "abstract": "Learning Abbreviation Style of French  Language  Conversation on Twitter. Objectives: This study aims to identify the process of formation of abbreviation, the causes of its use and its implication in French  instruction. Method: This study used qualitative descriptive method, by taking utterances containing forms of abbreviation in French conversations conducted by several native speakers on Twitter from June to October 2018 as data sources. Findings: No elliptical data  was found. The form of troncation  which is divided into several  forms  of beheading, namely the beheading of one or two syllables at the end of a word, decapitation of one or two syllables at the beginning of the word, combined between troncasi  and condensation and the most is decapitation  by consonant or vowel disappearance.  Results: The results of the study showed that the abbreviation  is mainly formed by troncation,  sigle, and shortening by using\r\nletters having the same sound as the real  word(s).\r\n\r\nKata kunci:  Abbreviation, french  language  conversation, troncation.",
+      "datestamp": "2019-05-21 02:57:55",
+      "volume": 9,
+      "divisions": [
+        "FKIP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13007",
+      "subjects": [
+        "L1",
+        "PC"
+      ],
+      "eprintid": 13007,
+      "type": "article",
+      "date": "2019-04-30",
+      "userid": 383,
+      "publication": "Jurnal Pendidikan Progresif",
+      "full_text_status": "public",
+      "dir": "disk0\/00\/01\/30\/07",
+      "ispublished": "pub",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/",
+      "rev_number": 9,
+      "status_changed": "2019-05-21 02:57:55",
+      "pagerange": "81-88",
+      "documents": [
+          {
+            "eprintid": 13007,
+            "language": "en",
+            "content": "published",
+            "docid": 26011,
+            "format": "archive",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26011",
+            "rev_number": 3,
+            "pos": 1,
+            "main": "jpp",
+            "files": [
+                {
+                  "filesize": 50432,
+                  "fileid": 114594,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114594",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-17 01:25:49",
+                  "hash": "ae5a39541ffc1c20d1bb9a8b01e28496",
+                  "objectid": 26011,
+                  "datasetid": "document",
+                  "filename": "jpp",
+                  "mime_type": "text\/html"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "text\/html"
+          }
+      ]
+    },
+    {
+      "userid": 383,
+      "publication": "Jurnal Pendidikan Progresif",
+      "full_text_status": "public",
+      "type": "article",
+      "date": "2019-04",
+      "documents": [
+          {
+            "main": 972,
+            "mime_type": "text\/html",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "e5c6ee8982305b63285ff540ff6d5511",
+                  "mime_type": "text\/html",
+                  "filename": 972,
+                  "datasetid": "document",
+                  "objectid": 32460,
+                  "fileid": 161105,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/161105",
+                  "filesize": 33352,
+                  "hash_type": "MD5",
+                  "mtime": "2020-04-17 12:42:35"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/32460",
+            "format": "text",
+            "content": "published",
+            "docid": 32460,
+            "language": "en",
+            "eprintid": 19227,
+            "pos": 1,
+            "rev_number": 3
+          }
+      ],
+      "status_changed": "2020-04-20 01:27:30",
+      "pagerange": "81-88",
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/index",
+      "rev_number": 13,
+      "dir": "disk0\/00\/01\/92\/27",
+      "ispublished": "pub",
+      "lastmod": "2020-04-20 01:27:30",
+      "title": "Learning Abbreviation Style of French Language Conversation on Twitter",
+      "eprint_status": "archive",
+      "publisher": "FKIP Unila",
+      "date_type": "published",
+      "issn": "2087-9849",
+      "number": 1,
+      "creators": [
+        {
+          "id": "nani.kusrini@fkip.unila.ac.id",
+          "name": {
+            "family": "Kusrini",
+            "lineage": null,
+            "given": "Nani",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "eprintid": 19227,
+      "subjects": [
+        "PC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/19227",
+      "divisions": [
+        "FKIP1"
+      ],
+      "volume": "Vol 9",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/jpp\/issue\/view\/972"
+        }
+      ],
+      "datestamp": "2020-04-20 01:27:30",
+      "abstract": "Abstract: Learning Abbreviation Style of French Language Conversation on Twitter. Objectives: This study aims to identify the process of formation of abbreviation, the causes of its use and its implication in French instruction. Method: This study used qualitative descriptive method, by taking utterances containing forms of abbreviation in French conversations conducted by several native speakers on Twitter from June to October 2018 as data sources. Findings: No elliptical data was found. The form of troncation which is divided into several forms of beheading, namely the beheading of one or two syllables at the end of a word, decapitation of one or two syllables at the beginning of the word, combined between troncasi and condensation and the most is decapitation by consonant or vowel disappearance. Conclusions: The results of the study showed that the abbreviation is mainly formed by troncation, sigle, and shortening by using letters having the same sound as the real word(s). \r\n\r\nKeywords: Abbreviation, french language conversation, troncation ."
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/35282",
+      "divisions": [
+        "FKIP1"
+      ],
+      "eprintid": 35282,
+      "subjects": [
+        "PC"
+      ],
+      "volume": 4,
+      "datestamp": "2021-11-06 08:24:49",
+      "abstract": "Penelitian ini memiliki dua tujuan yaitu mendeskripsikan jenis-jenis gaya bahasa dalam album À bout de rêve karya Slimane Nibchi dan mendeskripsikan fungsi bahasanya. Peneliti ini menggunakan metode penelitian deskriptif kualitatif. Pengumpulan data data menggunakan metode simak dengan teknik dasar sadap dan teknik lanjutan SBLC (Simak Bebas Libat Cakap) dan teknik catat menggunakan tabel data. Kemudian untuk menganalisis gaya bahasa digunakan metode analisis agih dan untuk  menganalisis fungsi bahasa menggunakan metode analisis padan referensial. Pada penelitian ini ditemukan 171 data yang mengandung gaya bahasa, dengan rincian : 34 anafora, 17 epifora, 63 aliterasi dan 57 asonansi. Kemudian, ditemukan dari data tersebut 63 memiliki fungsi ekspresif dan 171 fungsi puitis. Penelitian ini berimplikasi pada pembelajaran bahasa Prancis khususnya pada pembelajaran hal tersebut untuk sastra atau linguistik karena dapat menambah wawasan pembelajar bahasa Prancis khususnya  dalam pemahaman mengenai gaya bahasa dalam bahasa Prancis.\r\n\r\nKata Kunci : gaya bahasa, fungsi bahasa, Slimane Nibchi",
+      "date_type": "published",
+      "issn": "2721-7817",
+      "lastmod": "2021-11-06 08:24:49",
+      "title": "Analisis Gaya Bahasa Dalam Album À Bout De Rêve Karya Slimané Nibchi",
+      "publisher": "Prodi Pendidikan Bahasa Prancis",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Nani",
+            "family": "Kusrini",
+            "lineage": null
+          },
+          "id": "nani.kusrini@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "TRISNA",
+            "given": "INDAH NEVIRA",
+            "honourific": null
+          },
+          "id": "indah.nevira@fkip.ac.id"
+        }
+      ],
+      "documents": [
+          {
+            "main": 15178,
+            "files": [
+                {
+                  "filesize": 25996,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/411935",
+                  "fileid": 411935,
+                  "mtime": "2021-11-06 07:42:06",
+                  "hash_type": "MD5",
+                  "hash": "a3e3279eeadf60401955e65b2e17ece1",
+                  "objectid": 156083,
+                  "datasetid": "document",
+                  "filename": 15178,
+                  "mime_type": "application\/xml"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "language": "id",
+            "eprintid": 35282,
+            "docid": 156083,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/156083",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3
+          }
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/PRANALA\/article\/view\/21945\/15178",
+      "rev_number": 8,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/52\/82",
+      "pagerange": "87-94",
+      "status_changed": "2021-11-06 08:24:49",
+      "publication": "PRANALA",
+      "full_text_status": "public",
+      "userid": 383,
+      "date": "2021-06-30",
+      "type": "article"
+    },
+    {
+      "status_changed": "2020-06-12 08:46:43",
+      "dir": "disk0\/00\/02\/23\/63",
+      "ispublished": "pub",
+      "rev_number": 5,
+      "documents": [
+          {
+            "main": "NOVEL NARAREAN - RENTI OKTARIA.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "objectid": 35783,
+                  "datasetid": "document",
+                  "filename": "NOVEL NARAREAN - RENTI OKTARIA.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "986c7728665ad4c41c1a76a319ae8260",
+                  "mtime": "2020-06-12 08:43:56",
+                  "hash_type": "MD5",
+                  "filesize": 6835100,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/205479",
+                  "fileid": 205479
+                }
+            ],
+            "placement": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/35783",
+            "eprintid": 22363,
+            "language": "en",
+            "docid": 35783,
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "editors": [
+        {
+          "id": "purwanto.putra@fisip.unila.ac.id",
+          "name": {
+            "family": "Putra",
+            "lineage": null,
+            "given": "Purwanto",
+            "honourific": null
+          }
+        }
+      ],
+      "type": "book",
+      "isbn": 9786239127404,
+      "date": 2019,
+      "userid": 2785,
+      "full_text_status": "public",
+      "pages": 235,
+      "abstract": "Takdir menuntun Nararean dan Ranyu bertemu dengan cara yang unik. Menikah dengan orang ajaib seperti Ranyu membuat Nararean memiliki pandangan baru tentang hidup dan belajar dua kata yang sulit dalam kehidupan. Sabar dan ikhlas.\r\n\r\n“Saya menyadari bahwa Tuhan sedang memberikan saya waktu untuk memperbaiki diri dan memantaskan diri saya. Sementara diwaktu bersamaan, pasti jodoh saya pun sedang memantaskan dirinya.” Ranyu mengangkat tangan kanannya menunjuk ke arahku ketika dia berkata jodoh saya.\r\n\r\nDengan menikah, bukan berarti kita terbebas dari masalah. Justru kita akan mendapatkan masalah yang lebih besar lagi. Karena menikah bukan hanya melibatkan dua hati dan dua kepala, tapi juga dua keluarga.",
+      "datestamp": "2020-06-12 08:46:43",
+      "subjects": [
+        "PC",
+        "PQ"
+      ],
+      "eprintid": 22363,
+      "divisions": [
+        "FKIP23"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/22363",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Renti",
+            "lineage": null,
+            "family": "Oktaria"
+          },
+          "id": "renti.oktaria@fkip.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "publisher": "Petualang Literasi",
+      "eprint_status": "archive",
+      "title": "Nararean",
+      "lastmod": "2020-06-12 08:46:43"
+    },
+    {
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "number": 4,
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Endah",
+            "lineage": null,
+            "family": "Prihastuti"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nazaruddin",
+            "given": "Kahfie",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Suyanto",
+            "lineage": null,
+            "given": "Edi"
+          },
+          "id": "doktor_edy@yahoo.com"
+        }
+      ],
+      "issn": "2338-8153",
+      "date_type": "published",
+      "title": "Majas dalam Anak Ini Mau Mengencingi Jakarta? dan Kelayakannya Sebagai Bahan Ajar",
+      "lastmod": "2018-04-25 09:24:52",
+      "publisher": "Universitas Lampung",
+      "eprint_status": "archive",
+      "volume": 5,
+      "abstract": "The problem discussed in this research was how the figure of speech in the collection of short stories Anak Ini Mau Mengencingi Jakarta? and its feasibility as a teaching material in high school. The purpose of this study to describe figure of speech in the collection of short stories and its feasibility as a literary material in high school. The method used was qualitative descriptive method. Sources of research data was short stories in a collection of short stories Anak Ini Mau Mengencingi Jakarta. Data analysis technique in this research was text analysis. The results showed that the figure of speech contained in a collection of Anak Ini Mau Mengencingi Jakarta? short stories was the figure of speech of simile, metaphor, personification, depersonification, hyperbole, lytotes, irony, allusion, sinekdoke, and metonimia. A collection of short stories Anak Ini Mau Mengencingi Jakarta? deserves to be a teaching material because it meets the criteria in the selection of teaching materials based on curriculum aspects, character building, and literature.",
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO1\/article\/view\/14350",
+          "type": "pub"
+        }
+      ],
+      "datestamp": "2018-04-25 09:24:52",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/6048",
+      "divisions": [
+        "FKIP8"
+      ],
+      "eprintid": 6048,
+      "subjects": [
+        "PC"
+      ],
+      "date": "2017-11-04",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "Majas dalam Anak Ini Mau Mengencingi Jakarta? dan Kelayakannya Sebagai Bahan Ajar",
+      "userid": 849,
+      "corp_creators": [
+        "Fkip Unila"
+      ],
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/BINDO1\/article\/view\/14350",
+      "rev_number": 14,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/60\/48",
+      "status_changed": "2018-04-25 09:24:52",
+      "pagerange": "1-2",
+      "documents": [
+          {
+            "main": 14350,
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 55826,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/55826",
+                  "filesize": 20296,
+                  "mtime": "2017-11-20 04:15:22",
+                  "hash_type": "MD5",
+                  "hash": "08836d5fa29405398d068fbcebfb8f29",
+                  "filename": 14350,
+                  "mime_type": "application\/xml",
+                  "datasetid": "document",
+                  "objectid": 18962
+                }
+            ],
+            "formatdesc": "Majas dalam Anak Ini Mau Mengencingi Jakarta? dan Kelayakannya Sebagai Bahan Ajar",
+            "mime_type": "application\/xml",
+            "security": "public",
+            "content": "published",
+            "docid": 18962,
+            "eprintid": 6048,
+            "language": "id",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18962",
+            "rev_number": 4,
+            "pos": 1
+          }
+      ]
+    },
+    {
+      "eprintid": 13013,
+      "subjects": [
+        "L1",
+        "PC"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13013",
+      "divisions": [
+        "FKIP1"
+      ],
+      "volume": 1,
+      "abstract": "Masalah yang dibahas dalam penelitian ini yaitu alih kode dan campur kode pada komunikasi guru dan siswa dalam pembelajaran bahasa Prancis di SMA Negeri 9 Bandar Lampung.   Metode   yang   digunakan   adalah   deskriptif   kualitatif. Tuturan diperoleh pada saat kegiatan belajar mengajar berlangsung di dalam kelas XI SMA Negeri 9 Bandar Lampung.   Hasil   penelitian menunjukkan  terdapat  alih  kode  internal  berupa  peralihan  dari  bahasa  Indonesia  ke bahasa Jawa dan Lampung dan alih kode eksternal berupa peralihan dari bahasa Indonesia ke bahasa Prancis atau sebaliknya. Faktor penyebab alih kode yang paling dominan adalah faktor penutur. Bentuk campur kode meliputi campur kode kata, frasa, dan klausa. Faktor penyebab campur kode yang paling dominan adalah faktor akademik.\r\n\r\nKata kunci: alih kode, campur kode, komunikasi guru dan siswa",
+      "datestamp": "2019-05-21 02:57:59",
+      "lastmod": "2019-05-21 02:57:59",
+      "title": "Alih Kode dan Campur Kode pada Komunikasi Guru dan Peserta Didik dalam Pembelajaran Bahasa Prancis Kelas XI di SMA Negeri 9 Bandar Lampung",
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Bahasa Prancis Unila",
+      "date_type": "published",
+      "creators": [
+        {
+          "id": "devin.siandiko@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Siandiko",
+            "lineage": null,
+            "given": "Devin"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sumarti",
+            "given": "Sumarti",
+            "honourific": null
+          },
+          "id": "gragemarti@yahoo.co.id"
+        },
+        {
+          "id": "nani.kusrini7@gmail.com",
+          "name": {
+            "given": "Nani",
+            "family": "Kusrini",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "number": 1,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "format": "archive",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26018",
+            "language": "id",
+            "eprintid": 13013,
+            "content": "published",
+            "docid": 26018,
+            "pos": 1,
+            "rev_number": 3,
+            "main": 16966,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114630",
+                  "fileid": 114630,
+                  "filesize": 20169,
+                  "mtime": "2019-05-17 02:28:47",
+                  "hash_type": "MD5",
+                  "hash": "78ce16c2c0164d60be219b74f0e9358a",
+                  "mime_type": "application\/xml",
+                  "filename": 16966,
+                  "datasetid": "document",
+                  "objectid": 26018
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "status_changed": "2019-05-21 02:57:59",
+      "rev_number": 9,
+      "dir": "disk0\/00\/01\/30\/13",
+      "ispublished": "pub",
+      "full_text_status": "public",
+      "publication": "Pranala",
+      "userid": 383,
+      "type": "article",
+      "date": "2018-12"
+    },
+    {
+      "userid": 383,
+      "publication": "Pranala",
+      "full_text_status": "public",
+      "date": "2018-12",
+      "type": "article",
+      "documents": [
+          {
+            "rev_number": 3,
+            "pos": 1,
+            "eprintid": 13018,
+            "language": "id",
+            "content": "published",
+            "docid": 26022,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26022",
+            "format": "archive",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114669",
+                  "fileid": 114669,
+                  "filesize": 21995,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-17 03:12:03",
+                  "hash": "ad6879f0d399d489c2a59d1669e33d29",
+                  "filename": 17393,
+                  "mime_type": "application\/xml",
+                  "objectid": 26022,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "main": 17393
+          }
+      ],
+      "dir": "disk0\/00\/01\/30\/18",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2019-05-21 02:58:01",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Bahasa Prancis Unila",
+      "title": "Pergeseran Makna Adjektiva pada Terjemahan Komik Les Schtroumpfs dan Implikasinya pada Pembelajaran Bahasa Prancis di SMA",
+      "lastmod": "2019-05-21 02:58:01",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Ade Riani",
+            "family": "Vionita",
+            "lineage": null
+          },
+          "id": "vaderiani@yahoo.com"
+        },
+        {
+          "id": "gragemarti@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Sumarti",
+            "lineage": null,
+            "given": "Sumarti"
+          }
+        },
+        {
+          "name": {
+            "family": "Kusrini",
+            "lineage": null,
+            "given": "Nani",
+            "honourific": null
+          },
+          "id": "nani.kusrini7@gmail.com"
+        }
+      ],
+      "number": 1,
+      "divisions": [
+        "FKIP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13018",
+      "subjects": [
+        "L1",
+        "PC"
+      ],
+      "eprintid": 13018,
+      "datestamp": "2019-05-21 02:58:01",
+      "abstract": "Penelitian ini bertujuan untuk menjelaskan pergeseran makna adjektiva dalam penerjemahan komik Les Schtroumpfs, serta untuk mendeskripsikan implikasinya terhadap pembelajaran bahasa Prancis di SMA. Metode penelitian yang digunakan dalam penelitian ini yaitu deskriptif kualitatif. Sumber data dalam penelitian ini ialah komik Les P’tits Schtroumpfs et Le Schtroumpf Robot dan Les Schtroumpfs et L’arbre d’Or karya Alain Jost, Thierry Culliford dan Pascal Garray serta komik terjemahannya oleh Widya T. Soerojo dan Nies Koestiyah. Hasil penelitian menunjukkan terdapat 84 data yang mengalami pergeseran makna. Hasil penelitian ini berimplikasi pada pembelajaran bahasa Prancis di SMA berdasarkan pada kurikulum 2013 terutama pada Kompetensi Dasar (KD) 3.8 mencirikan cerita fabel Prancis dengan memperhatikan fungsi sosial, struktur teks, dan unsur kebahasaan dan 4.8 menyatakan kembali cerita fabel Prancis dengan memperhatikan fungsi sosial, struktur teks, dan unsur kebahasaan. Implikasi terjadi saat siswa melakukan proses memaknai dan menyatakan kembali cerita fabel Prancis dan menemukan pergeseran saat menerjemahkan.\r\n\r\n \r\n\r\nKata kunci: les schtroumpfs, pembelajaran bahasa Prancis di SMA, pergeseran makna",
+      "volume": 1
+    },
+    {
+      "full_text_status": "public",
+      "publication": "Pranala",
+      "userid": 383,
+      "date": 2019,
+      "type": "article",
+      "documents": [
+          {
+            "format": "archive",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26025",
+            "language": "id",
+            "eprintid": 13021,
+            "docid": 26025,
+            "content": "published",
+            "pos": 1,
+            "rev_number": 3,
+            "main": 17406,
+            "security": "public",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 26025,
+                  "mime_type": "application\/xml",
+                  "filename": 17406,
+                  "hash": "1397835cf66b7a8cc16f0adb7bb3fc1f",
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-17 03:48:56",
+                  "filesize": 21297,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114705",
+                  "fileid": 114705
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "status_changed": "2019-05-21 02:58:07",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/30\/21",
+      "rev_number": 9,
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Bahasa Prancis Unila",
+      "lastmod": "2019-05-21 02:58:07",
+      "title": "Unsur Intrinsik dalam Dongeng Bertrand Solet dan Michel Cosem dan Implikasinya terhadap Pembelajaran",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "given": "Sri",
+            "family": "Wahyuni",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "sriw9178@gmail.com"
+        },
+        {
+          "id": "gragemarti@yahoo.co.id",
+          "name": {
+            "given": "Sumarti",
+            "lineage": null,
+            "family": "Sumarti",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nani",
+            "given": "Kusrini"
+          },
+          "id": "nani.kusrini7@gmail.com"
+        }
+      ],
+      "number": 1,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "subjects": [
+        "L1",
+        "PC"
+      ],
+      "eprintid": 13021,
+      "divisions": [
+        "FKIP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13021",
+      "abstract": "Penelitian ini bertujuan mendeskripsikan unsur intrinsik yang meliputi: tema, alur, penokohan, latar, amanat, dan implikasinya terhadap pembelajaran. Penelitian ini menggunakan metode deskriptif kualitatif. Sumber data penelitian ini ialah kumpulan dongeng karya Bertrand Solet dan Michel Cosem. Hasil penelitian menunjukkan bahwa terdapat empat tema yaitu sosial, egois, jasmani, dan divine. Alur pada setiap dongeng terbagi atas eksposisi, komplikasi dan resolusi. Penokohan meliputi tokoh, watak dan cara penyampaian watak. Sebagian besar latar dongeng terjadi di hutan, latar satu dongeng yang terjadi di sebuah Gereja. Setiap dongeng mengandung amanat yang disampaikan baik secara eksplisit maupun implisit.  Hasil penelitian ini juga dapat diimplikaskan pada KD 3.8 : mencirikan  cerita fabel (fable) Prancis yang sederhana dengan memperhatikan fungsi sosial, struktur teks, dan unsur kebahasaan yang benar dan sesuai konteks”, dan hasil penelitian ini bisa menjadi sumber belajar bahasa prancis di SMA.\r\n\r\n \r\n\r\nKata kunci: dongeng, unsur intrinsik, implikasi pembelajaran",
+      "datestamp": "2019-05-21 02:58:07",
+      "volume": 2
+    },
+    {
+      "userid": 727,
+      "full_text_status": "public",
+      "corp_creators": [
+        "Mulyanto Widodo",
+        "Siti Samhati"
+      ],
+      "date": "2016-09-25",
+      "type": "conference_item",
+      "event_location": "Universitas Lampung Bandar Lampung",
+      "pres_type": "paper",
+      "event_type": "conference",
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2936",
+            "docid": 2936,
+            "language": "en",
+            "eprintid": 3057,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN DI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG.docx",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "ea13d2869d2b0301929a2fa23cd27e26",
+                  "objectid": 2936,
+                  "datasetid": "document",
+                  "filename": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN DI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filesize": 81145,
+                  "fileid": 21122,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/21122",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 05:10:06"
+                }
+            ]
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/30\/57",
+      "rev_number": 9,
+      "official_url": "http:\/\/www.unila.ac.id",
+      "pagerange": "782-790",
+      "status_changed": "2017-06-05 01:54:55",
+      "date_type": "published",
+      "event_dates": "2016 September 24-26",
+      "eprint_status": "archive",
+      "lastmod": "2017-06-05 01:54:55",
+      "title": "REPRESENTASI KEKUASAAN PADA TINDAK TUTUR DOSEN\r\nDI LINGKUNGAN FKIP UNIVERSITAS LAMPUNG: SEBUAH KAJIAN PRAGMATIK",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "wtarmini@yahoo.com",
+          "name": {
+            "honourific": null,
+            "given": "WINI T",
+            "family": "Wini Tarmini",
+            "lineage": null
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3057",
+      "event_title": "konferensi Internasional VI Bahasa, Sastra, dan Budaya Daerah Indonesia",
+      "subjects": [
+        "PC",
+        "PL"
+      ],
+      "eprintid": 3057,
+      "datestamp": "2017-06-05 01:54:55",
+      "abstract": "Penelitian ini mendeskripsikan bentuk-bentuk representasi kekuasaan tindak tutur dosen di lingkungan FKIP Universitas Lampung. Metode penelitian ini, yakni deskriptif Kualitatif. Data penelitian berupa tindak tutur asertif, direktif, ekpresif. Hasil penelitian menunjukkan wujud representasi kekuasaan pada tindak tutur dosen meliputi representasi kekuasaan pada tindak tutur direktif yang meliputi representasi kekuasaan dalam perintah, permintaan, pemesanan, persilaan, nasihat, dan larangan; representasi kekuasaan pada tindak tutur asertif dosen hanya ditemukan pada representasi kekuasaan dalam menegaskan; dan representasi kekuasaan pada tindak tutur asertif dosen hanya ditemukan pada representasi kekuasaan dalam rasa senang.   \r\n\r\nkata kunci; representasi, kekuasaan, tindak tutur dosen"
+    },
+    {
+      "abstract": "Penelitian ini adalah penelitian deskriptif kualitatif yang bertujuan untuk mendeskripsikan\r\n1) jenis kesalahan konjugasi kata kerja bahasa Prancis yang sering terjadi pada pekerjaan menulis karangan deksripsi siswa kelas XI SMAN 16 Bandarlampung, 2) faktor-faktor\r\npenyebab  munculnya  kesalahan  konjugasi  kata  kerja  bahasa  Prancis  dalam karangan\r\ndeksripsi siswa kelas XI SMAN 16 Bandarlampung . Subyek dalam penelitian ini adalah siswa kelas XI SMAN 16 Bandarlampung sebanyak 69 siswa dan obyek penelitian ini\r\nadalah kesalahan konjugasi verba bahasa Prancis yang terdapat dalam pekerjaan karangan\r\ndeskripsi bahasa Prancis siswa. Data penelitian berupa data kualitatif dan kuantitatif. Data kuantitatif berupa angka-angka berdasarkan frekuensi dan persentase kesalahan konjugasi verba sedangkan data kualitatif yaitu penjelasan tentang faktor-faktor penyebab munculnya kesalahan konjugasi kata kerja bahasa Prancis dalam karangan deksripsi siswa. Hasil penelitian dan pembahasan menunjukkan secara kuantitatif dominasi kesalahan yang paling banyak ditemukan adalah kesalahan pembentukan (misformation\/malformation) dengan jumlah 401 kesalahan dengan persentase 57.44%. Hal ini dipengaruhi oleh salah satu faktor –faktor penyebab kesalahan  yaitu faktor intralingual. Faktor intralingual yaitu faktor yang dikategorikan sebagai kesalahan – kesalahan penggunaan kaidah dalam bahasa sasaran (Prancis). Data yang dihasilkan oleh peneliti terdapat 696 kesalahan yang dilakukan oleh siswa kelas XI SMAN 16 Bandarlampung.\r\n\r\nKata kunci :  analisis kesalahan,kesalahan konjugasi, karangan deskripsi.",
+      "datestamp": "2019-05-21 02:57:56",
+      "volume": 1,
+      "subjects": [
+        "L1",
+        "PC"
+      ],
+      "eprintid": 13010,
+      "divisions": [
+        "FKIP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/13010",
+      "creators": [
+        {
+          "id": "ermayunita622@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Yunita",
+            "given": "Erma",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Nainggolan",
+            "given": "Flora",
+            "honourific": null
+          },
+          "id": "flora@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Kusrini",
+            "lineage": null,
+            "given": "Nani"
+          },
+          "id": "nani.kusrini7@gmail.com"
+        }
+      ],
+      "number": 1,
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "publisher": "Pendidikan Bahasa Prancis Unila",
+      "lastmod": "2019-05-21 02:57:56",
+      "title": "Analisis Kesalahan Konjugasi Verba Bahasa Prancis Pada Karangan\r\nDeskripsi  Siswa Kelas XI di SMAN 16 Bandarlampung",
+      "status_changed": "2019-05-21 02:57:56",
+      "dir": "disk0\/00\/01\/30\/10",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/26014",
+            "format": "archive",
+            "content": "published",
+            "docid": 26014,
+            "language": "id",
+            "eprintid": 13010,
+            "pos": 1,
+            "rev_number": 3,
+            "main": 16915,
+            "mime_type": "application\/xml",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 114610,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/114610",
+                  "filesize": 24329,
+                  "hash_type": "MD5",
+                  "mtime": "2019-05-17 02:11:22",
+                  "hash": "db900f94e053f852fe1e0f5ff127f88b",
+                  "filename": 16915,
+                  "mime_type": "application\/xml",
+                  "objectid": 26014,
+                  "datasetid": "document"
+                }
+            ]
+          }
+      ],
+      "date": "2018-12-08",
+      "type": "article",
+      "publication": "Pranala",
+      "full_text_status": "public",
+      "userid": 383
+    }
+]
+

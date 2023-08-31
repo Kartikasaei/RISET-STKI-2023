@@ -1,0 +1,71 @@
+[
+    {
+      "date": "2023-06-02",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "https:\/\/terekamjejak.com\/",
+      "userid": 2796,
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/21\/72",
+      "official_url": "https:\/\/terekamjejak.com\/perang-terakhir-napoleon\/",
+      "rev_number": 6,
+      "status_changed": "2023-06-19 01:17:41",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 1921517,
+                  "fileid": 618196,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/618196",
+                  "mtime": "2023-06-17 12:51:20",
+                  "hash_type": "MD5",
+                  "hash": "a5dfa714a9c3ba0d0651481f979a38ce",
+                  "objectid": 252517,
+                  "datasetid": "document",
+                  "filename": "Tambora Pencetus Kekalahan Napoleon - Terekam Jejak.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1,
+            "main": "Tambora Pencetus Kekalahan Napoleon - Terekam Jejak.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/252517",
+            "format": "text",
+            "eprintid": 52172,
+            "language": "en",
+            "docid": 252517
+          }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "roby.rakhmadi007@fisip.unila.ac.id",
+          "name": {
+            "given": "Roby",
+            "lineage": null,
+            "family": "Rakhmadi",
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Terekam Jejak",
+      "lastmod": "2023-06-19 01:17:41",
+      "title": "Tambora Pencetus Kekalahan Napoleon",
+      "datestamp": "2023-06-19 01:17:41",
+      "divisions": [
+        "FISIP8"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/52172",
+      "subjects": [
+        "DC"
+      ],
+      "eprintid": 52172
+    }
+]
+

@@ -1,0 +1,803 @@
+[
+    {
+      "corp_creators": [
+        "FKIP Universitas Lampung"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "family": "Eka Kurniawati",
+            "lineage": null,
+            "given": "Eka K"
+          },
+          "id": "eka.kurniawati@fkip.unila.ac.id"
+        }
+      ],
+      "isbn": "978-623-372-046-5",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "mtime": "2023-04-11 19:28:58",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543516",
+                  "fileid": 543516,
+                  "filesize": 1522376,
+                  "filename": "AGAMA ISLAM DALAM PANDANGAN (CETAKAN KEDUA).pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 190033,
+                  "datasetid": "document",
+                  "hash": "c584dd03d8f58e54ff25b24c7836c222"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "AGAMA ISLAM DALAM PANDANGAN (CETAKAN KEDUA).pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "docid": 190033,
+            "eprintid": 50334,
+            "language": "en",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190033",
+            "format": "text"
+          }
+      ],
+      "id_number": 1,
+      "pagerange": "1-140",
+      "status_changed": "2023-04-12 07:40:21",
+      "official_url": "https:\/\/scholar.google.com\/citations?view_op=view_citation&hl=id&user=NZbvxBoAAAAJ&citation_for_view=NZbvxBoAAAAJ:WF5omc3nYNoC",
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/03\/34",
+      "lastmod": "2023-04-12 07:40:21",
+      "creators": [
+        {
+          "id": "eka.kurniawati73@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Eka Kurniawati",
+            "lineage": null,
+            "given": "Eka  K"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 50334,
+      "divisions": [
+        "FKIP2"
+      ],
+      "volume": 1,
+      "datestamp": "2023-04-12 07:40:21",
+      "abstract": "Prakata\r\n\r\nAlhamdulillah, segala puji penulis panjatkan hanya bagi Allah Subhana Wata`ala, Shalawat dan Salam penulis haturkan kepada Rasulullah Muhammad Salallah Alaihi Wassalam beserta keluarganya. Akhirnya buku Agama Islam Dalam pandangan Al-Qur`an dan Sains, dapat penulis susun dalam rangka ikut melakukan inovasi pendidikan Agama Islam di Indonesia. Sebagai upaya mencapai tujuan pendidikan nasional, yakni membangun manusia Indonesia yang bertakwa, yang unggul secara intelektual, anggun secara moral, berkepribadian yang mantap dan mandiri serta memiliki rasa tanggung jawab kemasyarakatan dan kebangsaan yang tinggi. \r\nMateri yang dibahas dalam buku ini mencakup empat tema besar yaitu, pertama Khaliq (Pencipta), kedua  Eksistensi Makhluk dihadapan Sang Khalik, Ketiga Kedudukan Sumber Ajaran Islam Dalam Ilmu Pengetahuan, keempat Akidah, Syari`ah, dan Akhlak: Kerangka Dasar Ajaran Islam Sebagai Kekuatan Kepribadian Muslim. \r\nHarapan penulis semoga buku ini dapat bermanfaat, mencerdaskan dan  menambah wawasan keislaman para pembacanya",
+      "book_title": "AGAMA ISLAM DALAM PANDANGAN  AL-QUR`AN DAN SAINS",
+      "contact_email": "eka.kurniawati73@fkip.unila.ac.id",
+      "pages": 140,
+      "userid": 3253,
+      "full_text_status": "public",
+      "date": "2021-08-01",
+      "type": "book_section",
+      "editors": [
+        {
+          "id": "rohani@fh.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Rohani",
+            "given": "Rohani"
+          }
+        }
+      ],
+      "rev_number": 7,
+      "place_of_pub": "Depok Indonesia",
+      "title": "Agama Islam Dalam Pandangan Al Qur`an dan Sains",
+      "publisher": "PT. Raja Grafindo Persada",
+      "series": "Buku",
+      "eprint_status": "archive",
+      "projects": [
+        "Mandiri"
+      ],
+      "date_type": "published",
+      "number": 1,
+      "funders": [
+        "Eka Kurniawati"
+      ],
+      "refereed": "TRUE",
+      "subjects": [
+        "BP"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50334",
+      "related_url": [
+        {
+          "url": "https:\/\/scholar.google.com\/citations?view_op=view_citation&hl=id&user=NZbvxBoAAAAJ&citation_for_view=NZbvxBoAAAAJ:WF5omc3nYNoC"
+        }
+      ]
+    },
+    {
+      "series": "Buku",
+      "eprint_status": "archive",
+      "publisher": "PT. Raja Grafindo Persada",
+      "title": "The Islamic Psychotherapy: Training Akhlakul Kharimah Melalui Pembentukan Intelektual, Emosional, and Spiritual Quotient  Berdasarkan Al Qur`an dan Sains",
+      "date_type": "published",
+      "projects": [
+        "Mandiri"
+      ],
+      "funders": [
+        "Eka Kurniawati"
+      ],
+      "number": 2,
+      "refereed": "TRUE",
+      "subjects": [
+        "BP"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50332",
+      "related_url": [
+        {
+          "type": "author",
+          "url": "https:\/\/drive.google.com\/file\/d\/1xPX3S9dyRFq_t9AQuzLoVLIPWq3pfnGe\/view?usp=share_link"
+        }
+      ],
+      "contact_email": "eka.kurniawati73@fkip.unila.ac.id",
+      "userid": 3253,
+      "full_text_status": "public",
+      "pages": 40,
+      "date": "2022-07-26",
+      "type": "book_section",
+      "editors": [
+        {
+          "id": "syarifah.nurbaiti87@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Syarifah Nurbaiti",
+            "given": "Syarifah N"
+          }
+        }
+      ],
+      "place_of_pub": "Depok Indonesia",
+      "rev_number": 7,
+      "lastmod": "2023-04-12 07:40:17",
+      "creators": [
+        {
+          "id": "eka.kurniawati73@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Eka Kurniawati",
+            "lineage": null,
+            "given": "Eka  K"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 50332,
+      "divisions": [
+        "FKIP2"
+      ],
+      "datestamp": "2023-04-12 07:40:17",
+      "abstract": "Bismillahirrohmanirrohim. Puji dan syukur kami panjatkan hanya kepada Allah Subhanawata`ala, serta sholawat dan salam kami haturkan untuk Nabi Muhammad Salallhu`alaihiwasallam “Allahumma Solli`ala Sayyidina Muhammad Wa`ala Ali Sayyidina Muhammad”.\r\nAlhamdulillahirrobil`alamin, buku Praktikum Pendidikan Agama Islam di Perguruan Tinggi The Islamic Psikoterapy: Training Akhlakul Kharimah Melalui Pembentukan Intelektual, Emosional, and Spiritual Quotient Berdasarkan Al Qur`an dan Sains ini telah selesai dibuat. Pembuatan buku ini berdasarkan:\r\n1.\tUndang-undang no. 20 tahun 2003 Tentang Pendidikan Nasonal, pada Bab I Ketentuan Umum Pasal 1 angka 1 yang isisnya pendidikan nasional usaha sadar dan terencana untuk mewujudkan suasana belajar dan proses pembelajaran agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan dirinya, masyarakat, bangsa dan negara.\r\n2.\tUndang-undang no. 12 tahun 2012 Tentang Pendidikan Tinggi, pada Bab II bagian kesembilan paragraf 2 tentang Kurikulum, Pasal 35 ayat (3) dan (4), yaitu:\r\n(3)\tKurikulum Pendidikan Tinggi sebagaimana dimaksud pada ayat (1) wajib memuat mata kuliah:\r\na.\tagama;\r\nb.\tPancasila;\r\nc.\tkewarganegaraan; dan\r\nd.\tbahasa Indonesia.\r\n(4)\tKurikulum Pendidikan Tinggi sebagaimana dimaksud pada ayat (1) dilaksanakan melalui kegiatan kurikuler, kokurikuler, dan ekstrakurikuler.\r\n3.\tPeraturan Presiden Republik Indonesia No. 8 tahun 2012 Tentang Kerangka Kualifikasi Nasional Indonesia Bab II Pasal 5 huruf f, lulusan Diploma 4 atau Sarjana Terapan dan Sarjana paling rendah setara dengan jenjang 6. Pada lampiran Deskripsi Jenjang Kualifikasi:\r\n\r\n•\tDeskripsi Umum huruf a. Bertaqwa kepada Tuhan Yang Maha Esa; huruf b. Memiliki moral etika dan kepribadian yang baik dalam menyelesaikan tugasnya.\r\n•\tDeskripsi Jenjang 6: \r\n(1)\tMampu mengaplikasikan bidang keahliannya dan memanfaatkan ilmu pengetahuan, teknologi, dan\/atau seni pada bidangnya dalam penyelesaian masalah serta mampu beradaptasi terhadap situasi yang dihadapi.\r\n(2)\tMenguasai konsep teoritis bidang pengetahuan tertentu secara umum dan konsep teoritis bagian khusus dalam bidang pengetahuan tersebut secara mendalam, serta mampu memformulasikan penyelesaian masalah prosedural. \r\n4.\tPeraturan Menteri Pendidikan dan Kebudayaan Republik Indonesia No. 3 Tahun 2020 Tentang Standar Nasional Pendidikan Tinggi pada Bab II Bagian Kedua tentang Standar Kompetensi Lulusan \r\n•\tPasal 5 ayat (1) yang isinya Standar kompetensi lulusan merupakan kriteria minimal tentang kualifikasi kemampuan lulusan yang mencakup sikap, pengetahuan, dan keterampilan yang dinyatakan dalam rumusan capaian Pembelajaran lulusan.\r\n•\tPasal 5 ayat (3) yang isinya: rumusan capaian Pembelajaran lulusan sebagaimana dimaksud pada ayat (1) wajib:\r\na.\tmengacu pada deskripsi capaian pembelajaran lulusan KKNI; dan\r\n•\tmemiliki kesetaraan dengan jenjang kualifikasi pada KKNI.\r\n•\tPasal 6 ayat (1) yang isinya sikap sebagaimana dimaksud dalam Pasal 5 ayat (1) merupakan perilaku benar dan berbudaya sebagai hasil dari internalisasi dan aktualisasi nilai dan norma yang tercermin dalam kehidupan spiritual dan sosial melalui proses Pembelajaran, pengalaman kerja mahasiswa, Penelitian dan\/atau Pengabdian kepada Masyarakat yang terkait Pembelajaran.\r\n\r\nMata Kuliah Wajib Umum Pendidikan Agama Islam (MWKU PAI) di Perguruan Tinggi memiliki 3 SKS (2-1), dengan pembagian bobot 2 SKS untuk kuliah materi ditambah 1 SKS responsi\/praktikum, membuka ruang bagi dosen PAI untuk menyiapkan buku praktikum yang sesuai dengan tujuan pendidikan  agar peserta didik secara aktif mengembangkan potensi dirinya untuk memiliki kekuatan spiritual keagamaan, pengendalian diri, kepribadian, kecerdasan, akhlak mulia, serta keterampilan yang diperlukan dirinya, masyarakat, bangsa dan negara.\r\nKegiatan praktikum sebagai proses responsi dalam mata kuliah pendidikan agama Islam merupakan tempat yang tepat untuk dilakukananya proses training ESQ berupa Islamic Psikoterapy merupakan sebuah cara agar mahasiswa dapat memanajemen dirinya dalam menentukan tujuan hidup mencapai keridhoan Allah Subhanawata`ala, menjadikan aktifitas ibadah sebagai fungsi hidup, interaksi, dan koordinasi. Sehingga mahasiswa dapat mendesain rencana kehidupan mendatang atau yang secara ilmiah disebut sebagai perencanaan karir sebagai pemimpin (leadership) yang memiliki tugas dan tanggung jawab sebagai khalifahtullah dimuka bumi. Lebih rinci lagi langkah-langkah training ESQ melalui Islamic Psikoterapy, sebagai berikut:\r\n1.\tPraktik thaharah;\r\n2.\tPraktik sholat khusyu;\r\n3.\tPraktik belajar baca Al-Qur`an;\r\n4.\tPraktik sedekah;\r\n5.\tPraktik kegiatan penunjang ritual ibadah;\r\n6.\tPraktik kegiatan sosial penunjang akademik;\r\n7.\tPraktik pengenalan lambaga pernikahan atau munakahat.\r\nAkhirnya penulis mengucapkan terima kasih kepada semua pihak yang telah mendukung karya tulis ini. Semoga buku ini bermanfaat untuk pembentukan akhalkulkharimah mahasiswa di perguruan tinggi.",
+      "volume": 1,
+      "book_title": "The Islamic Psychotherapy: Training Akhlakul Kharimah Melalui Pembentukan Intelektual, Emosional, and Spiritual Quotient  Berdasarkan Al Qur`an dan Sains",
+      "contributors": [
+        {
+          "id": "eka.kurniawati@fkip.unila.ac.id",
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "name": {
+            "honourific": null,
+            "given": "Eka K",
+            "family": "Eka Kurniawati",
+            "lineage": null
+          }
+        }
+      ],
+      "corp_creators": [
+        "FKIP Universitas Lampung"
+      ],
+      "isbn": "978-623-372-616-0",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "21b5e0d1402b089ff60dfbcfe36444d3",
+                  "datasetid": "document",
+                  "objectid": 190031,
+                  "mime_type": "application\/pdf",
+                  "filename": "The Islamic Psikoterapy (Penulis 18-08-2022).pdf",
+                  "filesize": 2243286,
+                  "fileid": 543504,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543504",
+                  "mtime": "2023-04-11 19:07:37",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "The Islamic Psikoterapy (Penulis 18-08-2022).pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "docid": 190031,
+            "language": "en",
+            "eprintid": 50332,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/190031"
+          }
+      ],
+      "id_number": 2,
+      "status_changed": "2023-04-12 07:40:17",
+      "pagerange": "1-40",
+      "dir": "disk0_bak\/00\/05\/03\/32",
+      "ispublished": "pub",
+      "official_url": "https:\/\/drive.google.com\/file\/d\/1xPX3S9dyRFq_t9AQuzLoVLIPWq3pfnGe\/view?usp=share_link"
+    },
+    {
+      "publication": "Al-Tadzkiyyah: Jurnal Pendidikan Islam,",
+      "full_text_status": "public",
+      "userid": 3525,
+      "type": "article",
+      "date": 2017,
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 162638,
+            "language": "en",
+            "eprintid": 41177,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/162638",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2022-04-08 05:23:25",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/456973",
+                  "fileid": 456973,
+                  "filesize": 314020,
+                  "filename": "2098-4151-3-PB.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 162638,
+                  "datasetid": "document",
+                  "hash": "5c354d7be931f87687e17a76f3380881"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "2098-4151-3-PB.pdf"
+          }
+      ],
+      "pagerange": "83-98",
+      "status_changed": "2022-04-11 01:03:25",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/11\/77",
+      "official_url": "http:\/\/www.ejournal.radenintan.ac.id\/index.php\/tadzkiyyah\/article\/view\/2098\/1586",
+      "rev_number": 8,
+      "eprint_status": "archive",
+      "publisher": "Jurnal",
+      "lastmod": "2022-04-11 01:03:25",
+      "title": "PENDIDIKAN ANTI KORUPSI\r\n DALAM PENDIDIKAN AGAMA ISLAM",
+      "issn": "P. ISSN: 20869118\/E-ISSN: 2528-247",
+      "number": 1,
+      "creators": [
+        {
+          "id": "ade.imelda@fkip.unila.ac.id",
+          "name": {
+            "given": "Ade Imelda",
+            "family": "Frimayanti",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "BL",
+        "BP",
+        "L1"
+      ],
+      "eprintid": 41177,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41177",
+      "datestamp": "2022-04-11 01:03:25",
+      "abstract": "Pendidikan anti korupsi harus dikenalkan dari anak belajar tentang kehidupan, artinya sejak \r\nawal anak dikenalkan oleh nilai-nilai anti korupsi. Penanaman dilakukan secara konsisten dan \r\nberkelanjutan, akan menumbuhkan sikap kepribadian anak. Pada dasarnya sebuah kepribadian \r\nseseorang tidak muncul secara instan namun melalui sebuah proses. Pendidikan anti korupsi bisa dilaksanakan baik secara formal maupun informal. Ditingkat formal, unsur-unsur \r\npendidikan anti korupsi dapat dimasukkan kedalam kurikulum diinsersikan\/diintegrasikan ke dalam matapelajaran. Konsep anti korupsi dengan membiasakan hidup anti korupsi, melalui \r\npengenalan gaya hidup anti korupsi, akibat korupsi, dan penanaman nilai-nilai ajaran agama ke \r\ndalam diri peserta didik. Implikasi pendidikan anti korupsi dalam pendidikan agama Islam yaitu \r\nkurikulum harus mengaitkan seluruh mata pelajaran pada nilai-nilai anti korupsi, pembelajaran \r\ndengan pembiasaan dan keteladanan dan guru harus mampu menjadi teladan, memberikan \r\ninformasi tentang bahaya korupsi, dan membiasakan siswa untuk anti korupsi.",
+      "volume": 8
+    },
+    {
+      "datestamp": "2021-05-27 04:44:48",
+      "abstract": "Every development process needs to begin with a carefully designed plan. The lack of planning or master plan of al Mujahidien Mosque complex causes the undirected process of building the Mosque so that the layout of the mosque and its supporting rooms are less synergistic, and the use of development funds becomes inefficient. Moreover, the location of the mosque is in an area with the rapid development of the commercial activity, causing the mosque yard to be used as a parking lot due to commercial activities around it. The concept of Jami' Al Mujahidien Mosque development is needed to improve the comfort of worship and be side-by-side with the surrounding environment. The methods used in these activities includes; interviews, surveys, updating the existing conditions of the mosque building, site analysis, identification of space requirements, takmir and the mosque manager determining the concept and physical development plan. The results of the activities are in the form of site plan concept drawings and development system of the mosque complex design plans that can accommodate activities following the current developments, including new normal adaptations, as a means or reference committee mosque development in preparing a mosque master plan to improve the comfort of mosque users, as well as increase the spirit in the management of Jami' Al Mujahidien Mosque.",
+      "volume": "Vol. 2",
+      "subjects": [
+        "BP",
+        "HN",
+        "NA",
+        "NC"
+      ],
+      "eprintid": 30961,
+      "divisions": [
+        "FT9"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30961",
+      "creators": [
+        {
+          "id": "yunitakesuma@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Yunita",
+            "lineage": null,
+            "family": "Kesuma"
+          }
+        },
+        {
+          "id": "panji.kurniawan@eng.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "KURNIAWAN",
+            "lineage": null,
+            "given": "PANJI"
+          }
+        },
+        {
+          "id": "jaya_setika@yahoo.com",
+          "name": {
+            "given": "Kelik Hendro",
+            "lineage": null,
+            "family": "Basuki",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 1,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "publisher": "LP2M INSURI Ponorogo",
+      "lastmod": "2021-05-27 04:44:48",
+      "title": "Pendampingan Tata Konsep Pengembangan Masjid Jami’ Al Mujahidien Yosodadi, Kota Metro",
+      "issn": "2715-7997",
+      "date_type": "submitted",
+      "status_changed": "2021-05-27 04:44:48",
+      "dir": "disk0\/00\/03\/09\/61",
+      "ispublished": "submitted",
+      "official_url": "https:\/\/ejournal.insuriponorogo.ac.id\/",
+      "rev_number": 19,
+      "documents": [
+          {
+            "docid": 139812,
+            "eprintid": 30961,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139812",
+            "rev_number": 1,
+            "pos": 7,
+            "main": "jurnal AMALEE 2021 - Yunita Kesuma.pdf",
+            "placement": 7,
+            "files": [
+                {
+                  "mtime": "2021-05-27 02:50:50",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/367280",
+                  "fileid": 367280,
+                  "filesize": 495943,
+                  "filename": "jurnal AMALEE 2021 - Yunita Kesuma.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 139812,
+                  "datasetid": "document",
+                  "hash": "8ff34cecada50c48142dfbea88944c71"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "type": "article",
+      "publication": "Amalee: Indonesian Journal of Community Research and Engagement",
+      "full_text_status": "public",
+      "userid": 1175
+    },
+    {
+      "full_text_status": "restricted",
+      "publication": "Jurnal Sinergi",
+      "userid": 18814,
+      "type": "article",
+      "date": "2022-09-24",
+      "documents": [
+          {
+            "main": "44-Article Text-129-1-10-20220924.pdf",
+            "placement": 1,
+            "formatdesc": "Article",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 189256,
+                  "filename": "44-Article Text-129-1-10-20220924.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "d0644563c4938d35ddf1f99de267aac1",
+                  "mtime": "2023-04-04 05:36:40",
+                  "hash_type": "MD5",
+                  "filesize": 203688,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538013",
+                  "fileid": 538013
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 189256,
+            "content": "published",
+            "language": "id",
+            "eprintid": 49621,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189256",
+            "pos": 1,
+            "rev_number": 2
+          },
+          {
+            "eprintid": 49621,
+            "language": "id",
+            "docid": 189257,
+            "content": "other",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189257",
+            "format": "text",
+            "pos": 2,
+            "rev_number": 3,
+            "main": "Pelatihan Imam Dan Khatib Bagi Remaja Islam Masjid Kecamatan Kemiling Bandar Lampung.pdf",
+            "formatdesc": "Similarity Index",
+            "files": [
+                {
+                  "filesize": 1204296,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/538015",
+                  "fileid": 538015,
+                  "mtime": "2023-04-04 05:36:55",
+                  "hash_type": "MD5",
+                  "hash": "b6c931c65b3732a49bf58b9b27a90590",
+                  "datasetid": "document",
+                  "objectid": 189257,
+                  "filename": "Pelatihan Imam Dan Khatib Bagi Remaja Islam Masjid Kecamatan Kemiling Bandar Lampung.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 2,
+            "security": "validuser",
+            "mime_type": "application\/pdf"
+          }
+      ],
+      "id_number": "https:\/\/doi.org\/10.23960\/jsi.v3i2.44",
+      "status_changed": "2023-04-04 05:52:22",
+      "pagerange": "79-83",
+      "dir": "disk0_bak\/00\/04\/96\/21",
+      "ispublished": "pub",
+      "official_url": "https:\/\/sinergi.lppm.unila.ac.id\/index.php\/jsi\/article\/view\/44",
+      "rev_number": 9,
+      "publisher": "LPPM Universitas Lampung",
+      "eprint_status": "archive",
+      "title": "Pelatihan Imam Dan Khatib Bagi Remaja Islam Masjid Kecamatan Kemiling Bandar Lampung",
+      "lastmod": "2023-04-04 05:52:22",
+      "date_type": "published",
+      "issn": "2797-5843",
+      "number": 2,
+      "creators": [
+        {
+          "id": "joni.putra@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Putra",
+            "given": "Joni"
+          }
+        },
+        {
+          "id": "ryzalperdana@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Perdana",
+            "given": "Ryzal"
+          }
+        },
+        {
+          "name": {
+            "family": "Saputri",
+            "lineage": null,
+            "given": "Rima Yuni",
+            "honourific": null
+          },
+          "id": "saputririma50@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "subjects": [
+        "BL",
+        "BP"
+      ],
+      "eprintid": 49621,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49621",
+      "abstract": "Remaja Islam Masjid (RISMA) adalah organisasi yang menghimpun remaja muslim yang aktif datang dan beribadah shalat berjama’ah di Masjid. Karena keterikatannya dengan Masjid, maka peran utamanya tidak lain adalah memakmurkan Masjid. Dengan demikian, untuk membantu RISMA di kecamatan Kemiling dalam menjalankan perannya serta dalam rangka meningkatkan kualitas dalam bidang agama Islam maka kami merasa perlu untuk melakukan kegiatan Pengabdian Kepada Masyarakat yang berkaitan dengan pelatihan imam dan khatib terhadap RISMA di kecamatan Kemiling, Bandar Lampung. Hal ini mengingat bahwa tidak semua Remaja Islam Masjid di kecamatan Kemiling memahami terkait pemahaman dan melaksanaan menjadi imam dan khatib. Adapun metode pelaksanaan yang akan digunakan meliputi: (1) Memberikan pelatihan dan workshop dengan menyajikan materi melalui tatap muka langsung mengenai pentingnya peran RISMA terhadap masyarakat, dan (2) Memberikan pelatihan untuk menjadi imam dan khatib bagi RISMA di Kecamatan Kemiling. Hasil Pengabdian mmasyarakat ini menunjukkan bahwa bahwa materi dan praktik yang diberikan pada pelatihan imam dan khatib terhadap Remaja Islam Masjid di Kecamatan Kemiling berhasil dalam meningkatkan pemahaman, kemampuan peserta. Hal ini\r\nditunjukkan dengan meningkatnya Kemampuan peserta pelatihan terlihat dari sebelum pelatihan yaitu dengan skor rata-rata 45 dan sesudah mendapatkan pelatihan dimana skor rata-rata\r\nmeningkat menjadi 68.",
+      "datestamp": "2023-04-04 05:52:22",
+      "volume": 3
+    },
+    {
+      "documents": [
+          {
+            "format": "image",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20752",
+            "docid": 20752,
+            "content": "coverimage",
+            "eprintid": 7704,
+            "language": "id",
+            "pos": 1,
+            "rev_number": 2,
+            "main": "Buku Pendidikan Agama Islam 2018.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "filename": "Buku Pendidikan Agama Islam 2018.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 20752,
+                  "hash": "54027a55dad22ce606ae39f70a902e6c",
+                  "hash_type": "MD5",
+                  "mtime": "2018-06-25 05:02:18",
+                  "fileid": 69202,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/69202",
+                  "filesize": 1086778
+                }
+            ]
+          }
+      ],
+      "rev_number": 10,
+      "ispublished": "inpress",
+      "place_of_pub": "Bandar Lampung",
+      "dir": "disk0\/00\/00\/77\/04",
+      "status_changed": "2018-06-26 02:47:26",
+      "userid": 786,
+      "full_text_status": "public",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "isbn": "978-602-1071-63-2",
+      "date": 2018,
+      "type": "book_section",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7704",
+      "divisions": [
+        "FH3"
+      ],
+      "eprintid": 7704,
+      "subjects": [
+        "BL",
+        "BP",
+        "K1"
+      ],
+      "book_title": "Pendidikan Agama Islam",
+      "datestamp": "2018-06-26 02:47:26",
+      "date_type": "published",
+      "title": "Pendidikan Agama Islam",
+      "lastmod": "2018-06-26 02:47:26",
+      "eprint_status": "archive",
+      "publisher": "Justice Publisher",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Rodliah",
+            "lineage": null,
+            "given": "Nunung",
+            "honourific": null
+          },
+          "id": "nunungradliyah@yahoo.com"
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Kurniawati",
+            "lineage": null,
+            "given": "Eka",
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "volume": 1,
+      "datestamp": "2022-03-09 06:41:50",
+      "abstract": "Management is an art and science related to management principles, namely planning, organizing, implementing and \r\nmonitoring. For this reason, management is an inevitable need as a tool that facilitates the achievement of human goals in \r\norganizations. Islam has explained the management process and its principles, and this research uses a qualitative literature\r\nreview. The results obtained are that Islam has facilitated management principles, namely planning, organizing, implementing, \r\nsupervising as stated in the sources of Islamic teachings Al-Qur'an, Hadith, Ijtihad.\r\nKeywords: Management Principles, Islam (Al-Qur'an, Hadith, Ijtihad)",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40023",
+      "eprintid": 40023,
+      "subjects": [
+        "BL",
+        "BP",
+        "L1"
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "atik.rusdiani@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "rusdiani",
+            "given": "atik"
+          }
+        }
+      ],
+      "number": 2,
+      "date_type": "published",
+      "issn": "2776-303X",
+      "lastmod": "2022-03-09 06:41:50",
+      "title": "Prinsip-Prinsip Manajemen Presfektif Islam",
+      "publisher": "Jurnal",
+      "eprint_status": "archive",
+      "rev_number": 12,
+      "official_url": "http:\/\/jurnal.fkip.unila.ac.id\/index.php\/JPPPI\/article\/view\/23775",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/00\/23",
+      "pagerange": "20-28",
+      "status_changed": "2022-03-09 06:41:50",
+      "documents": [
+          {
+            "files": [
+                {
+                  "fileid": 447720,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447720",
+                  "filesize": 370947,
+                  "mtime": "2022-03-09 00:13:17",
+                  "hash_type": "MD5",
+                  "hash": "29c0fe421c038f0c9b3ff165d4d1d148",
+                  "mime_type": "application\/pdf",
+                  "filename": "23775-58303-1-PB.pdf",
+                  "objectid": 161313,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "23775-58303-1-PB.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "eprintid": 40023,
+            "language": "en",
+            "docid": 161313,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161313"
+          },
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 2,
+            "files": [
+                {
+                  "hash": "000f06605f468edd27a381f8bd1aaac3",
+                  "objectid": 161319,
+                  "datasetid": "document",
+                  "filename": "REVIEWER ALBET_ATIK RISDIANI.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 303857,
+                  "fileid": 447820,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447820",
+                  "hash_type": "MD5",
+                  "mtime": "2022-03-09 04:58:46"
+                }
+            ],
+            "main": "REVIEWER ALBET_ATIK RISDIANI.pdf",
+            "rev_number": 1,
+            "pos": 2,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161319",
+            "docid": 161319,
+            "eprintid": 40023,
+            "language": "en"
+          },
+          {
+            "rev_number": 1,
+            "pos": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161320",
+            "format": "text",
+            "eprintid": 40023,
+            "language": "en",
+            "docid": 161320,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "mtime": "2022-03-09 04:59:02",
+                  "hash_type": "MD5",
+                  "filesize": 341448,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/447822",
+                  "fileid": 447822,
+                  "objectid": 161320,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "REVIEWER PUJIATI_ATIK RISDIANI.pdf",
+                  "hash": "a75deced69f1087b8a45f24031e0da7f"
+                }
+            ],
+            "placement": 3,
+            "main": "REVIEWER PUJIATI_ATIK RISDIANI.pdf"
+          }
+      ],
+      "type": "article",
+      "date": "2021-12",
+      "publication": "JURNAL PENGEMBANGAN PROFESI PENDIDIK INDONESIA (JPPPI)",
+      "full_text_status": "public",
+      "userid": 3524,
+      "contributors": [
+        {
+          "id": "atik.rusdiani@fkip.unila.ac.id",
+          "name": {
+            "given": "Atik",
+            "family": "Rusdiani",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "title": "Publikasi LKTI Mahasiswa \"Foruner\"",
+      "lastmod": "2021-06-08 06:36:04",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "diki",
+            "lineage": null,
+            "family": "winanti"
+          },
+          "id": "dikiwinanti@fp.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "subjects": [
+        "BP",
+        "HT"
+      ],
+      "eprintid": 32290,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/32290",
+      "datestamp": "2021-06-08 06:36:04",
+      "full_text_status": "public",
+      "publication": "Jurnal Manajemen Kewirausahaan",
+      "userid": 2824,
+      "type": "article",
+      "documents": [
+          {
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "filename": "Repository-1-JMK-Foruner.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 146466,
+                  "datasetid": "document",
+                  "hash": "9d7cbd52ccbc06149d30c4a40a9ffa85",
+                  "hash_type": "MD5",
+                  "mtime": "2021-06-08 06:12:08",
+                  "fileid": 382179,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/382179",
+                  "filesize": 721492
+                }
+            ],
+            "main": "Repository-1-JMK-Foruner.pdf",
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/146466",
+            "format": "text",
+            "docid": 146466,
+            "eprintid": 32290,
+            "language": "en"
+          }
+      ],
+      "status_changed": "2021-06-08 06:36:04",
+      "ispublished": "submitted",
+      "dir": "disk0\/00\/03\/22\/90",
+      "official_url": "http:\/\/ejurnal.stieipwija.ac.id\/index.php\/jmk\/index",
+      "rev_number": 7
+    }
+]
+

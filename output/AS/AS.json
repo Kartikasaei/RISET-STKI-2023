@@ -1,0 +1,3389 @@
+[
+    {
+      "isbn": "978-602-14841-3-5",
+      "type": "book_section",
+      "date": 2015,
+      "pages": 0,
+      "userid": 725,
+      "full_text_status": "public",
+      "rev_number": 8,
+      "dir": "disk0\/00\/02\/36\/68",
+      "ispublished": "pub",
+      "status_changed": "2020-08-19 02:42:21",
+      "documents": [
+          {
+            "docid": 37299,
+            "content": "published",
+            "language": "en",
+            "eprintid": 23668,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37299",
+            "pos": 1,
+            "rev_number": 2,
+            "main": "Buku - 50 TIU.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-18 14:53:10",
+                  "filesize": 6752365,
+                  "fileid": 216115,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/216115",
+                  "datasetid": "document",
+                  "objectid": 37299,
+                  "mime_type": "application\/pdf",
+                  "filename": "Buku - 50 TIU.pdf",
+                  "hash": "bb919e1180aced8a6d69bda30faaaced"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Admi Syarif",
+            "given": "AS"
+          }
+        }
+      ],
+      "date_type": "published",
+      "title": "50 Tokoh Inspiratif Unila",
+      "lastmod": "2020-08-19 02:42:21",
+      "eprint_status": "archive",
+      "publisher": "BPHM Universitas Lampung dan Lampost Publishing",
+      "book_title": "50 Tokoh Inspiratif Unila",
+      "datestamp": "2020-08-19 02:42:21",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23668",
+      "divisions": [
+        "FMIPA3"
+      ],
+      "eprintid": 23668,
+      "subjects": [
+        "AS"
+      ]
+    },
+    {
+      "eprint_status": "archive",
+      "publisher": "Graha Ilmu",
+      "title": "Algoritma Genetika: teori dan aplikasi",
+      "lastmod": "2020-08-19 02:42:40",
+      "date_type": "published",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Admi Syarif",
+            "given": "AS"
+          },
+          "id": "admi_syarif@yahoo.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 23670,
+      "divisions": [
+        "FMIPA3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23670",
+      "datestamp": "2020-08-19 02:42:40",
+      "book_title": "Algoritma Genetika: teori dan aplikasi",
+      "userid": 725,
+      "full_text_status": "public",
+      "type": "book_section",
+      "isbn": "978-602-262-307-6",
+      "date": 2014,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37301",
+            "format": "archive",
+            "docid": 37301,
+            "language": "en",
+            "eprintid": 23670,
+            "rev_number": 2,
+            "pos": 1,
+            "main": "Buku - GA.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mtime": "2020-08-18 15:04:29",
+                  "hash_type": "MD5",
+                  "fileid": 216130,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/216130",
+                  "filesize": 1864666,
+                  "mime_type": "application\/pdf",
+                  "filename": "Buku - GA.pdf",
+                  "datasetid": "document",
+                  "objectid": 37301,
+                  "hash": "99a3f988ea50367678ccae6bb4e35ba5"
+                }
+            ]
+          }
+      ],
+      "status_changed": "2020-08-19 02:42:40",
+      "dir": "disk0\/00\/02\/36\/70",
+      "ispublished": "pub",
+      "rev_number": 8
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "AS",
+            "lineage": null,
+            "family": "Admi Syarif",
+            "honourific": null
+          },
+          "id": "admi_syarif@yahoo.com"
+        }
+      ],
+      "eprint_status": "archive",
+      "publisher": "Graha Ilmu",
+      "title": "Kamus Lengkap Indonesia-Lampung Lampung-Indonesia",
+      "lastmod": "2020-08-19 02:42:31",
+      "book_title": "Kamus Lengkap Indonesia-Lampung Lampung-Indonesia",
+      "datestamp": "2020-08-19 02:42:31",
+      "volume": 2,
+      "divisions": [
+        "FMIPA3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23669",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 23669,
+      "type": "book_section",
+      "isbn": "978-602-262-516-2",
+      "date": 2015,
+      "full_text_status": "public",
+      "userid": 725,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/36\/69",
+      "rev_number": 7,
+      "status_changed": "2020-08-19 02:42:31",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "docid": 37300,
+            "language": "en",
+            "eprintid": 23669,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37300",
+            "format": "text",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 216123,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/216123",
+                  "filesize": 4875857,
+                  "mtime": "2020-08-18 15:00:02",
+                  "hash_type": "MD5",
+                  "hash": "33664a8cd552867ba610c907f5b791df",
+                  "mime_type": "application\/pdf",
+                  "filename": "Buku - Kamus Lampung.pdf",
+                  "objectid": 37300,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "Buku - Kamus Lampung.pdf"
+          }
+      ]
+    },
+    {
+      "date": 2015,
+      "isbn": "978-602-0860-01-5",
+      "type": "book_section",
+      "full_text_status": "public",
+      "userid": 725,
+      "status_changed": "2020-08-19 02:42:51",
+      "rev_number": 9,
+      "dir": "disk0\/00\/02\/36\/71",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37302",
+            "eprintid": 23671,
+            "language": "en",
+            "docid": 37302,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Buku - 50 Thn Unila.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 9922694,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/216138",
+                  "fileid": 216138,
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-18 15:11:04",
+                  "hash": "3b83934766ac661802eb8a1f15e8d7a3",
+                  "objectid": 37302,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "Buku - 50 Thn Unila.pdf"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "creators": [
+        {
+          "id": "admi_syarif@yahoo.com",
+          "name": {
+            "honourific": null,
+            "given": "AS",
+            "lineage": null,
+            "family": "Admi Syarif"
+          }
+        },
+        {
+          "id": "suparman.arif@fkip.unila.ac.id",
+          "name": {
+            "given": "Arif",
+            "lineage": null,
+            "family": "Suparman",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Maskun",
+            "lineage": null,
+            "family": "Maskun",
+            "honourific": null
+          },
+          "id": "maskun.1959@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Mardi",
+            "lineage": null,
+            "given": "Syahperi"
+          }
+        },
+        {
+          "id": "sutiknolampung@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sutikno",
+            "given": "Sutikno"
+          }
+        },
+        {
+          "id": "cipta.ginting@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Cipta",
+            "lineage": null,
+            "family": "Ginting"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Buhani",
+            "lineage": null,
+            "given": "Buhani"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Farida",
+            "family": "Aryani",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurdin",
+            "given": "Bertoven Vivit"
+          }
+        },
+        {
+          "name": {
+            "given": "Elida",
+            "lineage": null,
+            "family": "Purba",
+            "honourific": null
+          },
+          "id": "elida.purba@eng.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Habibullah",
+            "lineage": null,
+            "family": "Djimat"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2020-08-19 02:42:51",
+      "title": "50 Tahun Universitas Lampung Membangun Negeri",
+      "publisher": "PT. PROFAJAR",
+      "eprint_status": "archive",
+      "date_type": "published",
+      "datestamp": "2020-08-19 02:42:51",
+      "book_title": "50 Tahun Universitas Lampung Membangun Negeri",
+      "eprintid": 23671,
+      "subjects": [
+        "AS"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23671",
+      "divisions": [
+        "FMIPA3"
+      ]
+    },
+    {
+      "type": "conference_item",
+      "date": "2019-10-09",
+      "userid": 452,
+      "full_text_status": "public",
+      "rev_number": 4,
+      "ispublished": "submitted",
+      "dir": "disk0\/00\/01\/63\/55",
+      "status_changed": "2019-11-14 11:20:37",
+      "event_type": "conference",
+      "pres_type": "speech",
+      "event_location": "Palembang",
+      "documents": [
+          {
+            "main": "BUKU PROGRAM SNAPTEKMAS 2019.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "c42353f6ba535e2600bf9c03f6148d16",
+                  "mime_type": "application\/pdf",
+                  "filename": "BUKU PROGRAM SNAPTEKMAS 2019.pdf",
+                  "datasetid": "document",
+                  "objectid": 29458,
+                  "fileid": 139605,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139605",
+                  "filesize": 1387798,
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-13 16:52:33"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "docid": 29458,
+            "eprintid": 16355,
+            "language": "en",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29458",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "agungkiswandono@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Agung Abadi Kiswandono",
+            "given": "Agung Abadi Kiswandono",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Nurhasanah",
+            "lineage": null,
+            "family": "Nurhasanah"
+          },
+          "id": "nur.hasanah@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Akmal",
+            "lineage": null,
+            "family": "Jamiatul",
+            "honourific": null
+          },
+          "id": "jamiatul.akmal@eng.unila.ac.id"
+        }
+      ],
+      "event_dates": "9-10 Oktober 2019",
+      "date_type": "submitted",
+      "title": "PELATIHAN DAN PENDAMPINGAN HOME INDUSTRI KELOMPOK PKK DESA FAJAR BARU: PEMBUATAN DETERGEN CAIR",
+      "lastmod": "2019-11-14 11:20:37",
+      "eprint_status": "archive",
+      "datestamp": "2019-11-14 11:20:37",
+      "abstract": "Desa Fajar Baru Kecamatan Jati Agung walaupun bukan sebagai daerah pusat industri, tetapi Desa ini mempunyai akses yang strategis dengan lembaga pendidikan dan pusat bisnis. Kedekatan dengan lembaga pendidikan SLTA, PTN maupun PTS serta dengan pusat bisnis, yakni pasar tradisional, minimarket dan kuliner malam memberikan peluang kepada masyarakat untuk meningkatkan wirusaha, yakni menjadi produsen, penyalur, pedagang, ataupun grosir. Salah satu kegiatan yang dapat diusahakan adalah grosir bahan baku Loundry seperti detergen. Walaupun produk ini mudah didapat, tetapi bagi konsumen akan merasa sulit untuk mendapatkan produk tersebut dengan harga yang lebih murah. Pembuatan detergen merupakan salah satu produk yang berpotensi dijadikan sebagai kegiatan Home Industry. Bahan detergen adalah produk yang mudah dibuat dengan modal yang murah. Tujuan dari kegiatan pengabdian kepada masyarakat ini adalah, selain pendampingan dalam pembuatan detergen, juga pendampingan kepada kelompok mitra dalam bentuk pelatihan, workshop dan praktek serta pengenalan mesin pembuat detergen, sehingga dihasilkan produk dengan harga terjangkau oleh masyarakat (murah) dan pada akhirnya dapat mengantisipasi keinginan segementasi pasar. Hasil pengabdian didaptkan bahwa peningkatan pengetahun peserta berkaitan dengan pembuatan detergen sebesar 66,8% (15,7% menjadi 82,5%). Selain itu bahwa kelompok mitra juga sudah bisa membuat produk detergen dengan kemasan isi ulang 1000 mL, 2 L dan 5 L.\r\n \r\nKata kunci — Detergen, Fajar Baru, Home industri",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16355",
+      "event_title": "Seminar Nasional Aplikasi Teknologi Pada Masyarakat",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "eprintid": 16355,
+      "subjects": [
+        "AS"
+      ],
+      "succeeds": 15925
+    },
+    {
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/41895",
+      "eprintid": 41895,
+      "subjects": [
+        "AS"
+      ],
+      "abstract": "Sabun adalah salah satu bahan esensial yang digunakan untuk mencuci peralatan dapur, pakaian, perabot, badan, dan lain-lain yang terbuat dari campuran alkali, dan trigliserida dari lemak. Artikel ini memuat informasi dan pemaparan mengenai program kerja pembuatan Sabun Cuci Piring (Sacupi). Deskripsi lengkap artikel ini meliputi penyediaan bahan, proses\/ langkah-langkah pembuatan hingga hasil dan implemantsi hasil kepada masyarakat. Pendekatan yang dibunakan adalah kualitatif-deskriptif. Output dari dilaksanakannya kegiatan ini adalah bertambahnya kapabilitas kaum ibu penerima PKH di Kelurahan Karangrejo dalam membuat sabun cuci piring yang bernilai ekonomis. Artikel ini dihasilkan dari realisasi kegiatan Kuliah Kernya Nyata (KKN) Mandiri Putra Daerah Periode 1 Tahun 2022",
+      "datestamp": "2022-05-27 03:23:22",
+      "projects": [
+        "BP-KKN Universitas Lampung"
+      ],
+      "title": "PEMBUATAN SABUN CUCI PIRING BERSAMA WARGA PENERIMA PKH, KELURAHAN KARANGREJO, KECAMATAN METRO UTARA, KOTA METRO",
+      "lastmod": "2022-05-27 03:23:22",
+      "publisher": "LPPM Universitas Lampung",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Akmal Kurnia",
+            "family": "Akmal",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "lazakaria.1969@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Zakaria",
+            "lineage": null,
+            "family": "La"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Dorrah",
+            "given": "Azis",
+            "honourific": null
+          },
+          "id": "dorrah.azis@fmipa.unila.ac.id"
+        },
+        {
+          "id": "agus.sutrisno@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Agus",
+            "given": "Sutrisno",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Ramadhan",
+            "lineage": null,
+            "family": "Ramadhan"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ambarita",
+            "lineage": null,
+            "given": "Basaria"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "family": "Alfalah",
+            "lineage": null,
+            "given": "Febilla Naili",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "Jihan Nafisa",
+            "family": "Salsabila",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Yobel",
+            "given": "Kanesia Natalie",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Lutfi",
+            "lineage": null,
+            "family": "Faradita",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "lineage": null,
+            "family": "Asshidiq",
+            "given": "Miftahul Huda",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Rachmania Nisa",
+            "lineage": null,
+            "family": "Panwar",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Salsa Dinara",
+            "lineage": null,
+            "family": "Pangestu"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Jamil",
+            "given": "Zuhhad Ahmad"
+          }
+        }
+      ],
+      "funders": [
+        "BP-KKN Universitas Lampung"
+      ],
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/163568",
+            "format": "text",
+            "language": "en",
+            "eprintid": 41895,
+            "docid": 163568,
+            "rev_number": 1,
+            "pos": 2,
+            "main": "Artikel_Sabun_KKN_Kelurahan_Karangrejo.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "hash": "9f26f009ad5ee1398da134bcdb84393b",
+                  "datasetid": "document",
+                  "objectid": 163568,
+                  "mime_type": "application\/pdf",
+                  "filename": "Artikel_Sabun_KKN_Kelurahan_Karangrejo.pdf",
+                  "filesize": 1478145,
+                  "fileid": 462374,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/462374",
+                  "hash_type": "MD5",
+                  "mtime": "2022-05-27 00:29:09"
+                }
+            ],
+            "placement": 2
+          }
+      ],
+      "rev_number": 15,
+      "ispublished": "unpub",
+      "dir": "disk0\/00\/04\/18\/95",
+      "status_changed": "2022-05-27 03:23:22",
+      "full_text_status": "public",
+      "userid": 1137,
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "type": "other",
+      "date": "2022-02-11"
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "yuniaamelia@yahoo.com",
+          "name": {
+            "lineage": null,
+            "family": "Amelia",
+            "given": "Yunia",
+            "honourific": null
+          }
+        },
+        {
+          "id": "fajargd@yahoo.com",
+          "name": {
+            "honourific": null,
+            "given": "Fajar",
+            "lineage": null,
+            "family": "Gustiawaty Dewi"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Susi",
+            "family": "Sarumpaet",
+            "lineage": null
+          },
+          "id": "ssarum@yahoo.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "KUSUMAWARDANI",
+            "given": "NIKEN"
+          },
+          "id": null
+        }
+      ],
+      "date_type": "published",
+      "event_dates": "11 Desember 2017",
+      "eprint_status": "archive",
+      "lastmod": "2018-06-28 02:02:09",
+      "title": "PEMBUATAN APLIKASI PELAPORAN DATABASE ORGANISASI NIRLABA",
+      "abstract": "Abstract: Lembaga Amil Zakat Yatim Mandiri Lampung salah satu organisasi nirlaba yang konsen dalam memandirikan anak yatim dan dhuafa di Lampung. Lembaga ini memerlukan sebuah aplikasi yang dapat membantu meningkatkan akuntabilitasnya. Oleh sebab itu diperlukan penyusunan aplikasi pelaporan Database. Laporan Database suatu entitas diperlukan sebagai bentuk akuntabilitas bagi organisasi. Pada organisasi nirlaba yang mulai berkembang dan transaksi yang terjadi mulai banyak, diperlukan penerapan tekhnologi aplikasi atau software yang dapat membantu kelancaran prosesnya banyak software komputer yang dapat digunakan mulai dari yang sederhana sampai dengan yang kompleks. Aplikasi yang akan dibuat merupakan software yang dapat digunakan untuk membantu pembuatan laporan Database dalam perusahaan nirlaba  secara sederhana dan dapat digunakan untuk monitoring kinerjanya. Setelah melakukan wawancara pendahuluan pada lembaga amil zakat yatim mandiri, maka ditemukanlah permasalahan lembaga amil zakat dalam menyusun laporan database, sehingga mulailah dirancang desain aplikasi laporan, pada tahap perancangan awal masih ditemukan ketidaksesuaian pada aplikasi sehingga diperpanjang waktu untuk penyempurnaan aplikasi, lalu setelah disempurnakan aplikasi siap untuk diinstalkan di computer yang akan digunakan untuk penyusunan database. Selanjutnya pada tahap pengimplementasian system dilakukanlah pelatihan untuk staf administrasi di lembaga amil zakat yatim mandiri sampai aplikasi tersebut dapat digunakan secara efektif dan dapat membantu penyelesaian masalah pelaporan database yang selama ini menjadi kendala. Penerapan Aplikasi pelaporan dapat diterima dengan baik oleh lembaga amil zakat dan membantu dalam proses pembuatan laporan database yang mereka butuhkan secara cepat dan akurat dengan cara yang efektif dan efisien.",
+      "datestamp": "2018-06-28 02:02:09",
+      "divisions": [
+        "FEB4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/7958",
+      "event_title": "Call Papers dan Seminar Nasional Fakultas Ekonomi dan Bisnis Universitas Lampung 2017, Bandarlampung",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 7958,
+      "date": "2017-12-11",
+      "type": "conference_item",
+      "full_text_status": "public",
+      "userid": 733,
+      "contact_email": "yuniaamelia@yahoo.com",
+      "corp_creators": [
+        "University Of Lampung"
+      ],
+      "dir": "disk0\/00\/00\/79\/58",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "official_url": "file:\/\/\/C:\/Users\/USER\/Downloads\/Prosiding%20PKM%20SEMNAS%202017.pdf",
+      "status_changed": "2018-06-28 02:02:09",
+      "pagerange": "156-160",
+      "event_location": "Bandarlampung, Indonesia",
+      "event_type": "conference",
+      "pres_type": "paper",
+      "documents": [
+          {
+            "files": [
+                {
+                  "mime_type": "application\/msword",
+                  "filename": "PENGABDIAN-CALL-FOR-PAPERS-2017_Yunia Amelia.doc",
+                  "objectid": 20992,
+                  "datasetid": "document",
+                  "hash": "78aea1b733978d60e1dea55d8457dfe2",
+                  "mtime": "2018-06-27 00:45:14",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/70930",
+                  "fileid": 70930,
+                  "filesize": 97792
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/msword",
+            "main": "PENGABDIAN-CALL-FOR-PAPERS-2017_Yunia Amelia.doc",
+            "pos": 1,
+            "rev_number": 1,
+            "eprintid": 7958,
+            "language": "en",
+            "docid": 20992,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/20992"
+          }
+      ]
+    },
+    {
+      "divisions": [
+        "FKIP8"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5893",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 5893,
+      "datestamp": "2018-04-25 06:40:47",
+      "abstract": "The development of Indonesian language learning, especially in SD\/MI high grade can basically\r\nbe developed by the teacher in order to attract the students. The concerns of parents on the\r\ninformation technology development can be minimized since the beginning of its utilization it was socialized through the learning process. Activities are implemented through three stages, namely preparation, implementation, and evaluation. Implementation and evaluation are grouped into 4 rounds. Each round involves two elementary school consisting of SD Negeri 1 and 1 MI. At the end of each round there are an evaluation models, the evaluation revised the model for the second round and so on until the fourth round. Model development was conducted over a 10-month study , involving 8 schools (4 elementary public and private faith-based 4th ), 16 teachers and 409 students. The minimum requirement of the involved school are: the principal is supporting, the teachers are innovative, and the schools have the computer \/ laptop and LCD equipments, VCD and TV monitor, or mobile phone. The results of the students’ pretest showed that the majority of students (89%) did not know the cultural diversity of the children in Lampung Province; and the small percentage of students who knew are allegedly known by seeing the television broadcast. The posttest results indicated that the children’s knowledge increased in accordance with what is expected in the model. Multicultural values developed, such as: tolerance, solidarity, empathy, courage to express themselves, to be honest, and fair are clearly expressed on the posttest students. One of the Indonesian SD \/ MI Instructional Materials Package were developed using the Dimension Series: Success Steps to Get the Achievement easily understood and can be integrated with all areas of study that could be a theme in the thematic learning model.\r\n\r\nKeywords: language learning, elementary school, multicultural",
+      "issn": "978-602-70378-0-9",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "Faculty of Teacher Training and Education, Sriwijaya University, South Sumatra - Indonesia",
+      "title": "Multicultural Indonesian Learning in Primary School",
+      "lastmod": "2018-04-25 06:40:47",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Edi Suyanto",
+            "given": "ES",
+            "honourific": null
+          },
+          "id": "doktor_edy@yahoo.com"
+        }
+      ],
+      "documents": [
+          {
+            "main": "PROSIDING SULE 2014.pdf",
+            "files": [
+                {
+                  "hash": "66d2c693db1fe651e66996845e76c823",
+                  "objectid": 18817,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "PROSIDING SULE 2014.pdf",
+                  "filesize": 762885,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/54858",
+                  "fileid": 54858,
+                  "mtime": "2017-11-17 07:54:27",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 5893,
+            "docid": 18817,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18817",
+            "format": "text",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/58\/93",
+      "rev_number": 7,
+      "status_changed": "2018-04-25 06:40:47",
+      "pagerange": "1070-1074",
+      "publication": "Proceedings: The 1st Sriwijaya University Learning and Education International Conference (SULE-IC) 2014 held by FKIP Unsri in Collaboration with Communication Forum for Indonesian State FKIP Deans",
+      "full_text_status": "public",
+      "userid": 849,
+      "date": "2014-05-16",
+      "type": "article"
+    },
+    {
+      "pagerange": "161-161",
+      "status_changed": "2017-11-16 07:37:57",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/53\/06",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "5f24fcea4b9de299c03a280cb5b749eb",
+                  "objectid": 18252,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "PUBLIKASI-PROCEEDING-FMI9-2017.pdf",
+                  "filesize": 397997,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50330",
+                  "fileid": 50330,
+                  "mtime": "2017-11-12 08:25:54",
+                  "hash_type": "MD5"
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "PUBLIKASI-PROCEEDING-FMI9-2017.pdf",
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 18252,
+            "language": "en",
+            "eprintid": 5306,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18252",
+            "format": "text"
+          }
+      ],
+      "pres_type": "paper",
+      "event_type": "conference",
+      "event_location": "Semarang, Jawa Tengah, Indonesia",
+      "type": "conference_item",
+      "date": "2017-11-08",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 174,
+      "full_text_status": "public",
+      "abstract": "Perkembangan teknologi informasi dan komunikasi berdampak pada perubahan perilaku konsumen, yang sebelumnya berbelanja secara konvensional dengan melakukan pembelian melalui transaksi tatap muka, kini berbelanja secara virtual melalui perangkat elektronik yang terhubung dengan media internet. Belanja online menawarkan beberapa kelebihan yang menjadi faktor positif mendukung konsumen untuk melakukan berbelanja online. Namun belanja online juga memiliki kelemahan potensi terjadinya risiko kerugian yang berdampak negatif pada perilaku konsumen dalam memutuskan pembelian onlinenya.\r\nTujuan penelitian ini untuk mengetahui pengaruh dimensi persepsi risiko yang terdiri dari risiko keuangan, risiko produk, risiko waktu, risiko pengiriman, risiko sosial, dan risiko keamanan informasi terhadap perilaku konsumen dalam belanja online, dengan responden para konsumen di Bandar Lampung yang pernah melakukan belanja online sebanyak 100 orang. pengambilan sampel dilakukan dengan metode non probability sampling menggunakan teknik\r\npurposive sampling.\r\nHasil penelitian ini menyatakan bahwa tiga dimensi risiko yakni risiko produk, risiko pengiriman, dan risiko keamanan informasi terbukti berpengaruh terhadap perilaku konsumen dalam memutuskan belanja online. Sementara tiga dimensi risiko lainnya, yakni risiko keuangan, risiko waktu, dan risiko sosial tidak terbukti berpengaruh terhadap perilaku konsumen dalam memutuskan berbelanja online.",
+      "datestamp": "2017-11-16 07:37:57",
+      "eprintid": 5306,
+      "subjects": [
+        "AS",
+        "H1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5306",
+      "event_title": "Seminar Nasional dan Konferensi Forum Manajemen Indonesia (FMI) Ke-9",
+      "divisions": [
+        "FEB6"
+      ],
+      "creators": [
+        {
+          "name": {
+            "given": "Yuni",
+            "lineage": null,
+            "family": "Fihartini",
+            "honourific": null
+          },
+          "id": "yuniarti.fihartini@feb.unila.ac.id"
+        },
+        {
+          "id": "muji@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Mudji Rahmat",
+            "family": "Ramelan",
+            "lineage": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "title": "DIMENSI PERSEPSI RESIKO PADA PERILAKU BELANJA ONLINE KONSUMEN",
+      "lastmod": "2017-11-16 07:37:57",
+      "eprint_status": "archive",
+      "date_type": "published"
+    },
+    {
+      "date": "2015-09-01",
+      "type": "article",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 174,
+      "publication": "Jurnal Bisnis dan Manajemen",
+      "full_text_status": "public",
+      "status_changed": "2017-11-16 03:23:00",
+      "pagerange": "174-246",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/47\/28",
+      "documents": [
+          {
+            "main": "PUBLIKASI JURNAL-JBM-SEPTEMBER-2015.pdf",
+            "files": [
+                {
+                  "hash": "60b552d2408034fa0055fa639cbef816",
+                  "objectid": 17636,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "PUBLIKASI JURNAL-JBM-SEPTEMBER-2015.pdf",
+                  "filesize": 8259987,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46107",
+                  "fileid": 46107,
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-06 06:11:24"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 4728,
+            "docid": 17636,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17636",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "number": 3,
+      "creators": [
+        {
+          "name": {
+            "given": "Yuniarti",
+            "lineage": null,
+            "family": "Fihartini",
+            "honourific": null
+          },
+          "id": "yuniarti.fihartini@feb.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "title": "PENGARUH KUALITAS LAYANAN ELEKTRONIK SIAKAD ONLINE TERHADAP KEPUASAN MAHASISWA DI FAKULTAS EKONOMI DAN BISNIS UNIVERSITAS LAMPUNG",
+      "lastmod": "2017-11-16 03:23:00",
+      "publisher": "Jurusan Manajemen Fakultas Ekonomi dan Bisnis Universitas Lampung",
+      "eprint_status": "archive",
+      "issn": "1411-9366",
+      "volume": 11,
+      "abstract": "Sistem Layanan Elektronik atau Electronic Services yang disingkat E-Services merupakan suatu aplikasi yang memanfaatkan Teknologi Informasi dan Komunikasi. Layanan elektronik merupakan layanan melalui internet yang mengacu kepada perdagangan melalui internet, dukungan pelanggan, termasuk layanan non-komersial yang biasanya disediakan oleh lembaga pemerintah. Industri perbankan dengan e-banking, industri penerbangan dengan e-ticketing, pemerintah dengan e-government dan industri pendidikan dengan e-learningnya.\r\nSalah satu layanan elektronik yang disuguhkan oleh Perguruan Tinggi adalah SIAKAD Online, merupakan Sistem Informasi Akademik yang dibangun untuk memberikan kemudahan kepada sivitas akademika dalam kegiatan administrasi akademik kampus secara online. Siakad Online menggunakan sistem basis data terpusat     mengelola seluruh data secara terintegrasi sehingga data akan selalu up-to-date, realtime dan selalu siap untuk digunakan, serta mengurangi kemungkinan duplikasi data karena Siakad Online. Dengan menggunakan Siakad Online, maka kualitas pelayanan akademik yang diterima mahasiswa akan meningkat, terutama dalam hal keakuratan informasi, transfer informasi, efisiensi dan ketepatan waktu.\r\nTujuan penelitian ini adalah untuk mengetahui pengaruh kualitas layanan elektronik Siakad Online terhadap kepuasan mahasiswa di Fakultas Ekonomi dan Bisnis Universitas Lampung. Hipotesis pada penelitian ini adalah 1) Kualitas layanan elektronik Siakad Online Universitas Lampung berpengaruh positif dan signifikan terhadap kepuasan mahasiswa Fakultas Ekonomi dan Bisnis Universitas Lampung, 2) Kualitas layanan purna elektronik Siakad Online Universitas Lampung berpengaruh positif dan signifikan terhadap kepuasan mahasiswa Fakultas Ekonomi dan Bisnis.\r\nPopulasi penelitian ini adalah mahasiswa Fakultas Ekonomi dan Bisnis Universitas Lampung, dengan sampel sebanyak 100 responden, melalui metode non probability sampling dengan teknik random sampling. Analisis dilakukan  secara kualitatif menggunakan regregresi berganda dan analisis data secara kuantitatif dilakukan dengan menggunakan uji beda (uji t).\r\nHasil analisis data menunjukkan bahwa hipotesi yang menyatakan kualitas interaksi layanan elektronik (e-core service quality) Siakad Online Universitas Lampung berpengaruh positif dan signifikan terhadap kepuasan mahasiswa Fakultas Ekonomi dan Bisnis (β 0,480; t 5.640;  sig  0,00). Selanjutnya hipotesis yang menyatakan bahwa kualitas layanan purna elektronik (e-recovery service quality) Siakad Online Universitas Lampung berpengaruh positif dan signifikan terhadap kepuasan mahasiswa Fakultas Ekonomi dan Bisnis terjawab dan dapat didukung oleh hasil penelitian ini (β 0,346; t 4,066;  sig  0,00).",
+      "datestamp": "2017-11-16 03:23:00",
+      "eprintid": 4728,
+      "subjects": [
+        "AS",
+        "H1",
+        "HN"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4728",
+      "divisions": [
+        "FEB6"
+      ]
+    },
+    {
+      "abstract": "Media sosial menjadi sarana komunikasi penting yang digunakan orang untuk terhubung dengan orang atau organisasi lain. Orang-orang menggunakan media sosial untuk berbagi pengalaman mereka, ulasan (review), informasi, saran, peringatan, tips mengenai masalah apapun yang menarik untuk orang-orang yang terhubung dengan mereka. Informasi tersebut merupakan sumber yang membantu, yang dapat mempengaruhi pengambilan keputusan konsumen. \r\nMelalui hubungan personal (personal relevance),interaksi secara online (online interactivity), pesan yang diterima (message), serta kedekatan terhadap merek (brand familiarity), konsumen akan memiliki persepsi dan penilaiannya terhadap suatu produk atau merek atas kegiatan promosi yang dilakukan produk atau merek tersebut secara online pada media sosial. Serta dengan memperhatikan konsumen lain (Concern for Others consumer), memperhatikan kesan-kesan positif (Expressing positive feelings), keluhan-keluhan dan kekecewaan (Venting negative Feelings), manfaat yang diberikan (Social benefits), loyalitas konsumen lain terhadap suatu merek (Helping the company), dan referensi-referensi (Advice seeking) konsumen akan memiliki penilaian serta dapat mengevaluasi suatu produk atau merek melalui eWOM yang diterimanya secara online melalui situs sosial media, dan hal ini akan mempengaruhi konsumen dalam proses pengambilan keputusan pembelian suatu produk atau jasa.   \r\nTujuan dari penelitian ini adalah untuk mengetahui pengaruh promosi dan electronic word of mouth di media sosial terhadap keputusan pembelian konsumen di Bandar Lampung. Hipotesis pada penelitian ini adalah 1) Promosi di Media sosial berpengaruh terhadap Electronic Word of Mouth (E-WoM) konsumen di Bandar Lampung, 2) Promosi dan Electronic Word of Mouth (E-WoM)) di Media sosial berpengaruh terhadap keputusan pembelian konsumen di Bandar Lampung\r\nPopulasi penelitian ini adalah mahasiswa di Bandar Lampung, dengan sampel sebanyak 100 responden, melalui metode non probability sampling dengan teknik random sampling. Analisis dilakukan  secara kualitatif menggunakan regregresi berganda dan analisis data secara kuantitatif dilakukan dengan menggunakan uji beda (uji t).\r\nHasil analisis data menunjukkan bahwa hipotesi yang menyatakan promosi berpengaruh positif dan signifikan terhadap electronic word of mouth di situs media social didukung oleh hasil penelitian ini, dengan R2 sebesar 0.295, koefisien sebesar 0.544, dan nilai signifikansi sebesar 0.000 Sebaliknya hipotesis yang menyatakan bahwa promosi dan electronic word of mouth berpengaruh positif dan signifikan terhadap keputusan pembelian konsumen di Bandar Lampung tidak sepenuhnya di dukung oleh penelitian ini, dimana hanya electronic word of mouth saja yang terbukti berpengaruh positif dan signifikan dengan R2 sebesar 0.149, koefisien sebesar 0.269, dan nilai signifikansi sebesar 0.018. Sementara promosi tidak terbukti berpengaruh terhadap keputusan pembelian konsumen dengan nilai signifikansi melebihi 0.05 yakni 0.137.",
+      "datestamp": "2017-11-16 03:22:54",
+      "volume": 11,
+      "divisions": [
+        "FEB6"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4724",
+      "subjects": [
+        "AS",
+        "H1",
+        "HM",
+        "HN"
+      ],
+      "eprintid": 4724,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "yuniarti.fihartini@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Yuniarti",
+            "lineage": null,
+            "family": "Fihartini"
+          }
+        }
+      ],
+      "number": 1,
+      "date_type": "published",
+      "issn": "1411-9366",
+      "eprint_status": "archive",
+      "publisher": "Jurusan Manajemen Fakultas Ekonomi dan Bisnis Universitas Lampung",
+      "title": "PENGARUH PROMOSI DAN ELECTRONIC WORD-OF-MOUTH \r\nDI MEDIA SOSIAL TERHADAP KEPUTUSAN PEMBELIAN KONSUMEN\r\nDI BANDAR LAMPUNG",
+      "lastmod": "2017-11-16 03:22:54",
+      "dir": "disk0\/00\/00\/47\/24",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "status_changed": "2017-11-16 03:22:54",
+      "pagerange": "1-15",
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "language": "en",
+            "eprintid": 4724,
+            "docid": 17632,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17632",
+            "format": "text",
+            "files": [
+                {
+                  "filename": "JURNAL PUBLIKASI-YUNI-JBM-JANUARI-2015.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 17632,
+                  "datasetid": "document",
+                  "hash": "df34d74b4b9b95b2dc5556e6470b7a58",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-06 05:49:34",
+                  "fileid": 46082,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/46082",
+                  "filesize": 11348429
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "JURNAL PUBLIKASI-YUNI-JBM-JANUARI-2015.pdf"
+          }
+      ],
+      "type": "article",
+      "date": "2015-01-02",
+      "publication": "Jurnal Bisnis dan Manajemen",
+      "full_text_status": "public",
+      "userid": 174,
+      "corp_creators": [
+        "Universitas Lampung"
+      ]
+    },
+    {
+      "publisher": "Forum Manajemen Indonesia (FMI) Ke-9",
+      "eprint_status": "archive",
+      "title": "DIMENSI PERSEPSI RESIKO PADA PERILAKU BELANJA ONLINE KONSUMEN",
+      "lastmod": "2017-11-14 02:44:11",
+      "date_type": "published",
+      "issn": "978-602-8557-31-3",
+      "creators": [
+        {
+          "id": "yuniarti.fihartini@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Fihartini",
+            "given": "Yuniarti"
+          }
+        },
+        {
+          "name": {
+            "given": "Mudji Rachmat",
+            "lineage": null,
+            "family": "Ramelan",
+            "honourific": null
+          },
+          "id": "muji@feb.unila.ac.id"
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "AS",
+        "H1"
+      ],
+      "eprintid": 5308,
+      "divisions": [
+        "FEB6"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/5308",
+      "datestamp": "2017-11-14 02:44:11",
+      "abstract": "Perkembangan teknologi informasi dan komunikasi berdampak pada perubahan perilaku konsumen, yang sebelumnya berbelanja secara konvensional dengan melakukan pembelian melalui transaksi tatap muka, kini berbelanja secara virtual melalui perangkat elektronik yang terhubung dengan media internet. Belanja online menawarkan beberapa kelebihan yang menjadi faktor positif mendukung konsumen untuk melakukan berbelanja online. Namun belanja online juga memiliki kelemahan potensi terjadinya risiko kerugian yang berdampak negatif pada perilaku konsumen dalam memutuskan pembelian onlinenya.\r\n Tujuan penelitian ini untuk mengetahui pengaruh dimensi persepsi risiko yang terdiri dari risiko keuangan, risiko produk, risiko waktu, risiko pengiriman, risiko sosial, dan risiko keamanan informasi terhadap perilaku konsumen dalam belanja online, dengan responden para konsumen di Bandar Lampung yang pernah melakukan belanja online sebanyak 100 orang. pengambilan sampel dilakukan dengan metode non probability sampling menggunakan teknik purposive sampling.\r\nHasil penelitian ini menyatakan bahwa tiga dimensi risiko yakni risiko produk, risiko pengiriman, dan risiko keamanan informasi terbukti berpengaruh terhadap perilaku konsumen dalam memutuskan belanja online. Sementara tiga dimensi risiko lainnya, yakni risiko keuangan, risiko waktu, dan risiko sosial tidak terbukti berpengaruh terhadap perilaku konsumen dalam memutuskan berbelanja online.",
+      "corp_creators": [
+        "Universitas Lampung"
+      ],
+      "userid": 174,
+      "publication": "Prosiding Seminar Nasional  & Konferensi Forum Manajemen Indonesia (FMI) Ke-9",
+      "full_text_status": "public",
+      "type": "article",
+      "date": "2017-11-08",
+      "documents": [
+          {
+            "docid": 18254,
+            "language": "en",
+            "eprintid": 5308,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/18254",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "PUBLIKASI-PROCEEDING-FMI9-NOV-2017.pdf",
+            "placement": 1,
+            "files": [
+                {
+                  "filename": "PUBLIKASI-PROCEEDING-FMI9-NOV-2017.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 18254,
+                  "datasetid": "document",
+                  "hash": "5f24fcea4b9de299c03a280cb5b749eb",
+                  "mtime": "2017-11-12 08:54:38",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/50343",
+                  "fileid": 50343,
+                  "filesize": 397997
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public"
+          }
+      ],
+      "pagerange": "161-161",
+      "status_changed": "2017-11-14 02:44:11",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/53\/08",
+      "rev_number": 7
+    },
+    {
+      "title": "peer review dengan judul The Role of Internet of Things to Support Cultural Heritage Inventory in Urban Resiliency Approach: Tradisional House in Bandar Lampung Case,",
+      "lastmod": "2022-02-17 07:49:51",
+      "publisher": "IEEE",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "family": "Hardilla",
+            "lineage": null,
+            "given": "Dini",
+            "honourific": null
+          },
+          "id": "dinihd90@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Nugroho",
+            "lineage": null,
+            "given": "Agung Cahyo"
+          },
+          "id": "agung.cahyo@eng.unila.ac.id"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/39442",
+      "divisions": [
+        "FT9"
+      ],
+      "eprintid": 39442,
+      "subjects": [
+        "AS"
+      ],
+      "datestamp": "2022-02-17 07:49:51",
+      "full_text_status": "public",
+      "userid": 3311,
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "date": "2019-04-25",
+      "type": "other",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/160719",
+            "format": "text",
+            "language": "en",
+            "eprintid": 39442,
+            "docid": 160719,
+            "rev_number": 1,
+            "pos": 1,
+            "main": "peer review IoT-IEEE.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filename": "peer review IoT-IEEE.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 160719,
+                  "hash": "2cf249cab71df3fcde15e791c640fb33",
+                  "hash_type": "MD5",
+                  "mtime": "2022-02-17 07:05:48",
+                  "fileid": 443288,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/443288",
+                  "filesize": 1075479
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "rev_number": 8,
+      "dir": "disk0\/00\/03\/94\/42",
+      "ispublished": "pub",
+      "status_changed": "2022-02-17 07:49:51"
+    },
+    {
+      "event_title": "The 6th International Meeting for the Development of Integrated Pest Management (IPM) in Asia and Africa” at Niigata University, Niigata, Japan on March 2-3, 2016.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2913",
+      "divisions": [
+        "FP24"
+      ],
+      "eprintid": 2913,
+      "subjects": [
+        "AS"
+      ],
+      "abstract": "The soybean aphid, Aphis glycines Matsumura (Hemiptera: Aphididae), is a major pest of soybean, Glycine max (L.). Merr., that significantly reduces yield throughout soybean-growing areas of  all over the country.  One of the potential control strategies of this pest is to use entomopathogenic fungi.  Beauveria bassiana (Balsamo) VuelleminVuill  and Metarrhizium anisopliae (Metschnikoff) Sorokin are the entomopathogenic fungi (EPF) that occur naturally in the environment and have a potential as biological control agents against many insect pests including the soybean aphid. Three fungal isolates of B. bassiana  (Tegineneng, Sumberjaya, and Tanggamus) and isolates of M. anisopliae  (Gading Rejo, Tegineneng, and UGM)  were tested to measure spore production and germination and also their  pathogenicity   against the soybean aphids under laboratory conditions.  The results showed  that spore production ranged from 9.9 x 106 to 13.28 x106 conidia ml-1 and 1.27 x 107  to 2.27 x 107 conidia ml-1 for the three B. bassiana and M. anisopliae  isolates, respectively. Spore viability after incubation for 24 h at 20 °C ranged from 64.76 to 82.25% for the three isolates of B. bassiana and  from 58.12 to 67.40% for M. anisopliae isolates tested.  Moreover, the pathogenicity bioassays  showed  that both  B. bassiana and M. anisopliae  fungi were capable to cause infection and developed mycosis on soybean aphids.  Mortality ranged from 82.91 to 93.7% and  74.44 to 85.55% among the three  isolates of B. Bassiana and M. anisopliae,  respectively. Highly mortality values  indicate that some isolates of B. bassiana and M. anisopliae are highly pathogenic to the soybean  aphid. In addition,  the  lethal concentration for 50% mortality (LC50 ) value for the most pathogenic isolate of B. bassiana was 4.5 × 104 conidia ml-1, whereas the LC50 value for M. Anisoplia was  8.9 × 105 conidia ml-1. The lethal time for 50% mortality (LT50) values were  obtained   in the highest spore concentration  of 108 conidia ml-1 of B. bassiana  and M. Anisopliae as 3.64 and 5.54 days, respectively. The lower LC50 and LT50 values of B. bassiana indicate its higher virulence compared to M. anisopliae. This study demonstrates the prospects of the two entomopathogenic  fungi for the management of the soybean  aphid.",
+      "datestamp": "2017-07-20 08:57:29",
+      "event_dates": "March 2-3, 2016",
+      "title": "Pathogenicity of Entomopathogenic Fungi To Soybean Aphids Aphis glycines (Hemiptera: Aphididae)",
+      "lastmod": "2017-07-20 08:57:29",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "creators": [
+        {
+          "id": "rosma.hasibuan@fp.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Rosma",
+            "lineage": null,
+            "family": "Hasibuan"
+          }
+        }
+      ],
+      "funders": [
+        "Integrated Pest Management (IPM) in Asia and Africa"
+      ],
+      "pres_type": "keynote",
+      "event_type": "conference",
+      "event_location": "Niigata University, Niigata, Japan",
+      "rev_number": 8,
+      "ispublished": "unpub",
+      "dir": "disk0\/00\/00\/29\/13",
+      "status_changed": "2017-07-20 08:57:29",
+      "userid": 1089,
+      "full_text_status": "none",
+      "corp_creators": [
+        "Integrated Pest Management (IPM) in Asia and Africa"
+      ],
+      "date": 2016,
+      "type": "conference_item"
+    },
+    {
+      "date": 2018,
+      "type": "conference_item",
+      "publication": "Prosiding Pengabdian Kepada Masyarakat Pengabdian Kepada MAsyarakat melalui diseminasi hasil penelitian terapan.",
+      "full_text_status": "public",
+      "userid": 1129,
+      "status_changed": "2020-09-21 08:40:23",
+      "dir": "disk0\/00\/01\/69\/44",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/30024",
+            "format": "text",
+            "eprintid": 16944,
+            "language": "en",
+            "docid": 30024,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "PengabdianSemnas.docx",
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "files": [
+                {
+                  "mtime": "2019-11-18 06:25:10",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/143746",
+                  "fileid": 143746,
+                  "filesize": 49826,
+                  "filename": "PengabdianSemnas.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "datasetid": "document",
+                  "objectid": 30024,
+                  "hash": "0fb91b61c9a5ba4acf23bf59f1b3534f"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "event_location": "Hotel Horison Bandar Lampung",
+      "pres_type": "paper",
+      "event_type": "conference",
+      "creators": [
+        {
+          "id": "nicken_kusumawardani@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "family": "KUSUMAWARDANI",
+            "lineage": null,
+            "given": "NIKEN"
+          }
+        },
+        {
+          "id": "adew93@yahoo.com",
+          "name": {
+            "honourific": null,
+            "family": "Widiyanti",
+            "lineage": null,
+            "given": "Ade"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Septiyanti",
+            "lineage": null,
+            "given": "Ratna"
+          },
+          "id": "rseptiyanti@yahoo.com"
+        },
+        {
+          "id": "kap_zk@yahoo.co.id",
+          "name": {
+            "family": "Zubaiidi",
+            "lineage": null,
+            "given": "Indra",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "FALSE",
+      "eprint_status": "archive",
+      "publisher": "FEB Unila",
+      "lastmod": "2020-09-21 08:40:23",
+      "title": "Penerapan Standar Akuntansi Keuangan Dalam Pencatatan Transaksi Bisnis UMKM Barbershop",
+      "issn": "978-602-53436-0-5",
+      "date_type": "published",
+      "event_dates": "15 November 2018",
+      "datestamp": "2020-09-21 08:40:23",
+      "abstract": "Standar Akuntansi merupakan format baku dalam penyajian laporan keuangan. Laporan keuangan merupakan alat pelaporan bisnis yang digunakan manajemen dalam memberikan informasi keadaan keuangan suatu entitas bisnis\/ perusahaan. Usaha Mikro, Kecil dan Menengah (UMKM) adalah skala usaha yang paling banyak digeluti oleh masyarakat pada umumnya, salah satunya Barbershop. Menjamurnya kegiatan usaha ini dalam rangka memenuhi kebutuhan masyarakat khususnya kaum pria. Dalam praktiknya, usaha ini masih kesulitan dalam penyajian laporan operasional usaha, para pelaku UMKM Barbershop masih belum memisahkan transaksi pribadi dan transaksi usaha. Untuk itu, pelatihan ini dilakukan dalam rangka memberikan informasi serta ketrampilan dalam pembuatan catatan keuangan yang sesuai dengan standar akuntansi yang berlaku secara umum. Pelatihan telah dilaksanakan pada tanggal 10 September 2018 di Kelurahan Perumnas Way Kandis Kecamatan Tanjung Senang, Bandar Lampung. \r\nKata kunci: Standar Akuntansi, Transaksi Bisnis, UMKM Barbershop.",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 16944,
+      "divisions": [
+        "FEB4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16944",
+      "event_title": "Call For Paper & Seminar Nasional FEB Universitas Lampung 2018"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Muhamad",
+            "family": "Komarudin",
+            "lineage": null
+          },
+          "id": "komar@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Hery Dian",
+            "family": "Septama",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hery@eng.unila.ac.id"
+        }
+      ],
+      "funders": [
+        "Dipa BLU Unila"
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2017-06-05 01:44:35",
+      "title": "Pelatihan Penulisan Aksara Daerah Dengan Font Digital untuk Guru Muatan Lokal dan Siswa",
+      "eprint_status": "archive",
+      "event_dates": "9-10 September 2016",
+      "date_type": "published",
+      "abstract": ". Bahasa dan aksara daerah merupakan warisan budaya bangsa Indonesia yang harus dilestarikan. Salah satu langkah pelestarian bahasa dan aksara daerah yaitu dengan menjadikannya sebagai mata pelajaran muatan lokal di sekolah. Dalam melestarikan aksara daerah diperlukan suatu media yang biasa digunakan dalam kehidupan sehari-hari. Salah satu media tersebut yaitu komputer. Hal ini menjadi ide dasar program pelatihan penulisan aksara daerah dengan font digital. Studi kasus pelaksanaan program pelatihan ini dimulai di Provinsi Lampung. Pengabdian dilakukan dengan memberikan pelatihan penggunaan aplikasi aksara lampung dengan font digital kepada guru mata pelajaran muatan lokal dan para siswa. Dari pelatihan yang dilakukan diketahui bahwa peserta memberikan respon yang positif terhadap penggunaan aplikasi penulisan font digital aksara lampung ini. Hal ini dapat dilihat dari hasil kuisioner yang diisi oleh peserta sebelum dan sesudah diberikannya pelatihan. Minat belajar bahasa dan aksara lampung mengalami peningkatan sebesar 37% (dari 42% menjadi 79%)  dan pengetahuan siswa tentang bahasa dan aksara lampung meningkat sebesar 30% (dari 30% menjadi 60%).\r\nKata kunci : font digital, aksara lampung, bahasa dan aksara daerah.",
+      "datestamp": "2017-06-05 01:44:35",
+      "eprintid": 3019,
+      "subjects": [
+        "AS"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/3019",
+      "event_title": "SEMINAR NASIONAL & EXPO  Hasil Pengabdian Kepada Masyarakat",
+      "divisions": [
+        "FT8"
+      ],
+      "date": "2016-09-09",
+      "type": "conference_item",
+      "full_text_status": "public",
+      "userid": 159,
+      "status_changed": "2017-06-05 01:44:35",
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/30\/19",
+      "documents": [
+          {
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 2892,
+                  "filename": "Full paper SNIEX 2016 M.Komarudin Unila.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "hash": "7eb62a2781de59ad96f8daf7207593e2",
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 04:03:16",
+                  "filesize": 692674,
+                  "fileid": 20847,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20847"
+                }
+            ],
+            "placement": 1,
+            "main": "Full paper SNIEX 2016 M.Komarudin Unila.docx",
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2892",
+            "format": "text",
+            "language": "en",
+            "eprintid": 3019,
+            "docid": 2892
+          }
+      ],
+      "event_type": "conference",
+      "pres_type": "paper",
+      "event_location": "Medan"
+    },
+    {
+      "eprintid": 15366,
+      "subjects": [
+        "AS"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15366",
+      "divisions": [
+        "FEB6"
+      ],
+      "datestamp": "2019-11-04 09:25:27",
+      "abstract": "Pembentukan Badan Usaha Milik Desa (BUMDes) dimaksudkan bukan saja untuk \r\nmenjadi motor penggerak roda-roda perekonomian desa tetapi juga dimaksudkan\r\nsebagai salah satu sumber pendapatan Desa. Untuk itu pengelolaan keuangan desa\r\nini harus ditangani secara profesional, sehingga kedua maksud tersebut dapat\r\ndicapai. Berdasarkan survei dan wawancara awal dengan aparat desa, pengelola\r\nBUMDes dan masyarakat\r\nDesa Mulyosari,\r\nKecamatan Way Ratai, Kabupaten\r\nPesawaran, salah satu permasalahan yang dihadapi BUMDes terkait dengan\r\npengelolaan keuangan, khususnya tentang pengelolaan sumber dana, pencatatan\r\ndan penyajian laporan keuangan yang akuntabel. Solusi dari permasalahan yang\r\ndihadapi mitra adalah peningkatan pengetahuan dan keterampilan dalam\r\nmengelola, mencatat dan menyajikan laporan keuangan BUMDes agar memenuhi\r\nsalah satu persyaratan pengelolaan BUMDes yaitu menganut prinsip transparansi,\r\nakuntabel, dapat dipercaya dan rasional dengan pelatihan keterampilan\r\nmanajemen keuangan",
+      "title": "PELATIHAN KETERAMPILAN MANAJEMEN KEUANGAN BADAN USAHA MILIK DESA DI DESA MULYOSARI, KECAMATAN WAY RATAI, KABUPATEN PESAWARAN",
+      "lastmod": "2019-11-04 09:25:27",
+      "eprint_status": "archive",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Kufepaksi",
+            "given": "Mahatma",
+            "honourific": null
+          },
+          "id": "mahapaksi@yahoo.com"
+        },
+        {
+          "id": "hidayatwiweko@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Wiweko",
+            "given": "Hidayah"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "family": "Hasnawati",
+            "lineage": null,
+            "given": "Sri"
+          }
+        },
+        {
+          "id": "igofebrianto@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Igo",
+            "family": "Febrianto",
+            "lineage": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "documents": [
+          {
+            "pos": 2,
+            "rev_number": 1,
+            "eprintid": 15366,
+            "language": "en",
+            "docid": 28491,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28491",
+            "files": [
+                {
+                  "mtime": "2019-11-04 09:05:43",
+                  "hash_type": "MD5",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/132625",
+                  "fileid": 132625,
+                  "filesize": 5759708,
+                  "filename": "Laporan Pengabdian Unggulan DIPA Unila 2019 Prof Mahatma.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 28491,
+                  "hash": "0cfeef80e3e81ee85a3545fb31312e58"
+                }
+            ],
+            "placement": 2,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "Laporan Pengabdian Unggulan DIPA Unila 2019 Prof Mahatma.pdf"
+          }
+      ],
+      "status_changed": "2019-11-04 09:25:27",
+      "rev_number": 9,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/01\/53\/66",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "full_text_status": "public",
+      "publication": "PELATIHAN KETERAMPILAN MANAJEMEN KEUANGAN BADAN USAHA MILIK DESA DI DESA  MULYOSARI, KECAMATAN WAY RATAI, KABUPATEN PESAWARAN",
+      "userid": 388,
+      "type": "article"
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Mukhlis",
+            "given": "Maulana",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Bainah Sari",
+            "lineage": null,
+            "family": "Dewi",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Saputra",
+            "given": "Chery"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurdin",
+            "given": "Bartoven Vivit"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": ".",
+            "given": "Sudarmono"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "title": "Sugeng P. Harianto\r\nAksi dan Inspirasi Rektor Unila 2007-2015",
+      "lastmod": "2017-05-05 03:24:17",
+      "eprint_status": "archive",
+      "publisher": "LPPM Universitas Lampung",
+      "abstract": "“Kampus hijau Unila dengan Pak  Sugeng, menurut saya tambah hijau.Penangkaran rusa Unila juga, setahu saya saat beliau Dekan MIPA di era rektor Prof Muhajir Utomo, beliau juga yang menggagas penangkaran di Unila ya. Menteri-menteri di negara Republik Indonesia di era Pak Sugeng jadi Rektor, saya perhatikan banyak yang datang ke Unila. Seperti Pak Zulkifli Hasan (Menteri Kehutanan RI), bolak-balik ke Unila, ya karena rektornya Pak Sugeng, orang hutan juga. Menurutku, Pak Sugeng itu enak diajak ngomong, enak diajak merencanakan sesuatu untuk ke depannya.”",
+      "datestamp": "2016-12-21 02:14:36",
+      "eprintid": 1327,
+      "subjects": [
+        "AS"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1327",
+      "divisions": [
+        "FISIP3"
+      ],
+      "isbn": "978-602-0860-03-9",
+      "type": "book",
+      "date": "2015-11-10",
+      "pages": 265,
+      "userid": 469,
+      "full_text_status": "public",
+      "status_changed": "2016-12-21 02:14:36",
+      "rev_number": 10,
+      "place_of_pub": "LPPM Universitas Lampung",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/13\/27",
+      "documents": [
+          {
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8916",
+                  "fileid": 8916,
+                  "filesize": 2021133,
+                  "mtime": "2016-12-19 07:06:59",
+                  "hash_type": "MD5",
+                  "hash": "52716220f5df2f86036b92b58110afab",
+                  "filename": "20161218_135803-1[1].jpg",
+                  "mime_type": "image\/jpeg",
+                  "objectid": 1203,
+                  "datasetid": "document"
+                }
+            ],
+            "mime_type": "image\/jpeg",
+            "security": "public",
+            "main": "20161218_135803-1[1].jpg",
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 1203,
+            "language": "en",
+            "eprintid": 1327,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1203",
+            "format": "image"
+          },
+          {
+            "security": "public",
+            "mime_type": "image\/jpeg",
+            "files": [
+                {
+                  "filesize": 2038860,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/8918",
+                  "fileid": 8918,
+                  "mtime": "2016-12-19 07:08:07",
+                  "hash_type": "MD5",
+                  "hash": "04dc36949e71ee8dae3cdbf856ab99c2",
+                  "objectid": 1204,
+                  "datasetid": "document",
+                  "mime_type": "image\/jpeg",
+                  "filename": "20161218_135827-1[1].jpg"
+                }
+            ],
+            "placement": 2,
+            "main": "20161218_135827-1[1].jpg",
+            "pos": 2,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1204",
+            "format": "image",
+            "eprintid": 1327,
+            "language": "en",
+            "docid": 1204
+          }
+      ]
+    },
+    {
+      "eprintid": 15931,
+      "subjects": [
+        "AS"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15931",
+      "event_title": "Seminar Nasional Aplikasi Teknologi Pada Masyarakat",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "abstract": "The strategic location of Desa Fajar Baru gives an opportunity for expanding the entrepreurship in profitable business of liquid soap called chemlight. The mother’s society named PKK Desa Fajar baru accompanied by the Unila Community Team through Unila's DIPA BLU  2016 and 2018 has succeeded in production of Chemlight brand, although it has still produce a simple and based on orders liquid soap. Poorly management in production and sales has an impact of reduction in the profit. Through this community service activities, couching has been made in making production house and online-based marketing (websites and android applications) without leaving conventional systems. The results showed that there was an increase in the knowledge of participants in terms of online marketing of chemlight soap by up to 40%, therefore, this online-based marketing became a trigger for increasing people's welfare. The existence of a production house also increases the entrepreneurial interest of the  PKK Desa Fajarbaru community.\r\n\r\nKeywords:  marketing, online, liquid soap, chemlight, Fajar Baru -South Lampung",
+      "datestamp": "2019-11-14 11:01:00",
+      "title": "TEKNIK PEMASARAN SABUN CAIR CUCI PIRING CHEMLIGHT \r\nBERBASIS  ONLINE DI DESA FAJAR BARU LAMPUNG SELATAN",
+      "lastmod": "2019-11-14 11:01:00",
+      "eprint_status": "archive",
+      "event_dates": "9-10 Oktober 2019",
+      "date_type": "submitted",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Ni Luh Gede Ratna Juliasih",
+            "lineage": null,
+            "given": "Ni Luh Gede Ratna Juliasih"
+          },
+          "id": "ratnagede.juliasih@gmail.com"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Pigo Nauli",
+            "lineage": null,
+            "family": "pigo Nauli"
+          },
+          "id": "pigo.nauli@feb.unila.ac.id"
+        },
+        {
+          "id": "nur.hasanah@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Nurhasanah",
+            "given": "Nurhasanah"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Agung Abadi Kiswandono",
+            "given": "Agung Abadi Kiswandono",
+            "honourific": null
+          },
+          "id": "agungkiswandono@gmail.com"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "event_type": "conference",
+      "pres_type": "speech",
+      "event_location": "Palembang",
+      "status_changed": "2019-11-14 11:01:00",
+      "rev_number": 6,
+      "dir": "disk0\/00\/01\/59\/31",
+      "ispublished": "submitted",
+      "full_text_status": "none",
+      "userid": 452,
+      "type": "conference_item",
+      "date": "2019-10-09"
+    },
+    {
+      "event_location": "Palembang",
+      "pres_type": "speech",
+      "event_type": "conference",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "docid": 29459,
+            "language": "en",
+            "eprintid": 16356,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29459",
+            "placement": 1,
+            "files": [
+                {
+                  "fileid": 139610,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/139610",
+                  "filesize": 1387798,
+                  "mtime": "2019-11-13 16:53:57",
+                  "hash_type": "MD5",
+                  "hash": "c42353f6ba535e2600bf9c03f6148d16",
+                  "filename": "BUKU PROGRAM SNAPTEKMAS 2019.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 29459
+                }
+            ],
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "main": "BUKU PROGRAM SNAPTEKMAS 2019.pdf"
+          }
+      ],
+      "ispublished": "submitted",
+      "dir": "disk0\/00\/01\/63\/56",
+      "rev_number": 4,
+      "status_changed": "2019-11-14 11:20:39",
+      "full_text_status": "public",
+      "userid": 452,
+      "date": "2019-10-09",
+      "type": "conference_item",
+      "divisions": [
+        "FMIPA4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16356",
+      "event_title": "Seminar Nasional Aplikasi Teknologi Pada Masyarakat",
+      "succeeds": 15927,
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 16356,
+      "datestamp": "2019-11-14 11:20:39",
+      "date_type": "submitted",
+      "event_dates": "9-10 Oktober 2019",
+      "eprint_status": "archive",
+      "lastmod": "2019-11-14 11:20:39",
+      "title": "TEKNIK PEMASARAN SABUN CAIR CUCI PIRING CHEMLIGHT BERBASIS  ONLINE DI DESA FAJAR BARU LAMPUNG SELATAN",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Ni Luh Gede Ratna Juliasih",
+            "family": "Ni Luh Gede Ratna Juliasih",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "ratnagede.juliasih@gmail.com"
+        },
+        {
+          "id": "pigo.nauli@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Pigo Nauli",
+            "lineage": null,
+            "family": "pigo nauli"
+          }
+        },
+        {
+          "name": {
+            "family": "Agung Abadi Kiswandono",
+            "lineage": null,
+            "given": "Agung Abadi Kiswandono",
+            "honourific": null
+          },
+          "id": "agungkiswandono@gmail.com"
+        },
+        {
+          "id": "nur.hasanah@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Nurhasanah",
+            "lineage": null,
+            "family": "Nurhasanah"
+          }
+        }
+      ]
+    },
+    {
+      "related_url": [
+        {
+          "url": "http:\/\/jurnal.fmipa.unila.ac.id\/jbekh\/article\/view\/2340"
+        }
+      ],
+      "datestamp": "2019-11-04 07:22:58",
+      "abstract": "The purpose of this study was to find out whether the combination of  KNO3   and GA3 solutions was more effective than a single solution of KNO3 or GA3 in keeping the freshness of cut flowers. The research was conducted in Botanical Laboratory, Department of Biology, Faculty of Mathematics and Natural Sciences University of Lampung from November to December 2017. The experiment was conducted in 2 x 3 factorial experiment with factor A is GA3 solution with 3 concentration level: 0% w\/v, 25% w\/v, and 0.5% w\/v. Factor B is KNO3 solution with 2 concentration levels: 0% w\/v and 5% w\/v. The parameters in this study were fresh weight, dry weight, relative water content, total chlorophyll content, b and total chlorophyll of leaves, and total carbohydrate content of rose cut flowers. Measurements were made 7 days after the immersion of cut flowers in KNO3  or GA3  solution, and mixed both. Homogeneity of variance and analysis of variance is determined at a real level of 5%. KNO3  simple effect at every level of GA3  concentration is determined by F test at 5% real level. The results showed that there was no interaction between GA3  and KNO3  to fresh weight, dry weight, relative water content and chlorophyll content a, b and total white roses, but KNO3  reduced fresh weight of cut flowers by 48.15% and dry weight 58.60%. KNO3 increased the relative water content of white rose flowers by 6.85%. From the results of the study concluded that the combination of GA3 and KNO3 is not effective to keep the freshness of white rose flowers cut.",
+      "volume": 6,
+      "subjects": [
+        "AS",
+        "Q1",
+        "QK",
+        "S1"
+      ],
+      "eprintid": 14871,
+      "divisions": [
+        "FMIPA2"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/14871",
+      "number": 1,
+      "creators": [
+        {
+          "id": "nurjannahcortesa1@gmail.com",
+          "name": {
+            "family": "Nur Jannah Cortesa",
+            "lineage": null,
+            "given": "Nur",
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Martha",
+            "family": "Martha L. Lande",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Zulkifli",
+            "given": "Zulkifli"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Tundjung T. Handayani",
+            "lineage": null,
+            "given": "Tundjung"
+          },
+          "id": null
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "publisher": "Jurnal Ilmiah Biologi Eksperimen dan Keanekaragaman Hayati",
+      "lastmod": "2019-11-04 07:22:58",
+      "title": "Gibberellic Acid (GA3) and Potassium Nitrate (KNO3): The Influence and Interaction inThe Senescence Process in White Rosa Sp.",
+      "issn": "2338-4344",
+      "status_changed": "2019-11-04 07:22:58",
+      "pagerange": "32-38",
+      "dir": "disk0\/00\/01\/48\/71",
+      "ispublished": "pub",
+      "official_url": "http:\/\/jurnal.fmipa.unila.ac.id\/jbekh\/article",
+      "rev_number": 14,
+      "documents": [
+          {
+            "rev_number": 2,
+            "pos": 1,
+            "eprintid": 14871,
+            "language": "id",
+            "content": "published",
+            "docid": 27992,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/27992",
+            "format": "text",
+            "files": [
+                {
+                  "filesize": 321877,
+                  "fileid": 128392,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/128392",
+                  "hash_type": "MD5",
+                  "mtime": "2019-10-31 23:00:25",
+                  "hash": "bfb41bf6c433018646078af10767b0a5",
+                  "datasetid": "document",
+                  "objectid": 27992,
+                  "filename": "2340-5348-1-SM.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "main": "2340-5348-1-SM.pdf"
+          }
+      ],
+      "date": "2019-08",
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "Jurnal Ilmiah Biologi Eksperimen dan Keanekaragaman Hayati",
+      "userid": 483
+    },
+    {
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publication": "Jurnal Pendidikan Progresif",
+      "userid": 1127,
+      "full_text_status": "public",
+      "type": "article",
+      "date": "2016-11",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/1301",
+            "format": "text",
+            "eprintid": 1428,
+            "language": "en",
+            "docid": 1301,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "Rahmah Dianti Putri.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 2714173,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/9657",
+                  "fileid": 9657,
+                  "hash_type": "MD5",
+                  "mtime": "2017-02-03 09:19:10",
+                  "hash": "67053cec8e540e5849aa5afbe052346e",
+                  "datasetid": "document",
+                  "objectid": 1301,
+                  "mime_type": "application\/pdf",
+                  "filename": "Rahmah Dianti Putri.pdf"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "pagerange": "141-145",
+      "status_changed": "2017-02-06 01:10:34",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/14\/28",
+      "rev_number": 8,
+      "publisher": "Unit Database dan Publikasi Ilmiah FKIP Kerjasama dengan ISPI",
+      "eprint_status": "archive",
+      "lastmod": "2017-02-06 01:10:34",
+      "title": "Implementasi Model Pembelajaran Inkuiri Untuk Meningkatkan Keterampilan Berpikir Kritis Mahasiswa",
+      "issn": "2087-9849",
+      "creators": [
+        {
+          "name": {
+            "family": "Rahmah Dianti Putri",
+            "lineage": null,
+            "given": "Rahmah",
+            "honourific": null
+          },
+          "id": "rahmah.dianti@fkip.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Albet",
+            "lineage": null,
+            "family": "Albet Maydiantoro",
+            "honourific": null
+          }
+        }
+      ],
+      "number": 2,
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 1428,
+      "divisions": [
+        "FKIP16"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/1428",
+      "datestamp": "2017-02-06 01:10:34",
+      "volume": 6
+    },
+    {
+      "type": "monograph",
+      "date": 2022,
+      "pages": 264,
+      "userid": 160,
+      "full_text_status": "public",
+      "contact_email": "jodiesafitri@gmail.com",
+      "rev_number": 17,
+      "dir": "disk0_bak\/00\/05\/02\/70",
+      "place_of_pub": "Indonesia",
+      "ispublished": "pub",
+      "status_changed": "2023-04-11 13:36:44",
+      "pagerange": "200-300",
+      "monograph_type": "working_paper",
+      "id_number": "978-623-5696-19-5",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189972",
+            "format": "text",
+            "docid": 189972,
+            "language": "en",
+            "eprintid": 50270,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "bfb6ee47aad74e742258b243b75775b7",
+                  "mime_type": "application\/pdf",
+                  "filename": "EbookEconomicandBusinessTrajectoryIndonesiaAsiaandEurope.pdf",
+                  "objectid": 189972,
+                  "datasetid": "document",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543108",
+                  "fileid": 543108,
+                  "filesize": 4321527,
+                  "mtime": "2023-04-11 10:18:12",
+                  "hash_type": "MD5"
+                }
+            ],
+            "main": "EbookEconomicandBusinessTrajectoryIndonesiaAsiaandEurope.pdf"
+          }
+      ],
+      "editors": [
+        {
+          "name": {
+            "given": "Budi",
+            "family": "Setiawan",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Budi",
+            "family": "Mulyana",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Edza Aria",
+            "family": "Wikurendra",
+            "lineage": null
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "jodiesafitri@gmail.com",
+          "name": {
+            "lineage": null,
+            "family": "Safitri",
+            "given": "Dina",
+            "honourific": null
+          }
+        }
+      ],
+      "date_type": "published",
+      "title": "Two Sides of Leadership Ethics How an Ethics of Leadership is\r\nMeasured?",
+      "lastmod": "2023-04-11 13:36:44",
+      "publisher": "Delta Pijar Khatulistiwa",
+      "eprint_status": "archive",
+      "book_title": "Economics and Business Trajectory Asia, Indonesia, and Europe",
+      "abstract": "Ethics of leadership nature becomes the center of attention since the business environment opprobrium of American companies such as Enron scandals, Lehman Brothers, Nortel, WorldCom bankruptcy, AIG (Northouse, 2016; Bedi et al., 2016; Brown, Treviño, and Harrison, 2005), and also appeared in the realm of politics (Northouse, 2016).\r\nDespite the business scandals that have become the world’s attention, we also notice that many business leaders (such as Larry Page, Sergey Brin, Bill, and Miranda Gates from Microsoft) make their companies among the most coveted employers in the world. On the political stage, Aung San Suu Kyi with the global issue of Rohingya, Adolf Hitler\r\nduring WW II, Bill Clinton’s impeachment are just a few to name. Angela Merkel has won global praise for one and half decades due to her leadership as Germany’s Chancellor. Jacinda Ardern showed her leadership towards the Christchurch attack in Wellington in March\r\n2019.\r\n\r\nEthical leadership has attracted scholars from multi-disciplines; however, the literature is scarce and has few findings of the dimensions of leadership ethics (Brown, Treviño, and Harrison, 2005).\r\nCiulla et al. (2018) mentioned that leadership ethics primarily focused on leaders for many reasons. Firstly, they will affect people in two ways, whether it will be the advantages for other people or become dangerous to people’s psychology; pivotal part of daily human life.\r\nSecondly, leaders interact with people time by time, but leadership ethics has many facets and areas as philosophy covers.",
+      "datestamp": "2023-04-11 13:36:44",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50270",
+      "divisions": [
+        "FEB6"
+      ],
+      "eprintid": 50270,
+      "subjects": [
+        "AS",
+        "Q1"
+      ]
+    },
+    {
+      "status_changed": "2023-04-11 13:41:55",
+      "patent_applicant": "CHRISTY CECILIA VERONICA SUHENDY",
+      "ispublished": "pub",
+      "dir": "disk0_bak\/00\/05\/02\/76",
+      "official_url": "https:\/\/tinyurl.com\/25r8qv6b",
+      "rev_number": 11,
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189978",
+            "format": "text",
+            "eprintid": 50276,
+            "language": "en",
+            "docid": 189978,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "sertifikat_HKI Merajut Mimpi dan Memori Tim Bridging Kanada.pdf",
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 2185101,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/543149",
+                  "fileid": 543149,
+                  "mtime": "2023-04-11 10:52:43",
+                  "hash_type": "MD5",
+                  "hash": "6e96fbd79feef13c341df926e2f5f6b6",
+                  "objectid": 189978,
+                  "datasetid": "document",
+                  "filename": "sertifikat_HKI Merajut Mimpi dan Memori Tim Bridging Kanada.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "id_number": 9786236286036,
+      "date": 2022,
+      "type": "patent",
+      "full_text_status": "public",
+      "userid": 160,
+      "datestamp": "2023-04-11 13:41:55",
+      "abstract": "Pasca berakhirnya Program PKBI Batch IV KemenristekDIKTI – P2B LPPMP Universitas Negeri Yogyakarta yang saya ikuti dari 09 September 20018 sampai dengan 10 Desember 2019, saya tidak memiliki ekspektasi apapun untuk dilibatkan dalam kegiatan lanjutan KemenristekDIKTI.  Awal tahun 2019 saya isi dengan berburu supervisor, melamar sekolah, dan mengisi aplikasi beasiswa dengan modal sertifikat IELTS hasil PKBI.  Sayangnya, dari beberapa beasiswa; AAS, DIKTI-funded Fulbright, BPP-LN DIKTI, LPDP-BUDI LN, RMIT International Scholarship, belum membuahkan hasil.  Bersamaan dengan musim beasiswa, saya memasukkan aplikasi kegiatan program Talent Scouting DIKTI 2019 dan Alhamdulillah, masuk nominasi untuk tinggal selama 3 hari di Palembang, 14-16 Agustus 2019.  Satu lagi program unggulan DIKTI berhasil saya ikuti.  Talent Scouting diprogram khusus bagi dosen Indonesia yang mempersiapkan S3 terutama di universitas luar negeri.  Program ini memberi saya kesempatan mengikuti klinik, di mana reviewer DIKTI memberi masukan akan kekurangan proposal riset saya.  Beberapa narasumber juga memberi materi yang berbeda, mulai dari berburu beasiswa, menulis proposal riset yang baik, hingga etika berkirim email ke calon supervisor.",
+      "subjects": [
+        "AC",
+        "AS"
+      ],
+      "eprintid": 50276,
+      "divisions": [
+        "FEB6"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/50276",
+      "creators": [
+        {
+          "id": "jodiesafitri@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Dina",
+            "family": "Safitri",
+            "lineage": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "SUHENDY",
+            "lineage": null,
+            "given": "CHRISTY CECILIA VERONICA",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "YUSEPALDO",
+            "family": "PASHARIBU",
+            "lineage": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "RAJAB",
+            "lineage": null,
+            "given": "ARINI",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "ARIEF ZULIYANTO",
+            "lineage": null,
+            "family": "SUSILO"
+          },
+          "id": null
+        },
+        {
+          "name": {
+            "given": "MUHAMMAD ARIEF",
+            "lineage": null,
+            "family": "BUDIMAN",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "MULYANA",
+            "given": "BUDI"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "MARIFATULLOH",
+            "given": "SAYID"
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "AFIF AVICENNA",
+            "family": "GHUFFRON",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "RIJAL",
+            "lineage": null,
+            "family": "RIJAL",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprint_status": "archive",
+      "lastmod": "2023-04-11 13:41:55",
+      "title": "MERAJUT MIMPI DAN MEMORI- TIM BRIDGING KANADA",
+      "date_type": "published"
+    },
+    {
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "id": "sumardi_bio@yahoo.co.id",
+          "name": {
+            "honourific": null,
+            "given": "Sumardi",
+            "lineage": null,
+            "family": "Sumardi"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "given": "Christina Nugroho",
+            "family": "Ekowati",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "id": "emantisrosa@gmail.com",
+          "name": {
+            "honourific": null,
+            "family": "Rosa",
+            "lineage": null,
+            "given": "Emantis"
+          }
+        }
+      ],
+      "title": "Kegiatan pengabdian kepada masyarakat",
+      "lastmod": "2022-03-11 01:17:18",
+      "eprint_status": "archive",
+      "datestamp": "2022-03-11 01:17:18",
+      "abstract": "Kegiatan pengabdian kepada masyarakat di Padang ratu - Lampung tengah",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/40091",
+      "eprintid": 40091,
+      "subjects": [
+        "AS"
+      ],
+      "type": "video",
+      "full_text_status": "public",
+      "userid": 965,
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/04\/00\/91",
+      "status_changed": "2022-03-11 01:17:18",
+      "documents": [
+          {
+            "main": "Vidio Pengabdian Kepada Masyarakat.mp4",
+            "placement": 1,
+            "files": [
+                {
+                  "filename": "Vidio Pengabdian Kepada Masyarakat.mp4",
+                  "mime_type": "video\/mp4",
+                  "objectid": 161382,
+                  "datasetid": "document",
+                  "hash": "2fab97bc550c80b2201b38b3a1efd988",
+                  "mtime": "2022-03-10 15:48:04",
+                  "hash_type": "MD5",
+                  "fileid": 448293,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/448293",
+                  "filesize": 54012660
+                }
+            ],
+            "mime_type": "video\/mp4",
+            "security": "public",
+            "docid": 161382,
+            "language": "en",
+            "eprintid": 40091,
+            "format": "video",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/161382",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ]
+    },
+    {
+      "issn": "2809-2708",
+      "title": "Pelatihan Pengelolaan dan Pengembangan Laboratorium Fisika SMA Kabupaten Lampung Tengah",
+      "lastmod": "2023-04-10 00:56:38",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Amir",
+            "family": "Supriyanto",
+            "lineage": null
+          },
+          "id": "amir.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suciyati",
+            "given": "Sri Wahyu"
+          }
+        },
+        {
+          "id": "roniyus.1977@fmipa.unila.ac.id",
+          "name": {
+            "family": "Marjunus",
+            "lineage": null,
+            "given": "Roniyus",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Manurung",
+            "given": "Posman"
+          },
+          "id": "reip65@yahoo.com"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/49943",
+      "eprintid": 49943,
+      "subjects": [
+        "AS"
+      ],
+      "datestamp": "2023-04-10 00:56:38",
+      "publication": "NEAR: Jurnal Pengabdian Masyarakat",
+      "full_text_status": "public",
+      "userid": 905,
+      "type": "article",
+      "documents": [
+          {
+            "main": "Jurnal PKM Amir et al.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "mtime": "2023-04-09 02:55:25",
+                  "hash_type": "MD5",
+                  "filesize": 455511,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/540611",
+                  "fileid": 540611,
+                  "objectid": 189631,
+                  "datasetid": "document",
+                  "filename": "Jurnal PKM Amir et al.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "89b559cd8817cf657568a6646a21c8a5"
+                }
+            ],
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/189631",
+            "format": "text",
+            "docid": 189631,
+            "eprintid": 49943,
+            "language": "en",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "rev_number": 7,
+      "dir": "disk0_bak\/00\/04\/99\/43",
+      "ispublished": "pub",
+      "status_changed": "2023-04-10 00:56:38"
+    },
+    {
+      "divisions": [
+        "FKIP1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4439",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 4439,
+      "related_url": [
+        {
+          "type": "pub",
+          "url": "http:\/\/unila.ac.id"
+        }
+      ],
+      "datestamp": "2017-11-06 09:34:51",
+      "abstract": "Bahasa Inggeris telah mulai diajarkan di beberapa Sekolah Dasar di seluruh Indonesia termasuk di Propinsi Lampung. Kebijakan ini dilaksanakan sesuai dengan amanat yang terkandung dalam Kurikulum Sekolah Dasar 1994. Kurikulum ini mencantumkan pelajaran muatan lokal yang sesuai dengan keadaan dan kebutuhan lingkungan dan yang bersifat kedaerahan. Setiap sekolah dapat menentukan kebijakan untuk menyelenggarakan beberapa mata pelajaran termasuk diantaranya mata pelajaran Bahasa Inggeris. Tulisan ini menganalsis keberadaan dan pelaksanaan mata pelajaran Bahasa Inggeris sebagai muatan lokal di Propinsi Lampung berdasarkan hasil sirvey dari beberapa guru dan pengambil kebijakan tentang muatan lokal. Diantaranya membahas apakah Bahasa Inggeris layak atau tidak layak diajarkan di Sekolah Dasar di Propinsi Lampung. Beberapa argumentasi dan teori dipaparkan untuk mendukung kedua argumentasi itu. Makalah ini merekomendasikan bahwa Bahasa Inggeris dapat diajarkan di Sekolah Dasar di Propinsi Lampung apabila beberapa persyaratan teoritis dan praktis dapat dipenuhi.",
+      "volume": 18,
+      "issn": "1411-2051",
+      "date_type": "published",
+      "eprint_status": "archive",
+      "title": "Pembelajaran Bahasa Inggris sebagai Muatan Lokal pada Sekolah Dasar di Provinsi Lampung",
+      "lastmod": "2017-11-06 09:34:51",
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "funders": [
+        "FKIP Universitas Lampung"
+      ],
+      "referencetext": "Chomsky, N. 1965. Aspects of the Theory of Syntax. Cambridge, Mass.: MIT Press \r\nDardjowidjojo, Soenjono. 1986. Dasar-dasar Neurofisiologis dalam Penguasaan Bahasa, dalam Kaswanti Purwa, Bambang (ed). Pusparagam Linguistik dan Pengajaran Bahasa, Jakarta: PN Balai Pustaka \r\nDepdikbud, 1993, Kurikulum Pendidikan Dasar: Landasan, Progam dan Pengembangan. Jakarta: Depdikbud. \r\nKrashen, Stephen. 1988. Second Language Acquisition and Second Language Learning. New York: Prentice Hall International Engglish Language Teaching. \r\nNewmark, L. 1981. Participatory Observation: How to Succeed in Language Learning in Harry Winitz (ed). The Comprehension Aproach to Foreign Language Instruction. Massachusetts: Newbury House. \r\nRichard, Jack C. 1990. The Dilema of Teacher Education in Second Language Teaching dalam Richard, Jack C and Nunan, David (eds). Second Language Education. Cambridge: Cambridge University Press. \r\nRichard, Jack and Nunan, David (eds) 1990. Second Language Teacher Education Cambridge: Cambridge University Press. Terrel, T.D. 1982. The Natural Approachto Language Teaching: an update. Modern Language Journal, 66 (2): 121-132.",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "Cucu",
+            "lineage": null,
+            "family": "Sutarsyah"
+          },
+          "id": "cucusutarsyah@gmail.com"
+        }
+      ],
+      "documents": [
+          {
+            "rev_number": 1,
+            "pos": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17344",
+            "format": "text",
+            "docid": 17344,
+            "language": "en",
+            "eprintid": 4439,
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 17344,
+                  "mime_type": "application\/pdf",
+                  "filename": "sutarsyahMuatanLokal.pdf",
+                  "hash": "0301b19606f42d4521bc6439578aa230",
+                  "mtime": "2017-11-03 07:51:59",
+                  "hash_type": "MD5",
+                  "filesize": 78498,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/44081",
+                  "fileid": 44081
+                }
+            ],
+            "main": "sutarsyahMuatanLokal.pdf"
+          }
+      ],
+      "dir": "disk0\/00\/00\/44\/39",
+      "ispublished": "pub",
+      "rev_number": 6,
+      "status_changed": "2017-11-06 09:34:51",
+      "pagerange": "35-43",
+      "publication": "Aksara, Jurnal Bahasa dan Sastra",
+      "userid": 1049,
+      "full_text_status": "public",
+      "contact_email": "cucusutarsyah@gmail.com",
+      "type": "article",
+      "date": "2017-04"
+    },
+    {
+      "datestamp": "2016-10-24 01:34:31",
+      "eprintid": 875,
+      "subjects": [
+        "AS"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/875",
+      "divisions": [
+        "FP24"
+      ],
+      "creators": [
+        {
+          "id": ".",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Syarif",
+            "given": "A"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Setiyadi",
+            "given": "A B"
+          },
+          "id": "."
+        },
+        {
+          "id": ".",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ulvan",
+            "given": "Ardian"
+          }
+        },
+        {
+          "id": ".",
+          "name": {
+            "family": "Nurweni",
+            "lineage": null,
+            "given": "A",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Cipta",
+            "lineage": null,
+            "family": "Ginting"
+          },
+          "id": "cipta.ginting@fp.unila.ac.id"
+        },
+        {
+          "id": ".",
+          "name": {
+            "given": "M",
+            "lineage": null,
+            "family": "Fuad",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Sukirlan",
+            "given": "M"
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "M",
+            "family": "Widodo",
+            "lineage": null
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "given": "N E",
+            "lineage": null,
+            "family": "Rusminto",
+            "honourific": null
+          },
+          "id": "."
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "R",
+            "lineage": null,
+            "family": "Hasibuan"
+          },
+          "id": "."
+        },
+        {
+          "id": ".",
+          "name": {
+            "honourific": null,
+            "family": "Widodo",
+            "lineage": null,
+            "given": "S E"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Suparman",
+            "given": "U"
+          },
+          "id": "."
+        }
+      ],
+      "funders": [
+        "Ford Foundation & IIEF"
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2016-11-09 05:40:56",
+      "title": "Karya Tulis Ilmiah: Pengertian, Penyusunan, Anatomi, Kebahasaan, dan Presentasi",
+      "publisher": "Lembaga Penelitian Universitas Lampung",
+      "eprint_status": "archive",
+      "projects": [
+        "Program Peningakatan Penggunaan Bahasa Ilmiah (PBBI)"
+      ],
+      "date_type": "published",
+      "status_changed": "2016-10-24 01:34:31",
+      "rev_number": 11,
+      "dir": "disk0\/00\/00\/08\/75",
+      "place_of_pub": "Bandar Lampung",
+      "ispublished": "pub",
+      "editors": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Ginting",
+            "given": "C"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Widodo",
+            "lineage": null,
+            "given": "S E"
+          }
+        }
+      ],
+      "documents": [
+          {
+            "main": "Scan Karya Tulis.pdf",
+            "files": [
+                {
+                  "hash": "3f3ff5cc11079ddc7031eada224264ed",
+                  "datasetid": "document",
+                  "objectid": 760,
+                  "filename": "Scan Karya Tulis.pdf",
+                  "mime_type": "application\/pdf",
+                  "filesize": 480357,
+                  "fileid": 5285,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/5285",
+                  "hash_type": "MD5",
+                  "mtime": "2016-10-23 06:42:41"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "eprintid": 875,
+            "language": "en",
+            "docid": 760,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/760",
+            "format": "text",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "date": 2010,
+      "isbn": 9789798510090,
+      "type": "book",
+      "pages": 190,
+      "userid": 1039,
+      "full_text_status": "public"
+    },
+    {
+      "full_text_status": "public",
+      "userid": 725,
+      "pages": 0,
+      "type": "book_section",
+      "isbn": 9789798510090,
+      "date": "2010-01",
+      "documents": [
+          {
+            "main": "Buku - Karya Tulis Ilmiah.pdf",
+            "files": [
+                {
+                  "mime_type": "application\/pdf",
+                  "filename": "Buku - Karya Tulis Ilmiah.pdf",
+                  "datasetid": "document",
+                  "objectid": 37290,
+                  "hash": "448f84deda06317f0b69920f01ce2bb8",
+                  "hash_type": "MD5",
+                  "mtime": "2020-08-17 03:51:28",
+                  "fileid": 215997,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/215997",
+                  "filesize": 2721550
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "language": "en",
+            "eprintid": 23660,
+            "docid": 37290,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/37290",
+            "pos": 1,
+            "rev_number": 1
+          }
+      ],
+      "status_changed": "2020-08-18 01:20:11",
+      "dir": "disk0\/00\/02\/36\/60",
+      "ispublished": "pub",
+      "rev_number": 9,
+      "publisher": "Lembaga Penelitian Universitas Lampung, Bandar Lampung",
+      "eprint_status": "archive",
+      "lastmod": "2020-08-18 01:20:11",
+      "title": "Karya Tulis Ilmiah: Pengertian, Penyusunan, Anatomi, Kebahasaan, dan Presentasi",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Syarif",
+            "given": "Admi"
+          },
+          "id": "admi_syarif@yahoo.com"
+        },
+        {
+          "name": {
+            "given": "Ag. Bambang",
+            "lineage": null,
+            "family": "Setiyadi",
+            "honourific": null
+          },
+          "id": "bambang_setiyadi76@yahoo.co.id"
+        },
+        {
+          "name": {
+            "given": "Ardian",
+            "lineage": null,
+            "family": "Ulvan",
+            "honourific": null
+          },
+          "id": "ardian.ulvan@eng.unila.ac.id"
+        },
+        {
+          "name": {
+            "given": "Ari",
+            "lineage": null,
+            "family": "Nurweni",
+            "honourific": null
+          },
+          "id": "nurweniari@gmail.com"
+        },
+        {
+          "name": {
+            "family": "Ginting",
+            "lineage": null,
+            "given": "Cipta",
+            "honourific": null
+          },
+          "id": "cipta.ginting@fp.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Muhammad",
+            "lineage": null,
+            "family": "Fuad"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Muhammad",
+            "lineage": null,
+            "family": "Sukirlan"
+          },
+          "id": "muhammad_sukirlan@yahoo.co.id"
+        },
+        {
+          "id": "mulyantowidodo@gmail.com",
+          "name": {
+            "given": "Mulyanto",
+            "lineage": null,
+            "family": "Widodo",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "family": "Rusminto",
+            "lineage": null,
+            "given": "N E",
+            "honourific": null
+          },
+          "id": "nurlaksana.eko@fkip.unila.ac.id"
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Hasibuan",
+            "given": "Rosma",
+            "honourific": null
+          },
+          "id": "rosma.hasibuan@fp.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Soesiladi E.",
+            "lineage": null,
+            "family": "Widodo"
+          },
+          "id": "sestiwidodo@gmail.com"
+        },
+        {
+          "id": "ujang.suparman@fkip.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Suparman",
+            "lineage": null,
+            "given": "Ujang"
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 23660,
+      "divisions": [
+        "FMIPA3"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/23660",
+      "datestamp": "2020-08-18 01:20:11",
+      "book_title": "Karya Tulis Ilmiah: Pengertian, Penyusunan, Anatomi, Kebahasaan, dan Presentasi"
+    },
+    {
+      "dir": "disk0\/00\/00\/49\/70",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2017-11-16 08:08:13",
+      "pagerange": "29-34",
+      "id_number": 25501089,
+      "documents": [
+          {
+            "docid": 17893,
+            "language": "en",
+            "eprintid": 4970,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/17893",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "pengabdian prosiding.docx",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "48563f10f865a555b63e790e6983aeca",
+                  "datasetid": "document",
+                  "objectid": 17893,
+                  "filename": "pengabdian prosiding.docx",
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filesize": 5321956,
+                  "fileid": 47956,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/47956",
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-09 09:42:04"
+                }
+            ],
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "security": "public"
+          }
+      ],
+      "type": "article",
+      "date": "2017-03-07",
+      "publication": "Sakai Sembayan",
+      "userid": 312,
+      "full_text_status": "public",
+      "corp_creators": [
+        "Tamrin"
+      ],
+      "datestamp": "2017-11-16 08:08:13",
+      "related_url": [
+        {
+          "type": "pub"
+        }
+      ],
+      "abstract": "Indonesia menghasilkan cukup meningkat, tetapi kualitas pada umumnya rendah, terutama pada petani kecil. Petani kecil kurang mengkuasai teknologi pengolahan.  Petani lampung biasanya tidak mempermentasi kakao. dan kakao dijual ke pedagang dalam bentuk asalan",
+      "volume": 1,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/4970",
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 4970,
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "given": "Warji",
+            "family": "Warji",
+            "lineage": null,
+            "honourific": null
+          }
+        }
+      ],
+      "number": 1,
+      "date_type": "published",
+      "issn": "2550-1089",
+      "publisher": "LPPM Unila",
+      "eprint_status": "archive",
+      "title": "Perbaikan proses pengering kakao di Des Sunga Langka, Kecamatan Gedung Tataan Kabupaten Pasawaran",
+      "lastmod": "2017-11-16 08:08:13"
+    },
+    {
+      "referencetext": "Broadbent, G. (1990). Emerging Concepts in Urban Space Design. New York: Van Nostrand Reinhold Company.\r\nCarr, S., Francis, M., Rivlin, L., Stone, A. (1992). Public Space. United States of America: Cambridge University Press.\r\nCarmona, M., Heath, T., Oc, T., Tiesdell, S. (2003). Public Places – Urban Spaces: The Dimensions of Urban Design. Great Britain: Architectural Press.\r\nDovey, K. (1999). Framing Places, Mediating power in built form. London: Routledge.\r\nJiang, Shan. Ferreira, Joseph. Gonzales, Marta C. (2012). Discovering urban spatial-temporal structure from human activity patterns.  Association for Computing Machinery (ACM)\r\nKrier, R. (1979). Urban Space, London: Academy Editions.\r\nMadanipour, A. (1996). Design of Urban Space, An Inquiry into a Socio-spatial Process. Newcastle: University of Newcastle.\r\nProject for Public Space (PPS). (2001). How to Turn a Place Around: A Handbook for Creating Successful Public Spaces, New York: Project for Public Spaces, Inc.\r\nTrancik, R. (1986). Finding Lost Space. New York: Van Nostrand Reinhold Company.\r\nhttp:\/\/lib.uin-malang.ac.id\/thesis\/chapter_iii\/07110058-labudda-mh.ps",
+      "number": 2,
+      "creators": [
+        {
+          "id": "shubhi.yuda@eng.unila.ac.id",
+          "name": {
+            "given": "M. Shubhi Yuda",
+            "lineage": null,
+            "family": "Wibawa",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "publisher": "Universitas Bandar Lampung",
+      "eprint_status": "archive",
+      "lastmod": "2019-11-18 07:10:34",
+      "title": "Fenomena Terbentuknya Ruang Spatio-Temporal \r\nDi Kawasan Stadion Pahoman Bandarlampung",
+      "date_type": "published",
+      "issn": "2087-2739",
+      "datestamp": "2019-11-18 07:10:34",
+      "abstract": "Aktivitas masyarakat Kota Bandarlampung yang semakin variatif membentuk hadirnya ruang-ruang publik yang tidak terencana. Ruang publik yang terbentuk hadir pada waktu-waktu tertentu. Dalam hal ini, ruang dan waktu mempunyai keterikatan yang kuat dalam kehidupan masyarakat perkotaan dan kebutuhan akan ruang publik. Dimensi waktu dalam konteks perancangan urban diistilahkan dengan “temporal”, sedangkan ruang yang dapat berfungsi mewadahi transformasi aktivitas sesuai dengan transformasi waktu disebut ruang “spatio-temporal”. Ruang spatio-temporal ini terlihat hadir di Kawasan Stadion Pahoman, Bandarlampung di mana kawasan ini mempunyai fungsi yang beragam sesuai dengan pergantian waktunya. Dengan menggunakan metoda fenomenologi, penelitian ini akan menganalisis ruang dan aktivitas apa saja yang terbentuk di kawasan Stadion Pahoman, dari pagi hingga malam dan dari Senin sampai Minggu. Hasil dari riset ini dapat digunakan sebagai acuan untuk mengembangkan kawasan Stadion Pahoman di masa mendatang.\r\n\r\nKata kunci: aktivitas masyarakat kota Bandarlampung, ruang spatio-temporal",
+      "volume": 9,
+      "subjects": [
+        "AS",
+        "NA"
+      ],
+      "eprintid": 16780,
+      "divisions": [
+        "FT9"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/16780",
+      "type": "article",
+      "date": "2019-07",
+      "contact_email": "shubhi.yuda@eng.unila.ac.id",
+      "full_text_status": "public",
+      "publication": "JA! UBL",
+      "userid": 2821,
+      "pagerange": "19-26",
+      "status_changed": "2019-11-18 07:10:34",
+      "dir": "disk0\/00\/01\/67\/80",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "official_url": "http:\/\/jurnal.ubl.ac.id\/index.php\/ja",
+      "documents": [
+          {
+            "language": "en",
+            "eprintid": 16780,
+            "docid": 29854,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/29854",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "Jurnal UBL M Shubhi Yuda Wibawa.pdf",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-17 14:15:24",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/142631",
+                  "fileid": 142631,
+                  "filesize": 1258241,
+                  "filename": "Jurnal UBL M Shubhi Yuda Wibawa.pdf",
+                  "mime_type": "application\/pdf",
+                  "objectid": 29854,
+                  "datasetid": "document",
+                  "hash": "c8c997493a9d3c3a6c037e965b56f51e"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf"
+          }
+      ]
+    },
+    {
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "given": "Hidayah",
+            "family": "Wiweko",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": "hidayatwiweko@yahoo.com"
+        },
+        {
+          "id": "irham.lihan@yahoo.com",
+          "name": {
+            "given": "Irham",
+            "family": "Lihan",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "given": "Sri",
+            "lineage": null,
+            "family": "Hasnawati",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "igofebrianto@gmail.com",
+          "name": {
+            "given": "Igo",
+            "lineage": null,
+            "family": "Febrianto",
+            "honourific": null
+          }
+        }
+      ],
+      "lastmod": "2019-11-04 09:25:17",
+      "title": "PELATIHAN MANAJEMEN INVESTASI DI ERA DIGITAL UNTUK KARANG TARUNA DI DESA BATURAJA, KECAMATAN WAY LIMA,KABUPATEN PESAWARAN",
+      "eprint_status": "archive",
+      "datestamp": "2019-11-04 09:25:17",
+      "abstract": "Kemajuan teknologi informasi dan keberadaan era digital dengan seluruh\r\npeluangnya lebih mudah diadopsi oleh kalangan muda. Para pemuda sebagai\r\nsumber daya manusia potensial, yang kemudian tergabung dalam wadah karang\r\ntaruna, selama ini belum diberdayakan secara optimal sebagai agen pembaharu\r\n(agent of change) dalam program dan atau kegiatan pemberdayaan masyarakat,\r\nkhususnya dalam pengembangan investasi dan usaha ekonomi produktif dalam\r\nrangka pengembangan kesempatan berusaha dan perluasan lapangan kerja di\r\ndaerah pedesaan. Karang taruna sebagai wadah pemberdayaan pemuda diharapkan\r\nmampu menangkap peluang dari perkembangan teknologi dan informasi tersebut\r\nuntuk mengembangkan investasi dan usaha di Desa Baturaja.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/15364",
+      "divisions": [
+        "FEB6"
+      ],
+      "eprintid": 15364,
+      "subjects": [
+        "AS"
+      ],
+      "type": "article",
+      "full_text_status": "public",
+      "publication": "PELATIHAN MANAJEMEN INVESTASI DI ERA DIGITAL UNTUK KARANG TARUNA DI DESA  BATURAJA, KECAMATAN WAY LIMA, KABUPATEN PESAWARAN",
+      "userid": 388,
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung",
+        "Universitas Lampung"
+      ],
+      "rev_number": 7,
+      "dir": "disk0\/00\/01\/53\/64",
+      "ispublished": "pub",
+      "status_changed": "2019-11-04 09:25:17",
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/28488",
+            "docid": 28488,
+            "eprintid": 15364,
+            "language": "en",
+            "rev_number": 1,
+            "pos": 1,
+            "main": "Laporan Pengabdian Pemula DIPA Unila 2019 Hidayat Wiweko.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2019-11-04 08:54:52",
+                  "fileid": 132606,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/132606",
+                  "filesize": 3201961,
+                  "mime_type": "application\/pdf",
+                  "filename": "Laporan Pengabdian Pemula DIPA Unila 2019 Hidayat Wiweko.pdf",
+                  "datasetid": "document",
+                  "objectid": 28488,
+                  "hash": "b226bd643f3a6c060e076bdcd6d119c8"
+                }
+            ]
+          }
+      ]
+    },
+    {
+      "projects": [
+        "stabek"
+      ],
+      "date_type": "submitted",
+      "issn": "2746-0576",
+      "lastmod": "2020-11-17 08:49:00",
+      "title": "THE ASSISTANCE OF THE ESTABLISHMENT OF FEASIBILITY STUDY FOR BOTTLED DRINKING WATER PRODUCTION IN TULANG BAWANG LOCAL WATER COMPANY (PDAM)",
+      "publisher": "Penerbit Goodwood",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "number": 1,
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "given": "ahmad",
+            "family": "faisol",
+            "lineage": null
+          },
+          "id": "sahabatzaman@gmail.com"
+        },
+        {
+          "name": {
+            "given": "Ernie",
+            "lineage": null,
+            "family": "Hendrawaty",
+            "honourific": null
+          },
+          "id": "ernie.hendrawaty@feb.unila.ac.id"
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "given": "Edwin",
+            "family": "Russel",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "given": "lidya ayuni",
+            "lineage": null,
+            "family": "Putri",
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": "driyawiryawan@gmail.com",
+          "name": {
+            "given": "driya",
+            "lineage": null,
+            "family": "wiryawan",
+            "honourific": null
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/25814",
+      "divisions": [
+        "FEB6"
+      ],
+      "eprintid": 25814,
+      "subjects": [
+        "AS"
+      ],
+      "volume": 1,
+      "datestamp": "2020-11-17 08:49:00",
+      "abstract": "ABSTRACT\r\n\r\nThe increase of the population growth that wants a good quality of drinking water and also easy to be carried out anywhere has made the trend of bottled drinking water sales continue to increase. However, the industry of bottled water (AMDK) in Indonesia is characterized by a variety of innovations and business competition. This business competition is carried out not only by large-scale manufacturing companies, but also by small and medium scale companies (SMEs). The favorable long-term prospect and large market share have prompted the Regional Government of Tulang Bawang to be interested in forming a Regional Owned Enterprise that is engaged in the bottled water industry. The activity of establishing a Regional Owned Enterprise engaged in the AMDK industry requires a business feasibility analysis which aims to determine whether or not the AMDK business is feasible in terms of various aspects so that it requires assistance in making a feasibility study for producing bottled drinking water. The method used in this community service is to use a feasibili ty study covering market and financial aspects. The result obtained from this assistance is the existence of a wide market share in Tulang Bawang Community who becomes the consumers of bottled drinking water. Meanwhile, when it is seen from the financial aspect, the development project of the regional-owned bottled water enterprises can be accepted, and the work shall be continued.\r\n\r\nKeywords: bottled water, Regional Owned Enterprises, IRR, NPV",
+      "userid": 298,
+      "publication": "Yumary : Jurnal Pengebdian Kepada Masyarakat",
+      "full_text_status": "public",
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "type": "article",
+      "date": "2020-09",
+      "documents": [
+          {
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/39599",
+            "format": "text",
+            "language": "en",
+            "eprintid": 25814,
+            "docid": 39599,
+            "pos": 1,
+            "rev_number": 1,
+            "main": "pengabdian stabek 2020.docx",
+            "security": "public",
+            "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "files": [
+                {
+                  "hash": "e2587614484e20e5b822cd41205959a2",
+                  "datasetid": "document",
+                  "objectid": 39599,
+                  "mime_type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                  "filename": "pengabdian stabek 2020.docx",
+                  "filesize": 189800,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/232223",
+                  "fileid": 232223,
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-17 08:05:43"
+                }
+            ],
+            "placement": 1
+          }
+      ],
+      "rev_number": 8,
+      "official_url": "https:\/\/penerbitgoodwood.com\/index.php\/jpm",
+      "dir": "disk0\/00\/02\/58\/14",
+      "ispublished": "submitted",
+      "status_changed": "2020-11-17 08:49:00"
+    },
+    {
+      "subjects": [
+        "AS"
+      ],
+      "eprintid": 36849,
+      "divisions": [
+        "FMIPA4"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/36849",
+      "event_title": "Seminar Nasional Bersama FMIPA Unila Tahun 2021",
+      "datestamp": "2021-11-15 01:29:09",
+      "abstract": "Desa Fajar Baru merupakan salah satu daerah pemukiman di \r\nKecamatan Jati Agung dengan jumlah tujuh dusun. Secara \r\numum masyarakat Fajar Baru memperoleh penghasilan dari \r\nhasil bekerja, baik sebagai tani, buruh dan pegawai swasta serta \r\nwiraswasta industri kecil. Kedekatan dengan pasar tradisional, \r\nmini market, kuliner malam, lembaga pendidikan dan Kota \r\nBandar Lampung memberikan peluang kepada kelompok mitra\r\nuntuk meningkatkan wirusaha. Tujuan dari kegiatan \r\npengabdian kepada masyarakat ini adalah pendampingan \r\npembuatan sabun krim dan peluncuran (launching) Rumah \r\nProduksi sabun. Hasil dari pengabdian ini adalah Tim \r\nPengabdian Unila telah berhasil meluncurkan Rumah Produksi \r\nsabun dengan produk utama sabun cair-krim. Peluncuran \r\nRumah Produksi langsung diresmikan oleh Ketua PKK dan \r\ndihadiri oleh Kepala Desa Fajar Baru. Walaupun saat ini \r\nkelompok mitra masih memproduksi secara sederhana \r\ndikarenakan kondisi pandemi covid-19 dan kurangnya \r\nmobilitas anggota tetapi produksi produk sabun masih tetap \r\nberlangsung. Pada pengabdian kali ini juga dihasilkan\r\npeningkatan pengetahun peserta berkaitan dengan pengelolaan \r\npembuatan sabun dan pemahaman kewirausahaan serta \r\npemasaran sebesar 23% (66,5% menjadi 89,5%).",
+      "eprint_status": "archive",
+      "title": "PENDAMPINGAN PEMBUATAN DAN LAUNCHING\r\nRUMAH PRODUKSI SABUN DI DESA FAJAR BARU\r\nJATI AGUNG",
+      "lastmod": "2021-11-15 01:29:09",
+      "event_dates": "8-9 September 2021",
+      "creators": [
+        {
+          "id": "sonny@fmipa.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "widiarto",
+            "given": "sony",
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Suharso",
+            "given": "Suharso",
+            "honourific": null
+          },
+          "id": "suharso@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Nurhasanah",
+            "lineage": null,
+            "family": "Nurhasanah"
+          },
+          "id": "nur.hasanah@fmipa.unila.ac.id"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Supriyanto",
+            "lineage": null,
+            "given": "Supriyanto"
+          },
+          "id": "r.supriyanto@fmipa.unila.ac.id"
+        },
+        {
+          "id": "agung.abadi@fmipa.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Agung Abadi",
+            "lineage": null,
+            "family": "Kiswandono"
+          }
+        }
+      ],
+      "refereed": "FALSE",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "main": "view",
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-11-14 16:03:26",
+                  "fileid": 423634,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/423634",
+                  "filesize": 67755,
+                  "mime_type": "text\/html",
+                  "filename": "view",
+                  "objectid": 157773,
+                  "datasetid": "document",
+                  "hash": "d20d338d919a10671bd876ef3f77ea13"
+                }
+            ],
+            "mime_type": "text\/html",
+            "security": "public",
+            "docid": 157773,
+            "language": "en",
+            "eprintid": 36849,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/157773",
+            "format": "text",
+            "rev_number": 2,
+            "pos": 1
+          }
+      ],
+      "event_location": "Bandar Lampung",
+      "event_type": "conference",
+      "pres_type": "speech",
+      "status_changed": "2021-11-15 01:29:09",
+      "dir": "disk0\/00\/03\/68\/49",
+      "ispublished": "submitted",
+      "rev_number": 9,
+      "userid": 452,
+      "full_text_status": "public",
+      "type": "conference_item",
+      "date": "2021-09-08"
+    }
+]
+

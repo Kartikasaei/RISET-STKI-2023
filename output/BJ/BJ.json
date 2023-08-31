@@ -1,0 +1,229 @@
+[
+    {
+      "creators": [
+        {
+          "id": "ahmad.rudy@unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "Fardiyan",
+            "given": "Ahmad Rudy",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "lastmod": "2017-06-07 09:27:05",
+      "title": "Etika Siber dan Signifikansi Moral Dunia Maya",
+      "publisher": "Jurusan Ilmu Komunikasi - FISIP Unila",
+      "eprint_status": "archive",
+      "issn": "978-602-60412-0-3",
+      "datestamp": "2017-06-07 09:27:05",
+      "abstract": "Internet usage has been necessity and helpfull in daily modern activities. However, the benefits of using internet is equal to the risk of it own. The world of cyber created by internet, is borderless. This, allow the citizen of cyber (netizen) to do either goodthings or badthings that can not or impossible to achieve in the real world. Many cases in these terms across countries make this type of crime become more complex to anticipates. The differences of law and attention between countries about this phenomena, make it even worse. At this point, the moral become significant to control “life” in cyberspace. The unique characteristic of cyberworld doesn’t change the view of values, ethics, and etiquette of life within. Cyberethics as a part of ethic studies, proposes guidelines of values so the opportunity and advantages that provided by internet can be use for good purpose on human being.",
+      "eprintid": 2980,
+      "subjects": [
+        "BJ",
+        "HN"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2980",
+      "divisions": [
+        "FISIP4"
+      ],
+      "type": "article",
+      "date": "2016-11",
+      "full_text_status": "public",
+      "publication": "Prosiding Seminar Nasional Komunikasi: Akselerasi Pembangunan Masyarakat Lokal Melalui Komunikasi dan Teknologi Informasi",
+      "userid": 34,
+      "pagerange": "331-337",
+      "status_changed": "2017-06-07 09:27:05",
+      "rev_number": 13,
+      "official_url": "http:\/\/jurnal.fisip.unila.ac.id\/index.php\/prosidingkom",
+      "dir": "disk0\/00\/00\/29\/80",
+      "ispublished": "pub",
+      "documents": [
+          {
+            "main": "archive",
+            "placement": 1,
+            "files": [
+                {
+                  "filesize": 5946,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/20610",
+                  "fileid": 20610,
+                  "hash_type": "MD5",
+                  "mtime": "2017-06-02 03:23:49",
+                  "hash": "2f0a26022fc0832a78aab6c5967e1ebc",
+                  "objectid": 2865,
+                  "datasetid": "document",
+                  "filename": "archive",
+                  "mime_type": "text\/html"
+                }
+            ],
+            "mime_type": "text\/html",
+            "security": "public",
+            "content": "published",
+            "docid": 2865,
+            "language": "en",
+            "eprintid": 2980,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2865",
+            "format": "text",
+            "pos": 1,
+            "rev_number": 3
+          }
+      ]
+    },
+    {
+      "date": "2021-04-12",
+      "type": "article",
+      "publication": "Proceedings of the First International Conference of Economics, Business & Entrepreneurship",
+      "userid": 174,
+      "full_text_status": "public",
+      "corp_creators": [
+        "Universitas Lampung",
+        "Universitas Padjadjaran",
+        "Universitas Padjadjaran",
+        "Universitas Padjadjaran"
+      ],
+      "contributors": [
+        {
+          "id": "yuniarti.fihartini@feb.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Fihartini",
+            "lineage": null,
+            "given": "Yuniarti"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "arief.helmi@unpad.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Helmi",
+            "lineage": null,
+            "given": "R. Arief"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "id": "meydia.hasan@unpad.ac.id",
+          "name": {
+            "family": "Hassan",
+            "lineage": null,
+            "given": "Meydia",
+            "honourific": null
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "name": {
+            "honourific": null,
+            "family": "Oesman",
+            "lineage": null,
+            "given": "Yevis Marty"
+          },
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT",
+          "id": "yevis.marty@unpad.ac.id"
+        }
+      ],
+      "rev_number": 27,
+      "official_url": "https:\/\/eudl.eu\/proceedings\/ICEBE\/2020",
+      "dir": "disk0\/00\/03\/00\/48",
+      "ispublished": "pub",
+      "status_changed": "2021-05-07 03:45:24",
+      "id_number": "http:\/\/dx.doi.org\/10.4108\/eai.1-10-2020.2304738",
+      "documents": [
+          {
+            "pos": 2,
+            "rev_number": 3,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/134916",
+            "docid": 134916,
+            "content": "published",
+            "eprintid": 30048,
+            "language": "en",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 2,
+            "formatdesc": "http:\/\/dx.doi.org\/10.4108\/eai.1-10-2020.2304738",
+            "files": [
+                {
+                  "objectid": 134916,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "ICEBE-eai.1-10-2020.2304738.pdf",
+                  "hash": "250beaaed7f8fe4a5f3db911df3abc11",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-07 02:09:26",
+                  "filesize": 509635,
+                  "fileid": 356275,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/356275"
+                }
+            ],
+            "main": "ICEBE-eai.1-10-2020.2304738.pdf"
+          }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "id": "yuniarti.fihartini@feb.unila.ac.id",
+          "name": {
+            "given": "Yuniarti",
+            "family": "Fihartini",
+            "lineage": null,
+            "honourific": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Helmi",
+            "given": "R. Arief"
+          },
+          "id": "arief.helmi@unpad.ac.id"
+        },
+        {
+          "id": "meydia.hasan@unpad.ac.id",
+          "name": {
+            "honourific": null,
+            "family": "Hassan",
+            "lineage": null,
+            "given": "Meydia"
+          }
+        },
+        {
+          "name": {
+            "lineage": null,
+            "family": "Oesman",
+            "given": "Yevis Marty",
+            "honourific": null
+          },
+          "id": "yevis.marty@unpad.ac.id"
+        }
+      ],
+      "issn": "2593-7650",
+      "date_type": "published",
+      "title": "The Mediating Role of Affective Experience to The Effect of Online Retail Ethic on Repurchase Intention: Indonesian Y and Z Generation Perspective",
+      "lastmod": "2021-05-07 03:45:24",
+      "publisher": "EAI",
+      "eprint_status": "archive",
+      "datestamp": "2021-05-07 03:45:24",
+      "related_url": [
+        {
+          "url": "https:\/\/eudl.eu\/doi\/10.4108\/eai.1-10-2020.2304738"
+        }
+      ],
+      "abstract": "Ethical violations are more likely to occur in online transactions compared to face-to-face transactions, and have been trigging negative perception regarding online retail ethic and negative experience of customer. Those are identified as the major problems causing consumers’ hesitance toward taking decision for shopping online. This study is to investigate the effect of consumer perception of online retail ethic on repurchase intention with the affective experience as a mediation variable. An online survey conducted toward customer between 17–40 age and have experience in purchasing product online in Indonesia. The results show that consumer perception of online retail ethic effects affective experience and affective experience effects repurchase intention. Consumer perception of online retail ethic also has direct effects on repurchase intention. Thus, the affective experience partially mediates the effect of consumer perception regarding online retail ethic and repurchase intention.",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30048",
+      "divisions": [
+        "FEB6"
+      ],
+      "eprintid": 30048,
+      "subjects": [
+        "BJ",
+        "H1"
+      ]
+    }
+]
+
