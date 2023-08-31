@@ -1,0 +1,815 @@
+[
+    {
+      "publication": "MAYFEB Journal of Agricultural Science",
+      "full_text_status": "restricted",
+      "userid": 1197,
+      "type": "article",
+      "documents": [
+          {
+            "rev_number": 3,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139360",
+            "language": "id",
+            "eprintid": 30877,
+            "docid": 139360,
+            "security": "validuser",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "fileid": 366123,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/366123",
+                  "filesize": 20579,
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-26 17:49:48",
+                  "hash": "16693cd661f77b1eeb5af8094cd278f0",
+                  "filename": 2840,
+                  "mime_type": "application\/xml",
+                  "objectid": 139360,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "main": 2840
+          }
+      ],
+      "status_changed": "2021-05-27 02:37:17",
+      "rev_number": 9,
+      "dir": "disk0\/00\/03\/08\/77",
+      "ispublished": "pub",
+      "lastmod": "2021-05-27 02:37:17",
+      "title": "PENGARUH FAKTOR USIA IBU HAMIL TERHADAP JENIS PERSALINAN DI RSUD DR. H. ABDUL MOELOEK PROVINSI LAMPUNG",
+      "eprint_status": "archive",
+      "publisher": "MAYFEB",
+      "issn": "ISSN 2371-512X",
+      "creators": [
+        {
+          "id": "ratna.sari@fk.unila.ac.id",
+          "name": {
+            "honourific": null,
+            "given": "Dewi Puspita Sari",
+            "lineage": null,
+            "family": "Ratna"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprintid": 30877,
+      "subjects": [
+        "RA",
+        "RA1001"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30877",
+      "divisions": [
+        "FK1"
+      ],
+      "datestamp": "2021-05-27 02:37:17"
+    },
+    {
+      "abstract": "Purpose: The purpose of this study was to determine the distribution pattern of morbidity and its determinants. \r\nResearch Methodology: The methode that used in this study is spatial analysis, the data can be updated through enumerators of health workers.\r\nResult: The distribution pattern of morbidity in Pringsewu District is almost evenly distributed in each sub-district, the pattern occurs in the area with number of densely populated settlements and in areas that have rice fields. Then the pattern of distribution of the relationship between cases and determinants is the same as the pattern of morbidity, the location of health facilities organized by the local government, this condition is very reasonable because the surrounding community is currently more comfortable to be treated in the main and auxiliary health center services.\r\nLimitation: Coordinate data using applications found on Android Contribution: Where this study can be useful for Pringsewu Regency in the field of public health sciences.\r\n\r\nKeywords: spatial, morbidity, sub-district",
+      "datestamp": "2020-11-23 07:05:19",
+      "subjects": [
+        "RA1001"
+      ],
+      "eprintid": 26692,
+      "divisions": [
+        "FK1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26692",
+      "referencetext": "Alumran, Arwa et al. 2020. “Comparing Public and Private Hospitals’ Service Quality.” Journal of Public Health: From Theory to Practice 581.\r\nAmentie, Muluwas, Muluemebetabera, and Misra Abdulahi. 2016. “Utilization of Institutional Delivery Care Services and Influencing Factors among Women of Child Bearing Age in Assosa District, Benishangul Gumuz Regional State, West Ethiopia.” Global Journal of Medical Research: E Gynecology and Obstetrics 16(3): 34–4.\r\nDinas Kesehatan Kabupaten Pringsewu. 2018. Profil Kesehatan Kabupaten Pringsewu Tahun 2018. Pertama. Pringsewu.\r\nHanum, Dinarta, and Purhadi. 2013. “Faktor-Faktor Yang Mempengaruhi Morbiditas Penduduk Jawa Timur Dengan Multivariate Geographically Weighted Regression ( MGWR ).” Jurnal Sains Dan Seni Pomits 2(2): 189–94.\r\nKartasasmita, Cissy B. 2016. “Epidemiologi Tuberkulosis.” Sari Pediatri 11(2): 124.\r\nNantabah, Zainul Khaqiqi, and Zulfa Auliyati. 2019. “Gambaran Akses Pelayanan Kesehatan Pada Balita Di Indonesia.” Buletin Penelitian Sistem Kesehatan 22(1): 54–61.\r\nNgadan, Deburra Peak, Md Mizanur Rahman, and Mohammad Taha Arif. 2020. “Satisfaction On Delivery Care Services Among Rural Women In Sarawak, Malaysia: A Cross-Sectional Community-Based Study.” The Indonesian Journal of Public Health 15(2): 201–11.\r\nNoble, Jason, and Jason Lee Ot. 2002. “A Comparison of Public and Private Health Care Systems.” Economics and Health Policy 78(2): 153–55.\r\nOwaidh, Almutairi Omar et al. 2018. “Patients ’ Satisfac Tion with Health Care Services in Southern Saudi Arabia.” The Egyptian Journal of Hospital Medicine 72(1): 3857–60.\r\nPratiwi, Arum. 2019. Kabupaten Pringsewu Dalam Angka 2019. ed. Wayan Sudarsono. Pringsewu, Lampung – Indonesia: ©BPS Kabupaten Pringsewu, CV. Jaya Wijaya.\r\nSaftarina, Fitria. 2018. “Efektifitas Pelatihan Kader Posyandu Dalam Peningkatan Cakupan Imunisasi.” J Agromedicine 5(1): 408–11.\r\nSartika, Ratu Ayu Dewi. 2010. “Analisis Pemanfaatan Program Pelayanan Kesehatan Status Gizi Balita.” Jurnal Kesehatan Masyarakat Nasional 5(2): 77–83.\r\nSulaeman, Endang Sutisna et al. 2012. “Model Pemberdayaan Masyarakat Bidang Kesehatan, Studi Program Desa Siaga.” Jurnal Kesehatan Masyarakat Nasional Vol. 7(4): 186–92.\r\nTobing, Ramona. 2016. “Kelainan Kardiovaskular Pada Sindrom Gawat Nafas Neonatus.” Sari Pediatri 6(1): 40.\r\nYani, Desy Fitri, and Artha Budi Susila Duarsa. 2013. “Pelayanan",
+      "creators": [
+        {
+          "name": {
+            "family": "Sutarto",
+            "lineage": null,
+            "given": "STT",
+            "honourific": null
+          },
+          "id": "sutartoabbastayeb11@gamil.com"
+        },
+        {
+          "id": "de_miswar@yahoo.com",
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Dedy",
+            "given": "Miswar"
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "Dewi Puspita Sari",
+            "lineage": null,
+            "family": "Ratna"
+          },
+          "id": "ratna.sari@fk.unila.ac.id"
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "title": "Morbidity Analysis Based on Area",
+      "lastmod": "2020-11-23 07:05:19",
+      "status_changed": "2020-11-23 07:05:19",
+      "ispublished": "submitted",
+      "dir": "disk0\/00\/02\/66\/92",
+      "rev_number": 6,
+      "documents": [
+          {
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40664",
+            "docid": 40664,
+            "eprintid": 26692,
+            "language": "en",
+            "pos": 1,
+            "rev_number": 1,
+            "main": "11 LoA Sutarto dkk.pdf",
+            "mime_type": "application\/pdf",
+            "security": "public",
+            "placement": 1,
+            "files": [
+                {
+                  "objectid": 40664,
+                  "datasetid": "document",
+                  "mime_type": "application\/pdf",
+                  "filename": "11 LoA Sutarto dkk.pdf",
+                  "hash": "34841d0064a51cfd1d48a5fe9123365a",
+                  "mtime": "2020-11-23 06:20:06",
+                  "hash_type": "MD5",
+                  "filesize": 308556,
+                  "fileid": 239861,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/239861"
+                }
+            ]
+          }
+      ],
+      "type": "article",
+      "contact_email": "sutartoabbastayeb11@gmail.com",
+      "corp_creators": [
+        "unila"
+      ],
+      "publication": "ICAMs",
+      "full_text_status": "public",
+      "userid": 1227
+    },
+    {
+      "eprintid": 26657,
+      "divisions": [
+        "FK1"
+      ],
+      "volume": 12,
+      "abstract": "Toddler children are a nutrition-prone group. so that if the nutritional intake is not as needed.\r\nMalnutrition in all its forms brings large direct and indirect costs to individuals. family and all countries.\r\nThe purpose of this study is the relationship between the structure of the Lampung Province budget and\r\nthe incidence of malnutrition and low birth weight during the last ten years. This study method uses a method of analyzing literature and documents, by comparing the regional budget with the incidence of malnutrition and LBW and accompanied by a graph of linear equations.The effect of the financing provided by the Lampung Regional Government in the form of the annual budget and regional income in Lampung Province over the past 9 years against the incidence of malnutrition and LBW has an impact on the decline in incidence. Decrease in malnutrition 7 toddlers per 1,000,000 toddlers and LBW decreased by 4 per 100,000 from the incident with the addition of 1 million rupiah.\r\nKeywords: budget; low birth weight; malnutrition",
+      "datestamp": "2020-11-23 03:55:20",
+      "lastmod": "2020-11-23 03:55:20",
+      "issn": "Jurnal Niara Vol. 12, No. 2 Januari 2020",
+      "creators": [
+        {
+          "id": "sutartoabbastayeb11@gamil.com",
+          "name": {
+            "honourific": null,
+            "given": "STT",
+            "family": "Sutarto",
+            "lineage": null
+          }
+        },
+        {
+          "name": {
+            "honourific": null,
+            "given": "bakri",
+            "lineage": null,
+            "family": "samsul"
+          },
+          "id": "samsul.bakr@fp.unila.ac.id"
+        }
+      ],
+      "referencetext": "[1]. Andriani, Edison, G., & Lili, A. (2014). Implementasi pelayanan ibu hamil (K4) oleh bidan\r\nberdasrkan SPM di Puskemas Singkawang. Jurnal Kesehatan Masyarakat, 8(1), 27–33.\r\n[2]. Ansar. (2017). Problermatika Alokasi Dan Distribusi Anggaran Kesehatan Pada Dinas Kesehatan\r\nPropinsi Sulawesi Tengah Menurut Undang-Undang Kesehatan. Preventif, 8(1), 1–13.\r\n[3]. BAPPEDA Prov. Lampung. (2019). Dokumen Rekapitulasi Angaran Belanja Pemerintah Provinsi\r\nLampung. Bandar Lampung.\r\n[4]. Beddington, J., Akinwumi, Kufuor, J., Arnold, T., Silva, G. da, Kalibata, A., … Simmons, E. (2016).\r\nThe Cost of Malnutrition: Why policy action is urgent. Global Panel on Agriculture and Food\r\nSystems for Nutrition., (3).\r\nRetrieved from https:\/\/ble.lshtm.ac.uk\/pluginfile.php\/176270\/mod_resource\/content\/0\/Global Panel\r\nCost Of Malnutrition.pdf\r\n[5]. Mulazimah. (2017). Hubungan Pendapatan Keluarga Dengan Status Gizi Balita Desa Ngadiluwih\r\nKecamatan Ngadiluwih Kabupaten Kediri. EFEKTOR, 1(1), 18–21. Retrieved from\r\nhttp:\/\/ojs.unpkediri.ac.id\r\n[6]. Narsih, U., Zakiyyah, M., & Ernawati, I. (2016). Faktor-Faktor yang Mempengaruhi Terjadinya Bayi\r\ndengan Berat Badan Lahir Rendah. Sain Med JURNAL KESEHATAN, 8(2), 83–88.\r\n[7]. Nuryani, N., & Rahmawati, R. (2017). Kejadian Berat Badan Lahir Rendah di Desa Tinelo\r\nKabupaten Gorontalo dan Faktor yang Memengaruhinya. Jurnal Gizi Dan Pangan, 12(1), 49–54.\r\nhttps:\/\/doi.org\/10.25182\/jgp.2017.12.1.49\r\n[8]. Sicuri, E., Bardají, A., Sigauque, B., Maixenchs, M., Nhacolo, A., Nhalungo, D., … Menéndez, C.\r\n(2011). Costs associated with Low Birth Weight in a rural area of Southern Mozambique. PLoS\r\nONE, 6(12). https:\/\/doi.org\/10.1371\/journal.pone.0028744\r\n[9]. Sitorus, E., & Nurwahyuni, A. (2017). Analisis Pembiayaan Kesehatan Bersumber Pemerintah di\r\nKota Serang Tahun 2014 – 2016. Jurnal Kebijakan Kesehatan Indonesia, 6(3), 138.\r\nhttps:\/\/doi.org\/10.22146\/jkki.v6i3.29661\r\n[10]. Sormin, T. (2015). Faktor-faktor yang berhubungan dengan status gizi anak balita di kecamatan\r\nPekalongan Lampung Timur. Jurnal Keperawatan, XI(1), 33–40",
+      "metadata_visibility": "show",
+      "documents": [
+          {
+            "language": "en",
+            "content": "published",
+            "docid": 40623,
+            "license": "cc_by_nd",
+            "pos": 1,
+            "rev_number": 3,
+            "main": "066f81cbcb3ef820fad580b870c9ae20fefd.pdf",
+            "mime_type": "application\/pdf",
+            "date_embargo": "2024-08-19",
+            "eprintid": 26657,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40623",
+            "format": "text",
+            "files": [
+                {
+                  "datasetid": "document",
+                  "objectid": 40623,
+                  "filename": "066f81cbcb3ef820fad580b870c9ae20fefd.pdf",
+                  "mime_type": "application\/pdf",
+                  "hash": "10d36d7c546ac3a4c30f8d690fcb1ec2",
+                  "hash_type": "MD5",
+                  "mtime": "2020-11-23 03:44:07",
+                  "filesize": 167804,
+                  "fileid": 239612,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/239612"
+                }
+            ],
+            "formatdesc": "publikasi",
+            "placement": 1,
+            "security": "validuser"
+          }
+      ],
+      "id_number": "1693-3516",
+      "pagerange": "8-12",
+      "status_changed": "2020-11-23 03:55:20",
+      "official_url": "https:\/\/pdfs.semanticscholar.org\/98b8\/066f81cbcb3ef820fad580b870c9ae20fefd.pdf",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/66\/57",
+      "corp_creators": [
+        "unila"
+      ],
+      "publication": "Jurnal Niara Vol. 12, No. 2 Januari 2020",
+      "subjects": [
+        "RA1001"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26657",
+      "related_url": [
+        {
+          "url": "https:\/\/pdfs.semanticscholar.org\/98b8\/066f81cbcb3ef820fad580b870c9ae20fefd.pdf"
+        }
+      ],
+      "title": "Policy of Lampung Province Regional Budget Policy on Improving Performance of Health Fields: Lower Nutrition And Low Birth Weight Loss",
+      "eprint_status": "archive",
+      "publisher": "1693-3516",
+      "date_type": "published",
+      "number": 2,
+      "refereed": "TRUE",
+      "rev_number": 7,
+      "contact_email": "sutartoabbastayeb11@gmail.com",
+      "userid": 1227,
+      "full_text_status": "restricted",
+      "date": "2020-12-04",
+      "type": "article"
+    },
+    {
+      "refereed": "TRUE",
+      "number": 3,
+      "date_type": "published",
+      "eprint_status": "archive",
+      "publisher": "European Journal of Molecular & Clinical Medicine",
+      "title": "Food Security And Household Expenditure \r\nImpact On Nutritional Status On Pregnancy: A \r\nCross Sectional Study In Rural Area",
+      "related_url": [
+        {
+          "url": "https:\/\/ejmcm.com\/article_5161.html",
+          "type": "pub"
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30193",
+      "subjects": [
+        "RA1001"
+      ],
+      "type": "article",
+      "date": "2020-12",
+      "full_text_status": "public",
+      "userid": 1197,
+      "contact_email": "ratna.sari@fk.unila.ac.id",
+      "rev_number": 6,
+      "metadata_visibility": "show",
+      "referencetext": "[1] Auliana, U., Iskari, N., & Tiurma, H. (2016). Hubungan Usia, Tingkat Pendidikan, \r\nStatus Ekonomi, Pekerjaan, Dan Asupan Zat Gizi Makro Dengan Status Gizi Ibu \r\nHamil Di Provinsi Papua Dan Papua Barat. Nutrire Diaita, 8(April), 9–17.\r\n[2] Balitbangkes. (2019). Hasil utama RISKESDAS 2018.\r\n[3] Benson, T. (2005). Africa’s food and nutrition security situation: where are we and \r\nhow did we get here? International Food Policy Research Institute.\r\n[4] Berthelsen, R. M., Barkley, W. C., Oliver, P. M., McLymont, V., & Puckett, R. \r\n(2014). Academy of nutrition and dietetics: Revised 2014 standards of professional \r\nperformance for registered dietitian nutritionists in management of food and nutrition \r\nsystems. Journal of the Academy of Nutrition and Dietetics, 114(7). \r\nhttps:\/\/doi.org\/10.1016\/j.jand.2014.03.017\r\n[5] BPS. (2019). Rata‑Rata Pengeluaran per Kapita Sebulan Menurut Kelompok Barang \r\n(rupiah),2013-2018. Badan Pusat Statistik. \r\nhttps:\/\/www.bps.go.id\/statictable\/2014\/12\/18\/966\/rata-rata-pengeluaran-per-kapita�sebulan-menurut-kelompok-barang-rupiah-2013-2018.html\r\n[6] Depkes RI. (1994). Pedomam Penggunaan Alat Ukur Lingkar Lengan Atas (LILA) \r\npada Wanita Usia Subur. Kementerian Kesehatan RI.\r\n[7] Directorate General of Public Health: Ministry of Health. (2018). Laporan Kinerja \r\nDitjen Kesehatan Masyarakat Tahun 2017.\r\n[8] FAO, IFAD, UNICEF, WFP, & WHO. (2020). The State of Food Security and \r\nNutrition in the World 2020. In Transforming food systems for affordable healthy \r\ndiets. https:\/\/doi.org\/https:\/\/doi.org\/10.4060\/ca9692en\r\n[9] FOA. (2006). Food Security.\r\n[10] Ghattas, H. (2014). Food security and nutrition in the context of the nutrion \r\ntransition. FAO.\r\n[11] Gunarathne, S., Wickramasinghe, N., Agampodi, T., Prasanna, R., & Agampodi, S. \r\n(2020). Economic Status, Nutrition and Pregnancy Cost; A Vicious Cycle in \r\nPregnancy. Current Developments in Nutrition, 4(Supplement_2), 996–996. \r\nhttps:\/\/doi.org\/10.1093\/cdn\/nzaa054_068\r\n[12] Mastiholi, S. C., Somannavar, M. S., Vernekar, S. S., Yogesh Kumar, S., Dhaded, S. \r\nM., Herekar, V. R., Lander, R. L., Hambidge, M. K., Krebs, N. F., & Goudar, S. S. \r\n(2018). Food insecurity and nutritional status of preconception women in a rural \r\npopulation of North Karnataka, India. Reproductive Health, 15(Suppl 1). \r\nhttps:\/\/doi.org\/10.1186\/s12978-018-0535-2\r\n[13] McCarthy, J., & Maine, D. (1992). A Framework for Analyzing the Determinants of \r\nMaternal Mortality. Studies in Family Planning, 23(1), 23. \r\nhttps:\/\/doi.org\/10.2307\/1966825\r\n[14] Misselhorn, A., & Hendriks, S. L. (2017). A systematic review of sub-national food \r\ninsecurity research in South Africa: Missed opportunities for policy insights. PLOS \r\nONE, 12(8), e0182399. https:\/\/doi.org\/10.1371\/journal.pone.0182399\r\n[15] Napier, C., Warriner, K., Sibiya, M. N., & Reddy, P. (2019). Nutritional status and \r\ndietary diversity of pregnant women in rural kwazulu-natal, south africa. Health SA \r\nGesondheid, 24. https:\/\/doi.org\/10.4102\/hsag.v24i0.1114\r\n[16] Nurdini, E. D., & Mahmudiono, T. (2020). Hubungan status ketahanan pangan rumah \r\ntangga dengan anemia pada ibu hamil (Studi di Desa Bektiharjo Kecamatan European Journal of Molecular & Clinical Medicine\r\nISSN 2515-8260 Volume 07, Issue 03, 2020\r\n4726\r\nSemanding Kabupaten Tuban). Media Gizi Dan Kesehatan MAsyarakat, 2(1), 17–22.\r\n[17] Ravaoarisoa, L., Raherimandimby, H., Rakotonirina, J., Rakotomanga, J. de D. M., \r\nDramaix, M. W., & Donnen, P. (2018). Mothers’ dietary practices in the amoron’i \r\nmania region Madagascar. Pan African Medical Journal, 30. \r\nhttps:\/\/doi.org\/10.11604\/pamj.2018.30.76.15140\r\n[18] United Nation. (2020). Goal 2: Zero Hunger. Sustainable Development Goals. \r\nhttps:\/\/www.un.org\/sustainabledevelopment\/hunger\/\r\n[19] WHO. (2019). Trends in maternal mortality: 2000 to 2017: estimates by WHO, \r\nUNICEF, UNFPA, World Bank Group and the United Nations Population Division. \r\nGeneva. https:\/\/www.who.int\/news-room\/fact-sheets\/detail\/maternal-mortality.\r\n[20] WHO Reproductive Health Library. (2016). WHO recommendation on nutrition \r\neducation on energy and protein intake during pregnancy. World Health \r\nOrganization.\r\n[21] Wulansari, A. (2020). Ketahan pangan rumah tangga dan kejadian Kurang Energi \r\nKronis (KEK) pada ibu hamil suku anak dalam Desa Bungku Kabupaten Batanghari. \r\nJurnal Akademika Baiturrahim Jambi, 9(1), 92–87. \r\nhttps:\/\/doi.org\/10.36565\/jab.v9i1.19",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Sutyarso",
+            "given": "Sutyarso",
+            "honourific": null
+          },
+          "id": "sutyarso@yahoo.co.id"
+        },
+        {
+          "id": "samsul.bakr@fp.unila.ac.id",
+          "name": {
+            "lineage": null,
+            "family": "samsul",
+            "given": "bakri",
+            "honourific": null
+          }
+        },
+        {
+          "id": "dwwardani@yahoo.com",
+          "name": {
+            "given": "Sumekar RW",
+            "lineage": null,
+            "family": "Dyah Wulan",
+            "honourific": null
+          }
+        }
+      ],
+      "issn": "ISSN 2515-8260",
+      "lastmod": "2021-05-18 07:19:23",
+      "abstract": "Purpose:This study was aimed to analyze the correlation of food security status and \r\nhousehold food expenditure to nutritional status on pregnant women.\r\nResearch Methodology:This study was an observational study with crossectional design, \r\nconducted in PuskesmasWonosobo, Lampung Province, Indonesia on May 2020 -\r\nAugustus 2020. All of pregnant women who get Antenatal Care (ANC) on Puskesmas were \r\ncarried out as samples. Food security status and household food expenditure data were \r\nmeasure by anamnesis and questionnaire. Nutritional status was asses by mid-upper arm \r\ncircumference (MUAC) of pregnant women. Data was collected and then analyzed using \r\nSPSS 21 application. \r\nResults:A total of 53 pregnant women, with age distribution on range of <18 years &>35 \r\nyears (20 women) and 20-35 years (33 women) were analyzed in this study. Statistical \r\nanalysis (Chi-Square) show the pregnant womens in malnutrition status with food \r\ninsecurity were 3 women (75%) while pregnant women in good nutrition status with food \r\ninsecurity only 3 women (6.1%) (p = 0.003). Correlation between house hold expenditure to \r\nnutritional status was analyzed by chi-square test, the result show all of pregnant women in \r\nmalnutrition status (4 women) have lower house hold expenditure (p = 0.001).\r\nConclusion:This study clearly shows that more food security and level of household food \r\nexpenditure will affect on nutritional status of pregnant women.",
+      "datestamp": "2021-05-18 07:19:23",
+      "volume": 7,
+      "divisions": [
+        "FK1"
+      ],
+      "eprintid": 30193,
+      "publication": "European Journal of Molecular & Clinical Medicine",
+      "dir": "disk0\/00\/03\/01\/93",
+      "ispublished": "pub",
+      "official_url": "https:\/\/ejmcm.com\/article_5161.html",
+      "status_changed": "2021-05-18 07:19:23",
+      "pagerange": "4719-4726",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/135651",
+            "format": "text",
+            "language": "en",
+            "eprintid": 30193,
+            "docid": 135651,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "files": [
+                {
+                  "filesize": 831247,
+                  "fileid": 357935,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/357935",
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-18 06:21:42",
+                  "hash": "4843563feb84f25b9739a105bc1bf900",
+                  "objectid": 135651,
+                  "datasetid": "document",
+                  "filename": "EJMCM_Volume 7_Issue 3_Pages 4719-4726.pdf",
+                  "mime_type": "application\/pdf"
+                }
+            ],
+            "placement": 1,
+            "main": "EJMCM_Volume 7_Issue 3_Pages 4719-4726.pdf"
+          }
+      ]
+    },
+    {
+      "issn": "2527-3612",
+      "title": "HUBUNGAN DRIVING FORCES, PRESSURE, STATE, EXPOSURES, HEALTH EFFECTS, ACTION (DPSEEA) DALAM LINGKUP HEALTH IMPACT ASSESSMENT (HIA)",
+      "lastmod": "2021-05-27 04:49:31",
+      "publisher": "FK Unila",
+      "eprint_status": "archive",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Winda",
+            "given": "Trijayanthi Utama",
+            "honourific": null
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30988",
+      "eprintid": 30988,
+      "subjects": [
+        "RA1001"
+      ],
+      "datestamp": "2021-05-27 04:49:31",
+      "publication": "JK Unila JURNAL KEDOKTERAN UNIVERSITAS LAMPUNG",
+      "userid": 1097,
+      "full_text_status": "restricted",
+      "type": "article",
+      "documents": [
+          {
+            "docid": 139922,
+            "eprintid": 30988,
+            "language": "id",
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139922",
+            "pos": 1,
+            "rev_number": 3,
+            "main": 2896,
+            "placement": 1,
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-27 04:33:43",
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/367555",
+                  "fileid": 367555,
+                  "filesize": 31835,
+                  "mime_type": "application\/xml",
+                  "filename": 2896,
+                  "objectid": 139922,
+                  "datasetid": "document",
+                  "hash": "fedb73cfe01265b35ca2e439337cfea4"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "validuser"
+          }
+      ],
+      "rev_number": 8,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/09\/88",
+      "status_changed": "2021-05-27 04:49:31"
+    },
+    {
+      "issn": "2339-1227",
+      "publisher": "fakultas kedokteran universitas lampung",
+      "eprint_status": "archive",
+      "title": "Intoxication After Paraquat Herbicide Ingestion in Farmer, 56 Years Old",
+      "lastmod": "2021-05-27 04:49:28",
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Winda",
+            "given": "Trijayanthi Utama"
+          }
+        }
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30987",
+      "subjects": [
+        "RA1001"
+      ],
+      "eprintid": 30987,
+      "datestamp": "2021-05-27 04:49:28",
+      "publication": "MEDULA, medicalprofession journal of lampung university",
+      "full_text_status": "restricted",
+      "userid": 1097,
+      "type": "article",
+      "documents": [
+          {
+            "rev_number": 3,
+            "pos": 1,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139911",
+            "language": "en",
+            "eprintid": 30987,
+            "docid": 139911,
+            "security": "validuser",
+            "mime_type": "text\/html",
+            "files": [
+                {
+                  "mtime": "2021-05-27 04:30:48",
+                  "hash_type": "MD5",
+                  "filesize": 38078,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/367538",
+                  "fileid": 367538,
+                  "datasetid": "document",
+                  "objectid": 139911,
+                  "mime_type": "text\/html",
+                  "filename": 104,
+                  "hash": "5590dc59ec176ec23532873c1e7bb114"
+                }
+            ],
+            "placement": 1,
+            "main": 104
+          }
+      ],
+      "dir": "disk0\/00\/03\/09\/87",
+      "ispublished": "pub",
+      "rev_number": 7,
+      "status_changed": "2021-05-27 04:49:28"
+    },
+    {
+      "status_changed": "2021-05-27 04:49:09",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/09\/79",
+      "rev_number": 7,
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 3,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139886",
+            "format": "text",
+            "docid": 139886,
+            "eprintid": 30979,
+            "language": "id",
+            "mime_type": "application\/pdf",
+            "security": "validuser",
+            "placement": 1,
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/367473",
+                  "fileid": 367473,
+                  "filesize": 843647,
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-27 04:15:12",
+                  "hash": "9cb10416226c0f3b83cfa10e0ae85914",
+                  "filename": "2838-3588-1-PB.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 139886
+                }
+            ],
+            "main": "2838-3588-1-PB.pdf"
+          }
+      ],
+      "type": "article",
+      "publication": "JK Unila JURNAL KEDOKTERAN UNIVERSITAS LAMPUNG",
+      "full_text_status": "restricted",
+      "userid": 1197,
+      "abstract": "Kelompok lanjut usia termasuk dalam populasi rentan karena terjadinya proses penurunan kemampuan untuk\r\nmenghindarkan diri dari penyakit dan paparan faktor risiko terjadinya penyakit kronis seperti Diabetes Melitus (DM). DM\r\ndapat meningkatkan risiko terjadinya infeksi tuberkulosis (TB) tiga kali lebih besar dibanding populasi normal, dan juga\r\ndapat meningkatkan risiko reaktivasi TB dan TB laten. Studi yang dilakukan adalah case report. Case report ini bertujuan\r\nuntuk melakukan penerapan pelayanan dokter keluarga berbasis evidence based medicine pada pasien dengan\r\nmengidentifikasi faktor risiko, masalah klinis, serta penatalaksanaan dengan pendekatan patient centred dan family\r\napproach. Data primer diperoleh melalui anamnesis dan pemeriksaan fisik dengan melakukan kunjungan rumah, mengisi\r\nfamily folder, dan mengisi berkas pasien.",
+      "datestamp": "2021-05-27 04:49:09",
+      "subjects": [
+        "RA1001"
+      ],
+      "eprintid": 30979,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30979",
+      "creators": [
+        {
+          "id": "wtrijayanthi@gmail.com",
+          "name": {
+            "family": "Winda",
+            "lineage": null,
+            "given": "Trijayanthi Utama",
+            "honourific": null
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "refereed": "TRUE",
+      "eprint_status": "archive",
+      "publisher": "FK Unila",
+      "lastmod": "2021-05-27 04:49:09",
+      "title": "Penatalaksanaan Penyakit Tuberkulosis dengan Diabetes Melitus pada\r\nWanita Usia 64 Tahun Melalui Pendekatan Kedokteran Keluarga",
+      "issn": "2527-3612"
+    },
+    {
+      "documents": [
+          {
+            "rev_number": 3,
+            "pos": 1,
+            "eprintid": 30982,
+            "language": "id",
+            "docid": 139893,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139893",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/367493",
+                  "fileid": 367493,
+                  "filesize": 843647,
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-27 04:22:16",
+                  "hash": "9cb10416226c0f3b83cfa10e0ae85914",
+                  "filename": "2838-3588-1-PB.pdf",
+                  "mime_type": "application\/pdf",
+                  "datasetid": "document",
+                  "objectid": 139893
+                }
+            ],
+            "placement": 1,
+            "security": "validuser",
+            "mime_type": "application\/pdf",
+            "main": "2838-3588-1-PB.pdf"
+          }
+      ],
+      "rev_number": 7,
+      "ispublished": "pub",
+      "dir": "disk0\/00\/03\/09\/82",
+      "status_changed": "2021-05-27 04:49:19",
+      "full_text_status": "restricted",
+      "publication": "MEDULA, medicalprofession journal of lampung university",
+      "userid": 1097,
+      "type": "article",
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30982",
+      "eprintid": 30982,
+      "subjects": [
+        "RA1001"
+      ],
+      "abstract": "Kelompok lanjut usia termasuk dalam populasi rentan karena terjadinya proses penurunan kemampuan untuk\r\nmenghindarkan diri dari penyakit dan paparan faktor risiko terjadinya penyakit kronis seperti Diabetes Melitus (DM). DM\r\ndapat meningkatkan risiko terjadinya infeksi tuberkulosis (TB) tiga kali lebih besar dibanding populasi normal, dan juga\r\ndapat meningkatkan risiko reaktivasi TB dan TB laten. Studi yang dilakukan adalah case report. Case report ini bertujuan\r\nuntuk melakukan penerapan pelayanan dokter keluarga berbasis evidence based medicine pada pasien dengan\r\nmengidentifikasi faktor risiko, masalah klinis, serta penatalaksanaan dengan pendekatan patient centred dan family\r\napproach. Data primer diperoleh melalui anamnesis dan pemeriksaan fisik dengan melakukan kunjungan rumah, mengisi\r\nfamily folder, dan mengisi berkas pasien.",
+      "datestamp": "2021-05-27 04:49:19",
+      "issn": "2339-1227",
+      "lastmod": "2021-05-27 04:49:19",
+      "title": "Penatalaksanaan Penyakit Tuberkulosis dengan Diabetes Melitus pada Wanita Usia 64 Tahun Melalui Pendekatan Kedokteran Keluarga",
+      "publisher": "fakultas kedokteran universitas lampung",
+      "eprint_status": "archive",
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "creators": [
+        {
+          "name": {
+            "honourific": null,
+            "family": "Winda",
+            "lineage": null,
+            "given": "Trijayanthi Utama"
+          },
+          "id": "wtrijayanthi@gmail.com"
+        }
+      ]
+    },
+    {
+      "creators": [
+        {
+          "name": {
+            "given": "Trijayanthi Utama",
+            "lineage": null,
+            "family": "Winda",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "publisher": "FK Unila",
+      "eprint_status": "archive",
+      "title": "SYSTEMATIC CAUSE ANALYSIS TECHNIQUE",
+      "lastmod": "2021-05-27 04:49:35",
+      "issn": "2527-3612",
+      "datestamp": "2021-05-27 04:49:35",
+      "subjects": [
+        "RA1001"
+      ],
+      "eprintid": 30990,
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30990",
+      "type": "article",
+      "userid": 1097,
+      "publication": "JK Unila JURNAL KEDOKTERAN UNIVERSITAS LAMPUNG",
+      "full_text_status": "restricted",
+      "status_changed": "2021-05-27 04:49:35",
+      "dir": "disk0\/00\/03\/09\/90",
+      "ispublished": "pub",
+      "rev_number": 8,
+      "documents": [
+          {
+            "rev_number": 3,
+            "pos": 1,
+            "docid": 139940,
+            "language": "en",
+            "eprintid": 30990,
+            "format": "text",
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139940",
+            "placement": 1,
+            "files": [
+                {
+                  "hash": "7a26a4e00dfb9d464d932789c0684426",
+                  "filename": 2887,
+                  "mime_type": "application\/xml",
+                  "objectid": 139940,
+                  "datasetid": "document",
+                  "fileid": 367590,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/367590",
+                  "filesize": 31004,
+                  "hash_type": "MD5",
+                  "mtime": "2021-05-27 04:40:38"
+                }
+            ],
+            "mime_type": "application\/xml",
+            "security": "validuser",
+            "main": 2887
+          }
+      ]
+    },
+    {
+      "documents": [
+          {
+            "main": 2886,
+            "security": "validuser",
+            "mime_type": "application\/xml",
+            "files": [
+                {
+                  "hash": "7a2fea7cb11d75d4790fcef11986cd1a",
+                  "mime_type": "application\/xml",
+                  "filename": 2886,
+                  "datasetid": "document",
+                  "objectid": 139925,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/367568",
+                  "fileid": 367568,
+                  "filesize": 32020,
+                  "mtime": "2021-05-27 04:37:34",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 1,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/139925",
+            "format": "text",
+            "language": "en",
+            "eprintid": 30989,
+            "docid": 139925,
+            "pos": 1,
+            "rev_number": 3
+          }
+      ],
+      "status_changed": "2021-05-27 04:49:33",
+      "rev_number": 8,
+      "dir": "disk0\/00\/03\/09\/89",
+      "ispublished": "pub",
+      "full_text_status": "restricted",
+      "publication": "JKUnila",
+      "userid": 1097,
+      "type": "article",
+      "eprintid": 30989,
+      "subjects": [
+        "RA1001"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/30989",
+      "datestamp": "2021-05-27 04:49:33",
+      "lastmod": "2021-05-27 04:49:33",
+      "title": "TOTAL RECORDABLE INJURY AND INCIDENT RATE",
+      "eprint_status": "archive",
+      "publisher": "fakultas kedokteran universitas lampung",
+      "issn": "2527-3612",
+      "creators": [
+        {
+          "name": {
+            "lineage": null,
+            "family": "Winda",
+            "given": "Trijayanthi Utama",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show"
+    },
+    {
+      "contact_email": "sutarto@fk.unila.ac.id",
+      "corp_creators": [
+        "unila"
+      ],
+      "full_text_status": "restricted",
+      "publication": "JPM Ruwa Jurai",
+      "userid": 1227,
+      "type": "article",
+      "documents": [
+          {
+            "pos": 1,
+            "rev_number": 3,
+            "language": "en",
+            "docid": 40671,
+            "content": "published",
+            "license": "cc_by_nd",
+            "date_embargo": "2020-12-19",
+            "mime_type": "application\/xml",
+            "main": 2817,
+            "eprintid": 26699,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/40671",
+            "format": "text",
+            "formatdesc": "artikel",
+            "files": [
+                {
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/239916",
+                  "fileid": 239916,
+                  "filesize": 45216,
+                  "mtime": "2020-11-23 07:05:05",
+                  "hash_type": "MD5",
+                  "hash": "63ebcd7413033fe1a2fbc6406b153fd9",
+                  "filename": 2817,
+                  "mime_type": "application\/xml",
+                  "objectid": 40671,
+                  "datasetid": "document"
+                }
+            ],
+            "placement": 1,
+            "security": "validuser"
+          }
+      ],
+      "status_changed": "2020-11-23 07:15:37",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/02\/66\/99",
+      "rev_number": 10,
+      "publisher": "FK Unila",
+      "eprint_status": "archive",
+      "title": "PENDAMPINGAN MASYARAKAT UNTUK BASIC LIFE SUPPORT DALAM UPAYA PENINGKATAN PENGETAHUAN DAN KEBERHASILAN PENANGANAN KEGAWATDARURATAN MENGHADAPI BENCANA DI DESA BINAAN FK UNILA (DESA KARANG ANYAR KECAMATAN JATI AGUNG KABUPATEN LAMPUNG SELATAN)",
+      "lastmod": "2020-11-23 07:15:37",
+      "issn": "2503-2615",
+      "referencetext": "Sudiharto. Basic Trauma Cardiac Life\r\nSupport (BTCLS) in Disaster. Jakarta:\r\nSagung Seto. 2014.\r\n2. Endiyono, Rachmat Dwi Prasetyo.\r\nPengaruh Latihan Basic Life Support\r\nTerhadap Pengetahuan Dan\r\nKeterampilan Tim Muhammadiyah\r\nDisaster Management Banyumas.\r\nProsiding Seminar Nasional: Peran dan\r\nTanggung Jawab Tenaga Kesehatan\r\ndalam Mendukung Program Kesehatan\r\nNasional. 2018. Pp: 68-75.\r\n3. Hartono, Masudik, Suhaini Eneh. Basic\r\nTrauma Cardiac Life Support (BTCLS).\r\nGadar Medik Indonesia. 2013.\r\n4. Bayu Akbar Khayudin, Maslichah.\r\nEfektifitas Demonstrasi Basic Life\r\nSupport (BLS) Terhadap Kemampuan\r\nMasyarakat Dalam Memberikan\r\nPertolongan Pertama Korban Laka\r\nLantas Di Desa Pumpungan Kalitidu\r\nBojonegoro. JUMAKIA Vol 3. No 1. 2016.\r\npp: 33-37.\r\n5. BLS for Healthcare Providers Student\r\nManual. American Heart Assosiation.\r\n2010.\r\n6. Chaudhary, A., Parikh, H., & Dave, V.\r\nCurrent scenario: Knowledge of basic\r\nlife support in medical college. National\r\nJournal of Medical Research. 2011.\r\n7. Frame. PHTLS: Basic And Advanced\r\nPrehospital Trauma Life Support.\r\nJakarta: EGC. 2010.",
+      "creators": [
+        {
+          "id": null,
+          "name": {
+            "given": "Trijayanthi Utama",
+            "lineage": null,
+            "family": "Winda",
+            "honourific": null
+          }
+        },
+        {
+          "id": "sutarto@fk.unila.ac id",
+          "name": {
+            "given": "STT",
+            "lineage": null,
+            "family": "Sutarto",
+            "honourific": null
+          }
+        }
+      ],
+      "refereed": "TRUE",
+      "metadata_visibility": "show",
+      "subjects": [
+        "RA1001"
+      ],
+      "eprintid": 26699,
+      "divisions": [
+        "FK1"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/26699",
+      "abstract": "Bencana alam merupakan suatu fenomena alam yang terjadi secara langsung maupun tidak langsung mengganggu kehidupan manusia. Bencana alam dapat menyebabkan kerugian bagi manusia baik secara materi, non materi bahkan jiwa. Paling tidak ada interaksi empat faktor utama yang dapat menimbulkan bencana-bencana tersebut menimbulkan banyak korban dan kerugian besar, yaitu: (a) kurangnya pemahaman terhadap karakteristik bahaya (hazards), (b) sikap atau perilaku yang mengakibatkan penurunan sumberdaya alam (vulnerability), (c) kurangnya informasi\/peringatan dini (early warning) yang menyebabkan ketidaksiapan, dan (d) ketidakberdayaan \/ ketidakmampuan dalam menghadapi ancaman bahaya. Adapun tujuan dari pelaksanaan kegiatan Pengabdian ini adalah sebagai berikut : Melakukan skrining pengetahuan masyarakat tentang Basic Life Support (BLS) pada masyarakat untuk mengetahui pengetahuan dasar masyarakat tentang BLS, Melakukan pelatihan BLS pada masyarakat untuk memberikan pengetahuan dasar kepada masyarakat tentang pertolongan dasar yang bisa dilakukan masyarakat saat terjadi bencana, untuk mengurangi resiko yang bisa terjadi saat terjadi bencana, Memberikan simulasi melakukan BLS kepada masyarakat untuk mengaplikasikan pengetahuan yang telah didapatkan dan sebagai latihan yang dilakukan sehingga masyarakat bisa belajar menggunakan skill BLS secara langsung. Pengabdian dilakukan dengan memberikan penyuluhan mengenai BLS. Pada kegiatan pengabdian ini juga diberikan pedoman BLS dan video edukasi BLS. Hasil pengabdian menunjukkan bahwa kegiatan penyuluhan ini dapat meningkatkan pengetahuan para peserta tentang BLS. Oleh karena itu, penyuluhan yang kontinu diperlukan untuk peningkatan pengetahuan secara berkelanjutan. Penyuluhan dapat dilakukan melalui media yang telah ada seperti Kelompok Sadar Masyarakat (Pokdarmas) dan Karang Taruna berkerja pusat kesehatan setempat.\r\nKata kunci: Basic Life Support, Bencana alam",
+      "datestamp": "2020-11-23 07:15:37"
+    }
+]
+

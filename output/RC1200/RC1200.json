@@ -1,0 +1,137 @@
+[
+    {
+      "title": "Pengaruh Pemberian Tempe Terhadap Fraksi Lemak Darah Pada Mencit Obesitas",
+      "eprint_status": "archive",
+      "publisher": "Ikatan Senat Mahasiswa Kedokteran Seluruh Indonesia",
+      "projects": [
+        "DIPA FK"
+      ],
+      "date_type": "published",
+      "number": 2,
+      "funders": [
+        "Eduard",
+        "Tiwuk Susantiningsih",
+        "Evi Kurniawaty"
+      ],
+      "refereed": "TRUE",
+      "subjects": [
+        "RC1200"
+      ],
+      "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/eprint\/2121",
+      "related_url": [
+        {
+          "url": "http:\/\/bimkes.org",
+          "type": "pub"
+        }
+      ],
+      "full_text_status": "public",
+      "userid": 547,
+      "type": "article",
+      "date": "2016-12",
+      "rev_number": 12,
+      "lastmod": "2017-05-31 02:14:45",
+      "issn": "ISSN 2302-6391.",
+      "creators": [
+        {
+          "name": {
+            "given": "Eduard",
+            "family": "Eduard",
+            "lineage": null,
+            "honourific": null
+          },
+          "id": null
+        },
+        {
+          "id": null,
+          "name": {
+            "family": "Fahrizal",
+            "lineage": null,
+            "given": "Ahmad",
+            "honourific": null
+          }
+        },
+        {
+          "id": "tiwuksusantiningsih@gmail.com",
+          "name": {
+            "honourific": null,
+            "given": "Tiwuk",
+            "lineage": null,
+            "family": "Susantiningsih"
+          }
+        },
+        {
+          "id": null,
+          "name": {
+            "honourific": null,
+            "lineage": null,
+            "family": "Kurniawaty",
+            "given": "Evi"
+          }
+        }
+      ],
+      "metadata_visibility": "show",
+      "eprintid": 2121,
+      "divisions": [
+        "FK1"
+      ],
+      "volume": 4,
+      "abstract": "Pendahuluan: Obesitas merupakan penyakit multifaktorial antara interaksi faktor lingkungan dan genetik. Obesitas ditandai dengan kelebihan berat badan akibat penimbunan lemak abnormal dan akan diprediksikan akan meningkat serta menjadi masalah dimasa depan. \r\nMetode: penelitian jenis analitik True expreimental post-test control group design. Menggunakan sampel mencit obesitas (mus muscullus L) Galur DDY. Jika data parametric diolah menggunakan oneway Annova, sedangkan uji korelasi Kruskal Wallis digunakan pada data nonparametrik. Data signifikan jika p < 0,05.\r\nHasil: sampel yang dianalisis 20 mencit. Pemberian tempe dengan dosis 2 gr\/hari dan 4 gr\/hari dengan nilai rata-rata 190,60 ±8,204 mg\/dl dan 184,20 ±12,337 mg\/dl pada kolesterol total. Menurunkan kadar Low density lipoprotein (LDL) mencit obesitas. Pemberian tempe dengan dosis 2 gr\/hari dan 4 gr\/hari dengan nilai rata-rata 123,00±12,309 mg\/dl dan 144,60±13,483 mg\/dl. Menurunkan kadar trigliserida mencit obesitas. Pada pemberian tempe dengan dosis 2 gr\/hari dan 4 gr\/hari dengan nilai rata-rata 131,60±11,971 gg\/dl dan 112,20±13,424 mg\/dl. Meningkatkan kadar kolestrerol high density lipoprotein (HDL) mencit obesitas. Pada pemberian tempe dosis 2 gr\/hari dan 4 gr\/hari dengan nilai rata-rata 72,40±10,550 mg\/dl dan 77,20±10,849 mg\/dl. Semua data bermakna secara signifikan (p=0,009)\r\nKesimpulan: terdapat pengaruh pemberian tempe terhadap fraksi lemak darah dengan menurunkan LDL dan trigliserida serta meningkatkan HDL\r\nKeyword: obesitas, tempe, fraksi lemak darah",
+      "datestamp": "2017-05-31 02:14:45",
+      "corp_creators": [
+        "FK UNILA",
+        "FK UNILA",
+        "FK UNILA"
+      ],
+      "contributors": [
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        },
+        {
+          "type": "http:\/\/www.loc.gov\/loc.terms\/relators\/AUT"
+        }
+      ],
+      "publication": "JIMKI Jurnal Ilmiah Mahasiswa Kedokteran Indonesia. Volume 4 Nomer 2, Juli-Desember 2016.",
+      "documents": [
+          {
+            "main": "JIMKI 2016 dr Tiwuk S.pdf",
+            "files": [
+                {
+                  "hash": "ac5ad792dbf896a268a2bcef54478e09",
+                  "datasetid": "document",
+                  "objectid": 2001,
+                  "mime_type": "application\/pdf",
+                  "filename": "JIMKI 2016 dr Tiwuk S.pdf",
+                  "filesize": 28283770,
+                  "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/file\/14697",
+                  "fileid": 14697,
+                  "mtime": "2017-05-30 07:20:10",
+                  "hash_type": "MD5"
+                }
+            ],
+            "placement": 1,
+            "security": "public",
+            "mime_type": "application\/pdf",
+            "eprintid": 2121,
+            "language": "en",
+            "docid": 2001,
+            "uri": "http:\/\/repository.lppm.unila.ac.id\/id\/document\/2001",
+            "format": "text",
+            "rev_number": 1,
+            "pos": 1
+          }
+      ],
+      "id_number": 87884011953,
+      "pagerange": "72-79",
+      "status_changed": "2017-05-31 02:14:45",
+      "official_url": "http:\/\/bimkes.org",
+      "ispublished": "pub",
+      "dir": "disk0\/00\/00\/21\/21"
+    }
+]
+
